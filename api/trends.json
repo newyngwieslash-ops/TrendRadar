@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T22:45:24.435797+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2025-11-24T23:43:35.616550+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时51分 ~ 22时45分]"
+          "appearance_count": 14,
+          "time_info": "[11时51分 ~ 23时43分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -46,6 +46,21 @@
           "time_info": "[00时42分 ~ 07时32分]"
         },
         {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 23时43分]"
+        },
+        {
           "title": "特朗普28条能让俄乌停战吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
           "source": "bilibili 热搜",
@@ -59,20 +74,6 @@
           "time_info": "[17时46分 ~ 19时31分]"
         },
         {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 22时45分]"
-        },
-        {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
           "url": "https://flash.jin10.com/detail/20251123222329110800",
           "source": "金十数据",
@@ -84,6 +85,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时43分 ~ 05时31分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7576299047473397779/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.douyin.com/hot/2316851",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时43分]"
         },
         {
           "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
@@ -111,37 +145,15 @@
           "time_info": "[00时43分 ~ 05时31分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7576299047473397779/",
-          "source": "今日头条",
+          "title": "习近平同特朗普通话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.douyin.com/hot/2316851",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "23时43分"
         },
         {
           "title": "11月24日晚，国家主席习近平同美国总统特朗普通电话。（新华社）",
@@ -150,7 +162,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -256,6 +268,19 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时43分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：最后期限是我们希望尽快完成此事（俄乌28点计划），最好能在周四前完成。美国总统特朗普与乌克兰总统泽连斯基之间有可能通话；我们拭目以待。",
           "url": "https://flash.jin10.com/detail/20251124040841575800",
           "source": "金十数据",
@@ -350,18 +375,6 @@
           "time_info": "[05时31分 ~ 06时39分]"
         },
         {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时45分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
           "url": "https://wallstreetcn.com/livenews/3009492",
           "source": "华尔街见闻-快讯",
@@ -398,6 +411,28 @@
           "time_info": "[00时43分 ~ 01时32分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3760029",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
+          "url": "https://wallstreetcn.com/articles/3760011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普：关税的全部收益还没算出来。",
           "url": "https://wallstreetcn.com/livenews/3009563",
           "source": "华尔街见闻-快讯",
@@ -418,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3009656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "操纵乌克兰停战特朗普捞到4000亿美元",
@@ -467,7 +513,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -490,8 +536,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时43分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -504,6 +550,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时51分 ~ 15时34分]"
+        },
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 23时43分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -592,8 +653,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 22时45分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 23时43分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -621,20 +682,6 @@
           "time_info": "[15时33分 ~ 21时49分]"
         },
         {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时45分]"
-        },
-        {
           "title": "需要AI给答案",
           "url": "https://wallstreetcn.com/articles/3759957",
           "source": "华尔街见闻",
@@ -658,8 +705,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时49分 ~ 23时43分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时49分 ~ 22时45分]"
+          "time_info": "[18时49分 ~ 23时43分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -701,17 +760,6 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 22时45分]"
-        },
-        {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
           "url": "https://www.cls.cn/detail/2208396",
           "source": "财联社热门",
@@ -736,13 +784,24 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
+          "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
+          "url": "https://wallstreetcn.com/livenews/3009672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "如何看待 AI 绘画？",
           "url": "https://www.zhihu.com/question/571629564",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -756,6 +815,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
+          "url": "https://www.cls.cn/detail/2209112",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "欧洲央行行长拉加德警告：欧盟在AI领域错失良机，未来面临风险",
+          "url": "https://wallstreetcn.com/livenews/3009659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
@@ -778,12 +859,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "网店用AI生成模特试穿视频画面诡异",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E7%94%A8AI%E7%94%9F%E6%88%90%E6%A8%A1%E7%89%B9%E8%AF%95%E7%A9%BF%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%E8%AF%A1%E5%BC%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：如果欧洲的AI浪潮类似于20世纪20年代电力的传播，那么年生产力增长可能会提高约1.3个百分点。但如果它遵循90年代末美国数字繁荣的路径，提升幅度将接近0.8个百分点。",
+          "url": "https://flash.jin10.com/detail/20251124224733144800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：有理由相信，AI的传播速度可能比以前的技术浪潮更快，并能更快地带来切实的经济收益。",
+          "url": "https://flash.jin10.com/detail/20251124224721581800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "诺和诺德美股盘前下挫，现跌超11%，诺和诺德Evoke试验结果显示，其在阿尔茨海默病治疗方面未呈现显著改善效果。",
@@ -803,7 +917,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -817,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
@@ -842,6 +967,18 @@
           "time_info": "[17时46分 ~ 18时50分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3009649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009473",
           "source": "华尔街见闻-快讯",
@@ -865,17 +1002,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3009649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
           "url": "https://flash.jin10.com/detail/20251124070025048800",
           "source": "金十数据",
@@ -887,15 +1013,48 @@
           "time_info": "07时32分"
         },
         {
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美股开盘，道指开涨0.23%，标普500指数涨0.51%，纳指涨0.92%。诺和诺德(NVO.N)跌超8%，公司最新试验并未显示出显著的阿尔茨海默病减缓效果。文远知行(WRD.O)涨超6%，公司Q3总收入同比增长144.3%；特斯拉(TSLA.O)涨2%，马斯克称将“深度参与”特斯拉的人工智能芯片设计。",
           "url": "https://flash.jin10.com/detail/20251124223022614800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
@@ -912,7 +1071,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -942,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
@@ -1015,7 +1185,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
