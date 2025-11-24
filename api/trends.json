@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T19:31:48.431606+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-11-24T21:49:26.439188+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 21时49分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -64,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 21时49分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -346,9 +347,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "特朗普暗示乌克兰谈判可能在取得进展",
@@ -357,7 +369,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -368,7 +380,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -401,7 +413,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -432,8 +444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 21时49分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -517,11 +529,12 @@
             22,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 21时49分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -534,6 +547,31 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时32分]"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时33分 ~ 21时49分]"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 21时49分]"
         },
         {
           "title": "需要AI给答案",
@@ -549,31 +587,6 @@
           "time_info": "[11时51分 ~ 19时31分]"
         },
         {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 19时31分]"
-        },
-        {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时31分]"
-        },
-        {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
@@ -584,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时49分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -593,11 +606,12 @@
           "source": "贴吧",
           "ranks": [
             30,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时49分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -651,6 +665,17 @@
           "time_info": "[15时33分 ~ 16时56分]"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时49分]"
+        },
+        {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
           "url": "https://wallstreetcn.com/livenews/3009194",
           "source": "华尔街见闻-快讯",
@@ -661,17 +686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时32分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
@@ -710,7 +724,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "诺和诺德美股盘前下挫，现跌超11%，诺和诺德Evoke试验结果显示，其在阿尔茨海默病治疗方面未呈现显著改善效果。",
@@ -719,7 +733,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -770,6 +784,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
           "url": "https://flash.jin10.com/detail/20251124070025048800",
           "source": "金十数据",
@@ -779,12 +804,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -803,6 +839,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时42分 ~ 15时34分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
