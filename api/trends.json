@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T18:50:05.115275+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-11-24T19:31:48.431606+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时51分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 19时31分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -51,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时31分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时31分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -339,6 +340,39 @@
           "time_info": "[00时43分 ~ 01时32分]"
         },
         {
+          "title": "特朗普：关税的全部收益还没算出来。",
+          "url": "https://wallstreetcn.com/livenews/3009563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普暗示乌克兰谈判可能在取得进展",
+          "url": "https://wallstreetcn.com/livenews/3009561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "操纵乌克兰停战特朗普捞到4000亿美元",
+          "url": "https://www.toutiao.com/trending/7576217707155033627/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "美国工会提起诉讼 要求特朗普政府为CFPB提供资金",
           "url": "https://flash.jin10.com/detail/20251124104858513800",
           "source": "金十数据",
@@ -359,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "据Politico：特朗普的医保计划将把《平价医疗法案》的补贴延长两年。特朗普的计划包括对《平价医疗法案》的税收抵免设定收入上限。",
+          "url": "https://flash.jin10.com/detail/20251124190511411800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -387,8 +432,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 18时50分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 19时31分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -442,8 +487,22 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 19时31分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[11时51分 ~ 18时50分]"
+          "time_info": "[12时57分 ~ 19时31分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -457,11 +516,12 @@
             20,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 18时50分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 19时31分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -476,20 +536,6 @@
           "time_info": "[00时42分 ~ 07时32分]"
         },
         {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时57分 ~ 18时50分]"
-        },
-        {
           "title": "需要AI给答案",
           "url": "https://wallstreetcn.com/articles/3759957",
           "source": "华尔街见闻",
@@ -499,8 +545,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 18时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 19时31分]"
         },
         {
           "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
@@ -512,8 +558,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[15时33分 ~ 19时31分]"
         },
         {
           "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
@@ -524,8 +570,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 18时50分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 19时31分]"
         },
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -534,11 +580,24 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时31分]"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 19时31分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -615,17 +674,6 @@
           "time_info": "[18时49分 ~ 18时50分]"
         },
         {
-          "title": "两美刀逼疯AI!怒要报官告公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
           "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
           "url": "https://flash.jin10.com/detail/20251124172037714800",
           "source": "金十数据",
@@ -662,8 +710,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "诺和诺德美股盘前下挫，现跌超11%，诺和诺德Evoke试验结果显示，其在阿尔茨海默病治疗方面未呈现显著改善效果。",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009206",
