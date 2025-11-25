@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:43:35.805397+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-11-25T18:51:24.196979+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -72,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 17时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时32分 ~ 18时51分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时45分 ~ 17时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时45分 ~ 18时51分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -103,6 +103,22 @@
           "time_info": "[00时45分 ~ 17时43分]"
         },
         {
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            4,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普要求与高市早苗通话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -112,21 +128,6 @@
             2,
             10,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时43分]"
-        },
-        {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            4,
-            5,
-            3
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -144,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时45分 ~ 17时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时45分 ~ 18时51分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -165,6 +166,22 @@
           "time_info": "[00时45分 ~ 15时35分]"
         },
         {
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
+          "ranks": [
+            15,
+            13,
+            9,
+            8,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
           "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
@@ -177,19 +194,17 @@
           "time_info": "[11时41分 ~ 16时57分]"
         },
         {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
+          "title": "特朗普称明年四月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            13,
-            9,
-            8,
-            2
+            3,
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时47分 ~ 17时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 18时51分]"
         },
         {
           "title": "高市早苗与特朗普通话",
@@ -202,19 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 12时48分]"
-        },
-        {
-          "title": "特朗普称明年四月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时43分]"
         },
         {
           "title": "特朗普要求跟高市早苗通话",
@@ -292,6 +294,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "高市早苗回应与特朗普通话",
+          "url": "https://www.douyin.com/hot/2317187",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
           "url": "https://news.ifeng.com/c/8oZ8o93y559",
           "source": "凤凰网",
@@ -301,6 +314,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时47分 ~ 15时35分]"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时51分]"
         },
         {
           "title": "【外交部：中美元首通话是美方发起的，通话氛围是积极的、友好的、建设性的】在11月25日外交部例行记者会上，有记者提问称，根据中方发布的消息，昨晚中美元首通了电话，请问这次通话是由中方主动提议，还是应美方邀请进行？另外这次通话持续了多长时间？中方如何评价这次通话的成果？对此，发言人毛宁表示，特朗普总统第二任期以来，中美元首保持着经常性的交往。据我了解，此次通话是美方发起的，通话的氛围是积极的、友好的、建设性的。两国元首就共同关心的问题进行沟通，对中美关系稳定发展十分重要。（环球网）",
@@ -414,18 +440,6 @@
           "time_info": "[11时41分 ~ 12时48分]"
         },
         {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 17时43分]"
-        },
-        {
           "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
           "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
           "source": "凤凰网",
@@ -483,6 +497,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时33分]"
+        },
+        {
+          "title": "如何看待特朗普主动致电高市早苗",
+          "url": "https://www.toutiao.com/trending/7576569600238685738/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时51分]"
         },
         {
           "title": "日媒：特朗普要求与高市通话",
@@ -566,24 +592,24 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
+          "title": "打还是不打？美媒曝特朗普打算和马杜罗直接谈",
+          "url": "https://news.ifeng.com/c/8oZVH3UgMjK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "乌克兰国家安全负责人：此访旨在“完成”与美国总统特朗普的和平协议的“最后阶段”。",
           "url": "https://flash.jin10.com/detail/20251125171039971800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "如何看待特朗普主动致电高市早苗",
-          "url": "https://www.toutiao.com/trending/7576569600238685738/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -687,6 +713,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "美国非洲事务顾问：特朗普正努力解决包括俄罗斯与乌克兰在内的多起冲突。",
+          "url": "https://flash.jin10.com/detail/20251125181601455800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国政府内部备忘录显示，美国总统特朗普政府下令对所有在前总统拜登任内入境的难民进行全面审查，拜登时期的难民绿卡申请处理程序已被冻结。",
           "url": "https://flash.jin10.com/detail/20251125042430186800",
           "source": "金十数据",
@@ -712,7 +749,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -725,8 +762,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时51分]"
         },
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -752,8 +789,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时51分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -779,8 +816,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时51分]"
+        },
+        {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 18时51分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -810,8 +860,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时45分 ~ 17时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时45分 ~ 18时51分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -857,19 +907,6 @@
           "time_info": "[00时45分 ~ 07时33分]"
         },
         {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 17时43分]"
-        },
-        {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
           "url": "https://www.cls.cn/detail/2209531",
           "source": "财联社热门",
@@ -900,7 +937,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -917,6 +954,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 03时28分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时51分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -966,19 +1016,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时33分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时43分]"
         },
         {
           "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
@@ -1055,6 +1092,18 @@
           "time_info": "[14时57分 ~ 15时35分]"
         },
         {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时51分]"
+        },
+        {
           "title": "亚马逊投资最高500亿美元 美国政府机构拓展AI和超级计算基础设施",
           "url": "https://flash.jin10.com/detail/20251125002630961800",
           "source": "金十数据",
@@ -1079,15 +1128,26 @@
           "time_info": "[02时56分 ~ 03时28分]"
         },
         {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "18时51分"
         },
         {
           "title": "美国白宫披露关于科学超算研究领域的AI命令。",
@@ -1214,7 +1274,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -1243,6 +1303,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时45分 ~ 14时57分]"
+        },
+        {
+          "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
+          "url": "https://wallstreetcn.com/livenews/3010161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
@@ -1340,6 +1411,17 @@
           "time_info": "[06时40分 ~ 07时33分]"
         },
         {
+          "title": "美股三大股指期货跌幅扩大，道指期货跌0.19%，标普500指数期货跌0.28%，纳斯达克100指数期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3010137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009775",
           "source": "华尔街见闻-快讯",
@@ -1387,7 +1469,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -1402,6 +1484,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时32分 ~ 16时57分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前跌超4%，消息面上，谷歌拟向Meta直接销售TPU。",
+          "url": "https://flash.jin10.com/detail/20251125184547521800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -1434,7 +1527,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -1554,7 +1647,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -1562,7 +1655,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国银行：黄金价格2026年或将达到5000美元",
@@ -1597,6 +1690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "今日各大金店黄金价格",
+          "url": "https://www.toutiao.com/trending/7576557054421110281/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
