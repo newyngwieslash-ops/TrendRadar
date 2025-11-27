@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T21:44:24.460167+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2025-11-27T22:43:14.046796+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -57,11 +57,12 @@
             20,
             18,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 22时43分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -75,11 +76,12 @@
             13,
             17,
             22,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 21时44分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 22时43分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -111,8 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 22时43分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -208,6 +210,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3011582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
           "url": "https://flash.jin10.com/detail/20251127035707574800",
           "source": "金十数据",
@@ -229,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 22时43分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -351,18 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时44分]"
         },
         {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
@@ -502,7 +515,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -626,6 +639,19 @@
           "time_info": "[00时54分 ~ 16时54分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 22时43分]"
+        },
+        {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
@@ -652,6 +678,18 @@
           "time_info": "[00时54分 ~ 05时31分]"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 22时43分]"
+        },
+        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
@@ -668,29 +706,29 @@
           "time_info": "[00时54分 ~ 06时39分]"
         },
         {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时46分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 22时43分]"
         },
         {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时42分 ~ 21时44分]"
+          "time_info": "[17时41分 ~ 22时43分]"
         },
         {
           "title": "多家手机厂商取消Air机型",
@@ -706,17 +744,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时46分 ~ 16时54分]"
-        },
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
@@ -755,17 +782,16 @@
           "time_info": "[12时46分 ~ 13时42分]"
         },
         {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
           "source": "财联社热门",
           "ranks": [
-            11,
-            12,
-            13
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 21时44分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时43分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -780,6 +806,17 @@
           "time_info": "[06时39分 ~ 11时38分]"
         },
         {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时43分]"
+        },
+        {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
           "url": "https://www.cls.cn/detail/2212089",
           "source": "财联社热门",
@@ -790,6 +827,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 13时42分]"
+        },
+        {
+          "title": "AI还原香港大埔火灾",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
@@ -804,6 +852,18 @@
           "time_info": "[15时36分 ~ 16时54分]"
         },
         {
+          "title": "报道：中国开源AI模型下载量占比首超美国",
+          "url": "https://wallstreetcn.com/livenews/3011546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时43分]"
+        },
+        {
           "title": "王自如称选择用AI创业还债",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
           "source": "bilibili 热搜",
@@ -816,6 +876,17 @@
           "time_info": "[18时46分 ~ 19时32分]"
         },
         {
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
           "url": "https://wallstreetcn.com/livenews/3010972",
           "source": "华尔街见闻-快讯",
@@ -826,39 +897,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "报道：中国开源AI模型下载量占比首超美国",
-          "url": "https://wallstreetcn.com/livenews/3011546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
@@ -941,7 +979,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -993,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时32分 ~ 15时36分]"
+        },
+        {
+          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
+          "url": "https://wallstreetcn.com/livenews/3011578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
@@ -1139,8 +1188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 22时43分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
