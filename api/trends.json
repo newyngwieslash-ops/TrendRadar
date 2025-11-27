@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T14:57:49.579399+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-11-27T15:36:01.871074+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时36分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -52,11 +52,12 @@
             8,
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时36分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -81,11 +82,51 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
+          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
+          "url": "https://www.cls.cn/detail/2212154",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时36分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
@@ -99,6 +140,43 @@
           "time_info": "04时35分"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时36分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：美国总统特朗普已要求向华盛顿特区增派500名士兵，此前已有两名国民警卫队成员遭枪击。",
           "url": "https://flash.jin10.com/detail/20251127052114658800",
           "source": "金十数据",
@@ -109,43 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时39分]"
-        },
-        {
-          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
-          "url": "https://www.cls.cn/detail/2212154",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时57分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时57分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -185,19 +226,6 @@
           "time_info": "[11时38分 ~ 13时42分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时57分]"
-        },
-        {
           "title": "特朗普电话后日本沮丧了三次",
           "url": "https://www.toutiao.com/trending/7576542938412007450/",
           "source": "今日头条",
@@ -222,29 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 13时42分]"
-        },
-        {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时57分]"
         },
         {
           "title": "高市早苗与特朗普通话内容曝光",
@@ -328,6 +333,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -435,7 +451,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         }
@@ -443,7 +459,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -466,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时36分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -558,11 +574,12 @@
             21,
             26,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 14时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 15时36分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -593,15 +610,30 @@
           "time_info": "[00时54分 ~ 06时39分]"
         },
         {
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时36分]"
+        },
+        {
           "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
           "url": "https://wallstreetcn.com/livenews/3011350",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时36分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -614,6 +646,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时42分]"
+        },
+        {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时36分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -640,31 +696,6 @@
           "time_info": "[11时38分 ~ 13时42分]"
         },
         {
-          "title": "多家手机厂商取消Air机型",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时57分]"
-        },
-        {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 14时57分]"
-        },
-        {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
           "url": "https://wallstreetcn.com/livenews/3010972",
           "source": "华尔街见闻-快讯",
@@ -677,15 +708,15 @@
           "time_info": "[00时54分 ~ 01时40分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
+          "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
+          "url": "https://wallstreetcn.com/livenews/3011399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "15时36分"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -716,9 +747,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
+          "url": "https://wallstreetcn.com/livenews/3011353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -739,6 +781,19 @@
           "time_info": "[00时54分 ~ 06时39分]"
         },
         {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时36分]"
+        },
+        {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2212003",
           "source": "财联社热门",
@@ -753,19 +808,6 @@
           "time_info": "[00时54分 ~ 11时38分]"
         },
         {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 14时57分]"
-        },
-        {
           "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
           "url": "https://www.cls.cn/detail/2212138",
           "source": "财联社热门",
@@ -774,8 +816,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时36分]"
         },
         {
           "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
@@ -915,6 +957,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时36分]"
+        },
+        {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
@@ -926,17 +979,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时32分]"
-        },
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时57分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -966,6 +1008,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
+          "url": "https://flash.jin10.com/detail/20251127110218289800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
+          "url": "https://flash.jin10.com/detail/20251127150233224800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -991,23 +1061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
-          "url": "https://flash.jin10.com/detail/20251127110218289800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
         }
       ]
     },
