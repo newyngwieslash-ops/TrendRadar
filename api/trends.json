@@ -1,8 +1,294 @@
 {
-  "generated_at": "2025-11-28T14:58:04.964801+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-11-28T15:34:30.277444+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "AI还原香港大埔火灾",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时34分]"
+        },
+        {
+          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
+          "url": "https://wallstreetcn.com/articles/3760242",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时34分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时38分]"
+        },
+        {
+          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
+          "url": "https://www.cls.cn/detail/2213363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时34分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时31分]"
+        },
+        {
+          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
+          "url": "https://wallstreetcn.com/articles/3760277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时34分]"
+        },
+        {
+          "title": "我用AI开了家一人公司",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            27,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 07时32分]"
+        },
+        {
+          "title": "港交所CEO陈翊庭： 探索利用AI提高发行审核效率",
+          "url": "https://wallstreetcn.com/livenews/3012000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
+          "url": "https://wallstreetcn.com/livenews/3011659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时32分]"
+        },
+        {
+          "title": "美国专利商标局规定AI不能被视为“发明人”",
+          "url": "https://flash.jin10.com/detail/20251128112039157800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时45分]"
+        },
+        {
+          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3011904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时58分]"
+        },
+        {
+          "title": "北京拟将大规模AI算力搬上太空：拟在晨昏轨道建设运营超过GW功率的集中式大型数据中心系统",
+          "url": "https://wallstreetcn.com/livenews/3011596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时34分]"
+        },
+        {
+          "title": "王自如称选择用AI创业还债",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 03时27分]"
+        },
+        {
+          "title": "为OpenAI数据中心发展买单 合作伙伴累积千亿美元债务",
+          "url": "https://flash.jin10.com/detail/20251128142049192800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
+          "url": "https://wallstreetcn.com/articles/3760220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
+          "url": "https://wallstreetcn.com/livenews/3011921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128130252675800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 23,
@@ -53,8 +339,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普：将对委内瑞拉展开地面行动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 15时34分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -72,17 +372,16 @@
           "time_info": "[02时51分 ~ 06时38分]"
         },
         {
-          "title": "特朗普：将对委内瑞拉展开地面行动",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            16,
-            25
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时34分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -156,17 +455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 13时41分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
@@ -284,270 +572,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "AI还原香港大埔火灾",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 14时58分]"
-        },
-        {
-          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
-          "url": "https://wallstreetcn.com/articles/3760242",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 14时58分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
-          "url": "https://www.cls.cn/detail/2212903",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 06时38分]"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时31分]"
-        },
-        {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时58分]"
-        },
-        {
-          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
-          "url": "https://wallstreetcn.com/articles/3760277",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时58分]"
-        },
-        {
-          "title": "我用AI开了家一人公司",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            27,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时33分 ~ 07时32分]"
-        },
-        {
-          "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
-          "url": "https://wallstreetcn.com/livenews/3011659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时32分]"
-        },
-        {
-          "title": "美国专利商标局规定AI不能被视为“发明人”",
-          "url": "https://flash.jin10.com/detail/20251128112039157800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时45分]"
-        },
-        {
-          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3011904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时58分]"
-        },
-        {
-          "title": "北京拟将大规模AI算力搬上太空：拟在晨昏轨道建设运营超过GW功率的集中式大型数据中心系统",
-          "url": "https://wallstreetcn.com/livenews/3011596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时34分]"
-        },
-        {
-          "title": "王自如称选择用AI创业还债",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 03时27分]"
-        },
-        {
-          "title": "为OpenAI数据中心发展买单 合作伙伴累积千亿美元债务",
-          "url": "https://flash.jin10.com/detail/20251128142049192800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
-          "url": "https://wallstreetcn.com/articles/3760220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
-          "url": "https://wallstreetcn.com/livenews/3011921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
-          "url": "https://flash.jin10.com/detail/20251128130252675800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -652,6 +676,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金午盘价为948.34元/克，较国际金价(952.27元/克)，低3.93元/克",
+          "url": "https://flash.jin10.com/detail/20251128150250068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -663,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 15时34分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -693,23 +745,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251128105205543800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         }
       ]
     }
