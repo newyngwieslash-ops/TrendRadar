@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T22:13:35.288419+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-30T23:13:41.138166+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时21分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[14时21分 ~ 23时13分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -192,11 +192,34 @@
             30,
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特表示，如果美国总统特朗普提名他担任美联储主席，他“将非常乐意任职”。",
+          "url": "https://flash.jin10.com/detail/20251130222919146800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3012550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -218,11 +241,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时13分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时13分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -253,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时13分]"
         },
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -281,8 +305,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 23时13分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -295,8 +319,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时13分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -347,8 +371,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -377,7 +401,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
@@ -413,11 +437,12 @@
             4,
             12,
             17,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时13分]"
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时13分]"
         },
         {
           "title": "严重干旱迫使伊朗大型水电站停止发电",
@@ -427,11 +452,23 @@
             5,
             13,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时13分]"
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时13分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社引述伊朗媒体Fars News，伊朗在南呼罗珊省发现新的金矿，沙丹（Shadan）金矿的已公布总储量包括氧化金795万吨、硫化金5310万吨。",
+          "url": "https://flash.jin10.com/detail/20251130222535040800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗萨汉德号军舰重新服役",
@@ -441,11 +478,12 @@
             7,
             15,
             20,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时13分]"
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时13分]"
         }
       ]
     },
@@ -498,11 +536,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时13分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时13分]"
         }
       ]
     },
