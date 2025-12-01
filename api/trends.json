@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T07:13:55.205606+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-01T09:16:28.751628+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -49,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -192,9 +193,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "特朗普：乌克兰正面临“一些棘手的小问题”",
@@ -203,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -214,9 +237,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特表示，如果美国总统特朗普提名他担任美联储主席，他“将非常乐意任职”。",
@@ -266,7 +300,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -276,19 +310,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
           "url": "https://wallstreetcn.com/articles/3760389",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -296,11 +331,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -308,52 +344,40 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            20,
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
         },
         {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
+          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
+          "url": "https://www.cls.cn/detail/2215163",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            5,
-            10
+            12
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "中金：AI板块拥挤风险有所释放，长期存在发展空间",
+          "url": "https://wallstreetcn.com/livenews/3012625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据伊朗迈赫尔通讯社引述伊朗媒体Fars News，伊朗在南呼罗珊省发现新的金矿，沙丹（Shadan）金矿的已公布总储量包括氧化金795万吨、硫化金5310万吨。",
@@ -375,9 +399,56 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "中国驻伊朗大使馆最新提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            28,
+            20,
+            23,
+            21,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时16分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时13分]"
         }
       ]
     }
