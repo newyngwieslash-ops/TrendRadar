@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T20:31:35.091165+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2025-12-04T21:33:26.008711+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 21时33分]"
         },
         {
           "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时33分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -64,11 +64,12 @@
             19,
             18,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 21时33分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -192,6 +193,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时33分]"
+        },
+        {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
           "url": "https://wallstreetcn.com/livenews/3014596",
           "source": "华尔街见闻-快讯",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时12分]"
-        },
-        {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
@@ -549,6 +550,28 @@
           "time_info": "19时15分"
         },
         {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
           "url": "https://flash.jin10.com/detail/20251204104330590800",
           "source": "金十数据",
@@ -665,7 +688,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -821,8 +844,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 20时31分]"
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 21时33分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -851,17 +874,6 @@
           "time_info": "[09时05分 ~ 14时23分]"
         },
         {
-          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
           "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
@@ -872,6 +884,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时18分]"
+        },
+        {
+          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3015167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时33分]"
         },
         {
           "title": "陈都灵TFBOYS同框 诡异到像AI",
@@ -1512,7 +1536,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
