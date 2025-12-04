@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:20:08.904610+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-04T18:18:32.838137+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时05分 ~ 15时17分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时18分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -57,19 +70,6 @@
           "time_info": "[01时18分 ~ 17时20分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 17时20分]"
-        },
-        {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
           "url": "https://www.cls.cn/detail/2219030",
           "source": "财联社热门",
@@ -94,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时18分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -108,6 +108,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时17分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -165,18 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -525,6 +526,17 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
           "url": "https://flash.jin10.com/detail/20251204104330590800",
           "source": "金十数据",
@@ -748,7 +760,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -761,8 +773,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时18分]"
         },
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -803,6 +815,19 @@
           "time_info": "[09时05分 ~ 14时23分]"
         },
         {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 18时18分]"
+        },
+        {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
           "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
@@ -815,16 +840,15 @@
           "time_info": "[00时21分 ~ 01时18分]"
         },
         {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
+          "url": "https://www.zhihu.com/question/1979645846510335630",
           "source": "知乎",
           "ranks": [
-            11,
-            9
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
@@ -862,6 +886,18 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
+          "url": "https://wallstreetcn.com/livenews/3015061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
           "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
           "url": "https://wallstreetcn.com/livenews/3014638",
           "source": "华尔街见闻-快讯",
@@ -895,17 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时23分]"
-        },
-        {
-          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
-          "url": "https://www.zhihu.com/question/1979645846510335630",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
@@ -952,17 +977,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
-          "url": "https://wallstreetcn.com/livenews/3015061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
@@ -1029,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "陈都灵TFBOYS同框 诡异到像AI",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "为什么大家都为将要到来的 AI 感到莫名焦虑?",
