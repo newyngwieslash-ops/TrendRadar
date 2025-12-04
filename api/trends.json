@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T14:23:06.620214+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2025-12-04T15:17:30.901706+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 15时17分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -53,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时18分 ~ 14时23分]"
+          "appearance_count": 15,
+          "time_info": "[01时18分 ~ 15时17分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -69,6 +69,20 @@
           "time_info": "[00时21分 ~ 04时17分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时17分]"
+        },
+        {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
           "url": "https://flash.jin10.com/detail/20251204044658236800",
           "source": "金十数据",
@@ -78,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京表示，美国代表团向莫斯科提出的建议是基于其与特朗普在阿拉斯加达成的协议。",
+          "url": "https://flash.jin10.com/detail/20251204144506145800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：我相信我们的汽车工业规模将会比以前更大。",
@@ -102,19 +127,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时23分]"
-        },
-        {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
           "url": "https://flash.jin10.com/detail/20251204043927981800",
           "source": "金十数据",
@@ -124,6 +136,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时17分]"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时17分]"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -212,17 +247,6 @@
           "time_info": "[06时15分 ~ 07时12分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时23分]"
-        },
-        {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
           "url": "https://wallstreetcn.com/livenews/3014620",
           "source": "华尔街见闻-快讯",
@@ -235,18 +259,6 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普：将很快在拉美开展地面打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -254,8 +266,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时17分]"
         },
         {
           "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
@@ -707,7 +719,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -722,6 +734,19 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时17分]"
+        },
+        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
@@ -732,18 +757,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时14分 ~ 11时15分]"
-        },
-        {
-          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
-          "url": "https://www.cls.cn/detail/2219319",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时23分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -843,6 +856,18 @@
           "time_info": "[02时23分 ~ 03时14分]"
         },
         {
+          "title": "买家AI合成“死蟹”骗退款被拘留8日",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6AI%E5%90%88%E6%88%90%E2%80%9C%E6%AD%BB%E8%9F%B9%E2%80%9D%E9%AA%97%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%98%E7%95%998%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 15时17分]"
+        },
+        {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
           "url": "https://www.zhihu.com/question/1979482353974916229",
           "source": "知乎",
@@ -893,9 +918,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
@@ -926,7 +962,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -951,17 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "买家AI合成“死蟹”骗退款被拘留8日",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6AI%E5%90%88%E6%88%90%E2%80%9C%E6%AD%BB%E8%9F%B9%E2%80%9D%E9%AA%97%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%98%E7%95%998%E6%97%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         }
       ]
     },
@@ -1212,11 +1237,12 @@
           "ranks": [
             13,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时17分]"
         },
         {
           "title": "美元指数3日下跌",
@@ -1273,6 +1299,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
+          "url": "https://wallstreetcn.com/livenews/3014649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时12分]"
+        },
+        {
+          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
+          "url": "https://flash.jin10.com/detail/20251204142500817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1286,24 +1341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
-          "url": "https://wallstreetcn.com/livenews/3014649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时12分]"
         }
       ]
     }
