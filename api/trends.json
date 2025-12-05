@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:16:58.063419+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2025-12-05T18:16:23.190098+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -290,7 +290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -318,11 +318,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时14分 ~ 18时16分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -344,11 +345,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 18时16分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -462,6 +464,18 @@
           "time_info": "[01时18分 ~ 02时24分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -495,17 +509,6 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
           "url": "https://wallstreetcn.com/livenews/3015520",
           "source": "华尔街见闻-快讯",
@@ -523,7 +526,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -575,7 +578,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -727,6 +730,28 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
+          "url": "https://wallstreetcn.com/livenews/3015811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
+          "url": "https://flash.jin10.com/detail/20251205172039774800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
@@ -813,8 +838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 18时16分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -908,11 +933,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 18时16分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
@@ -951,7 +977,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
