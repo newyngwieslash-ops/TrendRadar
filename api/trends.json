@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T20:29:59.175261+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2025-12-05T21:28:55.273716+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
@@ -304,12 +315,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
@@ -322,8 +344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时14分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时14分 ~ 21时28分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -421,11 +443,24 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 21时28分]"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时28分]"
         },
         {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
@@ -510,15 +545,26 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
-          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
-          "url": "https://www.zhihu.com/question/1980299505992753247",
-          "source": "知乎",
+          "title": "特朗普推动禁止州级AI立法在国会受挫 白宫或转向行政令施压",
+          "url": "https://flash.jin10.com/detail/20251205210318683800",
+          "source": "金十数据",
           "ranks": [
-            7
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "21时28分"
+        },
+        {
+          "title": "据AXIOS网站：Meta公司的AI协议将覆盖CNN、福克斯新闻、今日美国。",
+          "url": "https://flash.jin10.com/detail/20251205210304588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
@@ -590,7 +636,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -627,7 +673,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -748,7 +794,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -759,7 +805,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -770,7 +816,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -792,7 +838,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -806,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
@@ -905,8 +962,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时05分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时05分 ~ 21时28分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1005,8 +1062,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 21时28分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
@@ -1044,11 +1101,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时28分]"
         },
         {
           "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
