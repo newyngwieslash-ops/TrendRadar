@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T16:20:44.152306+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-05T17:16:58.063419+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -284,6 +284,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
+          "url": "https://wallstreetcn.com/livenews/3015772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251205103316073800",
           "source": "金十数据",
@@ -298,8 +309,21 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 17时16分]"
+        },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
           "url": "https://www.cls.cn/detail/2220060",
@@ -319,11 +343,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时05分 ~ 17时16分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -336,18 +361,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
-          "url": "https://wallstreetcn.com/articles/3760706",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 16时20分]"
         },
         {
           "title": "人工智能（AI）初创公司Phia融资0.3亿美元。",
@@ -408,8 +421,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时16分]"
         },
         {
           "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
@@ -460,6 +473,17 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时16分]"
+        },
+        {
           "title": "豆包手机助手调整AI操作能力",
           "url": "https://www.toutiao.com/trending/7579787501007536164/",
           "source": "今日头条",
@@ -471,15 +495,15 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
-          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
-          "url": "https://www.cls.cn/detail/2220480",
-          "source": "财联社热门",
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "17时16分"
         },
         {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
@@ -491,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "朱啸虎称豆包在大厂AI中领先",
+          "url": "https://wallstreetcn.com/livenews/3015771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "豆包手机发布关于调整AI操作手机能力的说明",
@@ -510,7 +545,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -532,7 +567,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
@@ -778,8 +813,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时05分 ~ 17时16分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -872,11 +907,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时16分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
@@ -901,6 +937,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
