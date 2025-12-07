@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:17:58.017572+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-12-07T17:14:39.159582+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 16时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -75,6 +75,18 @@
           "time_info": "[00时16分 ~ 09时12分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 17时14分]"
+        },
+        {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
           "url": "https://flash.jin10.com/detail/20251207115626169800",
           "source": "金十数据",
@@ -88,18 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时29分 ~ 16时17分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 16时17分]"
         },
         {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
@@ -131,7 +131,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -210,11 +210,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -224,11 +225,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时14分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
