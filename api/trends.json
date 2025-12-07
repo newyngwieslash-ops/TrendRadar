@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T09:12:13.349189+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-12-07T11:22:45.978204+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 09时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 11时22分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -33,6 +33,23 @@
           "time_info": "[00时16分 ~ 09时12分]"
         },
         {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7,
+            6,
+            8,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 11时22分]"
+        },
+        {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
@@ -43,22 +60,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "豆包AI手机深度体验",
-          "url": "https://www.douyin.com/hot/2328540",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            6,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时12分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -99,7 +100,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -158,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
@@ -182,11 +194,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 09时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 11时22分]"
         },
         {
           "title": "美股三大指数小幅收涨",
