@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:30:58.605895+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2025-12-09T21:33:20.205500+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -46,17 +46,6 @@
           "time_info": "[00时20分 ~ 11时15分]"
         },
         {
-          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
-          "url": "https://news.ifeng.com/c/8owNK695xvD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时18分]"
-        },
-        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
           "url": "https://wallstreetcn.com/articles/3760972",
           "source": "华尔街见闻",
@@ -68,8 +57,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 20时30分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 21时33分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -482,6 +482,28 @@
           "time_info": "19时14分"
         },
         {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -620,7 +642,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -631,7 +653,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -642,7 +664,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -675,7 +697,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -686,9 +708,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
+          "url": "https://flash.jin10.com/detail/20251209204946258800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
@@ -700,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
@@ -719,7 +763,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -741,7 +785,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -752,7 +796,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -785,7 +829,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -807,7 +851,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -823,13 +867,24 @@
           "time_info": "05时14分"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "据Politico：美国总统特朗普可能调整关税以降低部分商品价格。",
           "url": "https://flash.jin10.com/detail/20251209191746757800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         }
@@ -837,7 +892,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -926,6 +981,22 @@
           "time_info": "[09时05分 ~ 15时18分]"
         },
         {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 21时33分]"
+        },
+        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -938,21 +1009,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时05分 ~ 15时18分]"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 20时30分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -977,8 +1033,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 21时33分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -990,22 +1046,12 @@
             18,
             16,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 20时30分]"
-        },
-        {
-          "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
-          "url": "https://wallstreetcn.com/livenews/3017625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 21时33分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -1018,8 +1064,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时30分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 21时33分]"
+        },
+        {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
+          "url": "https://wallstreetcn.com/livenews/3017625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -1066,8 +1134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 21时33分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -1141,6 +1209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时13分]"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 21时33分]"
         },
         {
           "title": "下一次 AI 创业的机会在哪里？除了做大模型，普通人还有哪些切入点？",
@@ -1220,15 +1300,15 @@
           "time_info": "15时18分"
         },
         {
-          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
-          "url": "https://www.zhihu.com/question/1981675433712976771",
-          "source": "知乎",
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时30分"
+          "time_info": "21时33分"
         },
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
@@ -1628,7 +1708,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1664,6 +1744,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时05分 ~ 21时33分]"
+        },
+        {
+          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3017053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至五周以来最低。",
+          "url": "https://flash.jin10.com/detail/20251209205624127800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
+          "url": "https://wallstreetcn.com/livenews/3017141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
@@ -1707,47 +1839,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时05分 ~ 20时30分]"
-        },
-        {
-          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3017053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
-        },
-        {
-          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
-          "url": "https://wallstreetcn.com/livenews/3017141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -1761,6 +1852,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国伊朗沙特三方联合委员会第三次会议联合新闻稿",
+          "url": "https://wallstreetcn.com/livenews/3017703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     }
