@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:18:39.764455+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-10T12:29:19.541317+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时29分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -84,6 +85,17 @@
           "time_info": "[00时31分 ~ 07时15分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时29分]"
+        },
+        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -97,17 +109,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时16分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时18分]"
         },
         {
           "title": "特朗普：泽连斯基要开始接受现实了",
@@ -163,7 +164,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -178,6 +179,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -574,6 +586,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
           "url": "https://wallstreetcn.com/livenews/3017769",
           "source": "华尔街见闻-快讯",
@@ -603,20 +626,6 @@
           "time_info": "[00时31分 ~ 11时18分]"
         },
         {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时18分]"
-        },
-        {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
           "source": "澎湃新闻",
@@ -627,6 +636,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时15分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时29分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -689,6 +713,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时15分]"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时29分]"
         },
         {
           "title": "富国银行CEO：AI将影响公司的劳动力决策",
@@ -769,17 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         }
       ]
     },
@@ -821,8 +846,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时18分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -958,6 +983,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时29分]"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
@@ -968,17 +1005,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时15分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时18分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1027,8 +1053,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时29分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1082,6 +1108,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
