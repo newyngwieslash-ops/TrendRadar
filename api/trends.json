@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:30:53.585348+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2025-12-12T21:31:35.853078+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 20时30分]"
+          "appearance_count": 11,
+          "time_info": "[13时16分 ~ 21时31分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -84,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -96,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -774,8 +774,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 20时30分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 21时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -788,8 +788,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 20时30分]"
+          "appearance_count": 14,
+          "time_info": "[11时19分 ~ 21时31分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -817,8 +817,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 20时30分]"
+          "appearance_count": 14,
+          "time_info": "[11时19分 ~ 21时31分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -989,6 +989,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时31分]"
+        },
+        {
           "title": "UP主解读OpenAI和谷歌的AI大战",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
@@ -997,19 +1009,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时30分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时31分]"
         },
         {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
@@ -1344,7 +1345,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1789,11 +1790,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 20时30分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时31分]"
         },
         {
           "title": "白宫的回应让日本舆论失望了",
