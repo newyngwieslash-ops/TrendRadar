@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T22:15:36.032778+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2025-12-12T23:17:13.532453+08:00",
+  "total_titles_processed": 2174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -35,8 +35,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时16分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[13时16分 ~ 23时17分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -48,6 +48,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时29分 ~ 15时19分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 23时17分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 23时17分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -76,31 +101,6 @@
           "time_info": "[00时21分 ~ 07时14分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 22时15分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 22时15分]"
-        },
-        {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
           "url": "https://www.zhihu.com/question/1982382778923365984",
           "source": "知乎",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "Tilray Brands Inc.涨40%，媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -520,6 +531,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美联储Hammack：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
+          "url": "https://wallstreetcn.com/livenews/3020034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普签署行政命令，加强对代理顾问行业的监管，并采取行动恢复公众对该行业的信心。",
           "url": "https://flash.jin10.com/detail/20251212080825037800",
           "source": "金十数据",
@@ -529,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美联储哈玛克：特朗普的法案将在明年增加“可观的”刺激作用。",
+          "url": "https://flash.jin10.com/detail/20251212222202957800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：我将全面赦免蒂娜·彼得斯（因2020年大选相关罪行而被监禁的唯一一位特朗普盟友）。",
@@ -765,7 +798,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -775,8 +808,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 22时15分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 23时17分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -786,11 +819,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时19分 ~ 23时17分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -815,11 +849,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时19分 ~ 23时17分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -868,6 +903,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时29分 ~ 17时19分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时17分]"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时17分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -952,42 +1013,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美联储Hammack：美联储投入大量时间来研究AI。",
-          "url": "https://wallstreetcn.com/livenews/3020021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时15分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时15分]"
-        },
-        {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
           "url": "https://wallstreetcn.com/livenews/3019365",
           "source": "华尔街见闻-快讯",
@@ -1024,6 +1049,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "美联储Hammack：美联储投入大量时间来研究AI。",
+          "url": "https://wallstreetcn.com/livenews/3020021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时17分]"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时17分]"
         },
         {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
@@ -1187,6 +1236,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.17%，纳指跌0.46%。花旗集团(C.N)涨1.3%，摩根大通将其评级从中性上调至超配；博通(AVGO.O)跌超7%，公司称第一财季毛利润率将因AI产品而收缩1%。甲骨文(ORCL.N)下跌1.1%，此前一交易日已下跌近11%。",
+          "url": "https://flash.jin10.com/detail/20251212223022214800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
           "url": "https://wallstreetcn.com/livenews/3019491",
           "source": "华尔街见闻-快讯",
@@ -1229,17 +1289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "博通CFO：第一财季毛利润率将因AI产品而收缩1%。",
@@ -1816,11 +1865,12 @@
             7,
             2,
             8,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 23时17分]"
         },
         {
           "title": "白宫的回应让日本舆论失望了",
