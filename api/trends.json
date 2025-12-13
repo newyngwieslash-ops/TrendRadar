@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T17:15:05.551198+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-13T18:15:13.538274+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -42,21 +42,6 @@
           "time_info": "[00时17分 ~ 09时03分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 17时15分]"
-        },
-        {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
           "url": "https://www.cls.cn/detail/2228592",
           "source": "财联社热门",
@@ -67,8 +52,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            17,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -134,11 +135,23 @@
             2,
             5,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普提议中美俄印日联盟",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%8D%B0%E6%97%A5%E8%81%94%E7%9B%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -153,15 +166,26 @@
           "time_info": "[05时13分 ~ 09时03分]"
         },
         {
-          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
-          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "title": "土耳其总统埃尔多安：希望在与俄罗斯总统普京会晤后，与美国总统特朗普讨论乌克兰—俄罗斯和平方案。",
+          "url": "https://flash.jin10.com/detail/20251213180106229800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-13）",
+          "url": "https://flash.jin10.com/detail/20251213180026791800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -245,6 +269,19 @@
           "time_info": "[11时11分 ~ 14时21分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时15分]"
+        },
+        {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
           "url": "https://flash.jin10.com/detail/20251213022744229800",
           "source": "金十数据",
@@ -310,6 +347,18 @@
           "time_info": "[02时23分 ~ 04时16分]"
         },
         {
+          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
+          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -323,6 +372,18 @@
           "time_info": "[09时03分 ~ 12时21分]"
         },
         {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 18时15分]"
+        },
+        {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
           "url": "https://wallstreetcn.com/livenews/3020109",
           "source": "华尔街见闻-快讯",
@@ -334,18 +395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时13分]"
-        },
-        {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
@@ -406,15 +455,15 @@
           "time_info": "[09时03分 ~ 11时11分]"
         },
         {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -587,8 +636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 18时15分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -599,8 +648,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时14分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 18时15分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 18时15分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -626,21 +689,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时14分 ~ 17时15分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 18时15分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -667,8 +717,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -758,6 +808,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时16分 ~ 09时03分]"
+        },
+        {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -862,17 +924,6 @@
           "time_info": "[01时15分 ~ 02时23分]"
         },
         {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
           "url": "https://wallstreetcn.com/livenews/3020070",
           "source": "华尔街见闻-快讯",
@@ -932,8 +983,32 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克或成全球首位万亿美元富豪",
+          "url": "https://wallstreetcn.com/livenews/3020224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
+          "url": "https://www.zhihu.com/question/1981317694012814649",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时15分]"
+        },
         {
           "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
           "url": "https://flash.jin10.com/detail/20251213021021499800",
@@ -945,18 +1020,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时13分]"
-        },
-        {
-          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
-          "url": "https://www.zhihu.com/question/1981317694012814649",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
