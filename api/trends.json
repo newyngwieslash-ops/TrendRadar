@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T18:15:09.542973+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-12-14T19:12:37.815083+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -246,6 +246,17 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
           "url": "https://wallstreetcn.com/livenews/3020259",
           "source": "华尔街见闻-快讯",
@@ -267,17 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时18分 ~ 17时15分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -347,6 +347,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-14）",
+          "url": "https://flash.jin10.com/detail/20251214181038164800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普的和平梦要在东南亚碎了吗",
           "url": "https://www.toutiao.com/trending/7583581680191933971/",
           "source": "今日头条",
@@ -413,6 +424,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 19时12分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -489,20 +514,6 @@
           "time_info": "[11时24分 ~ 16时18分]"
         },
         {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 18时15分]"
-        },
-        {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
           "url": "https://wallstreetcn.com/livenews/3020250",
           "source": "华尔街见闻-快讯",
@@ -514,17 +525,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3020397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -549,6 +549,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时24分]"
+        },
+        {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -577,8 +589,19 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2228757",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 19时12分]"
+        },
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
           "url": "https://www.cls.cn/detail/2228757",
@@ -591,17 +614,6 @@
           "time_info": "[00时17分 ~ 09时12分]"
         },
         {
-          "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2228757",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 18时15分]"
-        },
-        {
           "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
           "url": "https://www.cls.cn/detail/2228749",
           "source": "财联社热门",
@@ -611,8 +623,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -626,8 +638,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "日本加息对A股的影响有多大",
@@ -652,6 +664,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时32分]"
+        },
+        {
+          "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
+          "url": "https://www.cls.cn/detail/2228836",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     },
