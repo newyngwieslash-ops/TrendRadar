@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:13:48.456448+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-15T07:14:13.813750+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -28,11 +28,12 @@
             6,
             9,
             10,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时14分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -42,11 +43,12 @@
             2,
             3,
             4,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 07时14分]"
         },
         {
           "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
@@ -56,11 +58,12 @@
             3,
             4,
             5,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 07时14分]"
         },
         {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
@@ -68,11 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时14分]"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
@@ -91,11 +95,12 @@
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时14分]"
         }
       ]
     },
@@ -111,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
@@ -122,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
@@ -134,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -146,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月15日 周一",
@@ -155,17 +160,18 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时14分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -176,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -191,6 +197,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时20分]"
+        },
+        {
+          "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
+          "url": "https://wallstreetcn.com/livenews/3020454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：太阳是天空中一个巨大的、免费的聚变反应堆。在地球上建造小型反应堆简直愚蠢至极。",
+          "url": "https://flash.jin10.com/detail/20251215063751582800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     }
