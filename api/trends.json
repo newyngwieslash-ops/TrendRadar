@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T19:14:51.101551+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-15T20:32:50.974478+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -61,6 +61,17 @@
           "time_info": "[11时25分 ~ 19时14分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时32分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
           "url": "https://wallstreetcn.com/livenews/3020426",
           "source": "华尔街见闻-快讯",
@@ -78,15 +89,16 @@
           "time_info": "[01时12分 ~ 07时14分]"
         },
         {
-          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -119,18 +131,6 @@
           "time_info": "[03时11分 ~ 07时14分]"
         },
         {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 19时14分]"
-        },
-        {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
           "url": "https://wallstreetcn.com/livenews/3020440",
           "source": "华尔街见闻-快讯",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普可以自由地就美联储政策发表意见。",
+          "url": "https://flash.jin10.com/detail/20251215202342606800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
@@ -176,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时32分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -221,7 +232,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -289,7 +300,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -317,6 +328,19 @@
           "time_info": "[11时25分 ~ 13时21分]"
         },
         {
+          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
+          "url": "https://www.cls.cn/detail/2229902",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时32分]"
+        },
+        {
           "title": "短剧女演员都快美成AI了",
           "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -340,18 +364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时20分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
-          "url": "https://www.cls.cn/detail/2229902",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "AI健康陪伴搭子阿福上线",
@@ -471,18 +483,6 @@
           "time_info": "[00时16分 ~ 09时09分]"
         },
         {
-          "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
-          "url": "https://www.cls.cn/detail/2228748",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
           "source": "澎湃新闻",
@@ -494,8 +494,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 20时32分]"
+        },
+        {
+          "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
+          "url": "https://www.cls.cn/detail/2228748",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
