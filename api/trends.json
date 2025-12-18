@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T15:18:19.120946+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2025-12-18T16:21:40.959048+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -21,8 +21,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 15时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 16时21分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 16时21分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -94,6 +94,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时21分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -193,17 +205,6 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
           "title": "美国监管机构发言人：Caroline Pham会继续担任美国商品期货交易委员会（CFTC）代理主席，直至特朗普任命的Mike Selig获得确认。",
           "url": "https://flash.jin10.com/detail/20251218052236880800",
           "source": "金十数据",
@@ -296,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
@@ -428,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普账户宣传存1千可涨至60万",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普：美联储新主席将会认同大幅降息",
@@ -598,7 +621,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -609,8 +632,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时15分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[06时15分 ~ 16时21分]"
+        },
+        {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 16时21分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -627,18 +663,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时19分 ~ 13时18分]"
-        },
-        {
-          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
-          "url": "https://www.cls.cn/detail/2232914",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时18分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -661,8 +685,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时21分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时21分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -698,6 +736,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251218010322438800",
           "source": "金十数据",
@@ -715,34 +765,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 15时18分]"
         },
         {
           "title": "元宝AI靠人工？腾讯回应",
@@ -872,6 +897,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "字节宣布AI节省计划",
           "url": "https://wallstreetcn.com/livenews/3022785",
           "source": "华尔街见闻-快讯",
@@ -881,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
+          "url": "https://www.cls.cn/detail/2232986",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -903,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "据悉OpenAI和Anthropic寻求扩大欧洲办公空间",
+          "url": "https://flash.jin10.com/detail/20251218160350981800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
@@ -936,6 +994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "市场消息：Anthropic和OpenAI寻求更多办公空间以拓展欧洲业务。",
+          "url": "https://flash.jin10.com/detail/20251218155200520800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -1026,6 +1095,57 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国财经网站investinglive：美国11月CPI报告须知",
+          "url": "https://flash.jin10.com/detail/20251218140223591800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月18日 周四",
+          "url": "https://flash.jin10.com/detail/20251218000000001800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 14时24分]"
+        },
+        {
+          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3022921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.16% 大消费走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E5%A4%A7%E6%B6%88%E8%B4%B9%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 3,
       "titles": [
@@ -1063,46 +1183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国财经网站investinglive：美国11月CPI报告须知",
-          "url": "https://flash.jin10.com/detail/20251218140223591800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2025年12月18日 周四",
-          "url": "https://flash.jin10.com/detail/20251218000000001800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 14时24分]"
-        },
-        {
-          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3022921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     },
