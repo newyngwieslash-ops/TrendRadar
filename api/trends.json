@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:17:02.246195+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-18T19:15:01.585269+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -23,6 +23,21 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时19分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5,
+            4,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
@@ -49,18 +64,16 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            5,
-            4,
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时17分 ~ 18时17分]"
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -99,6 +112,19 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 19时15分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
           "url": "https://flash.jin10.com/detail/20251218063414755800",
           "source": "金十数据",
@@ -108,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -180,18 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "特朗普账户宣传存1千可涨至60万",
@@ -463,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -488,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
@@ -658,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时15分 ~ 18时17分]"
+          "appearance_count": 18,
+          "time_info": "[06时15分 ~ 19时15分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -671,11 +685,25 @@
             8,
             6,
             3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 19时15分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时18分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[14时23分 ~ 19时15分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -689,6 +717,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时16分 ~ 16时21分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -705,31 +747,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时19分 ~ 13时18分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时23分 ~ 18时17分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -836,6 +853,17 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时15分]"
+        },
+        {
           "title": "ThaiSweet樱花舞MV",
           "url": "https://s.weibo.com/weibo?q=%23ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -858,17 +886,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时17分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
@@ -968,7 +985,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -1045,7 +1062,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -1056,7 +1073,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -1258,7 +1275,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -1282,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
+          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
