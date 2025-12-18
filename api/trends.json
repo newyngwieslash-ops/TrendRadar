@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:30:42.637062+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2025-12-18T21:33:10.756011+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
@@ -148,6 +148,17 @@
           "time_info": "[12时29分 ~ 13时18分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 21时33分]"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -207,17 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -532,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -576,7 +576,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -705,7 +705,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -716,8 +716,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时15分 ~ 20时30分]"
+          "appearance_count": 22,
+          "time_info": "[06时15分 ~ 21时33分]"
         },
         {
           "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
@@ -730,8 +730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 20时30分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 21时33分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -760,8 +760,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时23分 ~ 20时30分]"
+          "appearance_count": 15,
+          "time_info": "[14时23分 ~ 21时33分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -816,6 +816,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时16分 ~ 15时18分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -966,6 +977,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "AI天才少女罗福莉小米首秀",
@@ -1338,11 +1360,12 @@
           "url": "https://news.ifeng.com/c/8pBpknY3tVX",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 20时30分]"
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 21时33分]"
         },
         {
           "title": "马斯克携巨款重投共和党意欲何为",
