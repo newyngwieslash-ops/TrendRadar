@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:16:49.048333+08:00",
-  "total_titles_processed": 2198,
+  "generated_at": "2025-12-19T23:17:06.132943+08:00",
+  "total_titles_processed": 2304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -110,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时07分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时07分 ~ 23时17分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -158,6 +158,34 @@
           "time_info": "[14时23分 ~ 19时14分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3023959",
           "source": "华尔街见闻-快讯",
@@ -169,18 +197,17 @@
           "time_info": "20时29分"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            15,
-            13,
-            11
+            19,
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时16分]"
+          "time_info": "[20时29分 ~ 23时17分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -200,7 +227,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -222,7 +249,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -293,19 +320,6 @@
           "time_info": "19时14分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时16分]"
-        },
-        {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
           "url": "https://flash.jin10.com/detail/20251219030836021800",
           "source": "金十数据",
@@ -366,16 +380,15 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -545,6 +558,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普下令暂停“绿卡抽签”",
+          "url": "https://www.toutiao.com/trending/7584652634205585450/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普18分钟全国电视讲话说了什么",
           "url": "https://www.toutiao.com/trending/7585366067095014931/",
           "source": "今日头条",
@@ -576,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
-        },
-        {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
@@ -639,7 +652,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1274,6 +1287,18 @@
           "time_info": "[11时19分 ~ 14时23分]"
         },
         {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时17分]"
+        },
+        {
           "title": "千问App辟谣：全员大会吃豆包图是AI生成的",
           "url": "https://wallstreetcn.com/livenews/3023808",
           "source": "华尔街见闻-快讯",
@@ -1320,17 +1345,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时17分 ~ 16时22分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时16分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -1631,6 +1645,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
+          "url": "https://www.cls.cn/detail/2235187",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "A股收评：全市近4500只个股上涨",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E8%BF%914500%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
@@ -1642,17 +1667,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时21分 ~ 19时14分]"
-        },
-        {
-          "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
-          "url": "https://www.cls.cn/detail/2235187",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月19日 周五",
@@ -1727,7 +1741,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -1775,6 +1789,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
