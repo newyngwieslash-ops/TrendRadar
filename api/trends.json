@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:07:51.136752+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-19T11:19:41.518561+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 11时19分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -40,8 +40,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 09时07分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 11时19分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时19分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -50,20 +62,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时19分"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -88,13 +100,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "特朗普下令要求美国人2028年登月",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA2028%E5%B9%B4%E7%99%BB%E6%9C%88%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -105,7 +128,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -156,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时19分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -290,15 +325,15 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时19分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -356,6 +391,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
           "url": "https://flash.jin10.com/detail/20251219061151314800",
           "source": "金十数据",
@@ -365,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普威胁夺取委内瑞拉石油资源",
+          "url": "https://www.toutiao.com/trending/7585041766777356351/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -384,7 +441,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -450,7 +507,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -494,7 +551,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -648,7 +705,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -686,6 +743,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普“关键时刻”发表18分钟讲话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E2%80%9D%E5%8F%91%E8%A1%A818%E5%88%86%E9%92%9F%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普今日签署了关于太空优势的行政命令。",
           "url": "https://flash.jin10.com/detail/20251219041242339800",
           "source": "金十数据",
@@ -700,7 +768,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -854,6 +922,18 @@
           "time_info": "[02时22分 ~ 03时15分]"
         },
         {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 11时19分]"
+        },
+        {
           "title": "机构密集调研AI眼镜产业链公司",
           "url": "https://wallstreetcn.com/livenews/3023377",
           "source": "华尔街见闻-快讯",
@@ -863,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "字节跳动正推进与多家厂商的AI手机合作",
+          "url": "https://wallstreetcn.com/livenews/3023509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
@@ -896,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -948,7 +1050,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -962,17 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
         },
         {
           "title": "OpenAI：正与美国能源部扩大在人工智能领域的合作。",
@@ -1075,7 +1166,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2025年12月19日 周五",
@@ -1099,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3023466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     }
