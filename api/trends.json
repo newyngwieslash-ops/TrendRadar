@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:26:58.449175+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-12-20T21:23:34.720404+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -153,6 +153,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
           "url": "https://flash.jin10.com/detail/20251220082409385800",
           "source": "金十数据",
@@ -186,17 +197,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时16分 ~ 09时03分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
@@ -247,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时03分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时23分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -415,6 +427,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
           "url": "https://flash.jin10.com/detail/20251220023126806800",
           "source": "金十数据",
@@ -495,7 +518,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -524,8 +547,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[14时21分 ~ 21时23分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -554,6 +577,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 12时21分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 21时23分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -592,19 +628,6 @@
           "time_info": "[13时15分 ~ 20时26分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时18分 ~ 20时26分]"
-        },
-        {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
           "url": "https://wallstreetcn.com/livenews/3024240",
           "source": "华尔街见闻-快讯",
@@ -619,6 +642,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时15分 ~ 18时14分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时23分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            20,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 21时23分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -636,6 +687,21 @@
           "time_info": "[16时19分 ~ 20时26分]"
         },
         {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 21时23分]"
+        },
+        {
           "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
           "url": "https://wallstreetcn.com/livenews/3024250",
           "source": "华尔街见闻-快讯",
@@ -649,6 +715,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时19分 ~ 20时26分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 21时23分]"
         },
         {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
@@ -690,34 +771,6 @@
           "time_info": "[09时03分 ~ 13时15分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
-          "url": "https://wallstreetcn.com/livenews/3024259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时26分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
-          "url": "https://wallstreetcn.com/livenews/3024257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时26分]"
-        },
-        {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
           "url": "https://wallstreetcn.com/livenews/3024236",
           "source": "华尔街见闻-快讯",
@@ -731,32 +784,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时15分 ~ 17时14分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
-          "url": "https://wallstreetcn.com/livenews/3024256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时26分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时26分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -790,11 +817,12 @@
           "ranks": [
             6,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时23分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
@@ -803,22 +831,24 @@
           "ranks": [
             8,
             17,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时23分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时23分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -826,11 +856,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时23分]"
         },
         {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
@@ -845,6 +876,18 @@
           "time_info": "[04时16分 ~ 05时14分]"
         },
         {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时23分]"
+        },
+        {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
           "url": "https://www.zhihu.com/question/1984641612912030144",
           "source": "知乎",
@@ -857,15 +900,15 @@
           "time_info": "[01时14分 ~ 02时21分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时23分"
         },
         {
           "title": "UP主AI制作科学家传记电影",
@@ -877,6 +920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "AI大神：AI大模型正演变成新型智能",
@@ -893,7 +947,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "宇树机器人给王力宏伴舞 马斯克点赞",
@@ -994,6 +1048,17 @@
           "time_info": "[12时21分 ~ 14时22分]"
         },
         {
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "消息人士：马斯克与摩根士丹利的密切关系使该行在SpaceX IPO中占据优势。",
           "url": "https://flash.jin10.com/detail/20251220013937400800",
           "source": "金十数据",
@@ -1052,8 +1117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 21时23分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -1065,8 +1130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时18分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 21时23分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -1080,8 +1145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 21时23分]"
         },
         {
           "title": "下周A股解禁市值近1900亿元，7股解禁市值超百亿元",
