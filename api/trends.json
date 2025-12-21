@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T04:16:09.226777+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-22T05:13:37.145840+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://flash.jin10.com/detail/20251221222740005800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -49,8 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 05时13分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
+          "url": "https://flash.jin10.com/detail/20251221222740005800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -62,8 +63,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
@@ -75,8 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -87,19 +88,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
           "url": "https://flash.jin10.com/detail/20251221182933074800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时13分]"
+        },
+        {
+          "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
+          "url": "https://flash.jin10.com/detail/20251222043841056800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251222043755538800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -110,8 +134,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -122,8 +146,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时13分]"
         }
       ]
     },
@@ -139,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -152,8 +176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -165,8 +189,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -176,8 +200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -188,8 +212,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -199,8 +223,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -210,8 +234,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -222,8 +246,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -232,17 +256,18 @@
           "ranks": [
             16,
             24,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时13分]"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -252,8 +277,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -263,8 +288,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -274,8 +299,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -285,8 +310,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
@@ -296,8 +321,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -309,12 +334,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月22日 周一",
+          "url": "https://flash.jin10.com/detail/20251222000000000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -324,8 +360,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时13分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
+          "url": "https://flash.jin10.com/detail/20251222043920328800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     }
