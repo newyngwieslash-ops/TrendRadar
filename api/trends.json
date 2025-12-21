@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T20:26:46.348574+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-12-21T21:24:15.022289+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时24分 ~ 21时24分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -135,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 20时26分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 21时24分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -149,11 +149,12 @@
             11,
             16,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 21时24分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -238,8 +239,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时11分 ~ 20时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时11分 ~ 21时24分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -251,8 +252,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时11分 ~ 20时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时11分 ~ 21时24分]"
+        },
+        {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 21时24分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -265,17 +277,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时18分 ~ 18时15分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时26分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -336,6 +337,17 @@
           "time_info": "[12时32分 ~ 13时16分]"
         },
         {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时24分]"
+        },
+        {
           "title": "豆包狂飙，字节AI再亮剑",
           "url": "https://wallstreetcn.com/articles/3761770",
           "source": "华尔街见闻",
@@ -358,6 +370,17 @@
           "time_info": "[01时11分 ~ 01时12分]"
         },
         {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
           "url": "https://www.zhihu.com/question/1984641612912030144",
           "source": "知乎",
@@ -378,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         }
       ]
     },
@@ -421,8 +433,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时16分 ~ 20时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时16分 ~ 21时24分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -492,6 +504,17 @@
           "time_info": "[00时17分 ~ 07时13分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普为何频繁起诉媒体",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
           "source": "bilibili 热搜",
@@ -556,27 +579,17 @@
           "time_info": "[01时11分 ~ 05时12分]"
         },
         {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
           "url": "https://flash.jin10.com/detail/20251221182933074800",
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时24分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -659,11 +672,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 30,
+          "time_info": "[00时17分 ~ 21时24分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -676,8 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时24分 ~ 21时24分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -690,8 +704,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 30,
+          "time_info": "[00时17分 ~ 21时24分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -700,11 +714,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时32分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[12时32分 ~ 21时24分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -717,8 +732,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时11分 ~ 20时26分]"
+          "appearance_count": 29,
+          "time_info": "[01时11分 ~ 21时24分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -734,6 +749,19 @@
           "time_info": "[09时11分 ~ 13时16分]"
         },
         {
+          "title": "A股可能已进入“右侧行情”",
+          "url": "https://www.toutiao.com/trending/7586232474422742555/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 21时24分]"
+        },
+        {
           "title": "3家A股公司因财务造假被罚",
           "url": "https://www.toutiao.com/trending/7585095936725532714/",
           "source": "今日头条",
@@ -745,19 +773,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "A股可能已进入“右侧行情”",
-          "url": "https://www.toutiao.com/trending/7586232474422742555/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时26分]"
         }
       ]
     },
@@ -775,8 +790,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 30,
+          "time_info": "[00时17分 ~ 21时24分]"
         },
         {
           "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
