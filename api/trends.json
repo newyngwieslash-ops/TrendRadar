@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T16:19:03.442681+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-12-21T17:15:17.955457+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -48,6 +48,21 @@
           "time_info": "[00时17分 ~ 14时22分]"
         },
         {
+          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
+          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
+        },
+        {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
           "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
@@ -65,6 +80,22 @@
           "time_info": "[00时17分 ~ 15时15分]"
         },
         {
+          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761783",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
+        },
+        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
@@ -78,48 +109,34 @@
           "time_info": "[00时17分 ~ 11时24分]"
         },
         {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
+        },
+        {
           "title": "中信建投：继续看好AI算力板块",
           "url": "https://wallstreetcn.com/livenews/3024316",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             5,
-            20
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
-        },
-        {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -147,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -181,8 +198,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时18分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[02时18分 ~ 17时15分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -192,24 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 16时19分]"
-        },
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 17时15分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -221,19 +233,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 17时15分]"
         },
         {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -271,16 +284,16 @@
           "time_info": "[09时12分 ~ 12时33分]"
         },
         {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -328,15 +341,15 @@
           "time_info": "[01时11分 ~ 01时12分]"
         },
         {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
           "source": "抖音",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -418,6 +431,20 @@
           "time_info": "[01时11分 ~ 06时14分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时15分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -429,31 +456,18 @@
           "time_info": "[00时17分 ~ 07时13分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 16时19分]"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
             2,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -515,11 +529,12 @@
           "ranks": [
             10,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -591,21 +606,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 16时19分]"
-        },
-        {
-          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
-          "url": "https://www.cls.cn/detail/2235419",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -618,8 +620,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
+        },
+        {
+          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
+          "url": "https://www.cls.cn/detail/2235419",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 17时15分]"
+        },
+        {
+          "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
+          "url": "https://www.cls.cn/detail/2235473",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时32分 ~ 17时15分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -631,8 +659,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时11分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[01时11分 ~ 17时15分]"
         },
         {
           "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
@@ -646,19 +674,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 13时16分]"
-        },
-        {
-          "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
-          "url": "https://www.cls.cn/detail/2235473",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时19分]"
         },
         {
           "title": "3家A股公司因财务造假被罚",
@@ -688,8 +703,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
@@ -713,11 +728,12 @@
             15,
             16,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时32分 ~ 17时15分]"
         },
         {
           "title": "比尔·阿克曼：建议马斯克的太空探索公司SpaceX通过潘兴广场Pershing Square SPARC Holdings Ltd.实现IPO。 我们对“授予马斯克超级投票（权）股份”持开放态度。",
@@ -783,8 +799,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时15分]"
         }
       ]
     }
