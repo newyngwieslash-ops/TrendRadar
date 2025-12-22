@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T14:25:35.724744+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-12-22T15:20:14.934475+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时20分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -52,11 +53,12 @@
             19,
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时11分 ~ 14时25分]"
+          "appearance_count": 15,
+          "time_info": "[03时11分 ~ 15时20分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -69,8 +71,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时20分 ~ 14时25分]"
+          "appearance_count": 16,
+          "time_info": "[02时20分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时20分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -126,16 +141,15 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
           "ranks": [
-            6,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时20分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -151,6 +165,20 @@
           "time_info": "[05时13分 ~ 07时14分]"
         },
         {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时20分]"
+        },
+        {
           "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
           "url": "https://flash.jin10.com/detail/20251222043755538800",
           "source": "金十数据",
@@ -162,6 +190,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时20分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -187,50 +227,15 @@
           "time_info": "11时27分"
         },
         {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
           "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时20分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -280,7 +285,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -345,8 +350,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时20分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -371,11 +376,12 @@
             13,
             29,
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 14时25分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 15时20分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -424,8 +430,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 15时20分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -440,6 +446,32 @@
           "time_info": "[13时20分 ~ 14时25分]"
         },
         {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 15时20分]"
+        },
+        {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时20分]"
+        },
+        {
           "title": "如何适当提醒过度迷信 AI 的老板？",
           "url": "https://www.zhihu.com/question/1984781101030478834",
           "source": "知乎",
@@ -452,27 +484,15 @@
           "time_info": "[09时10分 ~ 11时27分]"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
           "ranks": [
-            28,
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -481,7 +501,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -492,7 +512,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -533,7 +553,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -558,6 +578,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 09时11分]"
+        },
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 15时20分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -585,18 +617,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时20分 ~ 13时20分]"
-        },
-        {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -670,15 +690,37 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
+          "title": "A股收盘：沪指涨0.69%收复3900点，海南、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3024766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "A股锂电池板块震荡走强，恩捷股份午后涨停，壹石通、星云股份、金圆股份、星源材质、中矿资源、盐湖股份等涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3024719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "A股食品股尾盘异动，安记食品直线涨停，海欣食品、立高食品、安琪酵母、紫燕食品、好想你等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3024748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "中金公司：逢低布局A股跨年行情 建议关注三条主线",
@@ -701,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
+          "url": "https://wallstreetcn.com/livenews/3024742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -741,8 +794,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时20分]"
         }
       ]
     },
