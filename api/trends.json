@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:22:43.852644+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-12-22T18:17:48.220749+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 18时17分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 18时17分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -115,6 +115,21 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
@@ -167,18 +182,26 @@
           "time_info": "[14时25分 ~ 16时22分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 18时17分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -219,17 +242,6 @@
           "time_info": "[00时16分 ~ 05时13分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 17时22分]"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -241,27 +253,17 @@
           "time_info": "11时27分"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -270,9 +272,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -297,6 +299,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
           "url": "https://flash.jin10.com/detail/20251222081646625800",
           "source": "金十数据",
@@ -306,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -333,7 +357,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -398,8 +422,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 18时17分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -429,8 +453,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 17时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时12分 ~ 18时17分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -483,17 +507,6 @@
           "time_info": "[11时27分 ~ 15时20分]"
         },
         {
-          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3024853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
           "source": "凤凰网",
@@ -502,8 +515,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 18时17分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时25分 ~ 17时22分]"
+          "time_info": "[15时19分 ~ 18时17分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -521,17 +547,16 @@
           "time_info": "[12时36分 ~ 16时22分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3024853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            7,
-            6
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 17时22分]"
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -562,11 +587,23 @@
           "url": "https://wallstreetcn.com/livenews/3024838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时17分"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -578,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "印度民航部：已注意到印度航空AI-887航班在起飞后不久因技术问题发生的事件。",
@@ -638,7 +686,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -775,6 +823,18 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
+          "title": "A股逾百股涨停",
+          "url": "https://www.toutiao.com/trending/7586556291720462355/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
           "title": "A股收盘：沪指涨0.69%收复3900点，海南、算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3024766",
           "source": "华尔街见闻-快讯",
@@ -808,6 +868,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
+          "url": "https://flash.jin10.com/detail/20251222172447436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "中金公司：逢低布局A股跨年行情 建议关注三条主线",
           "url": "https://wallstreetcn.com/livenews/3024516",
           "source": "华尔街见闻-快讯",
@@ -817,17 +888,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "A股逾百股涨停",
-          "url": "https://www.toutiao.com/trending/7586556291720462355/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "年内A股市场国有控股公司逾千起并购案发生，重组整合大提速",
@@ -858,7 +918,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
