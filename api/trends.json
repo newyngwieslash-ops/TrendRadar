@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:27:52.669060+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-12-22T12:36:21.749424+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -41,8 +41,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时36分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时11分 ~ 12时36分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -51,11 +65,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时20分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 12时36分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -83,19 +98,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 11时27分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -168,9 +170,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -179,9 +192,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -195,13 +219,24 @@
           "time_info": "09时11分"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
           "url": "https://flash.jin10.com/detail/20251222102452415800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -212,7 +247,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -220,7 +255,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -284,8 +319,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时36分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -311,8 +346,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 12时36分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -344,11 +379,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时36分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -369,9 +405,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时36分]"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -383,6 +419,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "让AI成为你的情绪垃圾桶",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9AI%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -434,11 +492,12 @@
             11,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时20分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 12时36分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -456,11 +515,25 @@
           "url": "https://www.cls.cn/detail/2235799",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时36分]"
+        },
+        {
+          "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2235677",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时36分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国将公布至12月22日一年期LPR、英国将公布三季度GDP数据",
@@ -472,18 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2235677",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时27分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月22日 周一",
@@ -566,11 +627,12 @@
           "url": "https://wallstreetcn.com/articles/3761794",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时36分]"
         }
       ]
     },
@@ -585,7 +647,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
