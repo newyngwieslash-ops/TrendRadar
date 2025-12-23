@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T13:19:48.607676+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-12-23T14:24:28.627350+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -43,17 +43,6 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
-        },
-        {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
@@ -62,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -74,8 +63,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
+          "time_info": "[11时22分 ~ 14时24分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -98,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
         },
         {
           "title": "克里姆林宫：俄罗斯需要弄清楚美国与乌克兰及欧洲就和平计划开展的合作，在多大程度上符合此前普京与特朗普在阿拉斯加峰会所体现的精神。",
@@ -166,17 +178,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
-        },
-        {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
           "url": "https://flash.jin10.com/detail/20251223020338765800",
           "source": "金十数据",
@@ -241,6 +242,45 @@
           "time_info": "[05时13分 ~ 06时15分]"
         },
         {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时24分]"
+        },
+        {
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时24分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时24分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
           "url": "https://flash.jin10.com/detail/20251223015326106800",
           "source": "金十数据",
@@ -252,31 +292,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
-        },
-        {
-          "title": "美新型战舰被命名为特朗普级你咋看",
-          "url": "https://www.toutiao.com/trending/7586859203608772635/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -292,16 +307,17 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
           "source": "百度热搜",
           "ranks": [
-            10,
-            15
+            29,
+            24,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
+          "time_info": "[12时33分 ~ 14时24分]"
         },
         {
           "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
@@ -352,16 +368,16 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            29,
+            26,
             24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：15艘潜艇正在建造或即将开工。",
@@ -738,17 +754,6 @@
           "time_info": "00时18分"
         },
         {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
           "url": "https://flash.jin10.com/detail/20251223005847511800",
           "source": "金十数据",
@@ -818,7 +823,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -842,11 +847,12 @@
             4,
             13,
             20,
-            25
+            25,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 14时24分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -871,8 +877,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 14时24分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -888,15 +894,48 @@
           "time_info": "[02时21分 ~ 05时13分]"
         },
         {
-          "title": "美国企业今年发行了价值1.7万亿美元的投资级债券，这一数字接近历史最高水平。此次发债潮主要是为了筹集资金用于AI基础设施建设，但也引发了人们对债务过剩的担忧。",
-          "url": "https://flash.jin10.com/detail/20251223130540405800",
-          "source": "金十数据",
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
+        },
+        {
+          "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
+          "url": "https://wallstreetcn.com/livenews/3025400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时24分"
         },
         {
           "title": "利用AI造谣中国女篮两男子刑拘",
@@ -921,26 +960,16 @@
           "time_info": "12时33分"
         },
         {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
+          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
+          "url": "https://www.cls.cn/detail/2236998",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -954,27 +983,16 @@
           "time_info": "[09时07分 ~ 13时19分]"
         },
         {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
+          "title": "美国企业今年发行了价值1.7万亿美元的投资级债券，这一数字接近历史最高水平。此次发债潮主要是为了筹集资金用于AI基础设施建设，但也引发了人们对债务过剩的担忧。",
+          "url": "https://flash.jin10.com/detail/20251223130540405800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
-        },
-        {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时24分]"
         },
         {
           "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
@@ -1026,6 +1044,17 @@
           "time_info": "[07时14分 ~ 09时07分]"
         },
         {
+          "title": "千问发布 2025 十大 AI 提示词，股票意外排名第一，普通人如何用 AI 做好投资？",
+          "url": "https://www.zhihu.com/question/1986558985109792573",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "报道：英伟达 、SK海力士与群联电子共同开发AI固态硬盘",
           "url": "https://flash.jin10.com/detail/20251223081442090800",
           "source": "金十数据",
@@ -1062,29 +1091,67 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "A股多只高位股午后跳水，合富中国触及跌停，平潭发展、东百集团、百大集团全线走低。",
+          "url": "https://wallstreetcn.com/livenews/3025405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月23日 周二",
+          "url": "https://flash.jin10.com/detail/20251223000000000800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 14时24分]"
+        },
         {
           "title": "A股商业航天板块午后走弱，久之洋跌超11%，陕西华达、星辰科技等多股跌超10%，华丰科技逆市拉升涨超12%。",
           "url": "https://wallstreetcn.com/livenews/3025370",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时24分]"
         },
         {
           "title": "A股房地产开发板块午后走强，华联控股涨停，张江高科、合肥城建、科新发展、中国武夷、首开股份等个股跟涨。",
           "url": "https://wallstreetcn.com/livenews/3025369",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时24分]"
+        },
+        {
+          "title": "新纪录！A股年成交额首破400万亿元",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%BA%AA%E5%BD%95%EF%BC%81A%E8%82%A1%E5%B9%B4%E6%88%90%E4%BA%A4%E9%A2%9D%E9%A6%96%E7%A0%B4400%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时24分]"
         },
         {
           "title": "高盛预言：未来两年A股还要再涨38%",
@@ -1100,16 +1167,15 @@
           "time_info": "[09时07分 ~ 12时33分]"
         },
         {
-          "title": "新纪录！A股年成交额首破400万亿元",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%BA%AA%E5%BD%95%EF%BC%81A%E8%82%A1%E5%B9%B4%E6%88%90%E4%BA%A4%E9%A2%9D%E9%A6%96%E7%A0%B4400%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
+          "title": "A股液冷服务器概念表现活跃，川润股份午后直线涨停，英维克涨超9%，申菱环境、英特科技、川环科技、永太科技等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3025382",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            28
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布澳洲联储公布12月货币政策会议纪要，今日有1353亿元7天期逆回购到期。",
@@ -1145,17 +1211,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2025年12月23日 周二",
-          "url": "https://flash.jin10.com/detail/20251223000000000800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
           "title": "A股年成交额首破400万亿元",
           "url": "https://www.toutiao.com/trending/7586494214700924982/",
           "source": "今日头条",
@@ -1170,7 +1225,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -1184,8 +1239,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时14分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时14分 ~ 14时24分]"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -1214,8 +1280,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时24分]"
         }
       ]
     }
