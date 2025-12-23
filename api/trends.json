@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T04:16:40.780657+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-12-24T05:14:41.035825+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -50,11 +50,12 @@
             14,
             13,
             28,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -64,11 +65,12 @@
             25,
             14,
             15,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -78,8 +80,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -89,11 +91,23 @@
             20,
             16,
             13,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
+          "url": "https://wallstreetcn.com/livenews/3025760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
@@ -190,6 +204,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
+          "url": "https://flash.jin10.com/detail/20251224041533338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "特朗普：多数经济学家错估三季度GDP数据 “好戏还在后头”",
           "url": "https://flash.jin10.com/detail/20251223231534119800",
           "source": "金十数据",
@@ -251,7 +276,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -302,11 +327,12 @@
             20,
             23,
             9,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时14分]"
         },
         {
           "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
@@ -314,11 +340,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时14分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -357,8 +384,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "博主：A股惊现结构性强势",
@@ -383,6 +410,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短短47天又多100万用户！马斯克的卫星互联网业务增速“起飞”",
+          "url": "https://www.cls.cn/detail/2237664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
