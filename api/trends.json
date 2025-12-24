@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:19:36.183844+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-24T18:16:36.848398+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
             20,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 18时16分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -82,6 +83,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 18时16分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -101,18 +115,6 @@
           "time_info": "[01时15分 ~ 07时14分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 17时19分]"
-        },
-        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -123,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 18时16分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -171,6 +173,17 @@
           "time_info": "[09时07分 ~ 14时24分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时16分]"
+        },
+        {
           "title": "美军将建造“特朗普级”战舰",
           "url": "https://www.douyin.com/hot/2345209",
           "source": "抖音",
@@ -193,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -656,11 +658,12 @@
           "url": "https://www.toutiao.com/trending/7587319094953643556/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时16分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有468亿元7天期逆回购到期，今晚将公布美国至12月20日当周初请失业金人数",
@@ -710,7 +713,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -798,6 +801,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时24分]"
+        },
+        {
+          "title": "投行2026关键词系列：汇丰看多元投资与AI生态丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251224173523204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
