@@ -1,8 +1,139 @@
 {
-  "generated_at": "2025-12-25T07:14:52.702530+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-25T09:07:36.709663+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
+          "url": "https://wallstreetcn.com/livenews/3026328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时15分]"
+        },
+        {
+          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
+          "url": "https://flash.jin10.com/detail/20251225053135051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "中信证券：看好互联网大厂凭借AI产品力、成熟生态以及投流资金规模优势，率先抢占市场并完成用户AI家医心智培育",
+          "url": "https://wallstreetcn.com/livenews/3026404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
+          "url": "https://wallstreetcn.com/livenews/3026368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "公募基金明年看好AI产业链",
+          "url": "https://wallstreetcn.com/livenews/3026400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达与AI芯片初创公司Groq达成非独家推理技术授权协议",
+          "url": "https://flash.jin10.com/detail/20251225072450997800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 10,
@@ -19,23 +150,24 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
@@ -133,93 +265,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
-          "url": "https://wallstreetcn.com/livenews/3026336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
-          "url": "https://wallstreetcn.com/livenews/3026328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 06时15分]"
-        },
-        {
-          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
-          "url": "https://flash.jin10.com/detail/20251225053135051800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时14分]"
-        },
-        {
-          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://flash.jin10.com/detail/20251225051502192800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时14分]"
-        },
-        {
-          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
-          "url": "https://wallstreetcn.com/livenews/3026368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://wallstreetcn.com/livenews/3026336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经 A股",
       "match_count": 5,
       "titles": [
@@ -244,9 +289,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2025年12月25日 周四",
+          "url": "https://flash.jin10.com/detail/20251225000000001800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 09时07分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -262,27 +320,48 @@
           "time_info": "[01时13分 ~ 03时12分]"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2025年12月25日 周四",
-          "url": "https://flash.jin10.com/detail/20251225000000001800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
-        },
-        {
           "title": "三家公司同日冲刺A股IPO，合计募资近40亿元",
           "url": "https://wallstreetcn.com/livenews/3026361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "舆论",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "陈芋汐：与全红婵关系不会被舆论左右",
+          "url": "https://www.toutiao.com/trending/7587134359803527214/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            9,
+            19,
+            27,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "如何评价 Gumayusi 近期舆论翻车？",
+          "url": "https://www.zhihu.com/question/1986733928967598696",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
@@ -303,28 +382,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时16分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "舆论",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "陈芋汐：与全红婵关系不会被舆论左右",
-          "url": "https://www.toutiao.com/trending/7587134359803527214/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            9,
-            19,
-            27,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
