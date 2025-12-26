@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T07:14:34.960011+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-26T09:08:25.483495+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -54,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -65,7 +65,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -113,21 +113,54 @@
           "time_info": "[01时14分 ~ 04时17分]"
         },
         {
+          "title": "专家：特朗普或在2026“压榨”美联储",
+          "url": "https://www.toutiao.com/trending/7587727738132270635/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
+          "url": "https://wallstreetcn.com/livenews/3026898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
+          "url": "https://flash.jin10.com/detail/20251226075028232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2025年12月26日 周五",
@@ -157,6 +190,17 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "2025年度财经热点盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6%E8%B4%A2%E7%BB%8F%E7%83%AD%E7%82%B9%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "巫师盘点年度财经大事",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%AB%E5%B8%88%E7%9B%98%E7%82%B9%E5%B9%B4%E5%BA%A6%E8%B4%A2%E7%BB%8F%E5%A4%A7%E4%BA%8B",
           "source": "bilibili 热搜",
@@ -174,7 +218,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -182,7 +226,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -193,8 +237,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 09时08分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -203,7 +258,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -218,11 +273,12 @@
           "url": "https://wallstreetcn.com/articles/3762068",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 09时08分]"
         }
       ]
     }
