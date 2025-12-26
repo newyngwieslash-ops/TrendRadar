@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:29:27.204399+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-12-26T21:29:23.767690+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时20分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 21时29分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时20分 ~ 16时21分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 21时29分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -192,6 +192,17 @@
           "time_info": "18时17分"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -247,6 +258,39 @@
           "time_info": "09时08分"
         },
         {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
           "url": "https://flash.jin10.com/detail/20251226075028232800",
           "source": "金十数据",
@@ -269,6 +313,39 @@
           "time_info": "14时23分"
         },
         {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "泽连斯基称近期将与美总统特朗普会面",
           "url": "https://wallstreetcn.com/livenews/3027103",
           "source": "华尔街见闻-快讯",
@@ -283,7 +360,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "巫师盘点年度财经大事",
@@ -299,6 +376,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时13分 ~ 18时17分]"
+        },
+        {
+          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 21时29分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月26日 周五",
@@ -317,27 +406,16 @@
           "time_info": "[00时18分 ~ 14时23分]"
         },
         {
-          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
-          "url": "https://wallstreetcn.com/articles/3762115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 20时29分]"
-        },
-        {
           "title": "中国人民银行：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
           "url": "https://wallstreetcn.com/livenews/3027333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时29分]"
         },
         {
           "title": "今年以来A股市场定增融资超7800亿元",
@@ -446,6 +524,17 @@
           "time_info": "[12时31分 ~ 13时17分]"
         },
         {
+          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://www.cls.cn/detail/2241471",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
           "url": "https://wallstreetcn.com/livenews/3026846",
           "source": "华尔街见闻-快讯",
@@ -537,17 +626,6 @@
           "time_info": "[11时20分 ~ 17时17分]"
         },
         {
-          "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
-          "url": "https://wallstreetcn.com/livenews/3027114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
           "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
           "url": "https://www.cls.cn/detail/2239926",
           "source": "财联社热门",
@@ -557,8 +635,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 21时29分]"
+        },
+        {
+          "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
+          "url": "https://wallstreetcn.com/livenews/3027114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "UP主用AI挑战肉鸽游戏",
@@ -583,6 +672,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时31分 ~ 15时17分]"
+        },
+        {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时29分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -617,17 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
