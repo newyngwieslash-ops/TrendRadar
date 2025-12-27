@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T16:19:14.118713+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-12-27T17:15:42.602366+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -78,22 +78,12 @@
             5,
             7,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时15分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -102,11 +92,12 @@
           "ranks": [
             27,
             22,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 17时15分]"
         },
         {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
@@ -120,6 +111,18 @@
           "time_info": "09时05分"
         },
         {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时15分]"
+        },
+        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -129,6 +132,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普：美国目前没有承认索马里兰的计划",
+          "url": "https://flash.jin10.com/detail/20251227140350372800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
@@ -145,17 +162,16 @@
           "time_info": "[13时16分 ~ 16时19分]"
         },
         {
-          "title": "特朗普：美国目前没有承认索马里兰的计划",
-          "url": "https://flash.jin10.com/detail/20251227140350372800",
-          "source": "金十数据",
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
             10,
-            17
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 17时15分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -183,15 +199,17 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
+          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
+          "url": "https://flash.jin10.com/detail/20251227143953526800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6,
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -218,18 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时22分 ~ 16时19分]"
-        },
-        {
-          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
-          "url": "https://flash.jin10.com/detail/20251227143953526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -304,8 +310,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -324,8 +330,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -353,11 +359,12 @@
             13,
             15,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 17时15分]"
         },
         {
           "title": "2025年度AI好用工具",
@@ -393,11 +400,12 @@
           "url": "https://www.zhihu.com/question/1987661697423517255",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "UP盘点2025十大AI歌曲",
@@ -447,8 +455,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
@@ -469,11 +477,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 17时15分]"
         }
       ]
     },
@@ -504,8 +513,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 17时15分]"
         }
       ]
     },
