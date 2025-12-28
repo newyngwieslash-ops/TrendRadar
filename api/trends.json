@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:19:47.691202+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2025-12-28T14:22:32.175663+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
@@ -138,7 +138,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -168,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时22分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -204,8 +204,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时22分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -214,11 +214,12 @@
           "ranks": [
             7,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时22分]"
         },
         {
           "title": "马斯克直言白银狂飙不是好事",
@@ -286,8 +287,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 14时22分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -297,8 +298,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时22分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -328,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 13时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 14时22分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -340,8 +341,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 14时22分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -350,22 +351,24 @@
           "ranks": [
             11,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时22分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2241810",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时22分]"
         }
       ]
     },
