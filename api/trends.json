@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T17:15:31.272013+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-28T18:15:16.506937+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -72,6 +72,19 @@
           "time_info": "[00时17分 ~ 09时16分]"
         },
         {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时15分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -121,18 +134,6 @@
           "time_info": "[09时16分 ~ 11时42分]"
         },
         {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
-        },
-        {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
           "url": "https://flash.jin10.com/detail/20251228090052065800",
           "source": "金十数据",
@@ -156,6 +157,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -206,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 18时15分]"
         },
         {
           "title": "白银价格暴涨 马斯克：这可不好",
@@ -217,11 +229,12 @@
             18,
             14,
             9,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 18时15分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -234,11 +247,12 @@
             18,
             21,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 18时15分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -306,6 +320,19 @@
           "time_info": "[09时15分 ~ 13时19分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 18时15分]"
+        },
+        {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
           "url": "https://wallstreetcn.com/livenews/3027558",
           "source": "华尔街见闻-快讯",
@@ -333,28 +360,17 @@
           "time_info": "[07时14分 ~ 14时22分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 17时15分]"
-        },
-        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -382,11 +398,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -398,8 +415,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 18时15分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -414,8 +431,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 18时15分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -424,11 +441,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 18时15分]"
         }
       ]
     },
