@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:22:32.175663+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-28T15:15:59.460445+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -70,6 +70,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时16分]"
+        },
+        {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -168,8 +190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时15分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -204,8 +226,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时15分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -215,11 +237,12 @@
             7,
             9,
             15,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 15时15分]"
         },
         {
           "title": "马斯克直言白银狂飙不是好事",
@@ -295,11 +318,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 15时15分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -326,11 +350,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 14时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 15时15分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -341,8 +366,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时15分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -352,11 +377,12 @@
             11,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时15分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -367,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 15时15分]"
         }
       ]
     },
