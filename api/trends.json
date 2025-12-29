@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T22:16:51.541772+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2025-12-29T23:16:33.352672+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -43,6 +43,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 23时16分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -115,19 +129,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 06时14分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 22时16分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -575,6 +576,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "美政治：特朗普回归一年强势色彩趋黯",
+          "url": "https://www.toutiao.com/trending/7589266725988732462/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
           "url": "https://flash.jin10.com/detail/20251229060056558800",
           "source": "金十数据",
@@ -856,7 +868,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -974,7 +986,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -1073,6 +1085,19 @@
           "time_info": "09时13分"
         },
         {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时16分]"
+        },
+        {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
           "url": "https://wallstreetcn.com/livenews/3027907",
           "source": "华尔街见闻-快讯",
@@ -1083,19 +1108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时26分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时16分]"
         },
         {
           "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
@@ -1164,12 +1176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "越疆：建议于深圳证券交易所进行A股上市计划",
+          "url": "https://wallstreetcn.com/livenews/3028205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -1204,8 +1227,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 22时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 23时16分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1239,8 +1262,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时16分]"
         },
         {
           "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
@@ -1291,6 +1314,18 @@
           "time_info": "[12时43分 ~ 13时24分]"
         },
         {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
           "url": "https://news.ifeng.com/c/8pTi30wjZbr",
           "source": "凤凰网",
@@ -1302,15 +1337,15 @@
           "time_info": "[16时23分 ~ 17时24分]"
         },
         {
-          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2243270",
-          "source": "财联社热门",
+          "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
+          "url": "https://wallstreetcn.com/livenews/3028222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时16分"
         },
         {
           "title": "软银斥资40亿美元收购数据中心投资公司DigitalBridge，以助力AI业务推进",
@@ -1319,7 +1354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1333,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "数据中心投资公司DigitalBridge涨10%，报15.31美元。软银斥资40亿美元收购该公司，以助力人工智能（AI）业务推进。",
+          "url": "https://wallstreetcn.com/livenews/3028218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "“AI教父”警告2026年将迎失业潮",
@@ -1349,7 +1395,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "白银狂飙，马斯克直言：这不好！",
@@ -1392,6 +1438,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时14分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
+          "url": "https://flash.jin10.com/detail/20251229224502300800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与埃隆·马斯克召开电话会议。",
+          "url": "https://flash.jin10.com/detail/20251229224332128800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     }
