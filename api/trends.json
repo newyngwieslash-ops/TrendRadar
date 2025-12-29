@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:31:59.089647+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-12-29T21:33:55.770003+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -157,6 +157,19 @@
           "time_info": "[09时13分 ~ 14时26分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 21时33分]"
+        },
+        {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
           "url": "https://wallstreetcn.com/livenews/3027691",
           "source": "华尔街见闻-快讯",
@@ -245,19 +258,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时11分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
@@ -1079,11 +1079,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时33分]"
         },
         {
           "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
@@ -1192,8 +1193,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 20时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 21时33分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1241,6 +1242,18 @@
           "time_info": "[12时43分 ~ 14时26分]"
         },
         {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时33分]"
+        },
+        {
           "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
           "url": "https://www.cls.cn/detail/2242491",
           "source": "财联社热门",
@@ -1275,17 +1288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 17时24分]"
-        },
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
