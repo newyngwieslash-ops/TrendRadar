@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T12:34:49.276256+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-30T13:19:55.158673+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时19分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -111,6 +111,19 @@
           "time_info": "03时12分"
         },
         {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时19分]"
+        },
+        {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
           "url": "https://flash.jin10.com/detail/20251230045611670800",
           "source": "金十数据",
@@ -120,29 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
-          "url": "https://flash.jin10.com/detail/20251230114449386800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时34分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -208,6 +198,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时14分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时19分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -297,6 +300,18 @@
           "time_info": "[04时17分 ~ 05时14分]"
         },
         {
+          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
+          "url": "https://flash.jin10.com/detail/20251230114449386800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
+        },
+        {
           "title": "白宫发言人Leavitt：美国总统特朗普与俄罗斯总统普京关于乌克兰问题的通话“气氛是积极的”。",
           "url": "https://wallstreetcn.com/livenews/3028254",
           "source": "华尔街见闻-快讯",
@@ -309,17 +324,15 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时34分]"
+          "time_info": "[11时23分 ~ 13时19分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -465,17 +478,6 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时34分]"
-        },
-        {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
           "url": "https://flash.jin10.com/detail/20251230030257604800",
           "source": "金十数据",
@@ -498,6 +500,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
+        },
+        {
+          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
+          "url": "https://flash.jin10.com/detail/20251230113213777800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
         },
         {
           "title": "特朗普：伊朗可能“重新集结”，必要时将出手",
@@ -546,6 +571,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时17分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
         },
         {
           "title": "特朗普称美军在委内瑞拉行动中摧毁一大型设施",
@@ -761,6 +798,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
           "url": "https://flash.jin10.com/detail/20251230045346853800",
           "source": "金十数据",
@@ -794,17 +842,6 @@
           "time_info": "11时23分"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）得出了大量结论。",
           "url": "https://flash.jin10.com/detail/20251230045103260800",
           "source": "金十数据",
@@ -814,17 +851,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
-          "url": "https://flash.jin10.com/detail/20251230113213777800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "特朗普：正考虑以无能为由起诉鲍威尔",
@@ -869,17 +895,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "特朗普称哈马斯必须“短时间内”解除武装",
@@ -1072,7 +1087,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -1152,11 +1167,37 @@
           "ranks": [
             3,
             18,
-            26
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时19分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时34分]"
+          "time_info": "[11时23分 ~ 13时19分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 13时19分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -1171,18 +1212,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 05时14分]"
-        },
-        {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时34分]"
         },
         {
           "title": "东部战区发布的AI视频意味深长",
@@ -1209,6 +1238,17 @@
           "time_info": "[11时23分 ~ 12时34分]"
         },
         {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -1221,15 +1261,15 @@
           "time_info": "[11时23分 ~ 12时34分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "13时19分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -1252,17 +1292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
@@ -1290,7 +1319,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2025年12月30日 周二",
@@ -1302,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3028550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "A股商业航天概念震荡回升，硕贝德20cm涨停，雷科防务、华菱线缆、大业股份、中超控股、中国卫通、巨力索具等多股封板，航天发展、中国卫星、中天火箭等涨超8%。",
@@ -1407,8 +1447,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时19分]"
         }
       ]
     },
@@ -1430,6 +1470,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "星座",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "陶白白被逼承认射手座是最好的星座",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%B6%E7%99%BD%E7%99%BD%E8%A2%AB%E9%80%BC%E6%89%BF%E8%AE%A4%E5%B0%84%E6%89%8B%E5%BA%A7%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
