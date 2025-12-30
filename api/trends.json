@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T07:15:17.183031+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-12-30T09:08:16.691694+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 83,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -25,11 +25,23 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时08分]"
+        },
+        {
+          "title": "普京一个电话后，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -54,6 +66,28 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普称得知普京官邸遭袭很生气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普：普京说他被袭击了 我很生气",
+          "url": "https://www.toutiao.com/trending/7588848955197095963/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
           "url": "https://flash.jin10.com/detail/20251230045657980800",
           "source": "金十数据",
@@ -74,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
@@ -678,6 +723,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
           "url": "https://flash.jin10.com/detail/20251230045300641800",
           "source": "金十数据",
@@ -742,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普称哈马斯必须“短时间内”解除武装",
+          "url": "https://wallstreetcn.com/livenews/3028392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国总统特朗普：考虑向土耳其出售F-35战斗机。",
@@ -876,6 +943,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "欧洲面对特朗普的三重打击很彷徨",
+          "url": "https://www.toutiao.com/trending/7589373894662832191/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "特朗普政府将宣布面向农村卫生事业的州级拨款。",
           "url": "https://flash.jin10.com/detail/20251230000354809800",
           "source": "金十数据",
@@ -912,7 +990,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -935,8 +1013,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时08分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -965,8 +1043,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 09时08分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -977,11 +1055,23 @@
             30,
             25,
             23,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 09时08分]"
+        },
+        {
+          "title": "泰柬与AI如何影响全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -998,13 +1088,25 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "东部战区发布的AI视频意味深长",
+          "url": "https://www.toutiao.com/trending/7589159411391217700/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时08分]"
+        },
+        {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
           "url": "https://flash.jin10.com/detail/20251230062733774800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -1015,20 +1117,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
         {
-          "title": "东部战区发布的AI视频意味深长",
-          "url": "https://www.toutiao.com/trending/7589159411391217700/",
-          "source": "今日头条",
+          "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
+          "url": "https://wallstreetcn.com/livenews/3028400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时08分"
         },
         {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
@@ -1045,7 +1147,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2025年12月30日 周二",
@@ -1054,7 +1156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -1065,9 +1167,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布欧洲多国、美国12月PMI终值，国内成品油将开启新一轮调价窗口。",
+          "url": "https://flash.jin10.com/detail/20251230081105054800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
