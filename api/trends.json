@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T02:21:44.496620+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-01T03:12:21.977359+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
@@ -74,22 +74,35 @@
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
         },
         {
           "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
           "url": "https://flash.jin10.com/detail/20260101004424120800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时12分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "03时12分"
         }
       ]
     },
@@ -124,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     },
@@ -141,8 +154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     }
