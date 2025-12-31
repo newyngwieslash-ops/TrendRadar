@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T22:15:36.510065+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2025-12-31T23:15:37.592579+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时22分 ~ 22时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时22分 ~ 23时15分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -119,11 +119,12 @@
             13,
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -133,11 +134,12 @@
             9,
             10,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -202,6 +204,17 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
+          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
+          "url": "https://wallstreetcn.com/articles/3762335",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时15分]"
+        },
+        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://wallstreetcn.com/livenews/3028878",
           "source": "华尔街见闻-快讯",
@@ -250,17 +263,6 @@
           "time_info": "[12时34分 ~ 13时24分]"
         },
         {
-          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
-          "url": "https://wallstreetcn.com/articles/3762335",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
-        },
-        {
           "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
           "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
@@ -307,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "被问及是否存在AI泡沫，宇树人形机器人回答：“只有时间才能证明”",
+          "url": "https://wallstreetcn.com/livenews/3029366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
@@ -395,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "被问及是否存在AI泡沫，宇树人形机器人回答：“只有时间才能证明”",
-          "url": "https://wallstreetcn.com/livenews/3029366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
@@ -532,7 +535,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -636,17 +639,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://flash.jin10.com/detail/20251231214148176800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "李在明展示特朗普送的白宫金钥匙(图)",
           "url": "https://news.ifeng.com/c/8pWu87Onyz4",
           "source": "凤凰网",
@@ -680,6 +672,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://flash.jin10.com/detail/20251231214148176800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -718,6 +722,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://wallstreetcn.com/livenews/3029381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -740,17 +756,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://wallstreetcn.com/livenews/3029381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -781,9 +786,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)涨2.6%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://flash.jin10.com/detail/20251231223046840800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
@@ -878,8 +894,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2025年12月31日 周三",
@@ -1020,6 +1036,18 @@
           "time_info": "[02时22分 ~ 04时17分]"
         },
         {
+          "title": "马斯克没造出的机器人 稚晖君搞定了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "马斯克：正在测试Cybercab生产系统，实际量产将于4月份开始。",
           "url": "https://wallstreetcn.com/livenews/3028969",
           "source": "华尔街见闻-快讯",
@@ -1029,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
-        },
-        {
-          "title": "马斯克没造出的机器人 稚晖君搞定了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "马斯克在社交平台X上发帖称：特斯拉Model Y现在正式连续第三年成为全球最畅销的汽车！",
