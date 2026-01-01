@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:15:10.748386+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-02T07:15:21.896836+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -126,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -138,11 +138,26 @@
             8,
             10,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
+          "url": "https://flash.jin10.com/detail/20260102032453188800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 07时15分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -160,30 +175,18 @@
           "time_info": "[02时22分 ~ 06时15分]"
         },
         {
-          "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
-          "url": "https://flash.jin10.com/detail/20260102032453188800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
-        },
-        {
           "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
           "url": "https://flash.jin10.com/detail/20260102030004557800",
           "source": "金十数据",
           "ranks": [
             7,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 07时15分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -223,19 +226,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "马斯克暗示将继续资助美国共和党",
           "url": "https://flash.jin10.com/detail/20260102051812047800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
         }
       ]
     },
@@ -252,11 +256,12 @@
             7,
             18,
             21,
-            28
+            28,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     }
