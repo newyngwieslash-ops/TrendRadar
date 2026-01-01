@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:43:06.586450+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-01-01T13:22:55.217888+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时22分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -46,6 +46,19 @@
           "time_info": "05时14分"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时22分]"
+        },
+        {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
           "url": "https://flash.jin10.com/detail/20260101043557341800",
           "source": "金十数据",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -259,11 +260,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时22分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -274,8 +276,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时22分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -287,8 +289,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时22分]"
         },
         {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
@@ -299,8 +301,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时22分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时43分]"
+          "time_info": "[11时45分 ~ 13时22分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时22分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -314,28 +338,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时15分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时43分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -354,11 +356,12 @@
           "url": "https://www.toutiao.com/trending/7589927689303326763/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 13时22分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -398,8 +401,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时22分]"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
@@ -479,8 +482,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 13时22分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月1日 周四",
