@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T13:21:19.114433+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-01-02T14:24:44.858026+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时24分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时24分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 14时24分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -97,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时24分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -167,7 +167,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -295,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普承认手上瘀伤是服用药物造成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -322,8 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时24分]"
         },
         {
           "title": "马斯克暗示将继续资助美国共和党",
@@ -352,8 +363,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时24分]"
         }
       ]
     },
@@ -371,11 +382,12 @@
             18,
             21,
             28,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 14时24分]"
         }
       ]
     }
