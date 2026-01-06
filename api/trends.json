@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-07T02:22:35.338435+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-07T03:12:45.215891+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "哥伦比亚就特朗普言论向美国发出外交照会",
+          "url": "https://wallstreetcn.com/livenews/3031852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff：在乌克兰安全担保框架方面取得进展。 美方将在今明两天继续与乌克兰磋商。",
+          "url": "https://wallstreetcn.com/livenews/3031851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
         {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
@@ -30,6 +52,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
+        },
+        {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
           "source": "华尔街见闻-快讯",
@@ -42,17 +75,6 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -60,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -70,11 +92,12 @@
           "ranks": [
             11,
             22,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -82,11 +105,24 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3031823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时12分]"
         },
         {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
@@ -98,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
+          "url": "https://flash.jin10.com/detail/20260107025800176800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -150,7 +197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -175,17 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
-          "url": "https://wallstreetcn.com/livenews/3031823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -337,7 +373,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -359,6 +395,18 @@
           "time_info": "01时19分"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
+        },
+        {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3031787",
           "source": "华尔街见闻-快讯",
@@ -369,18 +417,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -444,7 +480,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -466,6 +502,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
+        },
+        {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
           "source": "财联社热门",
@@ -477,28 +525,17 @@
           "time_info": "[00时20分 ~ 02时22分]"
         },
         {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
-        },
-        {
           "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
           "url": "https://www.cls.cn/detail/2249723",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
@@ -506,11 +543,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月7日 周三",
@@ -537,8 +575,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时12分]"
         }
       ]
     }
