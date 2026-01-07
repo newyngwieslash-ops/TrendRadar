@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:19:19.842877+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2026-01-07T23:18:43.453314+08:00",
+  "total_titles_processed": 2211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 101,
       "titles": [
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -31,8 +31,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 15,
-          "time_info": "[09时09分 ~ 22时19分]"
+          "time_info": "[11时24分 ~ 23时18分]"
         },
         {
           "title": "“除掉马杜罗”，特朗普早就下了决心",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时22分 ~ 20时32分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 22时19分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -132,6 +133,18 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普不满马杜罗：他学我跳舞",
           "url": "https://v.ifeng.com/c/8piYm7L0u6z",
           "source": "凤凰网",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 16时22分]"
-        },
-        {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时19分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -228,6 +229,20 @@
           "time_info": "[00时20分 ~ 11时24分]"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -261,20 +276,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时19分]"
-        },
-        {
           "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
           "url": "https://wallstreetcn.com/livenews/3032216",
           "source": "华尔街见闻-快讯",
@@ -295,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们将永远支持北约，即使他们不会支持我们。",
+          "url": "https://flash.jin10.com/detail/20260107224637978800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -330,6 +342,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时09分 ~ 14时24分]"
+        },
+        {
+          "title": "美国总统特朗普：我怀疑如果我们真的需要北约，他们是否会站在我们这边。",
+          "url": "https://flash.jin10.com/detail/20260107224624939800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -582,6 +605,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "Critical Metals(CRML.O)一度涨15%，股价创下去年10月以来的最高水平。此前美国总统特朗普考虑收购格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260107223834328800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8D%B0%E5%BA%A6%E5%8F%91%E5%87%BA%E6%96%B0%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -701,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国总统特朗普：我怀疑，在我们需要的时候北约是否会提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3032555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
@@ -830,7 +875,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1006,7 +1051,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1020,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "Critical Metals一度涨15%，股价创去年10月以来盘中最高，此前美国总统特朗普声称考虑收购格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3032543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
@@ -1139,6 +1195,20 @@
           "time_info": "[12时35分 ~ 19时15分]"
         },
         {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 23时18分]"
+        },
+        {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
           "url": "https://wallstreetcn.com/articles/3762643",
           "source": "华尔街见闻",
@@ -1153,18 +1223,16 @@
           "time_info": "[07时15分 ~ 17时23分]"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            5,
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "time_info": "[17时22分 ~ 23时18分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -1205,18 +1273,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时35分 ~ 20时32分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 22时19分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -1288,7 +1344,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1302,6 +1358,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时18分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -1338,19 +1407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时19分]"
         },
         {
           "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
@@ -1591,6 +1647,19 @@
           "time_info": "[11时24分 ~ 16时22分]"
         },
         {
+          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
+          "url": "https://www.cls.cn/detail/2251000",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时18分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月7日 周三",
           "url": "https://flash.jin10.com/detail/20260107000000000800",
           "source": "金十数据",
@@ -1604,6 +1673,19 @@
           "time_info": "[00时20分 ~ 14时24分]"
         },
         {
+          "title": "A股14连阳",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时18分]"
+        },
+        {
           "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
           "url": "https://wallstreetcn.com/livenews/3032068",
           "source": "华尔街见闻-快讯",
@@ -1615,30 +1697,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 13时20分]"
-        },
-        {
-          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
-          "url": "https://www.cls.cn/detail/2251000",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时19分]"
-        },
-        {
-          "title": "A股14连阳",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "A股收评：沪指微涨录得14连阳",
@@ -1782,6 +1840,38 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 16时22分]"
+        },
+        {
+          "title": "马斯克称未来3-7年将非常坎坷",
+          "url": "https://www.toutiao.com/trending/7592591403385884203/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1800,23 +1890,19 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "社评",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
-          "url": "https://wallstreetcn.com/articles/3762641",
-          "source": "华尔街见闻",
+          "title": "环球时报社评：日本最应算清的，是地区和平这本大账",
+          "url": "https://wallstreetcn.com/livenews/3032551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7,
-            5,
-            4
+            19
           ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
