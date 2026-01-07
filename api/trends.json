@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T14:24:45.502536+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-01-07T15:21:18.527712+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -56,6 +56,18 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -97,16 +109,27 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时21分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -126,16 +149,18 @@
           "time_info": "[00时20分 ~ 11时24分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            8,
+            6,
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时21分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -149,17 +174,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
           "url": "https://wallstreetcn.com/livenews/3032000",
           "source": "华尔街见闻-快讯",
@@ -171,6 +185,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普：将从委内瑞拉运走数千万桶石油，哥伦比亚：美国践踏底线",
+          "url": "https://wallstreetcn.com/livenews/3032216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -180,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -241,30 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时24分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时24分]"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -456,6 +468,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
+          "url": "https://flash.jin10.com/detail/20260107145900151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "特朗普：若输中期选举 我可能被弹劾",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E8%BE%93%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE+%E6%88%91%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%BC%B9%E5%8A%BE",
           "source": "百度热搜",
@@ -495,7 +518,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -638,9 +661,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美参院民主党领袖批评：涉对委行动，特朗普政府“一问四不知”",
+          "url": "https://wallstreetcn.com/livenews/3032192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -715,7 +749,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -899,7 +933,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "为何说AI抢走了你的内存",
@@ -913,6 +947,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时17分 ~ 09时09分]"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 15时21分]"
         },
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -940,15 +986,17 @@
           "time_info": "[12时35分 ~ 14时24分]"
         },
         {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 15时21分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -963,19 +1011,6 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 14时24分]"
-        },
-        {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
           "url": "https://flash.jin10.com/detail/20260107010109299800",
           "source": "金十数据",
@@ -987,6 +1022,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",
+          "url": "https://wallstreetcn.com/livenews/3032214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
           "url": "https://wallstreetcn.com/livenews/3031938",
           "source": "华尔街见闻-快讯",
@@ -996,6 +1042,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时21分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -1032,19 +1092,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时24分]"
         },
         {
           "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
@@ -1091,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -1206,7 +1264,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -1248,6 +1306,19 @@
           "time_info": "[00时20分 ~ 02时22分]"
         },
         {
+          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
+          "url": "https://www.cls.cn/detail/2249957",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时21分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月7日 周三",
           "url": "https://flash.jin10.com/detail/20260107000000000800",
           "source": "金十数据",
@@ -1272,19 +1343,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 13时20分]"
-        },
-        {
-          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
-          "url": "https://www.cls.cn/detail/2249957",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时24分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
@@ -1318,7 +1376,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -1329,7 +1387,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -1354,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "A股油气股局部异动，山东墨龙直线触板，科力股份、准油股份、通源石油等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3032187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
@@ -1413,8 +1482,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 14时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 15时21分]"
         }
       ]
     }
