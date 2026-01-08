@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:37:01.784951+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2026-01-08T22:20:24.272211+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 98,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时34分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -82,11 +82,12 @@
             15,
             12,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 22时20分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -114,6 +115,18 @@
           "time_info": "[00时22分 ~ 07时15分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
           "url": "https://www.zhihu.com/question/1991444028256907311",
           "source": "知乎",
@@ -126,16 +139,18 @@
           "time_info": "[12时34分 ~ 19时16分]"
         },
         {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            12,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 22时20分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -159,7 +174,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -220,17 +235,15 @@
           "time_info": "16时22分"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            12,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时20分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -293,15 +306,16 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时20分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -387,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -636,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -1136,7 +1150,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1208,11 +1222,12 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时20分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -1224,6 +1239,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "CrowdStrike按7.4亿美元收购AI安全初创公司SGNL。",
+          "url": "https://wallstreetcn.com/livenews/3033383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
+          "url": "https://www.cls.cn/detail/2251790",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时20分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -1272,18 +1311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
-          "url": "https://www.cls.cn/detail/2251790",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -1339,7 +1366,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1361,7 +1388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1706,7 +1733,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -1720,8 +1747,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 22时20分]"
         },
         {
           "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
@@ -1748,6 +1775,17 @@
           "time_info": "[20时31分 ~ 20时32分]"
         },
         {
+          "title": "马斯克建议美国该做的事中国都完成了",
+          "url": "https://www.toutiao.com/trending/7591779071483346990/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
           "url": "https://www.cls.cn/detail/2251127",
           "source": "财联社热门",
@@ -1770,11 +1808,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时20分]"
         },
         {
           "title": "霸王茶姬舆论危机不断",
