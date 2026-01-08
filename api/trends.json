@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:18:22.404438+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-08T19:16:34.171297+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 19时16分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时25分 ~ 18时18分]"
+          "time_info": "[12时34分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -43,20 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时15分 ~ 15时20分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 18时18分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -108,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 19时16分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -120,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时34分 ~ 19时16分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -268,6 +268,17 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时16分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -291,17 +302,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时20分 ~ 17时22分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -386,6 +386,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时23分]"
+        },
+        {
+          "title": "特朗普称美将持续多年管理委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3033213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -494,6 +506,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普称2027年军费预算1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "特朗普：我将呼吁美国国会将其编入法典。",
@@ -653,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普称美将持续多年管理委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3033213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
@@ -837,7 +850,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -851,17 +864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普称2027年军费预算1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
@@ -928,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡取消了原定于今天对约旦河西岸的访问，转而与特朗普任命的加沙和平委员会新任主席尼古拉·姆拉德诺夫（Nikolay Mladenov）会面。",
+          "url": "https://flash.jin10.com/detail/20260108182040235800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "哥伦比亚总统佩特罗要求特朗普恢复两国之间的沟通。 佩特罗称，与特朗普讨论了毒品走私和委内瑞拉问题。",
@@ -1002,7 +1015,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1087,7 +1100,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1236,6 +1249,17 @@
           "time_info": "[11时25分 ~ 12时34分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
@@ -1259,6 +1283,28 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "晨星：估值重塑与AI动能共振 降息预期点燃亚洲增长引擎",
+          "url": "https://flash.jin10.com/detail/20260108184723110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "逃离AI估值高地：华尔街策略师集体转向 中产消费股或成2026领头羊",
+          "url": "https://flash.jin10.com/detail/20260108184446865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
           "url": "https://www.cls.cn/detail/2251507",
           "source": "财联社热门",
@@ -1268,17 +1314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
@@ -1342,7 +1377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1440,6 +1475,18 @@
           "time_info": "[13时20分 ~ 14时25分]"
         },
         {
+          "title": "今天A股发生了这些变化",
+          "url": "https://www.toutiao.com/trending/7591811735389405238/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
           "url": "https://wallstreetcn.com/livenews/3032891",
           "source": "华尔街见闻-快讯",
@@ -1450,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时34分]"
-        },
-        {
-          "title": "今天A股发生了这些变化",
-          "url": "https://www.toutiao.com/trending/7591811735389405238/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "A股半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
@@ -1480,7 +1516,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1511,8 +1547,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时16分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -1577,8 +1613,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时16分]"
         },
         {
           "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
