@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T20:32:14.766628+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-01-08T21:37:01.784951+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -81,11 +81,12 @@
             14,
             15,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 21时37分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -125,6 +126,18 @@
           "time_info": "[12时34分 ~ 19时16分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普提出将美军费提至1.5万亿美元",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "bilibili 热搜",
@@ -138,6 +151,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 16时22分]"
+        },
+        {
+          "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
+          "url": "https://flash.jin10.com/detail/20260108211933533800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -209,18 +233,6 @@
           "time_info": "[13时20分 ~ 16时22分]"
         },
         {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时32分]"
-        },
-        {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
           "url": "https://flash.jin10.com/detail/20260108024142434800",
           "source": "金十数据",
@@ -279,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -366,15 +389,15 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -1113,7 +1136,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1179,6 +1202,19 @@
           "time_info": "[11时25分 ~ 17时22分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 21时37分]"
+        },
+        {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
           "url": "https://wallstreetcn.com/livenews/3032745",
           "source": "华尔街见闻-快讯",
@@ -1238,16 +1274,16 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
+          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
+          "url": "https://www.cls.cn/detail/2251790",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
+          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -1274,17 +1310,6 @@
           "time_info": "[11时25分 ~ 12时34分]"
         },
         {
-          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
-          "url": "https://www.cls.cn/detail/2251790",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
@@ -1308,6 +1333,17 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "谷歌：在Gmail中引入新的AI功能。",
+          "url": "https://wallstreetcn.com/livenews/3033344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "晨星：估值重塑与AI动能共振 降息预期点燃亚洲增长引擎",
           "url": "https://flash.jin10.com/detail/20260108184723110800",
           "source": "金十数据",
@@ -1317,6 +1353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在Gmail中引入新的AI功能。",
+          "url": "https://flash.jin10.com/detail/20260108210752777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "逃离AI估值高地：华尔街策略师集体转向 中产消费股或成2026领头羊",
@@ -1347,7 +1394,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1402,7 +1449,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1553,7 +1600,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1673,8 +1720,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 21时37分]"
         },
         {
           "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
@@ -1722,11 +1769,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32341981",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "霸王茶姬舆论危机不断",
