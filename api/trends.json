@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:15:10.027743+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2026-01-09T20:32:05.106306+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 149,
+      "match_count": 153,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -55,11 +55,25 @@
             11,
             8,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 20时32分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -81,24 +95,12 @@
           "ranks": [
             6,
             7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时15分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             8,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -183,15 +196,27 @@
           "time_info": "[11时25分 ~ 18时17分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
           "ranks": [
+            10,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -206,16 +231,16 @@
           "time_info": "[09时10分 ~ 15时21分]"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
           "ranks": [
-            10,
-            1
+            9,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "time_info": "[18时17分 ~ 20时32分]"
         },
         {
           "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
@@ -294,7 +319,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -334,29 +359,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
           "url": "https://news.ifeng.com/c/8pls4YBnj3I",
           "source": "凤凰网",
@@ -367,6 +369,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 17时22分]"
+        },
+        {
+          "title": "贵金属关税倒计时？特朗普的关税B计划丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260109200806791800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
@@ -582,6 +595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -960,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普住房禁令引发行业疑虑 建筑商担忧“租赁房”业务受阻",
+          "url": "https://flash.jin10.com/detail/20260109195909971800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普再次就骚乱事件对伊朗发出威胁",
@@ -1666,6 +1701,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "特朗普称他认为自己始终会与欧洲相处融洽，拥有格陵兰具有心理层面的重要意义。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3034077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
           "url": "https://flash.jin10.com/detail/20260109022812663800",
           "source": "金十数据",
@@ -1750,6 +1796,17 @@
           "time_info": "[01时22分 ~ 09时10分]"
         },
         {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
@@ -1760,6 +1817,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 04时17分]"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -1792,26 +1860,33 @@
           "time_info": "[09时10分 ~ 15时21分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            9,
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
           "ranks": [
-            4
+            12,
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时32分]"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -1825,6 +1900,18 @@
           "time_info": "09时10分"
         },
         {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
           "url": "https://news.ifeng.com/c/8piRkGGmo9f",
           "source": "凤凰网",
@@ -1834,20 +1921,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
-        },
-        {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
@@ -1884,31 +1957,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时15分 ~ 09时10分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时15分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
