@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:14:33.075598+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-01-11T23:14:50.472985+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -31,20 +31,6 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时45分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普：很快打击墨西哥境内",
           "url": "https://wallstreetcn.com/articles/3763023",
           "source": "华尔街见闻",
@@ -60,6 +46,21 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[04时15分 ~ 19时13分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            6,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 23时14分]"
         },
         {
           "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
@@ -87,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时42分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 23时14分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -206,11 +207,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时14分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -317,17 +319,6 @@
           "time_info": "15时16分"
         },
         {
-          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
-          "url": "https://flash.jin10.com/detail/20260111220151159800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
           "url": "https://wallstreetcn.com/articles/3762989",
           "source": "华尔街见闻",
@@ -373,16 +364,43 @@
           "time_info": "09时16分"
         },
         {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时14分]"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
+          "url": "https://flash.jin10.com/detail/20260111195052467800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普：将不会再有石油或资金流入古巴",
           "url": "https://wallstreetcn.com/livenews/3034737",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
@@ -398,6 +416,32 @@
           "time_info": "[19时13分 ~ 21时27分]"
         },
         {
+          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
+          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时14分]"
+        },
+        {
+          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260111203059463800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时14分]"
+        },
+        {
           "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
           "url": "https://flash.jin10.com/detail/20260111163438424800",
           "source": "金十数据",
@@ -411,21 +455,8 @@
           "time_info": "[17时15分 ~ 19时13分]"
         },
         {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
-          "url": "https://flash.jin10.com/detail/20260111195052467800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
-          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
+          "url": "https://flash.jin10.com/detail/20260111220151159800",
           "source": "金十数据",
           "ranks": [
             2,
@@ -433,7 +464,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
+          "time_info": "[22时14分 ~ 23时14分]"
         },
         {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
@@ -461,17 +492,6 @@
           "time_info": "[11时45分 ~ 13时21分]"
         },
         {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时14分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
           "url": "https://flash.jin10.com/detail/20260111175613540800",
           "source": "金十数据",
@@ -482,18 +502,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
-          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260111203059463800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -508,6 +516,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时14分 ~ 12时42分]"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时14分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -548,17 +570,17 @@
           "time_info": "[11时45分 ~ 13时21分]"
         },
         {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
-          "url": "https://wallstreetcn.com/livenews/3034723",
+          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
+          "url": "https://wallstreetcn.com/livenews/3034734",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15,
-            18
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时14分]"
+          "time_info": "[21时27分 ~ 23时14分]"
         },
         {
           "title": "特朗普自称从不觉得快乐 直至让美国再次伟大",
@@ -634,18 +656,6 @@
           "time_info": "[15时16分 ~ 17时15分]"
         },
         {
-          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
-          "url": "https://wallstreetcn.com/livenews/3034734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
-        },
-        {
           "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
           "url": "https://news.ifeng.com/c/8ppArIDCETK",
           "source": "凤凰网",
@@ -717,7 +727,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -733,8 +743,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时20分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[13时20分 ~ 23时14分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -767,8 +777,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时13分 ~ 22时14分]"
+          "appearance_count": 25,
+          "time_info": "[01时13分 ~ 23时14分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -782,11 +792,12 @@
             25,
             23,
             19,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 23时14分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -800,8 +811,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -825,8 +836,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 23时14分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时15分 ~ 23时14分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -839,18 +862,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时16分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 22时14分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -892,6 +903,21 @@
           "time_info": "[11时45分 ~ 16时19分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 23时14分]"
+        },
+        {
           "title": "AI时代还有学画画的必要吗",
           "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
           "source": "百度热搜",
@@ -923,18 +949,15 @@
           "time_info": "[09时16分 ~ 14时22分]"
         },
         {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
           "ranks": [
-            17,
-            20,
-            19,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 22时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
@@ -998,6 +1021,17 @@
           "time_info": "[16时19分 ~ 17时15分]"
         },
         {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "如何看待《英雄联盟》韩服出现神秘玩家，疑似马斯克的 AI（Grok），两天时间 93% 胜率杀进前三？",
           "url": "https://www.zhihu.com/question/1993676340092691102",
           "source": "知乎",
@@ -1056,11 +1090,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时45分 ~ 22时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 23时14分]"
         },
         {
           "title": "马斯克：X平台将于七天内开源其算法",
@@ -1124,11 +1159,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -1142,8 +1178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 23时14分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -1238,8 +1274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 22时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 23时14分]"
         }
       ]
     }
