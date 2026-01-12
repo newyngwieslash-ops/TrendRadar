@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T04:18:17.507132+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-13T05:15:21.477818+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -71,8 +71,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -86,37 +86,27 @@
           "time_info": "02时23分"
         },
         {
-          "title": "辉瑞：白宫愿意在外国药品价格问题上提供帮助。 乐观预计白宫确定性“已经被甩在身后”。 医药行业CEO们应该与美国总统特朗普接触。",
-          "url": "https://wallstreetcn.com/livenews/3035549",
+          "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
-          "url": "https://flash.jin10.com/detail/20260113034434452800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "05时15分"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
           "url": "https://www.toutiao.com/trending/7594282363073334847/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时15分]"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -143,6 +133,30 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
+          "title": "辉瑞：白宫愿意在外国药品价格问题上提供帮助。 乐观预计白宫确定性“已经被甩在身后”。 医药行业CEO们应该与美国总统特朗普接触。",
+          "url": "https://wallstreetcn.com/livenews/3035549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
+          "url": "https://flash.jin10.com/detail/20260113034434452800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
           "title": "美国参议院共和党成员Lisa Murkowski置评美联储主席鲍威尔、美联储、以及国会山，称：为回应司法部调查鲍威尔的做法，支持共和党参议员Thom Tillis在参议院银行委员会投票反对任何美联储提名人的决定。 今天与鲍威尔对话，（总统）特朗普政府的（刑事）调查让人感到担忧。",
           "url": "https://wallstreetcn.com/livenews/3035454",
           "source": "华尔街见闻-快讯",
@@ -155,6 +169,18 @@
           "time_info": "[00时21分 ~ 01时19分]"
         },
         {
+          "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
+          "url": "https://flash.jin10.com/detail/20260113032445731800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
           "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3035527",
           "source": "华尔街见闻-快讯",
@@ -165,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3035545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
         },
         {
           "title": "据AXIOS：美国财长贝森特并未质疑对美联储主席鲍威尔展开调查的必要性，也未在与美国总统特朗普的谈话中为美联储主席辩护。",
@@ -191,6 +229,18 @@
           "time_info": "[02时23分 ~ 03时17分]"
         },
         {
+          "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
+          "url": "https://wallstreetcn.com/livenews/3035537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普在吞并格陵兰岛方面并没有时间表。",
           "url": "https://wallstreetcn.com/livenews/3035521",
           "source": "华尔街见闻-快讯",
@@ -201,6 +251,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "美国正在研究伊朗提出的外交手段解决问题的建议。 副总统万斯要求总统特朗普设法与伊朗通过外交途径解决问题。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时15分]"
         },
         {
           "title": "白宫：特朗普并没有授意司法部调查鲍威尔",
@@ -239,26 +301,15 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
-          "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
-          "url": "https://flash.jin10.com/detail/20260113032445731800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3035545",
+          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3035564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "05时15分"
         },
         {
           "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
@@ -267,9 +318,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
+          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
@@ -278,7 +340,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -292,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
-          "url": "https://wallstreetcn.com/livenews/3035537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         },
         {
           "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
@@ -327,15 +378,15 @@
           "time_info": "01时19分"
         },
         {
-          "title": "美国正在研究伊朗提出的外交手段解决问题的建议。 副总统万斯要求总统特朗普设法与伊朗通过外交途径解决问题。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035535",
+          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
+          "url": "https://wallstreetcn.com/livenews/3035556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "05时15分"
         },
         {
           "title": "白宫官员：美国总统特朗普将于周四会见委内瑞拉反对派领导人。",
@@ -360,6 +411,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普施压美联储引发担忧 债券巨头称利率或反而上行",
+          "url": "https://wallstreetcn.com/livenews/3035552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
           "url": "https://flash.jin10.com/detail/20260113022137220800",
           "source": "金十数据",
@@ -380,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美联储主席潜在候选人、贝莱德首席投资官Rick Rieder：关于与特朗普会面讨论美联储主席职位的报道基本属实。",
+          "url": "https://flash.jin10.com/detail/20260113041443122800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
@@ -506,7 +579,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -517,8 +590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -528,8 +601,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -540,8 +613,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -551,8 +624,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -563,8 +636,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -576,19 +649,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -598,8 +660,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -613,8 +675,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -624,11 +686,12 @@
             24,
             22,
             28,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -638,8 +701,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 05时15分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -666,15 +751,37 @@
           "time_info": "[02时23分 ~ 03时17分]"
         },
         {
-          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
-          "source": "澎湃新闻",
+          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 04时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
+          "url": "https://flash.jin10.com/detail/20260113044327822800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
+          "url": "https://flash.jin10.com/detail/20260113044010049800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -719,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -734,8 +852,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
@@ -746,8 +864,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -758,19 +876,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "A股16连阳，港股为何不涨？",
-          "url": "https://wallstreetcn.com/articles/3763061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "李大霄解读A股成交额创历史",
@@ -780,11 +887,23 @@
             10,
             12,
             13,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
+        },
+        {
+          "title": "A股16连阳，港股为何不涨？",
+          "url": "https://wallstreetcn.com/articles/3763061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "A股涨疯了一天创2项纪录",
@@ -797,8 +916,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月13日 周二",
@@ -860,7 +979,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
