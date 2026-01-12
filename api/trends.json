@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:20:18.278987+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-01-12T23:20:45.878823+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -19,6 +19,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时44分 ~ 21时38分]"
+        },
+        {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时26分 ~ 23时20分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时26分 ~ 23时20分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -44,30 +68,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 22时20分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 22时20分]"
         },
         {
           "title": "特朗普，又要“抢东西”？",
@@ -203,8 +203,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时20分]"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时20分]"
+        },
+        {
+          "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3035435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -233,19 +270,6 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时20分]"
-        },
-        {
           "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260112180850351800",
           "source": "金十数据",
@@ -255,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时32分 ~ 22时20分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -381,6 +394,18 @@
           "time_info": "[17时27分 ~ 18时20分]"
         },
         {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
           "url": "https://flash.jin10.com/detail/20260111203618040800",
           "source": "金十数据",
@@ -425,18 +450,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时25分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 22时20分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -565,6 +578,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国总统特朗普：是我拯救了北约。",
           "url": "https://flash.jin10.com/detail/20260112205617931800",
           "source": "金十数据",
@@ -582,7 +606,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -626,7 +650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -648,7 +672,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -725,7 +749,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -810,7 +834,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -832,8 +856,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 23时20分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -845,8 +869,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -906,8 +930,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时16分 ~ 22时20分]"
+          "appearance_count": 29,
+          "time_info": "[00时16分 ~ 23时20分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -972,8 +996,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 23时20分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -1061,11 +1085,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -1080,8 +1105,21 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 23时20分]"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时38分]"
+          "time_info": "[19时15分 ~ 23时20分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -1098,16 +1136,17 @@
           "time_info": "[09时12分 ~ 13时25分]"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
           "source": "财联社热门",
           "ranks": [
-            10,
+            13,
+            12,
             9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时20分]"
+          "time_info": "[20时32分 ~ 23时20分]"
         },
         {
           "title": "AI会取代演员吗",
@@ -1125,6 +1164,29 @@
           "time_info": "[12时44分 ~ 18时20分]"
         },
         {
+          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
           "url": "https://wallstreetcn.com/livenews/3034762",
           "source": "华尔街见闻-快讯",
@@ -1137,18 +1199,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时14分]"
-        },
-        {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时32分 ~ 22时20分]"
         },
         {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
@@ -1211,17 +1261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 15时22分]"
-        },
-        {
-          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
-          "url": "https://www.cls.cn/detail/2255330",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -1293,6 +1332,18 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时20分]"
+        },
+        {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
@@ -1302,6 +1353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
@@ -1321,7 +1383,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1425,15 +1487,15 @@
           "time_info": "19时15分"
         },
         {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "张文宏：我拒绝把AI引入医院病历系统，医生需要训练专业诊断能力",
+          "url": "https://wallstreetcn.com/livenews/3035404",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "23时20分"
         },
         {
           "title": "恒为科技：公司关注到近期AI应用概念市场热度较高，公司不涉及AI应用相关业务。",
@@ -1450,7 +1512,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -1477,8 +1539,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时44分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[11时44分 ~ 23时20分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -1498,11 +1560,12 @@
           "ranks": [
             22,
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -1514,8 +1577,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时25分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[13时25分 ~ 23时20分]"
         },
         {
           "title": "A股成交额破纪录",
@@ -1545,6 +1608,17 @@
           "time_info": "[12时44分 ~ 18时20分]"
         },
         {
+          "title": "A股成交额突破3.47万亿元，刷新A股单日成交额纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366797",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "A股实现17连阳",
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%AE%9E%E7%8E%B017%E8%BF%9E%E9%98%B3",
           "source": "bilibili 热搜",
@@ -1559,39 +1633,18 @@
           "time_info": "[17时26分 ~ 22时20分]"
         },
         {
-          "title": "A股成交额突破3.47万亿元，刷新A股单日成交额纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366797",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
           "title": "李大霄解读A股成交额创历史",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
             4,
             7,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时32分 ~ 22时20分]"
-        },
-        {
-          "title": "业内：A股新一轮大牛市已展开",
-          "url": "https://www.toutiao.com/trending/7593989488788668435/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时20分]"
         },
         {
           "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
@@ -1600,11 +1653,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时20分]"
         },
         {
           "title": "A股成交刷新纪录",
@@ -1696,6 +1750,18 @@
           "time_info": "[11时44分 ~ 15时22分]"
         },
         {
+          "title": "业内：A股新一轮大牛市已展开",
+          "url": "https://www.toutiao.com/trending/7593989488788668435/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月12日 周一",
           "url": "https://flash.jin10.com/detail/20260112000000001800",
           "source": "金十数据",
@@ -1722,6 +1788,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[20时32分 ~ 22时20分]"
+        },
+        {
+          "title": "A股创新高的原因找到了",
+          "url": "https://www.douyin.com/hot/2365678",
+          "source": "抖音",
+          "ranks": [
+            25,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时20分]"
         },
         {
           "title": "4100点之上A股如何掘金",
@@ -1758,18 +1837,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 11时44分]"
-        },
-        {
-          "title": "A股创新高的原因找到了",
-          "url": "https://www.douyin.com/hot/2365678",
-          "source": "抖音",
-          "ranks": [
-            25,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 22时20分]"
         },
         {
           "title": "A股创新高的原因找到了",
@@ -1953,6 +2020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "A股涨疯了一天创2项纪录",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B6%A8%E7%96%AF%E4%BA%86%E4%B8%80%E5%A4%A9%E5%88%9B2%E9%A1%B9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -2093,7 +2171,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
