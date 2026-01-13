@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T16:22:36.385184+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-01-13T17:23:18.966594+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -59,11 +59,12 @@
           "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时23分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -127,8 +128,48 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时23分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时22分]"
+          "time_info": "[11时24分 ~ 17时23分]"
+        },
+        {
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 17时23分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 17时23分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -145,43 +186,17 @@
           "time_info": "[09时06分 ~ 16时22分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7
+            16,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时24分 ~ 16时22分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 16时22分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 16时22分]"
+          "time_info": "[12时35分 ~ 17时23分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -232,16 +247,26 @@
           "time_info": "[11时24分 ~ 15时21分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "美国两州把特朗普政府告了",
+          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -507,6 +532,17 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
+          "title": "圆脸解读特朗普格陵兰岛言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "委内瑞拉回应特朗普自称代总统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -612,7 +648,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -626,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://wallstreetcn.com/livenews/3035973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -898,7 +945,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -939,7 +986,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -963,8 +1010,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 17时23分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -1061,8 +1108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 17时23分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -1081,8 +1128,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 17时23分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -1132,11 +1179,12 @@
             11,
             16,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 17时23分]"
         },
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -1152,15 +1200,40 @@
           "time_info": "[09时06分 ~ 13时21分]"
         },
         {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
           "url": "https://flash.jin10.com/detail/20260113161050388800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时23分]"
         },
         {
           "title": "如何看待马斯克AI预言",
@@ -1215,17 +1288,16 @@
           "time_info": "[13时21分 ~ 14时24分]"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            11,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时22分]"
+          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
@@ -1236,19 +1308,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时22分]"
-        },
-        {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -1285,6 +1346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
+        },
+        {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时23分]"
         },
         {
           "title": "辉瑞计划在所有业务中加强AI的应用。",
@@ -1355,15 +1428,26 @@
           "time_info": "05时15分"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
+          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
+          "url": "https://www.cls.cn/detail/2255684",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "17时23分"
+        },
+        {
+          "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
+          "url": "https://www.cls.cn/detail/2255885",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -1408,6 +1492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
@@ -1479,7 +1574,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股成交额突破3.47万亿元，刷新A股单日成交额纪录",
@@ -1561,6 +1656,17 @@
           "time_info": "[00时20分 ~ 07时13分]"
         },
         {
+          "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
+          "url": "https://wallstreetcn.com/articles/3763139",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "A股成交额再创历史新高，创业板跌超2%，商业航天集体回调，新“易中天”继续拉升，恒科指跌0.3，医药生物反弹，碳酸锂涨7%",
           "url": "https://wallstreetcn.com/articles/3763139",
           "source": "华尔街见闻",
@@ -1593,8 +1699,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "A股午盘：沪深两市成交额超2.4万亿",
@@ -1620,6 +1726,17 @@
           "time_info": "[12时35分 ~ 13时21分]"
         },
         {
+          "title": "A股终结17连阳",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BB%88%E7%BB%9317%E8%BF%9E%E9%98%B3%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时23分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年1月13日 周二",
           "url": "https://flash.jin10.com/detail/20260113000000000800",
           "source": "金十数据",
@@ -1641,17 +1758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "A股终结17连阳",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BB%88%E7%BB%9317%E8%BF%9E%E9%98%B3%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "A股收盘：创业板指跌近2%，全市场成交近3.7万亿",
@@ -1712,18 +1818,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时23分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1736,8 +1843,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时23分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -1772,6 +1879,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时20分 ~ 16时22分]"
+        },
+        {
+          "title": "谷歌今年将在越南研发并生产高端手机。",
+          "url": "https://flash.jin10.com/detail/20260113170321463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1883,7 +2001,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -1974,6 +2092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "马斯克的能源焦虑与“中国震撼”",
+          "url": "https://www.toutiao.com/trending/7594711705578376747/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
