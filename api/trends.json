@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:21:41.287379+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-01-14T16:22:25.285863+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 104,
+      "match_count": 108,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -85,11 +85,24 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时22分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -103,18 +116,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
           "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
@@ -126,6 +127,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时42分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时22分]"
         },
         {
           "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
@@ -170,19 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -1050,9 +1051,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "特朗普称美不需要墨西哥加拿大产品",
+          "url": "https://www.toutiao.com/trending/7594680110679261193/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
@@ -1154,6 +1166,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普对伊朗发出威胁，外交部：反对外部势力干涉一国内政",
+          "url": "https://wallstreetcn.com/livenews/3036769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
           "url": "https://flash.jin10.com/detail/20260114021023648800",
           "source": "金十数据",
@@ -1187,6 +1210,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1196,12 +1230,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普疑对工人爆粗口并竖中指",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E5%AF%B9%E5%B7%A5%E4%BA%BA%E7%88%86%E7%B2%97%E5%8F%A3%E5%B9%B6%E7%AB%96%E4%B8%AD%E6%8C%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1232,6 +1277,19 @@
           "time_info": "[00时23分 ~ 12时42分]"
         },
         {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时11分 ~ 16时22分]"
+        },
+        {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
@@ -1242,18 +1300,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 15时21分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1310,6 +1356,21 @@
           "time_info": "[00时23分 ~ 07时15分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时22分]"
+        },
+        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
@@ -1338,20 +1399,6 @@
           "time_info": "[09时11分 ~ 14时24分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时21分]"
-        },
-        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
@@ -1362,8 +1409,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时22分]"
         },
         {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
@@ -1375,6 +1422,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时22分]"
         },
         {
           "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
@@ -1399,19 +1471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时42分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时21分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1445,6 +1504,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "报道：SK海力士停产消费级存储器 资源转向B2B与AI服务器市场",
+          "url": "https://wallstreetcn.com/livenews/3036802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -1489,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
@@ -1538,7 +1630,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -1550,8 +1642,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时22分]"
         },
         {
           "title": "A股三大指数集体跳水翻绿，全市场超3000家个股下跌。",
@@ -1563,6 +1655,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
+          "url": "https://www.cls.cn/detail/2257341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时22分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月14日 周三",
@@ -1614,15 +1718,15 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
-          "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
-          "url": "https://www.cls.cn/detail/2257341",
-          "source": "财联社热门",
+          "title": "A股收评：沪指冲高回落跌0.31%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E8%B7%8C0.31%25",
+          "source": "百度热搜",
           "ranks": [
-            7
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时22分"
         },
         {
           "title": "A股算力租赁概念午后走高，宏景科技20cm涨停，润泽科技涨超10%，铜牛信息、中富通、并行科技、奥飞数据、首都在线跟涨。",
@@ -1667,6 +1771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "融资保证金比例历次调整A股走势如何",
+          "url": "https://www.toutiao.com/trending/7595075608120754218/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国11月零售销售月率，国新办将就2025年全年进出口情况举行新闻发布会。",
@@ -1716,11 +1831,12 @@
             8,
             9,
             6,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时22分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1759,7 +1875,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
