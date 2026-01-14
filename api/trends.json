@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:16:09.691841+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-01-15T04:15:37.172885+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "浙江用AI抓出贪官",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -50,11 +50,12 @@
           "ranks": [
             23,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 04时15分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -64,21 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -87,11 +75,26 @@
           "ranks": [
             29,
             20,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -102,8 +105,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 04时15分]"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -113,19 +138,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 04时15分]"
         },
         {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 04时15分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -173,6 +199,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260115040115164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "加州总检察长：我们要求xAI就其阻止深度伪造内容生成与传播的计划立即作出回应。",
@@ -225,7 +273,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -233,7 +281,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -243,8 +291,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -256,8 +304,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -282,6 +341,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
+          "url": "https://wallstreetcn.com/livenews/3037276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
           "url": "https://wallstreetcn.com/livenews/3037215",
           "source": "华尔街见闻-快讯",
@@ -292,6 +362,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时25分]"
+        },
+        {
+          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
+          "url": "https://wallstreetcn.com/livenews/3037256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时15分]"
+        },
+        {
+          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
+          "url": "https://flash.jin10.com/detail/20260115040624036800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
+          "url": "https://flash.jin10.com/detail/20260115040402898800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
+          "url": "https://wallstreetcn.com/livenews/3037268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -305,15 +420,48 @@
           "time_info": "00时22分"
         },
         {
-          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
-          "url": "https://wallstreetcn.com/livenews/3037256",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260115040309665800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
+          "url": "https://flash.jin10.com/detail/20260115040252991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普签署关键矿物行政命令。",
+          "url": "https://flash.jin10.com/detail/20260115040151639800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
+          "url": "https://flash.jin10.com/detail/20260115040150606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -385,8 +533,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
+        },
+        {
+          "title": "A股调整融资保证金有何影响",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时15分]"
         },
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -398,18 +559,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时23分]"
-        },
-        {
-          "title": "A股调整融资保证金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
         }
       ]
     },
