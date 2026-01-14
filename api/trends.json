@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:37:02.393863+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2026-01-14T22:20:27.634347+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 123,
+      "match_count": 124,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -30,6 +30,18 @@
           "time_info": "[00时23分 ~ 07时15分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 22时20分]"
+        },
+        {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3763132",
           "source": "华尔街见闻",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -79,6 +79,22 @@
           "time_info": "[11时42分 ~ 21时37分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -101,21 +117,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -200,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "花旗：期待与美国总统特朗普在可负担性方面展开合作。",
+          "url": "https://flash.jin10.com/detail/20260114215311366800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
@@ -706,7 +718,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -959,7 +971,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1322,7 +1334,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1418,7 +1430,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1437,11 +1449,29 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 22时20分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时42分 ~ 22时20分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -1461,20 +1491,17 @@
           "time_info": "[00时23分 ~ 12时42分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
             8,
-            7,
             6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时42分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 22时20分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
@@ -1488,19 +1515,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时11分 ~ 17时23分]"
-        },
-        {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 21时37分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -1545,8 +1559,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时19分 ~ 22时20分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1587,8 +1601,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 20时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 22时20分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -1614,8 +1628,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 22时20分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1778,7 +1792,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1803,6 +1817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "正研发新一代豆包AI耳机？字节回应",
+          "url": "https://wallstreetcn.com/livenews/3037089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "中信证券：AI医疗开启商业化，加速重构十万亿级医药市场",
@@ -1855,7 +1880,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1933,8 +1958,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时21分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 22时20分]"
         },
         {
           "title": "2026年投资日历来了！12图锁定全年财经大事",
@@ -1947,8 +1972,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 21时37分]"
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 22时20分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -1958,11 +1983,12 @@
             10,
             4,
             12,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 22时20分]"
         },
         {
           "title": "融资保证金比例历次调整A股走势如何",
@@ -2233,8 +2259,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "马斯克：不知悉GROK生成不雅图像的情况。当被要求生成图像时，GROK会拒绝生成任何违法的内容。",
+          "url": "https://flash.jin10.com/detail/20260114214707184800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
         {
           "title": "马斯克：特斯拉将于2月14日之后停止销售FSD一次性买断方案，此后，FSD将仅以月度订阅方式提供。",
           "url": "https://flash.jin10.com/detail/20260114143258552800",
