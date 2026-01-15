@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:31:47.893109+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2026-01-15T21:36:10.616200+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时34分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 21时36分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -44,18 +56,6 @@
           "time_info": "[00时22分 ~ 04时15分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
           "url": "https://wallstreetcn.com/articles/3763310",
           "source": "华尔街见闻",
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 21时36分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时15分 ~ 09时08分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时36分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时08分 ~ 15时21分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
         },
         {
           "title": "韩国官员：若法院对特朗普的关税裁决不利 韩国将寻求“最佳”应对方案",
@@ -138,6 +138,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普：如果明尼苏达州的腐败政客不遵守法律，不阻止职业煽动者和叛乱分子攻击美国移民及海关执法局（ICE）的爱国者们（他们只是在履行职责），我将启动《叛乱法》，许多总统都曾这样做过。",
+          "url": "https://flash.jin10.com/detail/20260115210550321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
           "url": "https://wallstreetcn.com/livenews/3037193",
           "source": "华尔街见闻-快讯",
@@ -147,6 +158,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时36分]"
         },
         {
           "title": "克里姆林宫就特朗普称泽连斯基阻挠乌克兰和平协议一事回应：特朗普说得对。",
@@ -206,18 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "委内瑞拉代总统和特朗普通话",
@@ -363,6 +374,17 @@
           "time_info": "[12时35分 ~ 13时21分]"
         },
         {
+          "title": "美国总统特朗普威胁在明尼苏达州动用《叛乱法案》。",
+          "url": "https://flash.jin10.com/detail/20260115210504906800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普邀请记者喝放了5天的牛奶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -468,7 +490,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -627,6 +649,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "特朗普政府考虑聘请私人安保承包商来保护委内瑞拉的石油资产",
+          "url": "https://flash.jin10.com/detail/20260115204849478800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "未排除动武可能，特朗普称将“观望”伊朗局势发展",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -666,7 +699,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -710,9 +743,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "两位知情人士透露，特朗普政府正准备利用私人军事承包商来保护委内瑞拉的石油和能源资产，而不是部署美军。",
+          "url": "https://flash.jin10.com/detail/20260115204113043800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "特朗普称“总会有办法解决”格陵兰岛问题",
@@ -864,7 +908,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -938,7 +982,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -1063,11 +1107,12 @@
             8,
             16,
             9,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时34分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 21时36分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -1085,8 +1130,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 21时36分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1120,11 +1165,12 @@
             30,
             28,
             18,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 21时36分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -1153,6 +1199,34 @@
           "time_info": "[14时24分 ~ 20时31分]"
         },
         {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时36分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时36分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1166,17 +1240,15 @@
           "time_info": "[01时23分 ~ 07时14分]"
         },
         {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
           "ranks": [
-            4,
-            3,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -1188,19 +1260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -1224,6 +1283,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时34分 ~ 14时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时36分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -1272,6 +1343,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -1338,7 +1420,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1349,18 +1431,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1374,6 +1445,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "贝莱德与微软的AI合作项目筹集了125亿美元，目标为300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115205715750800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "贝莱德首席执行官：贝莱德与微软的AI合作已筹集125亿美元，目标为300亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -1566,7 +1659,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "2026年投资日历来了！12图锁定全年财经大事",
@@ -1627,9 +1720,45 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 21时36分]"
+        },
+        {
+          "title": "机构：A股或站上5000点",
+          "url": "https://www.toutiao.com/trending/7595224717343539209/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时36分]"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时36分]"
         },
         {
           "title": "A股要慢牛不要疯牛",
@@ -1656,30 +1785,6 @@
           "time_info": "[16时22分 ~ 17时22分]"
         },
         {
-          "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388823",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
-          "title": "机构：A股或站上5000点",
-          "url": "https://www.toutiao.com/trending/7595224717343539209/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
-        },
-        {
           "title": "今日重点关注的财经数据与事件：2026年1月15日 周四",
           "url": "https://flash.jin10.com/detail/20260115065000001800",
           "source": "金十数据",
@@ -1692,6 +1797,28 @@
           "time_info": "[07时14分 ~ 14时24分]"
         },
         {
+          "title": "A股调整到位了吗",
+          "url": "https://www.toutiao.com/trending/7595540979696799282/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "媒体：A股监管明确“慢牛”信号",
+          "url": "https://www.toutiao.com/trending/7595543595998776883/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
           "title": "券商：股债跷跷板效应支撑A股走势",
           "url": "https://www.toutiao.com/trending/7595403417338514954/",
           "source": "今日头条",
@@ -1701,17 +1828,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
-          "url": "https://wallstreetcn.com/articles/3763340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "12月以来披露8起案例，A股公司跨境并购民企唱主角",
