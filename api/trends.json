@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T19:15:12.414978+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2026-01-16T20:31:34.692306+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时24分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[14时24分 ~ 20时31分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -87,11 +87,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时25分 ~ 20时31分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -122,11 +123,24 @@
           "url": "https://www.zhihu.com/question/1995430633518944539",
           "source": "知乎",
           "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 20时31分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -179,7 +193,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -193,18 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -623,7 +625,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -804,6 +806,28 @@
           "time_info": "06时16分"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰需要比特朗普任期更长的安全保障。俄罗斯正在阻挠和平努力。",
+          "url": "https://flash.jin10.com/detail/20260116200131128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
           "url": "https://flash.jin10.com/detail/20260116004031147800",
           "source": "金十数据",
@@ -892,6 +916,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国格陵兰岛特使兰德里：美国总统特朗普是认真的。",
+          "url": "https://flash.jin10.com/detail/20260116195309335800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
           "url": "https://wallstreetcn.com/livenews/3038398",
           "source": "华尔街见闻-快讯",
@@ -961,7 +996,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -1060,8 +1095,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 20时31分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -1115,6 +1150,21 @@
           "time_info": "[00时27分 ~ 17时21分]"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 20时31分]"
+        },
+        {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
@@ -1127,20 +1177,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时16分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 19时15分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -1179,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时20分 ~ 18时17分]"
+        },
+        {
+          "title": "化肥生产商MOSAIC：第四季度钾肥销量为220万吨。",
+          "url": "https://flash.jin10.com/detail/20260116201631391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -1232,6 +1279,18 @@
           "time_info": "[00时28分 ~ 02时28分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
           "url": "https://www.cls.cn/detail/2259623",
           "source": "财联社热门",
@@ -1245,16 +1304,28 @@
           "time_info": "[09时10分 ~ 12时35分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "time_info": "[19时14分 ~ 20时31分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "马斯克儿子的妈妈起诉马斯克AI公司",
@@ -1278,28 +1349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
@@ -1349,6 +1398,17 @@
           "time_info": "[14时24分 ~ 14时25分]"
         },
         {
+          "title": "化肥生产商MOSAIC：北美化肥需求在第四季度的下滑幅度远超正常季节性疲软水平。",
+          "url": "https://flash.jin10.com/detail/20260116201601130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
           "url": "https://wallstreetcn.com/livenews/3038310",
           "source": "华尔街见闻-快讯",
@@ -1380,6 +1440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "化肥生产商MOSAIC：预计第四季度磷酸盐销量约为130万吨。",
+          "url": "https://flash.jin10.com/detail/20260116201541695800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
@@ -1495,7 +1566,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
@@ -1510,8 +1581,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 20时31分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -1656,6 +1727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "专家称A股全面牛市还未启动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0A%E8%82%A1%E5%85%A8%E9%9D%A2%E7%89%9B%E5%B8%82%E8%BF%98%E6%9C%AA%E5%90%AF%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -1672,11 +1754,12 @@
             18,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 20时31分]"
         },
         {
           "title": "马斯克明确要每年生产1万艘星舰飞船 商业航天中长期成长空间巨大",
