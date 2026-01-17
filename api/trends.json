@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T16:19:11.052635+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-01-17T17:15:14.807213+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时15分]"
+        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -17,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 17时15分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -32,16 +44,31 @@
           "time_info": "[01时20分 ~ 06时15分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时15分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -56,32 +83,6 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 16时19分]"
-        },
-        {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 16时19分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -92,6 +93,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时15分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -131,19 +146,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时07分]"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 16时19分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -265,6 +267,18 @@
           "time_info": "[09时07分 ~ 13时15分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 17时15分]"
+        },
+        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -377,6 +391,17 @@
           "time_info": "[00时20分 ~ 01时20分]"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
           "url": "https://wallstreetcn.com/livenews/3038918",
           "source": "华尔街见闻-快讯",
@@ -461,17 +486,6 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
           "url": "https://wallstreetcn.com/livenews/3039027",
           "source": "华尔街见闻-快讯",
@@ -506,6 +520,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
@@ -829,6 +854,19 @@
           "time_info": "[00时20分 ~ 09时07分]"
         },
         {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时15分]"
+        },
+        {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
@@ -839,19 +877,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 05时16分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 16时19分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
@@ -1068,25 +1093,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时15分]"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "官媒：A股不要“疯牛”要“长牛”",
           "url": "https://www.toutiao.com/trending/7595911602277793819/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
@@ -1100,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 02时24分]"
+        },
+        {
+          "title": "A股为何四连跌退守4100点",
+          "url": "https://www.toutiao.com/trending/7595882246855200306/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         }
       ]
     },
@@ -1116,8 +1153,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 17时15分]"
         }
       ]
     }
