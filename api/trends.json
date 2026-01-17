@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:28:17.401536+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-01-17T13:15:56.576081+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -43,6 +43,19 @@
           "time_info": "[00时20分 ~ 09时07分]"
         },
         {
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
           "source": "澎湃新闻",
@@ -53,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -67,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -82,19 +95,6 @@
           "time_info": "[00时20分 ~ 09时07分]"
         },
         {
-          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
-          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时28分]"
-        },
-        {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
           "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -116,8 +116,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时15分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时28分]"
+          "time_info": "[11时18分 ~ 13时15分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -142,16 +154,16 @@
           "time_info": "04时16分"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
           "ranks": [
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -174,18 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时28分]"
         },
         {
           "title": "以关税换领土？ 特朗普拟动用关税武器敲开北极门户",
@@ -249,6 +249,20 @@
           "time_info": "[00时20分 ~ 01时20分]"
         },
         {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时15分]"
+        },
+        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -286,19 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时16分]"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时28分]"
         },
         {
           "title": "美国法官：Dominion Energy可会恢复被总统特朗普叫停的风电项目。",
@@ -671,6 +672,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "特朗普称明尼苏达州已完全失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "美国总统特朗普：如果我们输掉最高法院的官司，那将是我们国家的耻辱。",
           "url": "https://flash.jin10.com/detail/20260116234855541800",
           "source": "金十数据",
@@ -753,8 +765,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -805,17 +817,29 @@
           "time_info": "04时16分"
         },
         {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 13时15分]"
+        },
+        {
           "title": "美政府推动科技巨头为AI用电买单",
           "url": "https://flash.jin10.com/detail/20260117082311101800",
           "source": "金十数据",
           "ranks": [
             1,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -831,15 +855,18 @@
           "time_info": "[02时24分 ~ 04时16分]"
         },
         {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时28分]"
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
@@ -854,17 +881,17 @@
           "time_info": "[05时16分 ~ 09时07分]"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19,
-            24
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时28分]"
+          "time_info": "[11时18分 ~ 13时15分]"
         },
         {
           "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
@@ -878,18 +905,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时28分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "博主：AI应用将成2026年投资新风口",
@@ -1018,8 +1033,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 13时15分]"
         }
       ]
     },
