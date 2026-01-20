@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T11:29:51.265316+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-01-20T12:40:28.732253+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 11时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时40分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -102,8 +102,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 12时40分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -128,30 +142,6 @@
           "time_info": "[00时21分 ~ 01时19分]"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
-          "url": "https://wallstreetcn.com/livenews/3040101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
           "url": "https://flash.jin10.com/detail/20260120000400334800",
           "source": "金十数据",
@@ -162,6 +152,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 12时40分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -227,28 +254,16 @@
           "time_info": "[02时23分 ~ 03时16分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 11时29分]"
+          "time_info": "[11时29分 ~ 12时40分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -323,15 +338,26 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时40分"
+        },
+        {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -351,7 +377,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -362,7 +388,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -455,6 +481,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普重返白宫1周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB1%E5%91%A8%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "据NBC新闻：特朗普拒绝表态是否会动用武力夺取格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260119233812359800",
           "source": "金十数据",
@@ -491,7 +528,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -532,6 +569,18 @@
           "time_info": "[04时17分 ~ 06时16分]"
         },
         {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
           "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3039928",
           "source": "华尔街见闻-快讯",
@@ -542,6 +591,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 12时40分]"
+        },
+        {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 12时40分]"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -567,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时19分]"
-        },
-        {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 11时29分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -617,26 +679,15 @@
           "time_info": "[00时21分 ~ 01时19分]"
         },
         {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 11时29分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时40分"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -656,7 +707,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -730,7 +781,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "2026年伊始，A股再融资市场以活跃的态势拉开序幕",
@@ -744,6 +795,18 @@
           "time_info": "06时16分"
         },
         {
+          "title": "A股房地产板块盘中再度拉升，大悦城、我爱我家封涨停，此前城投控股涨停，招商蛇口、滨江集团、保利发展、中华企业集体大涨。",
+          "url": "https://wallstreetcn.com/livenews/3040098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
           "title": "券商测算：2026年A股潜在的增量资金规模有望达到3万亿元左右",
           "url": "https://wallstreetcn.com/livenews/3039943",
           "source": "华尔街见闻-快讯",
@@ -755,17 +818,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "A股房地产板块盘中再度拉升，大悦城、我爱我家封涨停，此前城投控股涨停，招商蛇口、滨江集团、保利发展、中华企业集体大涨。",
-          "url": "https://wallstreetcn.com/livenews/3040098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "今日重点关注的财经数据与事件：2026年1月20日 周二",
           "url": "https://flash.jin10.com/detail/20260120000000001800",
           "source": "金十数据",
@@ -775,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "A股又突然跳水",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国一年期和五年期LPR、国新办将举行两场新闻发布会。",
@@ -805,7 +868,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -816,7 +879,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
