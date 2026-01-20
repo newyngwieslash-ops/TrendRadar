@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T01:24:28.528987+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-01-21T02:27:01.224264+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -38,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3040619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -60,8 +49,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
+        },
+        {
+          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3040619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "time_info": "[01时24分 ~ 02时27分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -71,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -82,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -91,22 +92,58 @@
           "source": "今日头条",
           "ranks": [
             28,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
+        },
+        {
+          "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
+          "url": "https://wallstreetcn.com/livenews/3040601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "time_info": "[01时24分 ~ 02时27分]"
+        },
+        {
+          "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
+          "url": "https://wallstreetcn.com/livenews/3040625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
+          "url": "https://flash.jin10.com/detail/20260121020112692800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
@@ -115,7 +152,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -126,7 +163,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -153,15 +190,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
-          "url": "https://wallstreetcn.com/livenews/3040601",
-          "source": "华尔街见闻-快讯",
+          "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121012528219800",
+          "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时27分"
         },
         {
           "title": "毛里求斯政府表示，已注意到美国总统特朗普关于查戈斯群岛的声明。",
@@ -173,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "市场消息：特朗普将参加下午1点（北京时间凌晨2点）的白宫新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260121011502558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "花旗高管Raghavan：面对特朗普新关税威胁，理智应会占上风",
@@ -211,8 +259,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时27分]"
+        },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
           "url": "https://flash.jin10.com/detail/20260121010536923800",
@@ -220,18 +280,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -245,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -282,7 +342,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -326,11 +386,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时27分]"
         }
       ]
     }
