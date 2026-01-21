@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T14:28:02.771544+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-21T15:23:31.536255+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 124,
+      "match_count": 127,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 15时23分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 15时23分]"
         },
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时23分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -57,18 +69,6 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
-          "title": "特朗普和马克龙，直接开干了",
-          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 14时28分]"
-        },
-        {
           "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
           "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -128,6 +128,19 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 15时23分]"
+        },
+        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -137,6 +150,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 12时39分]"
+        },
+        {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -149,6 +176,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 05时16分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -165,31 +206,6 @@
           "time_info": "[00时27分 ~ 07时16分]"
         },
         {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 14时28分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时28分]"
-        },
-        {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
           "url": "https://flash.jin10.com/detail/20260121034907075800",
           "source": "金十数据",
@@ -201,17 +217,18 @@
           "time_info": "04时12分"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
+          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
+          "url": "https://www.cls.cn/detail/2264363",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            16,
-            15
+            11,
+            13,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时28分]"
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -307,19 +324,6 @@
           "time_info": "[09时11分 ~ 13时25分]"
         },
         {
-          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
-          "url": "https://www.cls.cn/detail/2264363",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时28分]"
-        },
-        {
           "title": "特朗普公开马克龙给他的私信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -332,6 +336,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时12分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -404,17 +420,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 14时28分]"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -553,7 +558,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -644,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普在调整改善全球经济。 增长是摆脱巨额债务的唯一出路。 建议瑞士不要在经济政策上追随欧盟。 英国在迪戈加西亚岛问题上让美国很失望。 欧洲向格陵兰派遣部队是“不切实际的空想”。 不清楚在缺乏内部调查的情况下，鲍威尔为何会支持库克。 对美联储缺乏内部调查感到非常失望。 鲍威尔在将美联储政治化，不应该如此。",
+          "url": "https://wallstreetcn.com/livenews/3041056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -828,7 +844,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -842,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
+          "url": "https://www.cls.cn/detail/2264327",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
@@ -1152,6 +1179,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "特朗普：对美真正威胁是联合国和北约",
+          "url": "https://www.toutiao.com/trending/7596943244069011510/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260121012528219800",
           "source": "金十数据",
@@ -1202,7 +1240,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1419,18 +1457,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -1439,22 +1478,12 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 14时28分]"
-        },
-        {
-          "title": "快手可灵AI月活突破1200万",
-          "url": "https://wallstreetcn.com/livenews/3041010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -1464,8 +1493,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
+        },
+        {
+          "title": "快手可灵AI月活突破1200万",
+          "url": "https://wallstreetcn.com/livenews/3041010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -1602,12 +1642,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
+          "url": "https://wallstreetcn.com/livenews/3041030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "拳头程序员分析人类对战AI胜算",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E5%88%86%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%AF%B9%E6%88%98AI%E8%83%9C%E7%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股",
@@ -1616,11 +1678,12 @@
           "ranks": [
             20,
             9,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
@@ -1643,6 +1706,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时23分]"
         },
         {
           "title": "A股商业航天概念局部异动，巨力索具直线涨停，太力科技、电科芯片、航天电子、苏试试验、海兰信等涨超5%。",
@@ -1682,17 +1757,6 @@
           "time_info": "[00时27分 ~ 14时28分]"
         },
         {
-          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
-          "url": "https://www.cls.cn/detail/2264754",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
           "title": "A股黄金概念午后持续拉升，四川黄金涨停，招金黄金、白银有色、国城矿业、中国瑞林、等多股此前涨停，西部黄金、鹏欣资源、赤峰黄金纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3040965",
           "source": "华尔街见闻-快讯",
@@ -1710,9 +1774,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "A股收盘：创业板指冲高回落涨0.54%，贵金属、芯片股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3041049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "摩根资产管理中国：2026年A股机会将大于风险 关注消费电子等四大方向",
@@ -1721,7 +1796,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
