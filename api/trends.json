@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T11:22:51.972858+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-01-24T12:31:40.777507+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -113,9 +113,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -129,28 +151,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时21分 ~ 09时08分]"
-        },
-        {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -177,6 +177,19 @@
           "time_info": "[04时19分 ~ 09时08分]"
         },
         {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://flash.jin10.com/detail/20260124082538327800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时31分]"
+        },
+        {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
           "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
@@ -199,18 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
-          "url": "https://flash.jin10.com/detail/20260124082538327800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 11时22分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -257,8 +258,42 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时22分]"
+          "time_info": "[09时07分 ~ 12时31分]"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -273,6 +308,18 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
+          "url": "https://flash.jin10.com/detail/20260124090807365800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
           "url": "https://flash.jin10.com/detail/20260123235025878800",
           "source": "金十数据",
@@ -283,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时22分]"
+        },
+        {
+          "title": "英国首相呼吁特朗普就北约言论道歉",
+          "url": "https://www.toutiao.com/trending/7598350271315836934/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
         },
         {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
@@ -297,26 +356,39 @@
           "time_info": "[02时24分 ~ 03时21分]"
         },
         {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
+          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
+          "url": "https://wallstreetcn.com/livenews/3043195",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "time_info": "[11时22分 ~ 12时31分]"
         },
         {
-          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
-          "url": "https://flash.jin10.com/detail/20260124093450741800",
-          "source": "金十数据",
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3043194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "12时31分"
         },
         {
           "title": "英首相说特朗普言论极具侮辱性",
@@ -325,29 +397,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
-          "url": "https://flash.jin10.com/detail/20260124090807365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -374,43 +424,32 @@
           "time_info": "05时15分"
         },
         {
-          "title": "英国首相呼吁特朗普就北约言论道歉",
-          "url": "https://www.toutiao.com/trending/7598350271315836934/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
-          "url": "https://wallstreetcn.com/livenews/3043195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://wallstreetcn.com/livenews/3043194",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "英国首相要求特朗普为相关言论道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -433,11 +472,12 @@
             6,
             12,
             13,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时31分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -454,6 +494,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://flash.jin10.com/detail/20260124113127622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -480,6 +542,18 @@
           "time_info": "[00时21分 ~ 01时22分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -492,6 +566,18 @@
           "time_info": "[02时24分 ~ 03时21分]"
         },
         {
+          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
+          "url": "https://wallstreetcn.com/livenews/3043198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
           "title": "AI驱动高端产品规模量产，PCB公司2025年业绩强势预增",
           "url": "https://wallstreetcn.com/livenews/3043179",
           "source": "华尔街见闻-快讯",
@@ -501,17 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
-          "url": "https://wallstreetcn.com/livenews/3043204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -536,17 +611,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
-          "url": "https://wallstreetcn.com/livenews/3043198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
           "url": "https://flash.jin10.com/detail/20260123233248519800",
           "source": "金十数据",
@@ -558,13 +622,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "让AI来安排我的一天",
           "url": "https://s.weibo.com/weibo?q=%E8%AE%A9AI%E6%9D%A5%E5%AE%89%E6%8E%92%E6%88%91%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -591,11 +666,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 12时31分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
