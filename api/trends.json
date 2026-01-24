@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T13:17:07.121560+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-24T14:23:14.168478+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -68,6 +68,39 @@
           "time_info": "[00时21分 ~ 09时08分]"
         },
         {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时23分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时23分]"
+        },
+        {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
           "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
           "source": "凤凰网",
@@ -90,8 +123,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -107,37 +140,52 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
+          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
+            19,
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
-          "source": "凤凰网",
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 14时23分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时23分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -165,18 +213,6 @@
           "time_info": "[09时07分 ~ 13时17分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://flash.jin10.com/detail/20260124082538327800",
           "source": "金十数据",
@@ -189,18 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时08分 ~ 13时17分]"
-        },
-        {
-          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -227,15 +251,16 @@
           "time_info": "[04时19分 ~ 09时08分]"
         },
         {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
+          "title": "英国首相要求特朗普为相关言论道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
           "ranks": [
-            19
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时07分 ~ 13时17分]"
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -274,17 +299,6 @@
           "time_info": "[09时08分 ~ 11时22分]"
         },
         {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时17分]"
-        },
-        {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
           "url": "https://wallstreetcn.com/livenews/3043121",
           "source": "华尔街见闻-快讯",
@@ -297,6 +311,20 @@
           "time_info": "[05时15分 ~ 06时14分]"
         },
         {
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时23分]"
+        },
+        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -307,6 +335,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
+          "url": "https://flash.jin10.com/detail/20260124090807365800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时23分]"
         },
         {
           "title": "英国首相呼吁特朗普就北约言论道歉",
@@ -322,42 +364,15 @@
           "time_info": "[11时22分 ~ 13时17分]"
         },
         {
-          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
-          "url": "https://flash.jin10.com/detail/20260124093450741800",
-          "source": "金十数据",
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            8,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时17分]"
-        },
-        {
-          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
-          "url": "https://flash.jin10.com/detail/20260124090807365800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时17分]"
-        },
-        {
-          "title": "英国首相要求特朗普为相关言论道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -396,6 +411,17 @@
           "time_info": "[02时24分 ~ 03时21分]"
         },
         {
+          "title": "特朗普：美国正调集重兵前往伊朗，许多舰艇正向伊朗行进",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448442",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
           "url": "https://wallstreetcn.com/livenews/3043195",
           "source": "华尔街见闻-快讯",
@@ -418,6 +444,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普去达沃斯做买卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E8%BE%BE%E6%B2%83%E6%96%AF%E5%81%9A%E4%B9%B0%E5%8D%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "英首相说特朗普言论极具侮辱性",
@@ -456,7 +493,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -483,8 +520,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -508,11 +545,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 14时23分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -520,11 +569,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时23分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -562,18 +624,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时17分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
-          "url": "https://www.toutiao.com/trending/7598238497476034602/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时17分]"
         },
         {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
@@ -658,7 +708,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -682,8 +732,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时23分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
@@ -696,6 +746,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 11时22分]"
+        },
+        {
+          "title": "医生反驳马斯克：医生永远无法被取代",
+          "url": "https://www.toutiao.com/trending/7597811016450326537/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
+          "title": "UP主解读马斯克末日预言",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         }
       ]
     },
