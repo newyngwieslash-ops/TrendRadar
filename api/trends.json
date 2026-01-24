@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T14:23:14.168478+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-24T15:16:09.698024+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -52,6 +52,39 @@
           "time_info": "[00时21分 ~ 09时08分]"
         },
         {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时16分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时16分]"
+        },
+        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -68,37 +101,18 @@
           "time_info": "[00时21分 ~ 09时08分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
+          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 14时23分]"
-        },
-        {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
-          "source": "凤凰网",
-          "ranks": [
+            19,
+            5,
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -140,19 +154,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 14时23分]"
-        },
-        {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
           "url": "https://wallstreetcn.com/articles/3764066",
           "source": "华尔街见闻",
@@ -161,8 +162,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -170,11 +171,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 14时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 15时16分]"
         },
         {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
@@ -184,8 +186,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时16分]"
+        },
+        {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -211,6 +224,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时07分 ~ 13时17分]"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            9,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 15时16分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -263,6 +291,17 @@
           "time_info": "[12时31分 ~ 14时23分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时16分]"
+        },
+        {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
           "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
@@ -311,20 +350,6 @@
           "time_info": "[05时15分 ~ 06时14分]"
         },
         {
-          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
-          "url": "https://flash.jin10.com/detail/20260124093450741800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 14时23分]"
-        },
-        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -362,17 +387,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 13时17分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -493,7 +507,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -505,6 +519,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -540,28 +567,16 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2268544",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 14时23分]"
-        },
-        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.toutiao.com/trending/7598387695761588278/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时16分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -570,11 +585,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
@@ -626,6 +642,17 @@
           "time_info": "[11时22分 ~ 13时17分]"
         },
         {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -648,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时31分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "AI驱动高端产品规模量产，PCB公司2025年业绩强势预增",
@@ -732,8 +770,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 14时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 15时16分]"
+        },
+        {
+          "title": "UP主解读马斯克末日预言",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时16分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
@@ -753,17 +803,6 @@
           "source": "今日头条",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "UP主解读马斯克末日预言",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -805,6 +844,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时21分 ~ 11时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "星座",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://wallstreetcn.com/livenews/3043236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
