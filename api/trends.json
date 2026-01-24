@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:27:54.882658+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-01-24T22:14:44.843769+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 22时14分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -106,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时22分 ~ 22时14分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -257,6 +257,39 @@
           "time_info": "[17时15分 ~ 21时27分]"
         },
         {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
           "url": "https://flash.jin10.com/detail/20260124093450741800",
           "source": "金十数据",
@@ -270,6 +303,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时22分 ~ 15时16分]"
+        },
+        {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            30,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 22时14分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -334,19 +381,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时31分 ~ 14时23分]"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 21时27分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -544,6 +578,17 @@
           "time_info": "[11时22分 ~ 12时31分]"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普去达沃斯做买卖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E8%BE%BE%E6%B2%83%E6%96%AF%E5%81%9A%E4%B9%B0%E5%8D%96%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -566,6 +611,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
           "url": "https://wallstreetcn.com/livenews/3043175",
           "source": "华尔街见闻-快讯",
@@ -577,6 +633,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -586,17 +653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "意总理私下劝欧盟别和特朗普对抗",
@@ -613,7 +669,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -625,8 +681,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时31分 ~ 22时14分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -685,8 +741,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 21时27分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 22时14分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4,
+            13,
+            14,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 22时14分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -719,21 +791,6 @@
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            4,
-            13,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 21时27分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
@@ -745,6 +802,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时15分 ~ 19时13分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -773,6 +841,19 @@
           "time_info": "[12时31分 ~ 14时23分]"
         },
         {
+          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
+          "url": "https://flash.jin10.com/detail/20260124201216318800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时14分]"
+        },
+        {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
           "url": "https://flash.jin10.com/detail/20260124010639315800",
           "source": "金十数据",
@@ -783,18 +864,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
-        },
-        {
-          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
-          "url": "https://flash.jin10.com/detail/20260124201216318800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时27分]"
         },
         {
           "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
@@ -809,6 +878,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时17分 ~ 21时27分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
@@ -846,18 +927,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 01时22分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时27分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -1040,11 +1109,12 @@
             7,
             19,
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时22分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时22分 ~ 22时14分]"
         },
         {
           "title": "特斯拉Optimus将进驻奥斯汀工厂 马斯克预测明年开售",
@@ -1110,8 +1180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时14分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -1120,9 +1190,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时14分]"
         }
       ]
     },
@@ -1140,8 +1210,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 22时14分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
