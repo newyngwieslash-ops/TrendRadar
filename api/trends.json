@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T09:17:20.197229+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-25T11:49:10.290273+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 11时49分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -105,6 +106,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时17分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
+          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 11时49分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -144,35 +156,13 @@
           "time_info": "[06时14分 ~ 09时17分]"
         },
         {
-          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
-          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
           "title": "为何特朗普想要格陵兰岛",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "挪威首相批评特朗普北约言论“有失尊重”",
-          "url": "https://flash.jin10.com/detail/20260125084239117800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -182,11 +172,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时49分]"
+        },
+        {
+          "title": "挪威首相批评特朗普北约言论“有失尊重”",
+          "url": "https://flash.jin10.com/detail/20260125084239117800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时17分]"
+          "time_info": "[09时17分 ~ 11时49分]"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 11时49分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -199,6 +213,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "特朗普上任一年为何引起各方不满",
+          "url": "https://www.toutiao.com/trending/7597959432397144106/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 11时49分]"
         },
         {
           "title": "深度解析特朗普365天赢学",
@@ -216,22 +242,56 @@
           "url": "https://flash.jin10.com/detail/20260125081127653800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 11时49分]"
         },
         {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260125094240876800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "11时49分"
+        },
+        {
+          "title": "特朗普称已获取7艘扣押油轮石油",
+          "url": "https://wallstreetcn.com/livenews/3043341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
@@ -240,7 +300,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -251,7 +311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -262,7 +322,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -273,18 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "特朗普上任一年为何引起各方不满",
-          "url": "https://www.toutiao.com/trending/7597959432397144106/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -292,7 +341,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -300,11 +349,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 11时49分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -313,11 +363,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 11时49分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -386,6 +437,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时21分 ~ 06时15分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         }
       ]
     },
@@ -402,8 +475,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 11时49分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -414,8 +487,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 11时49分]"
         }
       ]
     },
