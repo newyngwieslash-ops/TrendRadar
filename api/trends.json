@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:29:07.940627+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-01-26T18:21:13.345338+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 18时21分]"
         },
         {
           "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 17时29分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 17时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 18时21分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -160,6 +160,17 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "特朗普承认使用“秘密”武器",
           "url": "https://www.cls.cn/detail/2268653",
           "source": "财联社热门",
@@ -199,15 +210,17 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时21分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -256,18 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时29分]"
         },
         {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
@@ -319,6 +320,18 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时21分]"
+        },
+        {
           "title": "美国明尼苏达州多位CEO呼吁缓解特朗普移民局与抗议者之间的紧张局势",
           "url": "https://wallstreetcn.com/livenews/3043410",
           "source": "华尔街见闻-快讯",
@@ -351,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
-          "url": "https://wallstreetcn.com/livenews/3043857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "特朗普要求明尼苏达州移交所有犯罪非法移民",
@@ -538,11 +540,26 @@
             5,
             4,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时21分]"
+        },
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时21分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -558,31 +575,18 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时29分]"
-        },
-        {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
           "source": "澎湃新闻",
           "ranks": [
             13,
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时21分]"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -716,17 +720,6 @@
           "time_info": "[11时51分 ~ 13时29分]"
         },
         {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "多家A股公司预计2025年业绩大增",
           "url": "https://www.toutiao.com/trending/7598929065479962643/",
           "source": "今日头条",
@@ -751,6 +744,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时14分 ~ 14时28分]"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时21分]"
         },
         {
           "title": "A股商业航天板块午后持续走低，海格通信、航天动力、润贝航科、沃格光电、江顺科技等股跌停。",
