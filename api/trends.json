@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:19:15.142406+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-01-27T20:33:57.325227+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 20时33分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -136,11 +136,23 @@
             19,
             18,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 20时33分]"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 20时33分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -176,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时19分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -792,7 +793,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -813,11 +814,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 20时33分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -828,8 +830,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 20时33分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -901,11 +903,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时33分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -1104,7 +1107,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1151,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "印度国有天然气公司GAIL CEO：价格是推动印度电力行业天然气需求的最大担忧。",
@@ -1247,7 +1261,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1277,7 +1291,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-27）",
@@ -1332,11 +1346,12 @@
           "url": "https://wallstreetcn.com/articles/3764225",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时33分]"
         },
         {
           "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
@@ -1405,6 +1420,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "A股三大指数集体上涨",
+          "url": "https://www.toutiao.com/trending/7599567524702978111/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "A股三大指数午后集体翻红，创业板指涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3044477",
           "source": "华尔街见闻-快讯",
@@ -1461,7 +1487,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1483,7 +1509,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
