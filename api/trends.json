@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:43:25.954165+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-01-28T22:24:27.461618+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时32分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[11时32分 ~ 22时24分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时10分 ~ 13时23分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时24分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -95,18 +107,6 @@
           "time_info": "[11时33分 ~ 17时29分]"
         },
         {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时43分]"
-        },
-        {
           "title": "特朗普，两天内动手？",
           "url": "https://news.ifeng.com/c/8qGwey6pidp",
           "source": "凤凰网",
@@ -126,8 +126,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时24分]"
         },
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -164,6 +164,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "巴克莱：受特朗普支持美元走弱的政策推动，投资者对持有美元的额外回报需求正在增长。",
+          "url": "https://flash.jin10.com/detail/20260128221221657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -195,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
-        },
-        {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://wallstreetcn.com/livenews/3045623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "特朗普称还有一支舰队正驶向伊朗",
@@ -263,6 +263,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时24分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -362,6 +374,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时20分]"
+        },
+        {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时24分]"
         },
         {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
@@ -516,17 +540,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -588,7 +601,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -720,7 +733,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -819,7 +832,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -896,7 +909,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -918,7 +931,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -932,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
+          "url": "https://flash.jin10.com/detail/20260128214203738800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
@@ -1025,7 +1049,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1078,8 +1102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时39分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[12时39分 ~ 22时24分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -1146,8 +1170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 22时24分]"
         },
         {
           "title": "刘强东在家乡打造了一个AI教室",
@@ -1173,6 +1197,20 @@
           "time_info": "[12时39分 ~ 15时22分]"
         },
         {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时24分]"
+        },
+        {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
           "url": "https://flash.jin10.com/detail/20260128181506461800",
           "source": "金十数据",
@@ -1184,17 +1222,17 @@
           "time_info": "18时22分"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            23,
-            14
+            13,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时43分]"
+          "time_info": "[18时22分 ~ 22时24分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1209,16 +1247,28 @@
           "time_info": "[02时29分 ~ 03时22分]"
         },
         {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
           "ranks": [
-            13,
-            11
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时43分]"
+          "time_info": "[20时34分 ~ 22时24分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时24分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -1231,29 +1281,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时32分 ~ 12时40分]"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时43分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时43分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1356,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "软银拟向OpenAI追投至多300亿美元",
@@ -1505,8 +1543,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时10分 ~ 21时43分]"
+          "appearance_count": 20,
+          "time_info": "[09时10分 ~ 22时24分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
