@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T12:40:05.358669+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-28T13:23:44.974181+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时23分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时23分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时10分 ~ 12时40分]"
+          "time_info": "[09时10分 ~ 13时23分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -42,15 +53,16 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时40分]"
+          "time_info": "[11时32分 ~ 13时23分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -61,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -74,28 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
-          "url": "https://wallstreetcn.com/livenews/3045261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
-          "url": "https://flash.jin10.com/detail/20260128123413943800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -120,6 +110,18 @@
           "time_info": "04时20分"
         },
         {
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://www.douyin.com/hot/2381636",
+          "source": "抖音",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时23分]"
+        },
+        {
           "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
           "url": "https://wallstreetcn.com/livenews/3045027",
           "source": "华尔街见闻-快讯",
@@ -140,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 12时40分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -178,6 +169,18 @@
           "time_info": "[01时24分 ~ 02时29分]"
         },
         {
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时23分]"
+        },
+        {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3044930",
           "source": "华尔街见闻-快讯",
@@ -201,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时23分]"
         },
         {
           "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
@@ -245,11 +260,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
@@ -275,17 +291,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时33分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普称还有一支舰队正驶向伊朗",
-          "url": "https://www.douyin.com/hot/2381636",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -390,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -695,7 +711,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -736,7 +752,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -749,8 +765,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 12时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -762,8 +778,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 12时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 13时23分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -778,6 +794,18 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时23分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
@@ -790,18 +818,6 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时40分]"
-        },
-        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -812,8 +828,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 12时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时23分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -838,6 +854,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时32分 ~ 12时40分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时23分]"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时23分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -876,17 +915,6 @@
           "time_info": "[02时29分 ~ 03时22分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
-        },
-        {
           "title": "探展CES的50个AI项目",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E5%B1%95CES%E7%9A%8450%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
           "source": "bilibili 热搜",
@@ -896,17 +924,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "曝iPhone Air 2定制超薄Face ID",
@@ -964,6 +981,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
           "url": "https://wallstreetcn.com/livenews/3044891",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "AirPods实时翻译实用吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
@@ -1022,7 +1061,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -1047,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时23分 ~ 09时11分]"
+        },
+        {
+          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-28）",
@@ -1085,8 +1135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时23分]"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
@@ -1119,8 +1169,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 12时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 13时23分]"
         },
         {
           "title": "国台办：台当局哀事喜办蒙蔽不了舆论",
@@ -1128,11 +1178,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 13时23分]"
         }
       ]
     },
