@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:38:57.849800+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-01-29T14:38:52.580280+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -93,8 +93,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -118,19 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时29分]"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时38分]"
         },
         {
           "title": "美国总统特朗普：Visa(V.N)推出（特朗普）账户现金返还奖励平台。呼吁企业提供账户匹配服务。",
@@ -193,16 +194,17 @@
           "time_info": "[01时27分 ~ 02时29分]"
         },
         {
-          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
-          "url": "https://www.cls.cn/detail/2273332",
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -213,20 +215,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "time_info": "[09时20分 ~ 12时03分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -251,6 +253,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -353,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "消息人士称，特朗普政府正逐步取消关键矿产项目的价格下限。",
@@ -556,7 +559,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -582,8 +585,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时38分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -637,6 +640,19 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
+        },
+        {
           "title": "蚂蚁集团入股AI大模型技术研发商西湖心辰",
           "url": "https://wallstreetcn.com/livenews/3045963",
           "source": "华尔街见闻-快讯",
@@ -648,18 +664,6 @@
           "time_info": "09时20分"
         },
         {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
-        },
-        {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
@@ -667,30 +671,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
           "url": "https://www.cls.cn/detail/2273507",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -702,6 +708,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "光明村村民领京东AI手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%9D%91%E6%9D%91%E6%B0%91%E9%A2%86%E4%BA%AC%E4%B8%9CAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 14时38分]"
         },
         {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
@@ -754,7 +772,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -770,15 +788,15 @@
           "time_info": "12时03分"
         },
         {
-          "title": "光明村村民领京东AI手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%9D%91%E6%9D%91%E6%B0%91%E9%A2%86%E4%BA%AC%E4%B8%9CAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "受资金流入与AI热潮提振 韩元有望创13年来最长连涨纪录",
+          "url": "https://flash.jin10.com/detail/20260129135917654800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "14时38分"
         },
         {
           "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
@@ -858,6 +876,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "中国科学家研发出“能屈能伸”的柔性AI芯片",
           "url": "https://wallstreetcn.com/livenews/3046033",
           "source": "华尔街见闻-快讯",
@@ -915,7 +944,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1033,8 +1062,19 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "A股化工股异动拉升，红墙股份直线涨停，尤夫股份、中毅达、江天化学、沧州大化、锦鸡股份、红宝丽等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3046187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
         {
           "title": "A股白酒股持续走强，皇台酒业封涨停，舍得酒业、酒鬼酒、泸州老窖、水井坊、贵州茅台均涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3046131",
@@ -1042,7 +1082,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1052,11 +1092,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 14时38分]"
         },
         {
           "title": "A股零售股午后拉升，新华百货涨停，三江购物、上海九百、东百集团、广百股份、合百集团跟涨。",
@@ -1065,7 +1106,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1087,7 +1128,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1098,7 +1139,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1109,7 +1150,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -1123,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "A股贵州茅台涨幅扩大至6%，股价重回1400元，成交额超166亿。",
+          "url": "https://wallstreetcn.com/livenews/3046147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
