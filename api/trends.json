@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:31:55.959395+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-01-29T17:36:14.546401+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 17时36分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -74,18 +86,6 @@
           "time_info": "[00时28分 ~ 05时24分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
-        },
-        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -96,6 +96,37 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 17时36分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 17时36分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -113,33 +144,16 @@
           "time_info": "[09时20分 ~ 15时37分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
             11,
-            10,
-            9,
-            7,
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
+          "time_info": "[13时38分 ~ 17时36分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -151,18 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -273,6 +275,28 @@
           "time_info": "[01时27分 ~ 02时29分]"
         },
         {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
           "url": "https://wallstreetcn.com/livenews/3045707",
           "source": "华尔街见闻-快讯",
@@ -307,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "美国国务卿鲁比奥：本周末在阿布扎比举行的乌克兰会谈中可能会有美国代表出席，但不会是美国总统特使威特科夫和特朗普女婿库什纳。",
@@ -582,6 +617,18 @@
           "time_info": "[00时28分 ~ 09时20分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 17时36分]"
+        },
+        {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764353",
           "source": "华尔街见闻",
@@ -646,6 +693,20 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 17时36分]"
+        },
+        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -654,30 +715,6 @@
             7,
             15,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
-        },
-        {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -704,7 +741,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -725,11 +762,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时36分 ~ 17时36分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时36分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时36分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -808,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2000172562634790267",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -959,6 +998,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
+          "url": "https://www.cls.cn/detail/2273549",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时36分]"
+        },
+        {
           "title": "马斯克：特斯拉需建造巨型芯片工厂",
           "url": "https://www.toutiao.com/trending/7600569251308552233/",
           "source": "今日头条",
@@ -1002,17 +1052,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
-          "url": "https://www.cls.cn/detail/2273549",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
@@ -1155,6 +1194,18 @@
           "time_info": "[00时29分 ~ 14时38分]"
         },
         {
+          "title": "A股三大股指涨跌互现",
+          "url": "https://www.toutiao.com/trending/7600659485685907497/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时36分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1221,24 +1272,13 @@
           "time_info": "13时38分"
         },
         {
-          "title": "A股三大股指涨跌互现",
-          "url": "https://www.toutiao.com/trending/7600659485685907497/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "A股半导体板块大涨",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1290,8 +1330,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
