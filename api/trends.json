@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T04:23:12.520966+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-30T05:21:35.743299+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -37,41 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
-        },
-        {
-          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
-          "url": "https://wallstreetcn.com/livenews/3046673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
-          "url": "https://flash.jin10.com/detail/20260130035139767800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
-          "url": "https://flash.jin10.com/detail/20260130032628040800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -126,6 +93,18 @@
           "time_info": "[01时33分 ~ 03时26分]"
         },
         {
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
+        },
+        {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260130011653273800",
           "source": "金十数据",
@@ -152,6 +131,18 @@
           "time_info": "[01时33分 ~ 03时26分]"
         },
         {
+          "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
+          "url": "https://flash.jin10.com/detail/20260130035139767800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
           "url": "https://wallstreetcn.com/livenews/3046594",
           "source": "华尔街见闻-快讯",
@@ -175,6 +166,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时26分]"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -316,6 +319,18 @@
           "time_info": "[01时33分 ~ 02时35分]"
         },
         {
+          "title": "美防长称五角大楼准备执行特朗普对伊朗的任何决定",
+          "url": "https://flash.jin10.com/detail/20260130031940786800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
+        },
+        {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
           "url": "https://flash.jin10.com/detail/20260130010707619800",
           "source": "金十数据",
@@ -326,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时35分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260130031506457800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
@@ -350,6 +377,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时26分]"
+        },
+        {
+          "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
+          "url": "https://flash.jin10.com/detail/20260130031318071800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时21分]"
         },
         {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
@@ -398,39 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时26分]"
-        },
-        {
-          "title": "美防长称五角大楼准备执行特朗普对伊朗的任何决定",
-          "url": "https://flash.jin10.com/detail/20260130031940786800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
-          "url": "https://flash.jin10.com/detail/20260130031506457800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
-          "url": "https://flash.jin10.com/detail/20260130031318071800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -667,7 +673,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -677,8 +683,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -688,8 +694,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -700,8 +706,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -712,8 +718,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -724,8 +730,56 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
+          "url": "https://flash.jin10.com/detail/20260130024543915800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时21分]"
+        },
+        {
+          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260130023851550800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时21分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -741,28 +795,17 @@
           "time_info": "[01时33分 ~ 03时26分]"
         },
         {
-          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
-          "url": "https://flash.jin10.com/detail/20260130024543915800",
-          "source": "金十数据",
+          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
+          "url": "https://wallstreetcn.com/livenews/3046652",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            16
+            7,
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时23分]"
-        },
-        {
-          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
-          "url": "https://flash.jin10.com/detail/20260130023851550800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时21分]"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -771,18 +814,6 @@
           "ranks": [
             6,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时23分]"
-        },
-        {
-          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
-          "url": "https://wallstreetcn.com/livenews/3046652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -813,6 +844,28 @@
           "time_info": "[02时35分 ~ 03时26分]"
         },
         {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
           "url": "https://wallstreetcn.com/livenews/3046567",
           "source": "华尔街见闻-快讯",
@@ -833,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "报道：SpaceX在潜在上市前与xAI讨论合并",
+          "url": "https://wallstreetcn.com/livenews/3046654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -851,8 +915,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时21分]"
         }
       ]
     },
