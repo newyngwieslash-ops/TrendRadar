@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:40:07.024404+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-30T15:36:54.346482+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -33,6 +33,17 @@
           "time_info": "[00时35分 ~ 12时03分]"
         },
         {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时36分]"
+        },
+        {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
@@ -44,28 +55,41 @@
           "time_info": "[00时35分 ~ 05时21分]"
         },
         {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
           "url": "https://www.cls.cn/detail/2275048",
           "source": "财联社热门",
           "ranks": [
             10,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时36分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -77,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时36分]"
         },
         {
           "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
@@ -101,27 +136,26 @@
           "time_info": "13时41分"
         },
         {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时36分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及联邦执法人员枪杀亚历克斯·普雷蒂事件）美国移民和海关执法局官员当时“冷静而沉着”。",
           "url": "https://flash.jin10.com/detail/20260130142933819800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时40分]"
         },
         {
           "title": "美防长告诉特朗普：五角大楼“准备好执行”总统涉伊朗的任何决定",
@@ -146,28 +180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时21分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时40分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -220,17 +232,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时26分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时40分]"
         },
         {
           "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
@@ -422,6 +423,17 @@
           "time_info": "[02时35分 ~ 04时23分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时36分]"
+        },
+        {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
@@ -590,17 +602,6 @@
           "time_info": "[02时35分 ~ 03时26分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
           "title": "美国总统特朗普：正计划与伊朗对话。",
           "url": "https://flash.jin10.com/detail/20260130083831162800",
           "source": "金十数据",
@@ -632,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "特朗普回应开会睡觉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "今晚官宣！特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -687,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态 威胁对向古巴提供石油的国家加征关税",
+          "url": "https://www.cls.cn/detail/2274970",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "美国总统特朗普：不知道政府是否会关门，正与国会合作。",
@@ -1116,8 +1139,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 14时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 15时36分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -1141,11 +1164,23 @@
             4,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 14时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 15时36分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时36分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -1158,17 +1193,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时21分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时40分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1228,6 +1252,19 @@
           "time_info": "[13时41分 ~ 14时40分]"
         },
         {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时36分]"
+        },
+        {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
           "url": "https://flash.jin10.com/detail/20260130024543915800",
           "source": "金十数据",
@@ -1252,6 +1289,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时21分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时36分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -1291,31 +1341,6 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时40分]"
-        },
-        {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时40分]"
-        },
-        {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
           "url": "https://wallstreetcn.com/livenews/3046652",
           "source": "华尔街见闻-快讯",
@@ -1329,6 +1354,18 @@
           "time_info": "[03时26分 ~ 05时21分]"
         },
         {
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时36分]"
+        },
+        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
@@ -1339,17 +1376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时23分]"
-        },
-        {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -1544,8 +1570,19 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【财政部：2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%】在财政部举行的新闻发布会上，财政部国库司副司长郑涌介绍说，2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%。其中，税收收入增长0.8%，全年总体呈稳步回升走势，反映出我国经济运行延续了稳中有进的发展态势；非税收入下降11.3%，主要是2024年一次性安排的中央单位上缴专项收益抬高了基数。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3047088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
         {
           "title": "今日重点关注的财经数据与事件：2026年1月30日 周五",
           "url": "https://flash.jin10.com/detail/20260130000000001800",
@@ -1600,9 +1637,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "A股收盘：创业板指探底回升涨1.27%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3047070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -1646,6 +1694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉的最强对手来自中国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     }
