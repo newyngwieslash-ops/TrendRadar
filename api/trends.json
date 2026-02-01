@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:19:29.437182+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-02-01T19:17:26.464431+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 19时17分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时17分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -52,19 +66,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时22分 ~ 09时45分]"
-        },
-        {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时19分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -202,6 +203,17 @@
           "time_info": "[12时25分 ~ 17时24分]"
         },
         {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "特朗普谈及古巴 称将达成协议",
           "url": "https://wallstreetcn.com/livenews/3047749",
           "source": "华尔街见闻-快讯",
@@ -215,6 +227,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时25分 ~ 17时24分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "特朗普：希望沃什能降低利率。",
@@ -294,6 +328,30 @@
           "time_info": "[12时24分 ~ 14时41分]"
         },
         {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
           "url": "https://flash.jin10.com/detail/20260201145753233800",
           "source": "金十数据",
@@ -307,27 +365,15 @@
           "time_info": "[15时34分 ~ 17时24分]"
         },
         {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时19分]"
-        },
-        {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -342,15 +388,15 @@
           "time_info": "[12时25分 ~ 13时56分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
+          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
+          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -387,17 +433,6 @@
           "time_info": "12时25分"
         },
         {
-          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
-          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "美国总统特朗普：印度即将介入并购买委内瑞拉石油。",
           "url": "https://flash.jin10.com/detail/20260201102008494800",
           "source": "金十数据",
@@ -418,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
@@ -456,8 +502,23 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时17分]"
+        },
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
           "url": "https://www.zhihu.com/question/2000597877295174051",
@@ -472,21 +533,6 @@
           "time_info": "[00时20分 ~ 09时45分]"
         },
         {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时19分]"
-        },
-        {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
           "url": "https://wallstreetcn.com/articles/3764665",
           "source": "华尔街见闻",
@@ -497,8 +543,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时17分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -510,8 +556,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 19时17分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -627,28 +673,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
           "url": "https://www.zhihu.com/question/2000979139897811762",
           "source": "知乎",
@@ -663,6 +687,30 @@
           "time_info": "[12时24分 ~ 16时24分]"
         },
         {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
+        },
+        {
           "title": "男子被AI诊断梅毒医生否认却不信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -672,6 +720,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -698,26 +758,27 @@
           "time_info": "[14时41分 ~ 15时34分]"
         },
         {
-          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
-          "url": "https://www.zhihu.com/question/2000826715941904620",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
-        },
-        {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
+        },
+        {
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时17分"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -862,8 +923,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 19时17分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -876,19 +937,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 19时17分]"
         },
         {
           "title": "十大机构看后市：A股有望春节前企稳",
           "url": "https://www.toutiao.com/trending/7601815112680214052/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
         }
       ]
     },
