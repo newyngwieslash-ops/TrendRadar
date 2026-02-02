@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:32:09.113644+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-02-02T20:41:27.324264+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -167,6 +167,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "特朗普拟设120亿美元关键矿产战略储备",
+          "url": "https://flash.jin10.com/detail/20260202202100630800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://flash.jin10.com/detail/20260202040727434800",
           "source": "金十数据",
@@ -300,6 +311,17 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "据外媒报道，特朗普计划启动一项120亿美元的矿产储备计划，美国稀土公司盘前拉升，现涨近6%。",
+          "url": "https://flash.jin10.com/detail/20260202201412706800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
           "url": "https://flash.jin10.com/detail/20260202175246532800",
           "source": "金十数据",
@@ -344,6 +366,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美国稀土公司（USA Rare Earth）盘前拉升，现涨超3%，特朗普拟启动120亿美元战略矿产储备。",
+          "url": "https://wallstreetcn.com/livenews/3048345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
           "url": "https://flash.jin10.com/detail/20260202134832302800",
           "source": "金十数据",
@@ -372,7 +405,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         }
@@ -424,6 +457,19 @@
           "time_info": "[00时20分 ~ 07时19分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时41分]"
+        },
+        {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2276515",
           "source": "财联社热门",
@@ -433,18 +479,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时32分]"
         },
         {
           "title": "A股",
@@ -461,6 +495,33 @@
           "time_info": "[15时05分 ~ 19时32分]"
         },
         {
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时41分]"
+        },
+        {
+          "title": "A股三大股指跌超2% 有色金属板块大跌",
+          "url": "https://www.toutiao.com/trending/7602160332387126826/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时41分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
           "url": "https://flash.jin10.com/detail/20260202000000001800",
           "source": "金十数据",
@@ -474,31 +535,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时18分 ~ 13时59分]"
-        },
-        {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时32分]"
-        },
-        {
-          "title": "A股三大股指跌超2% 有色金属板块大跌",
-          "url": "https://www.toutiao.com/trending/7602160332387126826/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时32分]"
         },
         {
           "title": "A股三大指数均跌超2%，贵金属、有色、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4400只。",
@@ -604,7 +640,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -664,11 +700,12 @@
             13,
             15,
             14,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 20时41分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -757,15 +794,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "消息人士称，SpaceX最早可能在本周宣布与XAI的协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -778,11 +826,12 @@
             9,
             13,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时19分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[01时19分 ~ 20时41分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -834,6 +883,17 @@
           "time_info": "[17时40分 ~ 18时38分]"
         },
         {
+          "title": "马斯克牵手印度裔女友参加婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B5%E6%89%8B%E5%8D%B0%E5%BA%A6%E8%A3%94%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
           "url": "https://flash.jin10.com/detail/20260202115750959800",
           "source": "金十数据",
@@ -843,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "马斯克发现岛上是少女派对果断离开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E7%8E%B0%E5%B2%9B%E4%B8%8A%E6%98%AF%E5%B0%91%E5%A5%B3%E6%B4%BE%E5%AF%B9%E6%9E%9C%E6%96%AD%E7%A6%BB%E5%BC%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "马斯克暗示克林顿盖茨等人有罪",
