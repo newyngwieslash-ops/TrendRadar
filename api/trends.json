@@ -1,521 +1,73 @@
 {
-  "generated_at": "2026-02-02T23:33:31.971504+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-02-03T00:31:40.146689+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "爱泼斯坦案多名受害者指控特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            2,
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 09时25分]"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时17分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时05分 ~ 19时32分]"
-        },
-        {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
+          "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
+          "url": "https://wallstreetcn.com/livenews/3048454",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时25分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
-          "url": "https://wallstreetcn.com/livenews/3047823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://news.ifeng.com/c/8qMd74BpD5R",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 09时25分]"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
-          "url": "https://flash.jin10.com/detail/20260202161737942800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "00时31分"
         },
         {
-          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3048443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "特朗普拟设120亿美元关键矿产战略储备",
-          "url": "https://flash.jin10.com/detail/20260202202100630800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://flash.jin10.com/detail/20260202040727434800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 07时19分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时18分]"
-        },
-        {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时59分]"
-        },
-        {
-          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
-          "url": "https://flash.jin10.com/detail/20260202042610304800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“能够达成协议”",
-          "url": "https://flash.jin10.com/detail/20260202040920171800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 09时25分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时20分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时20分]"
-        },
-        {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时17分]"
-        },
-        {
-          "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普：原本可解决拖欠联合国会费的问题",
-          "url": "https://flash.jin10.com/detail/20260202051310002800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "据外媒报道，特朗普计划启动一项120亿美元的矿产储备计划，美国稀土公司盘前拉升，现涨近6%。",
-          "url": "https://flash.jin10.com/detail/20260202201412706800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
-          "url": "https://flash.jin10.com/detail/20260202175246532800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "超过400名欧盟官员反对特朗普为加沙设立的“和平委员会”，并要求采取紧急行动解决当地的“恶劣状况”。",
-          "url": "https://flash.jin10.com/detail/20260202143523023800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://wallstreetcn.com/livenews/3047836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“能够达成协议”",
-          "url": "https://wallstreetcn.com/livenews/3047835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国稀土公司（USA Rare Earth）盘前拉升，现涨超3%，特朗普拟启动120亿美元战略矿产储备。",
-          "url": "https://wallstreetcn.com/livenews/3048345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
-          "url": "https://flash.jin10.com/detail/20260202134832302800",
+          "title": "美国驻印度大使：美国总统特朗普刚刚与印度总理莫迪通话。",
+          "url": "https://flash.jin10.com/detail/20260202235205960800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "00时31分"
         },
         {
-          "title": "特朗普回应被爱泼斯坦案文件提及",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3048443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "00时31分"
         },
         {
-          "title": "Strategy美股盘初跌6.9%。ProShares跌12.7%，Strive跌8.3%，网红券商Robinhood跌8.3%，Bitcoin Depot跌7.9%，IBIT跌6.3%，Circle跌5.3%，Bakkt跌3.6%，Bullish跌2.6%，特朗普媒体科技集团跌2.2%，亿邦国际涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3048418",
-          "source": "华尔街见闻-快讯",
+          "title": "据外媒报道，美国总统特朗普在中期选举前建立4.83亿美元的战争基金，竞选资金申报显示共和党人筹集的资金多于民主党人。",
+          "url": "https://flash.jin10.com/detail/20260202233742266800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "00时31分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260202231935079800",
           "source": "金十数据",
           "ranks": [
-            27
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2276870",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时17分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时35分 ~ 23时33分]"
-        },
-        {
-          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2276583",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时25分]"
-        },
-        {
-          "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
-          "url": "https://www.cls.cn/detail/2276497",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时19分]"
-        },
-        {
-          "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2276515",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2387054",
-          "source": "抖音",
-          "ranks": [
-            6,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时05分 ~ 19时32分]"
-        },
         {
           "title": "券商：A股迎低吸窗口",
           "url": "https://www.toutiao.com/trending/7601767766462726163/",
@@ -524,560 +76,86 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            22,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时41分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "A股三大股指跌超2% 有色金属板块大跌",
-          "url": "https://www.toutiao.com/trending/7602160332387126826/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时41分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
-          "url": "https://flash.jin10.com/detail/20260202000000001800",
+          "title": "今日重点关注的财经数据与事件：2026年2月3日 周二",
+          "url": "https://flash.jin10.com/detail/20260203000000001800",
           "source": "金十数据",
           "ranks": [
-            3,
-            8,
-            17,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时18分 ~ 13时59分]"
-        },
-        {
-          "title": "A股三大指数均跌超2%，贵金属、有色、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4400只。",
-          "url": "https://wallstreetcn.com/livenews/3048141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "A股季行情向纵深演绎，机构判断市场风格或趋于均衡",
-          "url": "https://wallstreetcn.com/livenews/3047845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "00时31分"
         },
         {
           "title": "私募解读A股2月“开门黑”",
           "url": "https://www.toutiao.com/trending/7602251297139461678/",
           "source": "今日头条",
           "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 23时33分]"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时05分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202090430216800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "A股存储芯片板块跌幅扩大，兆易创新午后跌停，香农芯创、江波龙、普冉股份、华虹公司、富满微等多股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3048136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "A股食品等消费股局部异动，有友食品午后涨停，好想你、洽洽食品、朱老六、一鸣食品、一致魔芋跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "A股机器人概念午后拉升，模塑科技涨停，天奇股份涨超8%，五洲新春、昊志机电、世运电路、万向钱潮、方正电机跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "A股人形机器人板块午后异动拉升，五洲新春直线拉升涨超5%，国机精工、昊志机电、华伍股份、新兴装备等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时25分]"
-        },
-        {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时25分]"
-        },
-        {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 18时38分]"
-        },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            15,
-            14,
-            12,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时59分 ~ 23时33分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 17时40分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
-          "url": "https://flash.jin10.com/detail/20260202221537167800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
-          "url": "https://flash.jin10.com/detail/20260202220631439800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "快手将对“AI魔改”视频展开常态化治理",
-          "url": "https://wallstreetcn.com/livenews/3048203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时32分]"
+          "time_info": "00时31分"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 23时33分]"
-        },
-        {
-          "title": "腾讯打响AI社交第一枪",
-          "url": "https://www.toutiao.com/trending/7602143575987785257/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260202220614192800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3048404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "马化腾的AI“阳谋”：撒钱10亿、狂挖大牛......腾讯打响AI突围战",
-          "url": "https://www.cls.cn/detail/2276806",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
-          "url": "https://wallstreetcn.com/livenews/3048193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "消息人士称，SpaceX最早可能在本周宣布与XAI的协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
           "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            7,
-            9,
-            13,
-            16,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时19分 ~ 23时33分]"
-        },
-        {
-          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764683",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 15时05分]"
-        },
-        {
-          "title": "马斯克回应曾试图前往爱泼斯坦小岛",
-          "url": "https://www.toutiao.com/trending/7601314667331846194/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时17分]"
-        },
-        {
-          "title": "马斯克再次否认：我没去，是极左翼宣传者的反击",
-          "url": "https://news.ifeng.com/c/8qPmOlBP1jc",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 17时40分]"
-        },
-        {
-          "title": "马斯克官宣干电极工艺量产",
-          "url": "https://wallstreetcn.com/livenews/3048239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
-        },
-        {
-          "title": "马斯克牵手印度裔女友参加婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B5%E6%89%8B%E5%8D%B0%E5%BA%A6%E8%A3%94%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
-          "url": "https://flash.jin10.com/detail/20260202115750959800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "马斯克发现岛上是少女派对果断离开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E7%8E%B0%E5%B2%9B%E4%B8%8A%E6%98%AF%E5%B0%91%E5%A5%B3%E6%B4%BE%E5%AF%B9%E6%9E%9C%E6%96%AD%E7%A6%BB%E5%BC%80%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "马斯克暗示克林顿盖茨等人有罪",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E5%85%8B%E6%9E%97%E9%A1%BF%E7%9B%96%E8%8C%A8%E7%AD%89%E4%BA%BA%E6%9C%89%E7%BD%AA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "舆论",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "澳舆论风向对美不利，反华智库又挑事",
-          "url": "https://news.ifeng.com/c/8qPTbO1ICXu",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 17时40分]"
-        },
-        {
-          "title": "胡锡进：美国的舆论监督常常是不说白不说，说了也白说",
-          "url": "https://news.ifeng.com/c/8qQ0Yl6EKct",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 19时32分]"
+          "time_info": "00时31分"
         }
       ]
     }
