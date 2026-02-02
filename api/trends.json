@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T22:40:32.449062+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-02T23:33:31.971504+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -165,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3048443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "特朗普拟设120亿美元关键矿产战略储备",
@@ -399,6 +410,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "Strategy美股盘初跌6.9%。ProShares跌12.7%，Strive跌8.3%，网红券商Robinhood跌8.3%，Bitcoin Depot跌7.9%，IBIT跌6.3%，Circle跌5.3%，Bakkt跌3.6%，Bullish跌2.6%，特朗普媒体科技集团跌2.2%，亿邦国际涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3048418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
           "url": "https://flash.jin10.com/detail/20260202181717877800",
           "source": "金十数据",
@@ -441,8 +463,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 22时40分]"
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 23时33分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -495,6 +517,17 @@
           "time_info": "[15时05分 ~ 19时32分]"
         },
         {
+          "title": "券商：A股迎低吸窗口",
+          "url": "https://www.toutiao.com/trending/7601767766462726163/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
+        },
+        {
           "title": "A股收评：三大指数跌超2%",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
           "source": "百度热搜",
@@ -520,17 +553,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时35分 ~ 20时41分]"
-        },
-        {
-          "title": "券商：A股迎低吸窗口",
-          "url": "https://www.toutiao.com/trending/7601767766462726163/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月2日 周一",
@@ -568,6 +590,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "私募解读A股2月“开门黑”",
+          "url": "https://www.toutiao.com/trending/7602251297139461678/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
         },
         {
           "title": "A股行情",
@@ -637,17 +671,6 @@
           "time_info": "13时59分"
         },
         {
-          "title": "私募解读A股2月“开门黑”",
-          "url": "https://www.toutiao.com/trending/7602251297139461678/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -715,8 +738,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时59分 ~ 22时40分]"
+          "appearance_count": 12,
+          "time_info": "[13时59分 ~ 23时33分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -762,7 +785,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -773,7 +796,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -801,6 +824,18 @@
           "time_info": "[18时38分 ~ 19时32分]"
         },
         {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
+        },
+        {
           "title": "腾讯打响AI社交第一枪",
           "url": "https://www.toutiao.com/trending/7602143575987785257/",
           "source": "今日头条",
@@ -818,7 +853,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -829,7 +864,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -843,17 +878,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
@@ -910,8 +934,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时19分 ~ 22时40分]"
+          "appearance_count": 24,
+          "time_info": "[01时19分 ~ 23时33分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
