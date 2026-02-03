@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T20:42:35.939397+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-02-03T22:02:02.939769+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时02分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时41分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[14时41分 ~ 22时02分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -59,6 +59,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时38分 ~ 20时42分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时02分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时24分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 20时42分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -179,6 +179,17 @@
           "time_info": "[12时09分 ~ 14时41分]"
         },
         {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
           "url": "https://wallstreetcn.com/livenews/3048475",
           "source": "华尔街见闻-快讯",
@@ -247,17 +258,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
           "url": "https://flash.jin10.com/detail/20260203180904102800",
           "source": "金十数据",
@@ -308,7 +308,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -671,7 +671,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
@@ -679,7 +679,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -692,8 +692,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时09分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[12时09分 ~ 22时02分]"
         },
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -733,8 +733,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时09分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[12时09分 ~ 22时02分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时02分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -765,17 +778,17 @@
           "time_info": "[00时31分 ~ 12时09分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
           "ranks": [
+            11,
             8,
-            7,
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时42分]"
+          "time_info": "[18时33分 ~ 22时02分]"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -863,18 +876,6 @@
           "time_info": "[13时45分 ~ 14时41分]"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 20时42分]"
-        },
-        {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
@@ -884,6 +885,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
         },
         {
           "title": "又一位AI亿万富豪诞生了",
@@ -896,6 +908,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "SpaceX收购xAI 估值1.25万亿美元",
@@ -975,6 +1009,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
           "url": "https://www.zhihu.com/question/2001346637126136295",
           "source": "知乎",
@@ -984,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
@@ -1077,7 +1111,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "融资保证金比例上调至100%后，A股影响有多大？",
@@ -1103,6 +1137,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
+          "url": "https://www.cls.cn/detail/2279219",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 22时02分]"
         },
         {
           "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
@@ -1145,17 +1192,16 @@
           "time_info": "09时25分"
         },
         {
-          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
-          "url": "https://www.cls.cn/detail/2279219",
+          "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
+          "url": "https://www.cls.cn/detail/2279395",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6,
-            4
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
         },
         {
           "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
@@ -1205,6 +1251,18 @@
           "time_info": "[13时45分 ~ 14时41分]"
         },
         {
+          "title": "A股调整结束了吗",
+          "url": "https://www.toutiao.com/trending/7602583384296001087/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3048828",
           "source": "华尔街见闻-快讯",
@@ -1229,6 +1287,17 @@
           "time_info": "[13时45分 ~ 14时41分]"
         },
         {
+          "title": "A股今日4856只个股上涨创近5个月新高",
+          "url": "https://www.toutiao.com/trending/7601726374696550406/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "A股算力租赁板块持续拉升，南凌科技盘中创新高，利通电子触及涨停，顺网科技涨超15%，网宿科技涨超10%，光环新网、青云科技、优刻得、创业黑马、首都在线跟涨。",
           "url": "https://wallstreetcn.com/livenews/3048850",
           "source": "华尔街见闻-快讯",
@@ -1238,17 +1307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
-          "url": "https://www.cls.cn/detail/2279395",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-03）",
@@ -1284,17 +1342,6 @@
           "time_info": "17时35分"
         },
         {
-          "title": "A股调整结束了吗",
-          "url": "https://www.toutiao.com/trending/7602583384296001087/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "私募解读A股2月“开门黑”",
           "url": "https://www.toutiao.com/trending/7602251297139461678/",
           "source": "今日头条",
@@ -1320,7 +1367,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -1333,11 +1380,12 @@
             12,
             14,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时09分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[12时09分 ~ 22时02分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -1412,6 +1460,17 @@
           "time_info": "[00时31分 ~ 09时25分]"
         },
         {
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
           "source": "百度热搜",
@@ -1424,15 +1483,15 @@
           "time_info": "[09时24分 ~ 12时09分]"
         },
         {
-          "title": "马斯克，被传唤",
-          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
-          "source": "凤凰网",
+          "title": "马斯克被法司法部门传唤",
+          "url": "https://www.toutiao.com/trending/7602620308612189722/",
+          "source": "今日头条",
           "ranks": [
-            6
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
@@ -1474,7 +1533,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
