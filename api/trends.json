@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:41:21.400630+08:00",
-  "total_titles_processed": 2076,
+  "generated_at": "2026-02-04T23:37:03.431230+08:00",
+  "total_titles_processed": 2172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
@@ -79,17 +79,6 @@
           "time_info": "[00时44分 ~ 06时24分]"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时24分]"
-        },
-        {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
           "source": "今日头条",
@@ -97,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时37分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -108,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时37分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -119,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -129,9 +118,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时41分 ~ 23时37分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时24分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -302,6 +302,18 @@
           "time_info": "[17时37分 ~ 19时29分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时41分 ~ 23时37分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -372,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时29分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -479,18 +502,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -710,9 +722,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -792,6 +815,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
           "url": "https://flash.jin10.com/detail/20260204060809275800",
           "source": "金十数据",
@@ -839,7 +873,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -850,8 +884,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时20分 ~ 22时41分]"
+          "appearance_count": 18,
+          "time_info": "[09时20分 ~ 23时37分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -864,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时43分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时43分 ~ 23时37分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -902,6 +936,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时23分 ~ 14时41分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 23时37分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -991,19 +1038,6 @@
           "time_info": "[00时44分 ~ 07时23分]"
         },
         {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时41分]"
-        },
-        {
           "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
           "url": "https://www.cls.cn/detail/2280128",
           "source": "财联社热门",
@@ -1015,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时32分 ~ 20时42分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1284,6 +1329,17 @@
           "time_info": "[12时06分 ~ 13时44分]"
         },
         {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时37分]"
+        },
+        {
           "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
           "url": "https://www.cls.cn/detail/2279757",
           "source": "财联社热门",
@@ -1295,17 +1351,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时43分 ~ 15时40分]"
-        },
-        {
-          "title": "国民党代表团参访清华大学，了解大陆AI技术",
-          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -1415,7 +1460,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1497,6 +1542,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3049978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
           "url": "https://flash.jin10.com/detail/20260204043502987800",
           "source": "金十数据",
@@ -1525,9 +1581,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3049977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -1558,7 +1625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1569,7 +1636,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1654,7 +1721,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -1671,6 +1738,18 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时44分 ~ 20时42分]"
+        },
+        {
+          "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
+          "url": "https://www.cls.cn/detail/2280542",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时37分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -1698,16 +1777,29 @@
           "time_info": "[00时44分 ~ 09时20分]"
         },
         {
-          "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
-          "url": "https://www.cls.cn/detail/2280542",
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
           "source": "财联社热门",
           "ranks": [
+            4,
             3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时37分]"
+        },
+        {
+          "title": "马斯克被激怒",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
             2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时29分 ~ 22时41分]"
+          "time_info": "[21时59分 ~ 23时37分]"
         },
         {
           "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
@@ -1732,28 +1824,15 @@
           "time_info": "[00时44分 ~ 07时23分]"
         },
         {
-          "title": "马斯克被激怒",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "马斯克：爱泼斯坦客户一个也没被捕",
+          "url": "https://www.toutiao.com/trending/7602995666331323955/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时41分]"
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -1931,6 +2010,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
+          "url": "https://wallstreetcn.com/livenews/3049964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "马斯克成为史上首位身价达8000亿美元者",
           "url": "https://wallstreetcn.com/livenews/3049902",
           "source": "华尔街见闻-快讯",
@@ -1956,7 +2046,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -2029,6 +2119,18 @@
           "time_info": "[13时44分 ~ 14时41分]"
         },
         {
+          "title": "媒体：A股交易生态巨变",
+          "url": "https://www.toutiao.com/trending/7602973150476766746/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时41分 ~ 23时37分]"
+        },
+        {
           "title": "A股光伏设备板块午后涨幅扩大",
           "url": "https://wallstreetcn.com/livenews/3049575",
           "source": "华尔街见闻-快讯",
@@ -2052,15 +2154,15 @@
           "time_info": "[18时32分 ~ 18时33分]"
         },
         {
-          "title": "媒体：A股交易生态巨变",
-          "url": "https://www.toutiao.com/trending/7602973150476766746/",
+          "title": "业内：短线A股或延续震荡分化走势",
+          "url": "https://www.toutiao.com/trending/7603010537487601158/",
           "source": "今日头条",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-04）",
