@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T20:42:23.380380+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-02-04T21:59:24.773316+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
@@ -88,6 +88,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 06时24分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -494,6 +527,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3049918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
           "url": "https://flash.jin10.com/detail/20260204043659433800",
           "source": "金十数据",
@@ -687,7 +731,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -750,7 +794,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -761,8 +805,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时20分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 21时59分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -775,8 +819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时43分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 21时59分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -890,6 +934,18 @@
           "time_info": "[00时44分 ~ 07时23分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时59分]"
+        },
+        {
           "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
           "url": "https://www.cls.cn/detail/2280128",
           "source": "财联社热门",
@@ -903,15 +959,17 @@
           "time_info": "[16时32分 ~ 20时42分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 20时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时59分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -931,9 +989,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时59分]"
         },
         {
           "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
@@ -993,6 +1063,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "Resolve AI在新一轮融资中估值达10亿美元",
+          "url": "https://flash.jin10.com/detail/20260204214728784800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -1002,18 +1083,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 20时42分]"
         },
         {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
@@ -1058,18 +1127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
-        },
-        {
-          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
-          "url": "https://wallstreetcn.com/articles/3764867",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 20时42分]"
         },
         {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
@@ -1260,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -1496,7 +1564,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -1540,6 +1608,17 @@
           "time_info": "[00时44分 ~ 09时20分]"
         },
         {
+          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时59分]"
+        },
+        {
           "title": "马斯克被法司法部门传唤",
           "url": "https://www.toutiao.com/trending/7602620308612189722/",
           "source": "今日头条",
@@ -1551,17 +1630,6 @@
           "time_info": "[00时44分 ~ 07时23分]"
         },
         {
-          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时42分]"
-        },
-        {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
           "url": "https://www.cls.cn/detail/2280542",
           "source": "财联社热门",
@@ -1570,8 +1638,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时59分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -1595,6 +1663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "晶科能源：对马斯克团队到访传闻不作回应",
@@ -1630,6 +1709,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "晶科能源：经核实公司未与马斯克团队开展任何合作 亦未签署任何框架性协议或正式协议",
+          "url": "https://wallstreetcn.com/livenews/3049926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "马斯克被激怒",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
@@ -1737,6 +1838,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "马斯克成为史上首位身价达8000亿美元者",
+          "url": "https://wallstreetcn.com/livenews/3049902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
           "url": "https://www.toutiao.com/trending/7602285893713723455/",
           "source": "今日头条",
@@ -1751,7 +1863,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -1900,6 +2012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "财经网站investinglive评美国1月ADP就业数据：形势相当严峻，各类白领岗位普遍流失，而就业净增几乎全部集中在与政府相关的领域。",
+          "url": "https://flash.jin10.com/detail/20260204212200759800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
@@ -1939,7 +2062,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
