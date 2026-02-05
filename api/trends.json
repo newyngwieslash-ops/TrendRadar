@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T20:43:55.836067+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-02-05T22:02:22.096981+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -90,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时40分 ~ 20时43分]"
+          "appearance_count": 25,
+          "time_info": "[01时40分 ~ 22时02分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -305,6 +305,18 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://flash.jin10.com/detail/20260205021201236800",
           "source": "金十数据",
@@ -364,15 +376,15 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
+          "title": "特朗普预计将于今日推出名为TrumpRx的全新处方药直销平台。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3050711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普：美联储“理论上”是一个独立机构",
@@ -419,6 +431,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260205015333473800",
           "source": "金十数据",
@@ -458,7 +481,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -491,7 +514,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -510,7 +533,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -520,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时20分 ~ 20时43分]"
+          "appearance_count": 18,
+          "time_info": "[07时20分 ~ 22时02分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -532,8 +555,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时20分 ~ 22时02分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -686,11 +709,24 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时02分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -739,17 +775,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
@@ -808,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "英国央行行长贝利：在AI应用方面，看到了一些招聘减少的初步迹象。 并不欢迎失业，这不是值得付出的代价。",
+          "url": "https://wallstreetcn.com/livenews/3050705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -912,7 +948,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -920,11 +956,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 22时02分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1021,6 +1058,17 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
           "url": "https://flash.jin10.com/detail/20260205050944063800",
           "source": "金十数据",
@@ -1079,7 +1127,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "媒体：A股交易生态巨变",
@@ -1105,8 +1153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 22时02分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月5日 周四",
@@ -1158,6 +1206,18 @@
           "time_info": "[14时49分 ~ 15时45分]"
         },
         {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时02分]"
+        },
+        {
           "title": "A股全天缩量调整 大消费板块逆势爆发",
           "url": "https://www.toutiao.com/trending/7602993698846621750/",
           "source": "今日头条",
@@ -1169,6 +1229,17 @@
           "time_info": "[17时37分 ~ 17时38分]"
         },
         {
+          "title": "A股春节休市安排来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3050370",
           "source": "华尔街见闻-快讯",
@@ -1178,17 +1249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "A股银行股午后继续走强，厦门银行涨超8%，重庆银行、上海银行涨超4%，南京银行、渝农商行、宁波银行等涨幅居前。",
