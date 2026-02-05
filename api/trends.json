@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:31:45.517156+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-02-05T20:43:55.836067+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时38分 ~ 19时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 20时43分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -90,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时40分 ~ 19时31分]"
+          "appearance_count": 24,
+          "time_info": "[01时40分 ~ 20时43分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -364,6 +364,17 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "特朗普：美联储“理论上”是一个独立机构",
           "url": "https://flash.jin10.com/detail/20260205083156252800",
           "source": "金十数据",
@@ -441,6 +452,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -458,9 +480,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
@@ -477,7 +510,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -487,8 +520,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时20分 ~ 19时31分]"
+          "appearance_count": 17,
+          "time_info": "[07时20分 ~ 20时43分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -499,8 +532,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时20分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 20时43分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -542,6 +575,20 @@
           "time_info": "[00时38分 ~ 05时27分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 20时43分]"
+        },
+        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
@@ -559,6 +606,19 @@
           "time_info": "[00时38分 ~ 19时31分]"
         },
         {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 20时43分]"
+        },
+        {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
@@ -571,32 +631,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时20分 ~ 16时35分]"
-        },
-        {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 19时31分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 19时31分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -646,6 +680,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时08分 ~ 16时35分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -707,6 +752,19 @@
           "time_info": "[13时50分 ~ 19时31分]"
         },
         {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时43分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
           "url": "https://wallstreetcn.com/livenews/3050115",
           "source": "华尔街见闻-快讯",
@@ -717,18 +775,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
-          "url": "https://www.zhihu.com/question/2002683972233159732",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
@@ -873,11 +919,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 20时43分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1032,7 +1079,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "媒体：A股交易生态巨变",
@@ -1050,6 +1097,18 @@
           "time_info": "[00时38分 ~ 06时20分]"
         },
         {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时43分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年2月5日 周四",
           "url": "https://flash.jin10.com/detail/20260205000000000800",
           "source": "金十数据",
@@ -1061,17 +1120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 13时51分]"
-        },
-        {
-          "title": "A股2026年春节休市安排公布",
-          "url": "https://www.cls.cn/detail/2281758",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
@@ -1130,6 +1178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "A股银行股午后继续走强，厦门银行涨超8%，重庆银行、上海银行涨超4%，南京银行、渝农商行、宁波银行等涨幅居前。",
@@ -1243,6 +1302,18 @@
           "time_info": "[00时38分 ~ 07时21分]"
         },
         {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 20时43分]"
+        },
+        {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3050032",
           "source": "华尔街见闻-快讯",
@@ -1252,18 +1323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
