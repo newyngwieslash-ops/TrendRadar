@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:33:30.007871+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-02-06T19:28:59.020889+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时28分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 19时28分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -47,6 +47,17 @@
           "time_info": "[12时09分 ~ 15时42分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时28分]"
+        },
+        {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
           "source": "凤凰网",
@@ -58,24 +69,13 @@
           "time_info": "[00时40分 ~ 07时19分]"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时33分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
           "url": "https://flash.jin10.com/detail/20260206180327794800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -317,6 +317,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3050781",
           "source": "华尔街见闻-快讯",
@@ -345,7 +356,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -378,7 +389,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -524,13 +535,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时28分]"
+        },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
           "url": "https://wallstreetcn.com/articles/3764901",
@@ -541,18 +575,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 06时20分]"
-        },
-        {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时33分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -616,11 +638,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时28分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -673,6 +696,18 @@
           "time_info": "[09时21分 ~ 15时42分]"
         },
         {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时28分]"
+        },
+        {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
           "url": "https://wallstreetcn.com/livenews/3050854",
           "source": "华尔街见闻-快讯",
@@ -684,18 +719,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时22分]"
-        },
-        {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时33分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -803,6 +826,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
           "url": "https://wallstreetcn.com/livenews/3050871",
           "source": "华尔街见闻-快讯",
@@ -853,7 +887,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -908,9 +942,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "实测AI点餐2块钱买三杯奶茶",
+          "url": "https://www.toutiao.com/trending/7603575542419587108/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "实测OpenAI和Cluade模型",
@@ -919,7 +964,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -927,7 +972,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -1029,6 +1074,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
+          "url": "https://www.cls.cn/detail/2283033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-06）",
           "url": "https://flash.jin10.com/detail/20260206152458917800",
           "source": "金十数据",
@@ -1068,7 +1124,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -1076,7 +1132,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克或成黄金的“黑天鹅”？华尔街顶级分析师语出惊人……",
@@ -1088,8 +1144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时28分]"
         },
         {
           "title": "马斯克否认SpaceX研发星链手机",
@@ -1102,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克弟弟卷入爱泼斯坦案",
+          "url": "https://www.toutiao.com/trending/7603048029708746771/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国参议院民主党成员Warren质疑马斯克旗下太空探索公司SpaceX与五角大楼的（利益）关系。",
