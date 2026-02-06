@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:09:44.755617+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-06T13:49:09.964318+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 13时49分]"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "日本大选前，特朗普发文支持高市",
-          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -136,6 +136,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 07时19分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -289,17 +301,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
           "url": "https://flash.jin10.com/detail/20260206084843211800",
           "source": "金十数据",
@@ -328,7 +329,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -435,22 +436,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 12时09分]"
-        },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
           "url": "https://wallstreetcn.com/articles/3764901",
@@ -461,6 +448,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 06时20分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时49分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -489,6 +491,18 @@
           "time_info": "[00时40分 ~ 09时21分]"
         },
         {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时49分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -513,18 +527,6 @@
           "time_info": "[00时40分 ~ 06时20分]"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 12时09分]"
-        },
-        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
@@ -535,8 +537,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 12时09分]"
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 13时49分]"
+        },
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -552,6 +565,18 @@
           "time_info": "[03时34分 ~ 05时22分]"
         },
         {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 13时49分]"
+        },
+        {
           "title": "Anthropic发布新AI 金融服务公司承压",
           "url": "https://flash.jin10.com/detail/20260206032448754800",
           "source": "金十数据",
@@ -564,16 +589,17 @@
           "time_info": "[03时34分 ~ 04时26分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 13时49分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -598,18 +624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时26分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 12时09分]"
         },
         {
           "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
@@ -654,7 +668,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -676,7 +690,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -750,7 +764,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -774,8 +788,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时49分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -795,11 +809,12 @@
           "url": "https://www.douyin.com/hot/2391220",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 13时49分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -835,6 +850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "A股光伏设备板块震荡走高，正泰电源涨停，泽润新能涨超10%，协鑫集成、奥特维、亚玛顿、晶科能源、迈为股份、拉普拉斯等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3051128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "银河证券：当前A股一些铜矿核心标的2026年估值安全边际高，配置价值凸显",
