@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:34:20.991714+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-02-06T17:36:30.101317+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时36分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时34分]"
+          "time_info": "[12时09分 ~ 17时36分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -43,29 +58,15 @@
           "time_info": "[00时40分 ~ 07时19分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时34分]"
-        },
-        {
           "title": "中方回应特朗普公开支持高市早苗",
           "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时36分]"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -289,7 +290,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -415,6 +416,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "据伊朗国家电视台报道：特朗普高级顾问库什纳也将出席伊美会谈。",
+          "url": "https://flash.jin10.com/detail/20260206164225309800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
           "url": "https://flash.jin10.com/detail/20260206000842000800",
           "source": "金十数据",
@@ -484,7 +496,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -492,6 +504,17 @@
           "source": "华尔街见闻",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时20分]"
+        },
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -507,22 +530,12 @@
             7,
             19,
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 16时34分]"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 17时36分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -540,6 +553,18 @@
           "time_info": "[00时40分 ~ 09时21分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 17时36分]"
+        },
+        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -552,18 +577,6 @@
           "time_info": "[07时18分 ~ 15时42分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时34分]"
-        },
-        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
@@ -573,8 +586,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 17时36分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -710,6 +723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时26分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
@@ -884,11 +908,12 @@
           "ranks": [
             1,
             14,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 17时36分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -980,11 +1005,12 @@
           "url": "https://www.cls.cn/detail/2282686",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时36分]"
         },
         {
           "title": "马斯克否认SpaceX研发星链手机",
