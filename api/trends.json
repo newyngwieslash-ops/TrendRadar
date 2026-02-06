@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-07T00:37:07.697291+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-07T01:37:23.516950+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
@@ -15,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -26,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -37,8 +48,54 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "AI 能救得了 SaaS 么？",
+          "url": "https://www.zhihu.com/question/658582077",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -52,55 +109,88 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
+          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3051561",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "AI 能救得了 SaaS 么？",
-          "url": "https://www.zhihu.com/question/658582077",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
+          "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260207010008525800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：OpenAI正与阿布扎比的G42洽谈，为阿联酋打造专用版ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260207005142031800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼在社交平台发起投票，询问客户希望如何对Codex收费？选项包括固定的月费订阅以及按使用量计费，每段20美元。",
+          "url": "https://flash.jin10.com/detail/20260207005121782800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
+          "url": "https://flash.jin10.com/detail/20260207004458170800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
         {
           "title": "中方回应特朗普公开支持高市早苗",
           "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
@@ -113,54 +203,78 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
+          "url": "https://flash.jin10.com/detail/20260207010853247800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
+          "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
+          "url": "https://flash.jin10.com/detail/20260207010541292800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
+          "url": "https://wallstreetcn.com/livenews/3051565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
           "url": "https://www.douyin.com/hot/2391580",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
           "url": "https://wallstreetcn.com/livenews/3051532",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时37分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3051562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -169,9 +283,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260207004917711800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
@@ -187,8 +312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         }
       ]
     }
