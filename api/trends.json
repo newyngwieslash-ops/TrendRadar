@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T09:26:59.377293+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-09T12:21:34.108102+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
@@ -156,9 +156,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时21分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -184,13 +184,35 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时21分]"
+        },
+        {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -201,20 +223,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时21分"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -223,9 +245,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
+          "url": "https://wallstreetcn.com/livenews/3052041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "顶级域名“AI.com”以7000万美元转手 刷新历史交易纪录",
@@ -234,7 +267,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -242,7 +275,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -315,7 +348,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -365,6 +398,18 @@
           "time_info": "[06时19分 ~ 07时24分]"
         },
         {
+          "title": "本周机构最为关注的A股行业板块一览",
+          "url": "https://www.cls.cn/detail/2283996",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时21分]"
+        },
+        {
           "title": "券商开年以来共计“拜访”685家A股公司",
           "url": "https://wallstreetcn.com/livenews/3051890",
           "source": "华尔街见闻-快讯",
@@ -374,17 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "本周机构最为关注的A股行业板块一览",
-          "url": "https://www.cls.cn/detail/2283996",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
@@ -404,9 +438,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "分析师：A股春节前或有小红包行情",
+          "url": "https://www.toutiao.com/trending/7604430716746006534/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日瑞士1月消费者信心指数、欧元区2月Sentix投资者信心指数公布。",
@@ -415,9 +460,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "国家大基金减持多家A股公司",
+          "url": "https://www.toutiao.com/trending/7604190103669342218/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "华泰证券：A股调整波段或接近尾声 建议逐步提升组合的弹性",
@@ -426,7 +482,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -434,7 +490,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -493,6 +549,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时19分]"
+        },
+        {
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
