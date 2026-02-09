@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T17:56:33.078258+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-02-09T18:52:48.330765+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 18时52分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -77,6 +77,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时24分]"
+        },
+        {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 18时52分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -131,18 +145,31 @@
           "time_info": "[00时22分 ~ 09时26分]"
         },
         {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 18时52分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            3,
-            2,
-            1
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时56分]"
+          "time_info": "[14时03分 ~ 18时52分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -175,33 +202,6 @@
           "time_info": "[00时22分 ~ 07时24分]"
         },
         {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时56分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 17时56分]"
-        },
-        {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
           "url": "https://wallstreetcn.com/articles/3765254",
           "source": "华尔街见闻",
@@ -211,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 18时52分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -224,8 +224,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 18时52分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -243,22 +255,12 @@
           "url": "https://wallstreetcn.com/livenews/3052250",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -273,6 +275,18 @@
           "time_info": "[00时22分 ~ 03时20分]"
         },
         {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -284,6 +298,30 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
@@ -293,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "日经指数创历史新高 AI等板块迎政策红利",
@@ -326,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
-        },
-        {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -372,17 +388,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
           "url": "https://flash.jin10.com/detail/20260209131648292800",
           "source": "金十数据",
@@ -411,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
@@ -690,7 +695,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -762,6 +767,41 @@
           "time_info": "[14时03分 ~ 14时04分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209183241837800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 18时52分]"
+        },
+        {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
           "url": "https://flash.jin10.com/detail/20260209153806428800",
           "source": "金十数据",
@@ -779,9 +819,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "日本前参选人称高市是特朗普的应声虫，担忧中日关系会再恶化",
+          "url": "https://news.ifeng.com/c/8qbmJBWHrqw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
@@ -793,18 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 17时56分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -868,6 +907,18 @@
           "time_info": "[05时21分 ~ 06时19分]"
         },
         {
+          "title": "特朗普说中场秀是对美国的侮辱",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9C%BA%E7%A7%80%E6%98%AF%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BE%AE%E8%BE%B1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
           "title": "如何看待特朗普怒喷第 60 届超级碗中场秀「史上最烂」，因表演中几乎完全没有说英文？",
           "url": "https://www.zhihu.com/question/2004153656694503218",
           "source": "知乎",
@@ -885,9 +936,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "Tegna盘前上涨约5%，此前特朗普公开支持Nexstar收购Tegna的交易。",
+          "url": "https://flash.jin10.com/detail/20260209175953679800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普批超级碗中场秀是史上最差之一",
@@ -899,17 +961,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
-        },
-        {
-          "title": "特朗普说中场秀是对美国的侮辱",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9C%BA%E7%A7%80%E6%98%AF%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BE%AE%E8%BE%B1%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         }
       ]
     },
@@ -969,8 +1020,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 18时52分]"
+        },
+        {
+          "title": "萝莉岛去不成,马斯克改奔月球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
@@ -985,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时24分]"
-        },
-        {
-          "title": "萝莉岛去不成,马斯克改奔月球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -1057,7 +1108,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
