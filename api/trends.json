@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:45:15.616704+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-02-10T20:56:53.345146+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 19时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 20时56分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -155,8 +155,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 20时56分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -171,17 +171,6 @@
           "time_info": "[01时45分 ~ 07时31分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时48分]"
-        },
-        {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
@@ -192,8 +181,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 20时56分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时48分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -225,11 +225,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 20时56分]"
         },
         {
           "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
@@ -238,7 +239,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -441,7 +442,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -477,12 +478,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
@@ -493,11 +505,12 @@
             11,
             13,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 20时56分]"
         },
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -539,6 +552,17 @@
           "time_info": "[12时27分 ~ 14时08分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 20时56分]"
+        },
+        {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -573,17 +597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 19时45分]"
         },
         {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
@@ -765,6 +778,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
           "url": "https://wallstreetcn.com/livenews/3052671",
           "source": "华尔街见闻-快讯",
@@ -834,7 +858,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -847,6 +871,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时45分 ~ 09时49分]"
+        },
+        {
+          "title": "A股上市公司春节前分红超3700亿元",
+          "url": "https://wallstreetcn.com/livenews/3053041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "外资机构密集调研A股公司，科技赛道成关注重点",
@@ -974,7 +1009,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -1011,6 +1046,28 @@
           "time_info": "[01时45分 ~ 02时48分]"
         },
         {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
@@ -1020,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
@@ -1039,7 +1107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1050,7 +1118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1092,8 +1160,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 20时56分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -1108,8 +1176,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时45分 ~ 19时45分]"
+          "appearance_count": 20,
+          "time_info": "[01时45分 ~ 20时56分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
