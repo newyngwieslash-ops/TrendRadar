@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T04:31:03.407040+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-02-14T05:29:15.198588+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -15,8 +15,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 05时29分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16,
+            20,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -32,31 +47,6 @@
           "time_info": "[00时37分 ~ 02时37分]"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东地区派出第二艘航母",
-          "url": "https://wallstreetcn.com/livenews/3055352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
           "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
@@ -66,6 +56,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -80,6 +105,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时36分 ~ 04时31分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
+        },
+        {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -108,16 +167,17 @@
           "time_info": "[01时36分 ~ 03时38分]"
         },
         {
-          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
-          "url": "https://flash.jin10.com/detail/20260214031056570800",
-          "source": "金十数据",
+          "title": "美国总统特朗普重申：与北约关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3055341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12
+            4,
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
@@ -131,6 +191,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时38分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东地区派出第二艘航母",
+          "url": "https://wallstreetcn.com/livenews/3055352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时29分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -156,51 +228,17 @@
           "time_info": "[02时37分 ~ 03时38分]"
         },
         {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
-        },
-        {
-          "title": "美国总统特朗普重申：与北约关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3055341",
+          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
-        },
-        {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
+            7,
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -216,27 +254,28 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
-          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
-          "url": "https://wallstreetcn.com/livenews/3055338",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            12
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -299,18 +338,6 @@
           "time_info": "[03时38分 ~ 04时31分]"
         },
         {
-          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
-          "url": "https://flash.jin10.com/detail/20260214023919171800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
-        },
-        {
           "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
           "url": "https://wallstreetcn.com/livenews/3055305",
           "source": "华尔街见闻-快讯",
@@ -321,18 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时37分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -602,7 +617,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "小伙5个月用AI做120多个App",
@@ -612,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -623,8 +638,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -635,8 +650,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -647,8 +662,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -659,8 +674,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -670,8 +685,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -684,8 +699,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时29分]"
+        },
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -701,6 +727,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 04时31分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -742,15 +779,15 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
+          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
+          "url": "https://www.zhihu.com/question/1969140298404853132",
+          "source": "知乎",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时29分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
@@ -829,11 +866,12 @@
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -864,18 +902,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
-          "url": "https://wallstreetcn.com/livenews/3055337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
-        },
-        {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
           "url": "https://flash.jin10.com/detail/20260214023821858800",
           "source": "金十数据",
@@ -884,8 +910,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "市场消息：SpaceX正考虑在IPO中采用双重股权结构，以强化马斯克的控制权。",
@@ -894,6 +920,18 @@
           "ranks": [
             16,
             27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时29分]"
+        },
+        {
+          "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
+          "url": "https://wallstreetcn.com/livenews/3055337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -910,11 +948,12 @@
           "url": "https://wallstreetcn.com/livenews/3055353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时29分]"
         }
       ]
     }
