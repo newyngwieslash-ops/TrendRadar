@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:41:04.882912+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-02-14T22:21:24.946744+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时04分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[12时04分 ~ 22时21分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时30分 ~ 21时41分]"
+          "appearance_count": 13,
+          "time_info": "[15时30分 ~ 22时21分]"
         },
         {
           "title": "特朗普证实美军将向中东派第二艘航母",
@@ -127,6 +127,18 @@
           "time_info": "[03时38分 ~ 07时24分]"
         },
         {
+          "title": "特朗普下令第二艘航母前往中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260214030526351800",
           "source": "金十数据",
@@ -164,15 +176,15 @@
           "time_info": "[12时04分 ~ 16时24分]"
         },
         {
-          "title": "特朗普下令第二艘航母前往中东",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
-          "source": "bilibili 热搜",
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时21分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -186,17 +198,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时37分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时41分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -402,6 +403,19 @@
           "time_info": "[03时38分 ~ 05时29分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
           "source": "澎湃新闻",
@@ -411,6 +425,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 15时31分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -426,16 +453,17 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
+            16,
+            21,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -474,18 +502,6 @@
           "time_info": "[01时36分 ~ 02时37分]"
         },
         {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
-        },
-        {
           "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
           "url": "https://wallstreetcn.com/livenews/3055306",
           "source": "华尔街见闻-快讯",
@@ -520,18 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时37分]"
-        },
-        {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -867,7 +871,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -879,19 +883,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时24分]"
-        },
-        {
-          "title": "AI无视版权,老外集火围殴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 21时41分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -931,8 +922,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[13时40分 ~ 22时21分]"
+        },
+        {
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 14,
-          "time_info": "[13时40分 ~ 21时41分]"
+          "time_info": "[14时36分 ~ 22时21分]"
         },
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -945,8 +950,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 22时21分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -968,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -996,11 +1001,12 @@
             16,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 21时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 22时21分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -1013,8 +1019,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 22时21分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -1029,11 +1035,12 @@
             19,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 21时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 22时21分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -1063,11 +1070,12 @@
             20,
             19,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[03时38分 ~ 21时41分]"
+          "appearance_count": 23,
+          "time_info": "[03时38分 ~ 22时21分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -1095,8 +1103,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时24分 ~ 21时41分]"
+          "appearance_count": 9,
+          "time_info": "[17时24分 ~ 22时21分]"
+        },
+        {
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时21分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -1169,16 +1189,17 @@
           "time_info": "[14时36分 ~ 17时25分]"
         },
         {
-          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
-          "url": "https://www.zhihu.com/question/2003986885089981631",
-          "source": "知乎",
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            18
+            2,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -1192,18 +1213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时24分]"
-        },
-        {
-          "title": "印度AI峰会“五天赛程”安排",
-          "url": "https://wallstreetcn.com/livenews/3055544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -1232,6 +1241,19 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
+          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
+        },
+        {
           "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
           "url": "https://flash.jin10.com/detail/20260214113020245800",
           "source": "金十数据",
@@ -1242,18 +1264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时40分]"
-        },
-        {
-          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
-          "url": "https://wallstreetcn.com/livenews/3055541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
@@ -1280,6 +1290,54 @@
           "time_info": "[15时30分 ~ 16时24分]"
         },
         {
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
+        },
+        {
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -1293,49 +1351,17 @@
           "time_info": "[02时37分 ~ 04时31分]"
         },
         {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            12
+            15,
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
-        },
-        {
-          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "本周，“AI颠覆一切”的狼终于来了",
-          "url": "https://wallstreetcn.com/articles/3765735",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -1348,18 +1374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时36分]"
-        },
-        {
-          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
-          "url": "https://wallstreetcn.com/livenews/3055529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "中国AI迭代快过美国抹黑速度",
@@ -1481,6 +1495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "今年情人节用AI做恋爱主角",
+          "url": "https://www.douyin.com/hot/2400789",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -1500,8 +1525,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时40分 ~ 22时21分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1515,17 +1540,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时38分 ~ 06时26分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -1552,6 +1566,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时24分]"
+        },
+        {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时21分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -1718,8 +1744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时04分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[12时04分 ~ 22时21分]"
         },
         {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
@@ -1731,8 +1757,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 21时41分]"
+          "appearance_count": 14,
+          "time_info": "[14时36分 ~ 22时21分]"
         },
         {
           "title": "美国芝加哥联储主席Austan Goolsbe：认为利率可以下降。 希望在继续靠前降息之前掌握更多信息。 我不知道限制性的美联储政策为何物。 我们就是需要看到通胀进展。 如果通胀回落至2%，FOMC就可以再降息几次。 当前，我们并没有处于通胀朝着2%回落的正轨之上。 CPI数据在一定程度上鼓舞人心，但也存在某些顾虑。 服务通胀仍然相当高。 服务通胀远高于目标，这是一个危险信号。 1月就业数据强劲，有望成为（劳动力市场）稳定性的一个信号。（雅虎财经）",
@@ -1759,11 +1785,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         }
       ]
     }
