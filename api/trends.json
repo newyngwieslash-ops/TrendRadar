@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T04:23:03.843459+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-02-17T05:23:31.425512+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -89,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -100,8 +100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -112,8 +112,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
@@ -123,11 +123,12 @@
             3,
             14,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -167,23 +168,49 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时34分]"
+        },
+        {
+          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
+          "url": "https://flash.jin10.com/detail/20260217050055263800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时23分]"
+        },
+        {
+          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3055802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 05时23分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -225,6 +252,19 @@
           "time_info": "[02时34分 ~ 04时23分]"
         },
         {
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时23分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260217014706786800",
           "source": "金十数据",
@@ -238,41 +278,17 @@
           "time_info": "[02时34分 ~ 04时23分]"
         },
         {
-          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
-          "url": "https://flash.jin10.com/detail/20260217024524973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时23分]"
-        },
-        {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时23分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时23分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -280,11 +296,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时23分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -333,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时23分]"
+        },
+        {
+          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
+          "url": "https://flash.jin10.com/detail/20260217040455048800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -349,8 +377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -362,8 +390,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时23分]"
         }
       ]
     },
@@ -376,11 +404,12 @@
           "url": "https://wallstreetcn.com/livenews/3055823",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时23分]"
         }
       ]
     },
