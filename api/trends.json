@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:36:15.150231+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-02-17T20:44:59.469020+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 19时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 20时44分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -90,11 +90,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 19时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 20时44分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -128,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 20时44分]"
         },
         {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
@@ -185,6 +186,20 @@
           "time_info": "12时13分"
         },
         {
+          "title": "户口本只剩自己 刘维用AI和家人团圆",
+          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 20时44分]"
+        },
+        {
           "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
           "url": "https://wallstreetcn.com/livenews/3055884",
           "source": "华尔街见闻-快讯",
@@ -208,19 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "户口本只剩自己 刘维用AI和家人团圆",
-          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时36分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -478,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
+          "url": "https://flash.jin10.com/detail/20260217200431087800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -497,6 +510,17 @@
           "time_info": "[09时24分 ~ 18时39分]"
         },
         {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时44分]"
+        },
+        {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
@@ -509,17 +533,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -642,6 +655,19 @@
           "time_info": "[03时29分 ~ 05时23分]"
         },
         {
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时44分]"
+        },
+        {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3055860",
           "source": "华尔街见闻-快讯",
@@ -656,18 +682,6 @@
           "time_info": "[09时24分 ~ 14时50分]"
         },
         {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时36分]"
-        },
-        {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
           "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
@@ -679,6 +693,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 14时50分]"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时44分]"
         },
         {
           "title": "特朗普反应低调 日本怕中美搞大动作",
@@ -703,6 +728,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时34分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://wallstreetcn.com/livenews/3055955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时44分]"
         },
         {
           "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
@@ -741,17 +778,6 @@
           "time_info": "[07时23分 ~ 09时24分]"
         },
         {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -788,17 +814,6 @@
           "time_info": "[03时29分 ~ 04时23分]"
         },
         {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://wallstreetcn.com/livenews/3055955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -816,7 +831,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -827,7 +842,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -876,6 +891,18 @@
           "time_info": "[16时37分 ~ 18时39分]"
         },
         {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时44分]"
+        },
+        {
           "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
           "url": "https://wallstreetcn.com/livenews/3055872",
           "source": "华尔街见闻-快讯",
@@ -900,17 +927,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 14时50分]"
-        },
-        {
-          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
-          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "马斯克母亲向中国人民拜年",
@@ -966,8 +982,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 19时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 20时44分]"
         },
         {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
