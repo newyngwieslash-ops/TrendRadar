@@ -1,11 +1,173 @@
 {
-  "generated_at": "2026-02-18T01:52:26.692527+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-02-18T02:47:54.639139+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
+        },
+        {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
+        },
+        {
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
+        },
+        {
+          "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时52分]"
+        },
+        {
+          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
+          "url": "https://wallstreetcn.com/livenews/3056057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时47分]"
+        },
+        {
+          "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
+          "url": "https://flash.jin10.com/detail/20260218021512170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
+          "url": "https://flash.jin10.com/detail/20260218020812842800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)加大力度研发面向人工智能时代的智能眼镜、吊坠和带摄像头的AirPods等产品。",
+          "url": "https://flash.jin10.com/detail/20260218015731881800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -13,11 +175,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时47分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -26,9 +189,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时47分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -37,9 +200,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
+          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -89,15 +263,37 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
+          "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260218021023992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
@@ -109,90 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "王菲化妆师改口问就是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3056047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时52分]"
-        },
-        {
-          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
-          "url": "https://wallstreetcn.com/livenews/3056057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
         }
       ]
     },
@@ -246,11 +358,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时47分]"
         }
       ]
     },
@@ -265,7 +378,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
