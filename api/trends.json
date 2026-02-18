@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:30:40.494816+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-02-19T06:27:03.133675+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -19,15 +19,15 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "美国总统特朗普：我们可以关照大西洋。",
-          "url": "https://wallstreetcn.com/livenews/3056475",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时27分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我们可以关照大西洋。",
+          "url": "https://wallstreetcn.com/livenews/3056475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -81,6 +93,18 @@
           "time_info": "[01时50分 ~ 02时43分]"
         },
         {
+          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
+          "url": "https://wallstreetcn.com/livenews/3056471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时27分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -104,24 +128,13 @@
           "time_info": "[04时31分 ~ 04时32分]"
         },
         {
-          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
-          "url": "https://wallstreetcn.com/livenews/3056471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -143,7 +156,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -154,7 +167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -165,7 +178,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -176,7 +189,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -190,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国高级官员：特朗普的国家安全顾问今天在白宫战情室会议上讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260219053215762800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -209,7 +233,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -223,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国总统特朗普：（正在白宫旧址上拔地而起的）将是“有史以来最宏伟的宴会厅”——完全由美国爱国者捐助者出资，美国纳税人零成本！",
+          "url": "https://flash.jin10.com/detail/20260219052431658800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -316,7 +351,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -327,8 +362,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -339,8 +374,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -351,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -364,8 +399,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -376,8 +411,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -388,8 +423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -400,8 +435,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 06时27分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -411,8 +446,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时42分 ~ 06时27分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -422,11 +457,12 @@
             15,
             14,
             13,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 05时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时42分 ~ 06时27分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -449,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3056505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -489,6 +536,18 @@
           "time_info": "[02时43分 ~ 04时32分]"
         },
         {
+          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
+          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时27分]"
+        },
+        {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
           "url": "https://wallstreetcn.com/livenews/3056415",
           "source": "华尔街见闻-快讯",
@@ -525,15 +584,26 @@
           "time_info": "[03时43分 ~ 04时32分]"
         },
         {
-          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
-          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://wallstreetcn.com/livenews/3056499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -558,6 +628,28 @@
           "time_info": "02时43分"
         },
         {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
+          "url": "https://wallstreetcn.com/livenews/3056487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "印度AI峰会2月18日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056423",
           "source": "华尔街见闻-快讯",
@@ -567,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "谷歌与苹果加码生成式AI，进军音乐创作领域",
