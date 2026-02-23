@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T22:04:54.019061+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-02-23T23:41:12.237963+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -67,6 +67,19 @@
           "time_info": "[00时21分 ~ 09时25分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时46分 ~ 23时41分]"
+        },
+        {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
           "url": "https://wallstreetcn.com/articles/3765942",
           "source": "华尔街见闻",
@@ -91,17 +104,35 @@
           "time_info": "[00时21分 ~ 18时44分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5,
-            2
+            10,
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时46分 ~ 22时04分]"
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 23时41分]"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时50分 ~ 23时41分]"
         },
         {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
@@ -128,36 +159,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时24分 ~ 16时41分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时50分 ~ 22时04分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时04分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -399,6 +400,18 @@
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://wallstreetcn.com/livenews/3057362",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -420,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时44分 ~ 19时36分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "商务部回应美裁定特朗普关税违法",
@@ -489,17 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
@@ -579,6 +592,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "特朗普：加征关税无需得到美国国会批准",
+          "url": "https://wallstreetcn.com/livenews/3057530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "市场消息：鉴于美国总统特朗普的关税风险，欧盟势将冻结对与美国贸易协议的批准程序。",
           "url": "https://flash.jin10.com/detail/20260223182731191800",
           "source": "金十数据",
@@ -623,6 +647,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普：作为总统，我不必向国会争取关税的批准",
+          "url": "https://flash.jin10.com/detail/20260223225359135800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "金十整理：本周重要事件与数据预告——特朗普国情咨文、美伊局势、英伟达财报",
           "url": "https://flash.jin10.com/detail/20260223073515674800",
           "source": "金十数据",
@@ -632,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国总统特朗普：作为总统，我无需再回到国会以获得关税的批准。",
+          "url": "https://flash.jin10.com/detail/20260223225050426800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
@@ -672,11 +729,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 22时04分]"
+          "appearance_count": 12,
+          "time_info": "[14时02分 ~ 23时41分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -691,6 +749,20 @@
           "time_info": "[00时21分 ~ 12时17分]"
         },
         {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 23时41分]"
+        },
+        {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
@@ -701,6 +773,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 09时25分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 23时41分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -715,22 +804,6 @@
           "time_info": "[00时21分 ~ 12时17分]"
         },
         {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 22时04分]"
-        },
-        {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
@@ -743,20 +816,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时21分 ~ 20时45分]"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时04分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -787,6 +846,20 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时35分 ~ 23时41分]"
+        },
+        {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
           "url": "https://flash.jin10.com/detail/20260223064004274800",
           "source": "金十数据",
@@ -798,17 +871,16 @@
           "time_info": "07时19分"
         },
         {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
           "ranks": [
-            20,
-            18,
-            17
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -853,18 +925,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2008557531367224108",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -886,7 +947,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -894,7 +955,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "春节档总票房破40亿！《飞驰人生3》21亿领跑，背后涉及哪些A股公司？",
@@ -920,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 22时04分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 23时41分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -935,8 +996,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 22时04分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 23时41分]"
+        },
+        {
+          "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2292912",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月23日 周一",
@@ -952,6 +1025,17 @@
           "time_info": "[05时18分 ~ 14时02分]"
         },
         {
+          "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
+          "url": "https://www.cls.cn/detail/2292827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
           "title": "业内：A股慢牛行情将持续",
           "url": "https://www.toutiao.com/trending/7609975493005151785/",
           "source": "今日头条",
@@ -963,15 +1047,15 @@
           "time_info": "[19时35分 ~ 19时36分]"
         },
         {
-          "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2292912",
-          "source": "财联社热门",
+          "title": "A股即将开市 外围提前传来积极信号",
+          "url": "https://www.toutiao.com/trending/7609518628548018217/",
+          "source": "今日头条",
           "ranks": [
-            7
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日港股正常开市，南、北向交易关闭，沪深及北交所、国内期货交易所休市。",
@@ -985,24 +1069,13 @@
           "time_info": "09时25分"
         },
         {
-          "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
-          "url": "https://www.cls.cn/detail/2292827",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "中信建投：节后A股有望开启新一轮上行，坚持“科技+资源品”双主线",
           "url": "https://wallstreetcn.com/livenews/3057481",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
