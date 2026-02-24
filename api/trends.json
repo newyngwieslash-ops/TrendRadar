@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T09:24:25.395878+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-02-24T12:20:08.020904+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 12时20分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -77,9 +78,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时20分]"
         },
         {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
@@ -102,6 +116,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -140,18 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时24分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
@@ -237,6 +251,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -377,29 +415,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -413,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
@@ -498,7 +503,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -583,7 +588,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -634,8 +639,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 12时20分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -663,13 +668,50 @@
           "time_info": "[01时57分 ~ 09时24分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 12时20分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时20分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -707,15 +749,16 @@
           "time_info": "07时29分"
         },
         {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -729,16 +772,16 @@
           "time_info": "04时38分"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时20分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -751,18 +794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 02时56分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时24分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -799,6 +830,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时29分]"
+        },
+        {
+          "title": "外资们也在频繁提AI，如何看2026年行情？",
+          "url": "https://www.cls.cn/detail/2292944",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -860,17 +902,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -888,7 +919,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -907,7 +938,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "春节长假后A股行情怎么看？投资主线有哪些？十大券商策略来了",
@@ -948,13 +979,24 @@
           "time_info": "[00时47分 ~ 09时24分]"
         },
         {
+          "title": "春节长假四大变量共振，哪些是A股的正向催化剂？",
+          "url": "https://www.cls.cn/detail/2293126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-24）",
           "url": "https://flash.jin10.com/detail/20260224090645310800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1025,7 +1067,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
