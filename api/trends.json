@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:36:59.226240+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-24T20:46:49.330824+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -83,6 +83,17 @@
           "time_info": "[09时24分 ~ 14时52分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时46分]"
+        },
+        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -96,15 +107,16 @@
           "time_info": "[09时24分 ~ 14时52分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时46分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -133,18 +145,6 @@
           "time_info": "[07时29分 ~ 12时20分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
-        },
-        {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
           "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
@@ -152,11 +152,12 @@
             13,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 20时46分]"
         },
         {
           "title": "特朗普10%全球关税生效",
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时55分 ~ 17时55分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时46分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -340,6 +352,20 @@
           "time_info": "[00时47分 ~ 01时57分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时46分]"
+        },
+        {
           "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
           "url": "https://wallstreetcn.com/livenews/3057679",
           "source": "华尔街见闻-快讯",
@@ -352,28 +378,17 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7
+            10,
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时36分]"
+          "time_info": "[18时55分 ~ 20时46分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -447,18 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时36分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -693,7 +696,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -775,6 +778,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "市场明早将紧盯特朗普国情咨文演讲",
+          "url": "https://www.toutiao.com/trending/7610388640887213606/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -822,8 +836,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 20时46分]"
+        },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
           "url": "https://wallstreetcn.com/articles/3765976",
@@ -834,18 +860,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时47分 ~ 09时24分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 19时36分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -873,8 +887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时24分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 20时46分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -884,11 +898,12 @@
             10,
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时19分 ~ 19时36分]"
+          "appearance_count": 15,
+          "time_info": "[06时19分 ~ 20时46分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -915,6 +930,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时47分 ~ 12时20分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -955,20 +987,18 @@
           "time_info": "[01时57分 ~ 09时24分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
+            9,
+            5,
             6,
-            8,
-            7,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时55分 ~ 19时36分]"
+          "time_info": "[14时52分 ~ 20时46分]"
         },
         {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
@@ -984,20 +1014,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时24分 ~ 16时38分]"
-        },
-        {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 19时36分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
@@ -1022,6 +1038,28 @@
           "time_info": "07时29分"
         },
         {
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
           "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
@@ -1044,17 +1082,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1091,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时46分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -1090,17 +1130,16 @@
           "time_info": "[16时38分 ~ 17时55分]"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时46分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -1125,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时19分 ~ 13时55分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 20时46分]"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -1211,17 +1261,6 @@
           "time_info": "[06时20分 ~ 06时36分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时55分]"
-        },
-        {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
           "url": "https://flash.jin10.com/detail/20260224001507325800",
           "source": "金十数据",
@@ -1231,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
@@ -1244,6 +1294,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260224200932075800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "Citrini报告作者：文章引发的AI恐慌超预期",
           "url": "https://wallstreetcn.com/livenews/3057915",
           "source": "华尔街见闻-快讯",
@@ -1253,6 +1314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
@@ -1305,9 +1388,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "AMD(AMD.O)盘前大涨10.9%，此前该公司同意五年内向Meta公司出售价值高达600亿美元的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260224200259353800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "马年春节AI战役全记录",
@@ -1316,7 +1410,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -1469,8 +1563,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时46分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月24日 周二",
@@ -1510,6 +1604,17 @@
           "time_info": "[15时47分 ~ 16时38分]"
         },
         {
+          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
+          "url": "https://www.cls.cn/detail/2293730",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时46分]"
+        },
+        {
           "title": "A股马年首个交易日开门红",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%A9%AC%E5%B9%B4%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "百度热搜",
@@ -1519,17 +1624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
-          "url": "https://www.cls.cn/detail/2293730",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "积极因素提振A股开市信心，两大主线配置价值获看好",
