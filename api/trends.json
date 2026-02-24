@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T00:59:02.995908+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-02-25T01:56:06.235182+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -60,8 +60,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -72,20 +85,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -95,30 +107,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 01时56分]"
         },
         {
           "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
           "url": "https://wallstreetcn.com/livenews/3058261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时56分]"
         },
         {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
           "url": "https://wallstreetcn.com/livenews/3058259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时56分]"
+        },
+        {
+          "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
+          "url": "https://wallstreetcn.com/livenews/3058273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "01时56分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
@@ -157,7 +182,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -167,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -179,8 +204,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -190,19 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
-        },
-        {
-          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
-          "url": "https://flash.jin10.com/detail/20260225004034013800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -212,8 +226,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
+          "url": "https://wallstreetcn.com/livenews/3058275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
+          "url": "https://flash.jin10.com/detail/20260225004034013800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时56分]"
         },
         {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
@@ -246,9 +283,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225011114735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
+          "url": "https://flash.jin10.com/detail/20260225011033725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     },
@@ -264,8 +323,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
+        },
+        {
+          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
+          "url": "https://www.cls.cn/detail/2293678",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 01时56分]"
         },
         {
           "title": "马年A股开门红",
@@ -274,17 +344,6 @@
           "ranks": [
             21,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 00时59分]"
-        },
-        {
-          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
-          "url": "https://www.cls.cn/detail/2293678",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -325,11 +384,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时56分]"
         }
       ]
     }
