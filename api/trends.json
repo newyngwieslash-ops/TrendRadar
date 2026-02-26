@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:06:44.943071+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2026-02-26T23:47:48.398095+08:00",
+  "total_titles_processed": 2008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -19,20 +19,6 @@
           "time_info": "[01时01分 ~ 07时23分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时10分 ~ 22时06分]"
-        },
-        {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
           "url": "https://wallstreetcn.com/articles/3766208",
           "source": "华尔街见闻",
@@ -43,8 +29,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时10分 ~ 22时06分]"
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 23时47分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            1,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 23时47分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -132,6 +133,19 @@
           "time_info": "[01时01分 ~ 09时23分]"
         },
         {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 23时47分]"
+        },
+        {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
           "url": "https://www.cls.cn/detail/2295238",
           "source": "财联社热门",
@@ -160,18 +174,6 @@
           "time_info": "[17时41分 ~ 20时46分]"
         },
         {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 22时06分]"
-        },
-        {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
           "url": "https://www.cls.cn/detail/2296230",
           "source": "财联社热门",
@@ -180,8 +182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时47分]"
         },
         {
           "title": "博通向Fujitsu Ltd.（富士通）发货新款AI芯片。",
@@ -190,7 +192,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -212,9 +214,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -241,6 +254,18 @@
           "time_info": "[05时30分 ~ 06时26分]"
         },
         {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 23时47分]"
+        },
+        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -253,18 +278,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 16时38分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
-          "url": "https://www.cls.cn/detail/2295977",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 22时06分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -403,15 +416,48 @@
           "time_info": "18时39分"
         },
         {
+          "title": "Ithina组建全球人工智能（AI）操作平台。",
+          "url": "https://wallstreetcn.com/livenews/3059658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "英伟达“答卷”难解AI担忧，美股三大期指集体下跌，存储盘前走强，金涨银跌，油价大幅上涨",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
@@ -552,7 +598,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -579,6 +625,28 @@
           "time_info": "01时01分"
         },
         {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
           "url": "https://wallstreetcn.com/livenews/3059270",
           "source": "华尔街见闻-快讯",
@@ -599,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
+          "url": "https://wallstreetcn.com/livenews/3059624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
@@ -662,8 +741,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时54分 ~ 22时06分]"
+          "appearance_count": 12,
+          "time_info": "[13时54分 ~ 23时47分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -690,6 +769,19 @@
           "time_info": "[03时47分 ~ 05时30分]"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时47分]"
+        },
+        {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
           "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
           "source": "澎湃新闻",
@@ -703,28 +795,26 @@
           "time_info": "[16时38分 ~ 19时36分]"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 23时47分]"
+        },
+        {
           "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3059618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 22时06分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -738,17 +828,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 22时06分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -948,6 +1027,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3766223",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时47分]"
+        },
+        {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
           "url": "https://wallstreetcn.com/livenews/3059104",
           "source": "华尔街见闻-快讯",
@@ -979,18 +1070,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3766223",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 22时06分]"
         },
         {
           "title": "A股算力芯片概念午后拉升，寒武纪涨近10%，云天励飞、海光信息、东芯股份、芯原股份、摩尔线程等跟涨。",
