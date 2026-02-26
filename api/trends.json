@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:23:15.596530+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-02-26T09:23:06.191460+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时23分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -37,18 +38,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时23分]"
-        },
-        {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -67,8 +56,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 09时23分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时23分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -106,6 +108,18 @@
           "time_info": "[05时30分 ~ 06时26分]"
         },
         {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时23分]"
+        },
+        {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
@@ -129,15 +143,26 @@
           "time_info": "[05时30分 ~ 06时26分]"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
+          "title": "AI时代的“稀缺资产”？高盛：HALO--重资产、不过时",
+          "url": "https://wallstreetcn.com/articles/3766110",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "AI帮你选对发型",
+          "url": "https://www.douyin.com/hot/2411301",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
         },
         {
           "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
@@ -168,7 +193,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -245,7 +270,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -264,8 +289,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时23分]"
+        },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
           "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
@@ -278,27 +315,28 @@
           "time_info": "[01时01分 ~ 07时23分]"
         },
         {
-          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
-          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时23分]"
-        },
-        {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
           "url": "https://wallstreetcn.com/articles/3766126",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时23分]"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -351,6 +389,28 @@
           "time_info": "[03时47分 ~ 05时30分]"
         },
         {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "特朗普试戴冬奥金牌不还",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E6%88%B4%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E4%B8%8D%E8%BF%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
           "url": "https://flash.jin10.com/detail/20260226033018187800",
           "source": "金十数据",
@@ -391,7 +451,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -413,7 +473,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -530,7 +590,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
@@ -539,9 +599,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-26）",
+          "url": "https://flash.jin10.com/detail/20260226090519554800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "据美国财经媒体Semafor：美国政府将与机器人制造商举行会谈。",
@@ -563,7 +634,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
