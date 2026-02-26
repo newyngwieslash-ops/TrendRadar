@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:36:05.025752+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-02-26T20:46:29.556924+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 20时46分]"
         },
         {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
@@ -39,6 +39,21 @@
           "ranks": [
             7,
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 20时46分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
             1
           ],
           "is_new": false,
@@ -55,26 +70,12 @@
             3,
             1,
             2,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 19时36分]"
-        },
-        {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时36分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 20时46分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -150,11 +151,12 @@
           "ranks": [
             10,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 20时46分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -164,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 20时46分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -177,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -251,6 +264,18 @@
           "time_info": "[05时30分 ~ 06时26分]"
         },
         {
+          "title": "李彦宏：2025年是AI成为百度新核心的关键一年",
+          "url": "https://wallstreetcn.com/livenews/3059527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时46分]"
+        },
+        {
           "title": "AI时代的“稀缺资产”？高盛：HALO--重资产、不过时",
           "url": "https://wallstreetcn.com/articles/3766110",
           "source": "华尔街见闻",
@@ -260,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "拉加德称欧洲央行将“高度关注”AI对就业市场的影响",
+          "url": "https://wallstreetcn.com/livenews/3059521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时46分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
@@ -306,6 +343,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "中国AI调用量首次超过美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "百度四季度AI业务收入占比43% 超预期",
           "url": "https://wallstreetcn.com/livenews/3059468",
           "source": "华尔街见闻-快讯",
@@ -315,17 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        },
-        {
-          "title": "李彦宏：2025年是AI成为百度新核心的关键一年",
-          "url": "https://wallstreetcn.com/livenews/3059527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "拉加德：欧洲央行将“密切关注”AI导致的裁员迹象",
@@ -361,17 +398,6 @@
           "time_info": "06时26分"
         },
         {
-          "title": "拉加德称欧洲央行将“高度关注”AI对就业市场的影响",
-          "url": "https://wallstreetcn.com/livenews/3059521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
           "title": "如何看待 Anthropic 用 AI 改写代码致 IBM 大跌？将对软件外包和咨询行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2009576994401118046",
           "source": "知乎",
@@ -381,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "中国AI调用量首超美国，四款大模型霸榜全球前五",
+          "url": "https://wallstreetcn.com/livenews/3059542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "AI需求拉动，被动元器件全面涨价即将到来",
@@ -518,7 +555,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -576,8 +613,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时46分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -630,6 +667,30 @@
           "time_info": "[02时56分 ~ 04时29分]"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时46分]"
+        },
+        {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
           "url": "https://flash.jin10.com/detail/20260226024823938800",
           "source": "金十数据",
@@ -643,18 +704,6 @@
           "time_info": "[03时47分 ~ 05时30分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时36分]"
-        },
-        {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
           "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
           "source": "凤凰网",
@@ -664,17 +713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "特朗普试戴冬奥金牌不还",
@@ -742,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
@@ -835,7 +884,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
@@ -890,8 +939,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时46分]"
         },
         {
           "title": "据美国财经媒体Semafor：美国政府将与机器人制造商举行会谈。",
@@ -975,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "A股巨头跳水背后的两大原因",
+          "url": "https://www.toutiao.com/trending/7610436204123766825/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "A股",
@@ -1120,11 +1180,12 @@
           "url": "https://wallstreetcn.com/livenews/3059525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时46分]"
         }
       ]
     }
