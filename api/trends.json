@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:43:53.949778+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-02-27T15:42:04.791695+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -44,6 +44,29 @@
           "time_info": "[00时50分 ~ 06时27分]"
         },
         {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时42分]"
+        },
+        {
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 15时42分]"
+        },
+        {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
@@ -56,44 +79,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 14时43分]"
-        },
-        {
-          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3766259",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 07时23分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时43分]"
-        },
-        {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时42分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -104,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时42分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -116,8 +103,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时42分]"
+        },
+        {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            5,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 15时42分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -126,11 +127,62 @@
           "ranks": [
             18,
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 15时42分]"
+        },
+        {
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 15时42分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 15时42分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -158,42 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时46分 ~ 14时43分]"
-        },
-        {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时43分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时43分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时43分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -498,7 +514,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -672,6 +688,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时47分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -866,7 +904,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
@@ -915,6 +953,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时54分]"
+        },
+        {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -997,7 +1046,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
@@ -1009,8 +1058,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 14时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 15时42分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
+          "url": "https://www.cls.cn/detail/2296693",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年2月27日 周五",
@@ -1024,17 +1084,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 14时43分]"
-        },
-        {
-          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
-          "url": "https://www.cls.cn/detail/2296693",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时43分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-27）",
@@ -1070,6 +1119,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227150710907800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "A股培育钻石板块午后快速拉升，沃尔德直线20cm涨停，力量钻石、四方达、惠丰钻石纷纷拉升。",
           "url": "https://wallstreetcn.com/livenews/3059996",
           "source": "华尔街见闻-快讯",
@@ -1098,9 +1158,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3060064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -1109,29 +1180,31 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "赖清德改口称“大陆”被舆论看透",
-          "url": "https://www.toutiao.com/trending/7610314909164011556/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时43分]"
-        },
-        {
           "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
           "url": "https://www.zhihu.com/question/2010656685698598178",
           "source": "知乎",
           "ranks": [
             15,
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 15时42分]"
+        },
+        {
+          "title": "赖清德改口称“大陆”被舆论看透",
+          "url": "https://www.toutiao.com/trending/7610314909164011556/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 15时42分]"
         }
       ]
     },
