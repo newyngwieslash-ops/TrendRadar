@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:18:59.540080+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2026-03-01T23:17:23.603929+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 23时17分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时42分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时42分 ~ 23时17分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -86,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 23时17分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -122,6 +122,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
@@ -351,19 +364,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时46分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -1013,8 +1013,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 22时18分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 23时17分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -1136,11 +1136,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时17分]"
+        },
+        {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时17分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -1171,18 +1185,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时18分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
             17
           ],
           "is_new": false,
