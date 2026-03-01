@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T18:18:41.305537+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-03-01T19:15:50.412172+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -19,6 +19,20 @@
           "time_info": "[00时18分 ~ 09时43分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时15分]"
+        },
+        {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
           "url": "https://wallstreetcn.com/articles/3766446",
           "source": "华尔街见闻",
@@ -30,22 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 18时18分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 19时15分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -85,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时15分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -653,6 +653,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普表示，他与以色列总理内塔尼亚胡进行了“非常棒的”通话，“我们心有灵犀”。",
           "url": "https://flash.jin10.com/detail/20260301032753051800",
           "source": "金十数据",
@@ -977,8 +988,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 18时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 19时15分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
