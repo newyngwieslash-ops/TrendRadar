@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T14:42:14.318872+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-03T15:38:34.256014+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -78,8 +78,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时36分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[02时36分 ~ 15时38分]"
+        },
+        {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时38分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -135,29 +147,6 @@
           "time_info": "[00时36分 ~ 07时19分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时42分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时42分]"
-        },
-        {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
           "url": "https://wallstreetcn.com/articles/3766558",
           "source": "华尔街见闻",
@@ -166,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时38分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -176,6 +165,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -213,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时38分]"
         },
         {
           "title": "特朗普：“不排除派地面部队”",
@@ -226,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
+          "url": "https://wallstreetcn.com/livenews/3062526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -383,6 +394,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
           "url": "https://flash.jin10.com/detail/20260303113237211800",
           "source": "金十数据",
@@ -416,6 +438,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
           "url": "https://wallstreetcn.com/livenews/3062039",
           "source": "华尔街见闻-快讯",
@@ -447,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据NewsNation记者：美国总统特朗普表示，他认为无需在伊朗部署地面部队。",
@@ -548,6 +592,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "据英国太阳报：美国总统特朗普表示，美国在伊朗行动中“表现良好”。",
+          "url": "https://flash.jin10.com/detail/20260303151137578800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普：将确保伊朗无法为其境外武装提供资金以及确保伊朗无法指挥境外武装。",
           "url": "https://flash.jin10.com/detail/20260303005448583800",
           "source": "金十数据",
@@ -606,7 +661,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -656,11 +711,12 @@
             12,
             21,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 15时38分]"
         },
         {
           "title": "AI参战对伊空袭",
@@ -670,8 +726,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -701,6 +757,19 @@
           "time_info": "[00时36分 ~ 01时40分]"
         },
         {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时38分]"
+        },
+        {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
           "url": "https://www.zhihu.com/question/2011927999839172012",
           "source": "知乎",
@@ -713,19 +782,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 09时25分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时42分]"
         },
         {
           "title": "华为首次在海外展出全液冷AI超节点",
@@ -783,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "多平台公布2月涉“AI魔改”视频治理结果",
+          "url": "https://wallstreetcn.com/livenews/3062527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
@@ -857,6 +924,30 @@
           "time_info": "[01时40分 ~ 02时37分]"
         },
         {
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 15时38分]"
+        },
+        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -902,28 +993,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时25分]"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
-          "title": "AI生成 男女身高",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "iPadAir 没高刷",
@@ -981,6 +1050,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "卡塔尔停产之后，印度对工业用户实施天然气配给供应。 GAIL、印度石油公司自周二起削减对本地用户的天然气供应。 印度最大进口商Petronet已通知GAIL及其他天然气公司，卡塔尔方面的液化天然气供应将减少。",
+          "url": "https://wallstreetcn.com/livenews/3062509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic 后者登顶美国APP下载榜",
           "url": "https://flash.jin10.com/detail/20260303044811624800",
           "source": "金十数据",
@@ -1031,7 +1111,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1072,7 +1152,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026年A股驱动逻辑或将发生变化",
@@ -1104,6 +1184,20 @@
           "time_info": "[00时37分 ~ 13时44分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            30,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时38分]"
+        },
+        {
           "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
           "url": "https://wallstreetcn.com/livenews/3062442",
           "source": "华尔街见闻-快讯",
@@ -1113,19 +1207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时42分]"
         },
         {
           "title": "摩根大通证券股份有限公司将中远海能A股评级上调至超配。",
@@ -1139,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时29分]"
+        },
+        {
+          "title": "A股收盘：沪指高开低走跌1.43%，全市场下跌个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3062518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "“三桶油”A股连续第二日集体涨停。",
@@ -1183,6 +1275,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "A股三大指数同步高开",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%90%8C%E6%AD%A5%E9%AB%98%E5%BC%80%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "如何应对A股指数强个股弱",
+          "url": "https://www.toutiao.com/trending/7612574683531575322/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-03）",
+          "url": "https://flash.jin10.com/detail/20260303151251655800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
