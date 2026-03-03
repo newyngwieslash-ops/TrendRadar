@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:28:23.097236+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-03-03T20:39:46.129805+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 20时39分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时43分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 20时39分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -73,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时39分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -108,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 20时39分]"
         },
         {
           "title": "特朗普3月访华能否成行？外交部回应",
@@ -241,6 +241,40 @@
           "time_info": "[15时38分 ~ 19时28分]"
         },
         {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时39分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -273,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时38分 ~ 16时33分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
@@ -588,6 +610,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
           "url": "https://flash.jin10.com/detail/20260302235308622800",
           "source": "金十数据",
@@ -734,7 +767,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -798,8 +831,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时39分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -845,6 +878,20 @@
           "time_info": "[00时36分 ~ 01时40分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时39分]"
+        },
+        {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
           "url": "https://www.zhihu.com/question/2011927999839172012",
           "source": "知乎",
@@ -857,19 +904,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 09时25分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时28分]"
         },
         {
           "title": "华为首次在海外展出全液冷AI超节点",
@@ -916,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "华为杨超斌：AI Token两年激增300倍，未来五年是移动AI业务爆发的关键窗口",
+          "url": "https://wallstreetcn.com/livenews/3062792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们一直与国防部合作，对我们的协议进行一些补充，以使我们的原则非常明确。",
@@ -1026,6 +1071,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时39分]"
+        },
+        {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062081",
           "source": "华尔街见闻-快讯",
@@ -1116,17 +1173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
@@ -1250,6 +1296,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "Akamai将部署数千枚英伟达Blackwell GPU，以增强其全球分布式云基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3062765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "AI短剧 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：欧洲的公司能够在开发针对特定行业的AI应用方面发挥重要作用，使中型企业能够从人工智能中受益。",
           "url": "https://flash.jin10.com/detail/20260303155301764800",
           "source": "金十数据",
@@ -1286,7 +1354,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2026年A股驱动逻辑或将发生变化",
@@ -1404,6 +1472,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "99只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7612684294825787435/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "A股天然气板块涨势扩大，南京公用、蓝天燃气、皖天然气、深圳燃气、佛燃能源、成都燃气、重庆燃气等多股封涨停板。",
           "url": "https://wallstreetcn.com/livenews/3062429",
           "source": "华尔街见闻-快讯",
@@ -1519,11 +1598,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32688502",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时39分]"
         }
       ]
     }
