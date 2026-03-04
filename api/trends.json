@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:34:55.854651+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-03-04T16:32:08.341995+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 16时32分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -59,11 +59,12 @@
             2,
             13,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 16时32分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -75,6 +76,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时38分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 16时32分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -100,6 +114,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时20分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "西班牙回应特朗普称将切断贸易往来",
@@ -170,18 +195,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 15时34分]"
-        },
-        {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
           "url": "https://wallstreetcn.com/livenews/3063034",
           "source": "华尔街见闻-快讯",
@@ -202,6 +215,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时32分]"
+        },
+        {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时32分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -226,29 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时34分]"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时34分]"
         },
         {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
@@ -296,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
+          "url": "https://wallstreetcn.com/livenews/3063455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -444,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
-          "url": "https://wallstreetcn.com/livenews/3063455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
@@ -834,7 +849,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -847,6 +862,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 09时21分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 16时32分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -871,23 +898,12 @@
             18,
             17,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时38分 ~ 15时34分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 15时34分]"
+          "appearance_count": 17,
+          "time_info": "[01时38分 ~ 16时32分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -903,6 +919,20 @@
           "time_info": "[05时27分 ~ 12时03分]"
         },
         {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 16时32分]"
+        },
+        {
           "title": "OpenAI正在考虑达成一项协议，将其AI部署在北约的所有机密网络上。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3063132",
           "source": "华尔街见闻-快讯",
@@ -912,6 +942,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 16时32分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -950,19 +993,6 @@
           "time_info": "[13时39分 ~ 14时39分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 15时34分]"
-        },
-        {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
           "url": "https://wallstreetcn.com/livenews/3062933",
           "source": "华尔街见闻-快讯",
@@ -997,18 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 15时34分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -1094,6 +1112,17 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3063042",
           "source": "华尔街见闻-快讯",
@@ -1166,7 +1195,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1210,7 +1239,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1232,7 +1261,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -1240,7 +1269,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1279,8 +1308,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 16时32分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-04）",
@@ -1344,9 +1373,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-04）",
+          "url": "https://flash.jin10.com/detail/20260304153918075800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "A股三大指数均跌超1%，油气、煤炭、航运、贵金属等方向跌幅居前，沪深京三市下跌个股超4100只。",
