@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T20:40:10.660475+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2026-03-04T21:53:12.168601+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时20分 ~ 20时40分]"
+          "appearance_count": 18,
+          "time_info": "[09时20分 ~ 21时53分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时03分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 21时53分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -81,8 +81,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时38分 ~ 20时40分]"
+          "appearance_count": 30,
+          "time_info": "[00时38分 ~ 21时53分]"
         },
         {
           "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时38分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[14时38分 ~ 21时53分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -117,6 +117,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时29分 ~ 20时40分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 21时53分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -169,15 +181,16 @@
           "time_info": "[09时20分 ~ 15时34分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时33分 ~ 20时40分]"
+          "time_info": "[18时29分 ~ 21时53分]"
         },
         {
           "title": "西班牙回应特朗普称将切断贸易往来",
@@ -268,18 +281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 20时40分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -433,6 +434,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时26分]"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "西班牙回应特朗普贸易威胁",
@@ -772,7 +784,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -912,7 +924,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -923,8 +935,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时03分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 21时53分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -949,8 +961,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时39分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[13时39分 ~ 21时53分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -976,11 +988,12 @@
             20,
             19,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时03分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 21时53分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -1029,6 +1042,20 @@
           "time_info": "[05时27分 ~ 12时03分]"
         },
         {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 21时53分]"
+        },
+        {
           "title": "OpenAI正在考虑达成一项协议，将其AI部署在北约的所有机密网络上。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3063132",
           "source": "华尔街见闻-快讯",
@@ -1062,19 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 20时40分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -1149,6 +1163,17 @@
           "time_info": "[09时20分 ~ 12时03分]"
         },
         {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
           "url": "https://wallstreetcn.com/livenews/3063008",
           "source": "华尔街见闻-快讯",
@@ -1194,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
@@ -1280,7 +1316,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1378,8 +1414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时03分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 21时53分]"
         },
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1415,11 +1451,12 @@
           "ranks": [
             5,
             28,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 21时53分]"
         },
         {
           "title": "中石油时隔七年重夺A股市值冠军",
@@ -1567,7 +1604,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
