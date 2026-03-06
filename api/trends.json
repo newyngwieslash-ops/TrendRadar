@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:23:54.322690+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-03-06T20:38:25.840749+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时57分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[01时57分 ~ 20时38分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -72,11 +72,12 @@
           "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时25分 ~ 20时38分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -101,6 +102,19 @@
           "time_info": "[13时40分 ~ 14时38分]"
         },
         {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 20时38分]"
+        },
+        {
           "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
           "url": "https://www.cls.cn/detail/2304459",
           "source": "财联社热门",
@@ -111,19 +125,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时46分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 19时23分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -349,6 +350,17 @@
           "time_info": "[03时13分 ~ 04时31分]"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
           "url": "https://flash.jin10.com/detail/20260306045155124800",
           "source": "金十数据",
@@ -428,6 +440,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024210116800",
           "source": "金十数据",
@@ -459,17 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -761,7 +773,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -774,8 +786,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时25分 ~ 20时38分]"
         },
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -830,6 +842,18 @@
           "time_info": "[01时57分 ~ 09时25分]"
         },
         {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时38分]"
+        },
+        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -841,15 +865,30 @@
           "time_info": "[01时57分 ~ 07时46分]"
         },
         {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25,
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 20时38分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时38分]"
         },
         {
           "title": "AI相关产业规模将超10万亿元",
@@ -888,18 +927,6 @@
           "time_info": "[12时04分 ~ 17时32分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
           "title": "TES上报Naiyou不正当行为",
           "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -908,21 +935,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时38分]"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            25,
-            30
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时38分]"
         },
         {
           "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
@@ -959,17 +985,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -1020,6 +1035,18 @@
           "time_info": "[04时31分 ~ 05时28分]"
         },
         {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时38分]"
+        },
+        {
           "title": "Naiyou疑似假赛",
           "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%96%91%E4%BC%BC%E5%81%87%E8%B5%9B%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1029,6 +1056,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -1051,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "高通(QCOM.O)与越南电信公司Viettel达成协议，共同在越南生产AI智能手机。",
@@ -1084,17 +1133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -1363,8 +1401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 20时38分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
