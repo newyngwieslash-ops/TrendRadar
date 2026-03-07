@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:24:18.249570+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-03-07T16:22:37.127136+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 16时22分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -171,6 +171,18 @@
           "time_info": "[04时25分 ~ 07时22分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时22分]"
+        },
+        {
           "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
           "url": "https://flash.jin10.com/detail/20260307105857912800",
           "source": "金十数据",
@@ -202,18 +214,6 @@
           "ranks": [
             7,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时24分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -382,7 +382,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -399,19 +399,6 @@
           "time_info": "[00时32分 ~ 09时18分]"
         },
         {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 15时24分]"
-        },
-        {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -425,6 +412,32 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 13时36分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时22分]"
+        },
+        {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时22分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -469,18 +482,6 @@
           "time_info": "[00时32分 ~ 14时31分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时24分]"
-        },
-        {
           "title": "Naiyou Jiaqi",
           "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -508,6 +509,18 @@
           "time_info": "[00时32分 ~ 14时31分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 16时22分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -531,18 +544,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时24分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 15时24分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -674,6 +675,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
           "url": "https://wallstreetcn.com/livenews/3065452",
           "source": "华尔街见闻-快讯",
@@ -713,7 +725,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -724,7 +736,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -781,11 +793,12 @@
           "url": "https://www.cls.cn/detail/2305881",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时22分]"
         }
       ]
     }
