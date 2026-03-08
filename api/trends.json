@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T19:16:32.788167+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-03-08T20:33:38.754682+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -41,6 +41,23 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            17,
+            18,
+            15,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 20时33分]"
+        },
+        {
           "title": "特朗普：目前无计划在伊朗部署地面部队",
           "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
@@ -57,22 +74,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 19时16分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            17,
-            18,
-            15,
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "特朗普称已排除库尔德武装参战可能",
@@ -175,6 +187,19 @@
           "time_info": "[12时05分 ~ 14时34分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时33分]"
+        },
+        {
           "title": "伊朗外交部长：总统对地区缓和局势的开放态度，几乎立即就被特朗普总统对我方能力的误判所扼杀。",
           "url": "https://flash.jin10.com/detail/20260308015301388800",
           "source": "金十数据",
@@ -209,6 +234,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时33分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
@@ -275,30 +313,6 @@
           "time_info": "[00时20分 ~ 03时17分]"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
-        },
-        {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
           "source": "澎湃新闻",
@@ -308,8 +322,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时33分]"
         },
         {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
@@ -389,7 +403,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -411,7 +425,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -539,6 +553,22 @@
           "time_info": "[00时20分 ~ 16时23分]"
         },
         {
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 20时33分]"
+        },
+        {
           "title": "3人48小时做出5亿播放量AI短剧",
           "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -568,19 +598,17 @@
           "time_info": "[00时20分 ~ 07时17分]"
         },
         {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            19,
-            16,
-            15,
-            14
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时33分]"
         },
         {
           "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
@@ -619,19 +647,6 @@
           "time_info": "[12时05分 ~ 16时23分]"
         },
         {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -659,15 +674,29 @@
           "time_info": "[02时24分 ~ 07时17分]"
         },
         {
-          "title": "AI “养龙虾”火了！上市公司扎堆回应",
-          "url": "https://wallstreetcn.com/livenews/3065866",
-          "source": "华尔街见闻-快讯",
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            4,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时33分]"
+        },
+        {
+          "title": "AI龙虾爆火工信部发布高危风险预警",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时33分]"
         },
         {
           "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
@@ -741,6 +770,19 @@
           "time_info": "[01时16分 ~ 07时17分]"
         },
         {
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时33分]"
+        },
+        {
           "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
           "url": "https://wallstreetcn.com/livenews/3065778",
           "source": "华尔街见闻-快讯",
@@ -777,28 +819,16 @@
           "time_info": "[12时05分 ~ 13时39分]"
         },
         {
-          "title": "AI龙虾爆火工信部发布高危风险预警",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "AI “养龙虾”火了！上市公司扎堆回应",
+          "url": "https://wallstreetcn.com/livenews/3065866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            2
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
-          "url": "https://www.cls.cn/detail/2306367",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "time_info": "[19时16分 ~ 20时33分]"
         },
         {
           "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
@@ -885,16 +915,16 @@
           "time_info": "[12时05分 ~ 14时34分]"
         },
         {
-          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
-          "source": "澎湃新闻",
+          "title": "据知情人士透露，私募KKR寻求按至多30亿美元出售冷却公司CoolIT Systems。 该公司正与顾问们研究这个计划。 该公司的液冷系统应用于人工智能（AI）基础设施领域。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3065853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            8
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "time_info": "[19时16分 ~ 20时33分]"
         },
         {
           "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
@@ -920,15 +950,16 @@
           "time_info": "[14时34分 ~ 15时27分]"
         },
         {
-          "title": "据知情人士透露，私募KKR寻求按至多30亿美元出售冷却公司CoolIT Systems。 该公司正与顾问们研究这个计划。 该公司的液冷系统应用于人工智能（AI）基础设施领域。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3065853",
+          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险，建议充分核查公网暴露情况",
+          "url": "https://wallstreetcn.com/livenews/3065841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            22,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时33分]"
         },
         {
           "title": "院士说不要天天想AI替代谁",
@@ -951,17 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险，建议充分核查公网暴露情况",
-          "url": "https://wallstreetcn.com/livenews/3065841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "年轻人为何排队疯抢AI龙虾",
@@ -1011,8 +1031,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 19时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 20时33分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -1024,8 +1044,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 20时33分]"
         },
         {
           "title": "下周A股如何选择方向",
