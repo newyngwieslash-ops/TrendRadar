@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T17:23:20.271912+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-03-08T18:19:43.540705+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -52,19 +52,6 @@
           "time_info": "[09时24分 ~ 15时27分]"
         },
         {
-          "title": "王毅回应特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 17时23分]"
-        },
-        {
           "title": "英国可能部署航母至中东，特朗普：不需要",
           "url": "https://news.ifeng.com/c/8rJVEzbISO2",
           "source": "凤凰网",
@@ -72,19 +59,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 18时19分]"
         },
         {
-          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            1
+            12,
+            4,
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 18时19分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -99,8 +89,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 18时19分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "特朗普称已排除库尔德武装参战可能",
@@ -311,6 +312,28 @@
           "time_info": "[02时24分 ~ 03时17分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时19分]"
+        },
+        {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
           "url": "https://flash.jin10.com/detail/20260308104028991800",
           "source": "金十数据",
@@ -321,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时19分]"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -345,17 +380,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
           "url": "https://flash.jin10.com/detail/20260308080925846800",
           "source": "金十数据",
@@ -365,17 +389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -420,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -480,7 +482,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -539,6 +541,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 18时19分]"
         },
         {
           "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
@@ -604,19 +621,30 @@
           "time_info": "[02时24分 ~ 07时17分]"
         },
         {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            19,
-            16,
-            15,
-            14
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时19分]"
+        },
+        {
+          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
+          "url": "https://wallstreetcn.com/livenews/3065841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时19分]"
         },
         {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
@@ -644,31 +672,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时17分]"
-        },
-        {
-          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
-          "url": "https://wallstreetcn.com/livenews/3065841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时23分]"
-        },
-        {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时23分]"
         },
         {
           "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
@@ -719,6 +722,34 @@
           "time_info": "[09时24分 ~ 12时05分]"
         },
         {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时19分]"
+        },
+        {
+          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
+          "url": "https://wallstreetcn.com/livenews/3065837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时19分]"
+        },
+        {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2013275268022757071",
           "source": "知乎",
@@ -742,19 +773,6 @@
           "time_info": "[00时20分 ~ 03时17分]"
         },
         {
-          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
-          "url": "https://www.zhihu.com/question/2013564166326215304",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 17时23分]"
-        },
-        {
           "title": "院士：不要天天想AI替代谁",
           "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
           "source": "百度热搜",
@@ -766,19 +784,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 13时39分]"
-        },
-        {
-          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
-          "url": "https://wallstreetcn.com/livenews/3065837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时23分]"
         },
         {
           "title": "AI写作48小时生成500万字长篇小说",
@@ -840,6 +845,17 @@
           "time_info": "[14时34分 ~ 15时27分]"
         },
         {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "院士说不要天天想AI替代谁",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -851,6 +867,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "据Techmeme：OpenAI硬件与机器人工程负责人Caitlin Kalinowski辞职，原因是美国对国内监控和致命自主武器系统的担忧。",
           "url": "https://flash.jin10.com/detail/20260308014504453800",
           "source": "金十数据",
@@ -860,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "AI龙虾爆火工信部发布高危风险预警",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "年轻人为何排队疯抢AI龙虾",
@@ -909,8 +947,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 17时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 18时19分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -922,8 +960,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 18时19分]"
         },
         {
           "title": "下周A股如何选择方向",
