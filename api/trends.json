@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:43:04.931287+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-03-10T21:58:31.375663+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 131,
+      "match_count": 133,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时18分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时18分 ~ 21时58分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时18分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时18分 ~ 21时58分]"
         },
         {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
@@ -207,8 +207,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时41分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[13时41分 ~ 21时58分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -235,6 +235,39 @@
           "time_info": "[04时26分 ~ 06时22分]"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -255,39 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时37分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -378,6 +378,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
           "url": "https://flash.jin10.com/detail/20260310011623908800",
           "source": "金十数据",
@@ -442,6 +453,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -670,17 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "美国总统特朗普：我们在三天半内摧毁了46艘伊朗海军舰艇。",
@@ -919,7 +931,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1007,7 +1019,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1100,6 +1112,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7615598658259521050/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "美国总统特朗普：战争可能很快就会结束。",
           "url": "https://flash.jin10.com/detail/20260310032035655800",
           "source": "金十数据",
@@ -1161,7 +1184,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1403,7 +1426,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1510,7 +1533,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -1546,11 +1569,12 @@
             2,
             4,
             9,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时18分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时18分 ~ 21时58分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -1631,8 +1655,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 21时58分]"
+        },
+        {
+          "title": "工业富联董事长郑弘孟：AI算力基础设施将成为未来多年最具确定性的核心发展领域之一",
+          "url": "https://wallstreetcn.com/livenews/3067361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "央视网评AI养“龙虾”狂欢：我们怕的不是风险，是掉队",
@@ -1641,7 +1676,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1694,6 +1729,30 @@
           "time_info": "[16时33分 ~ 18时33分]"
         },
         {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时58分]"
+        },
+        {
           "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
           "url": "https://wallstreetcn.com/livenews/3067229",
           "source": "华尔街见闻-快讯",
@@ -1704,17 +1763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时33分 ~ 19时28分]"
-        },
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
@@ -1752,17 +1800,6 @@
           "time_info": "[01时43分 ~ 02时42分]"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
-        },
-        {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
           "url": "https://wallstreetcn.com/livenews/3066732",
           "source": "华尔街见闻-快讯",
@@ -1773,6 +1810,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "Meta收购AI社交网络平台Moltbook。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
@@ -1803,7 +1862,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1836,9 +1895,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "伊朗的战火，可能烧掉美国的AI梦？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260310213156918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
@@ -1896,13 +1966,24 @@
           "time_info": "01时43分"
         },
         {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "亚马逊发行最长50年期债券 筹资发展AI",
           "url": "https://flash.jin10.com/detail/20260310201132402800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1913,7 +1994,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
@@ -2017,7 +2098,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -2030,6 +2111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
@@ -2048,6 +2140,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：X Money早期公众访问版将于下月上线。",
+          "url": "https://flash.jin10.com/detail/20260310213601758800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     }
