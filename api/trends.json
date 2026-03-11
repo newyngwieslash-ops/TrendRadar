@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T05:27:22.823521+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-03-12T06:22:03.258437+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 65,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
           "url": "https://wallstreetcn.com/articles/3767194",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "特朗普说对伊行动即将结束",
@@ -60,11 +61,37 @@
           "ranks": [
             12,
             27,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
+        },
+        {
+          "title": "美官员称特朗普对伊朗反应有误判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时44分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
         },
         {
           "title": "市场消息：一旦战斗结束，海湾石油出口恢复正常可能需要数月时间。如果伊朗或其代理人试图在特朗普宣布胜利后干扰航运路线，供应恢复的速度将进一步放缓。",
@@ -78,17 +105,6 @@
           "time_info": "00时43分"
         },
         {
-          "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
-          "url": "https://flash.jin10.com/detail/20260312045725183800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "市场消息：美国在中东的部分盟友私下担心特朗普政府对战争的经济后果考虑不足。",
           "url": "https://flash.jin10.com/detail/20260312002740188800",
           "source": "金十数据",
@@ -98,17 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普：我们正有效地运用我们的军队。",
-          "url": "https://flash.jin10.com/detail/20260312045038437800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         },
         {
           "title": "特朗普：美国在伊朗没有采取可以采取的某些行动。",
@@ -133,39 +138,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国总统特朗普：如今在美国工作的人员数量比我们历史上任何时候都要多。",
-          "url": "https://flash.jin10.com/detail/20260312045028007800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国总统特朗普：政府正设法维持石油供应的流动。 国际能源署（IEA）释放战略石油储备将大幅压低油价。 油价正在下跌，还将下跌。 油价将（继续）下跌，但我们不会提前离开（伊朗）。",
-          "url": "https://wallstreetcn.com/livenews/3068351",
+          "title": "美国总统特朗普兜售低通胀和低抵押贷款利率。",
+          "url": "https://wallstreetcn.com/livenews/3068367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美官员称特朗普对伊朗反应有误判",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 05时27分]"
+          "time_info": "06时22分"
         },
         {
           "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
@@ -192,6 +173,18 @@
           "time_info": "[03时38分 ~ 05时27分]"
         },
         {
+          "title": "市场消息：美国总统特朗普在讲话中称赞了股市达到新高以及401(k)退休福利计划的收益情况。",
+          "url": "https://flash.jin10.com/detail/20260312045725183800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
           "title": "美国海上石油生产商Sable(SOC.N)现涨21%，报道称特朗普将援引一项紧急法支持该公司，为南加州海岸恢复石油生产铺平道路。",
           "url": "https://flash.jin10.com/detail/20260312031639157800",
           "source": "金十数据",
@@ -204,6 +197,18 @@
           "time_info": "[03时38分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：我们正有效地运用我们的军队。",
+          "url": "https://flash.jin10.com/detail/20260312045038437800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
           "title": "特朗普称伊朗海军已遭重创，油价将下跌",
           "url": "https://flash.jin10.com/detail/20260312031046823800",
           "source": "金十数据",
@@ -214,6 +219,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普：如今在美国工作的人员数量比我们历史上任何时候都要多。",
+          "url": "https://flash.jin10.com/detail/20260312045028007800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：政府正设法维持石油供应的流动。 国际能源署（IEA）释放战略石油储备将大幅压低油价。 油价正在下跌，还将下跌。 油价将（继续）下跌，但我们不会提前离开（伊朗）。",
+          "url": "https://wallstreetcn.com/livenews/3068351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
         },
         {
           "title": "特朗普将援引一项紧急法，为海上石油生产商Sable公司提供援助",
@@ -252,6 +281,18 @@
           "time_info": "[03时38分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
+          "url": "https://wallstreetcn.com/livenews/3068347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
           "title": "特朗普谈伊朗：我们进行了一次短暂的“远足”。我们不得不进行这次为期两周的“远足”。但这真是太棒了。我们的军队表现得令人难以置信。",
           "url": "https://flash.jin10.com/detail/20260312030449102800",
           "source": "金十数据",
@@ -276,6 +317,18 @@
           "time_info": "[03时38分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普宣称：当前美国工作的人数比历史上任何时候都多。",
+          "url": "https://wallstreetcn.com/livenews/3068342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
           "title": "当被问及伊朗是否在霍尔木兹海峡布雷时，特朗普回答说：“我们不这么认为。”",
           "url": "https://flash.jin10.com/detail/20260312002356436800",
           "source": "金十数据",
@@ -285,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "特朗普称美国已击沉28艘伊朗布雷船",
+          "url": "https://wallstreetcn.com/livenews/3068366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特朗普：我认为你可以看到霍尔木兹海的安全状况很好。",
@@ -307,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
-          "url": "https://wallstreetcn.com/livenews/3068347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         },
         {
           "title": "特朗普政府官员准备宣布新的贸易调查 或要重建关税壁垒",
@@ -386,15 +439,26 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国总统特朗普宣称：当前美国工作的人数比历史上任何时候都多。",
-          "url": "https://wallstreetcn.com/livenews/3068342",
+          "title": "美国总统特朗普将在未来数日签署关于住房的命令。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3068358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普称美国将“略微”削减战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260312052221538800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特朗普谈伊朗：美国几乎摧毁了伊朗所有的布雷船。",
@@ -441,6 +505,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "特朗普讲话过程中，一名现场观众晕倒，特朗普讲话中断。",
+          "url": "https://flash.jin10.com/detail/20260312051909855800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "特朗普谈伊朗：如果我们愿意，美国可以打击更多目标。",
           "url": "https://flash.jin10.com/detail/20260312001437492800",
           "source": "金十数据",
@@ -474,15 +549,48 @@
           "time_info": "03时38分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗问题）在任务完成之前我们不会离开。",
+          "url": "https://flash.jin10.com/detail/20260312051328694800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国总统特朗普：我们已经击溃了伊朗的海军和领导人。",
           "url": "https://flash.jin10.com/detail/20260312042050310800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）我们不想每隔两年就重蹈覆辙。",
+          "url": "https://flash.jin10.com/detail/20260312051052883800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：美国已经摧毁了（伊朗）31艘布雷舰。",
+          "url": "https://flash.jin10.com/detail/20260312051032783800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普：西班牙一直表现糟糕，可能会切断美国与该国的贸易。",
@@ -507,6 +615,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美国总统特朗普：国际能源署（IEA）决定动用战略石油储备将会“大幅”降低油价。",
+          "url": "https://flash.jin10.com/detail/20260312050947132800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -524,9 +643,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗行动）我们击毁了58艘伊朗海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260312050801311800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国参议院金融委员会主席Mike Crapo发函，要求总统特朗普在接见日本首相高市早苗时，让美国土豆“获得优先市场准入”。",
@@ -535,7 +665,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -557,9 +687,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗行动）我们这次行动的目的是铲除邪恶之人。",
+          "url": "https://flash.jin10.com/detail/20260312050335375800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：苹果(AAPL.O)CEO库克做得不错。",
+          "url": "https://flash.jin10.com/detail/20260312045955149800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特朗普：西班牙的领导层不太行。",
@@ -598,7 +750,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -609,8 +761,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -618,11 +770,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -633,8 +786,31 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
+        },
+        {
+          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时22分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -651,29 +827,6 @@
           "time_info": "[00时43分 ~ 05时27分]"
         },
         {
-          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时27分]"
-        },
-        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -683,6 +836,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时44分]"
+        },
+        {
+          "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
+          "url": "https://wallstreetcn.com/livenews/3068362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -724,7 +888,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
