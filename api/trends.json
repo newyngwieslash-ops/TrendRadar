@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T02:43:42.944405+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-03-13T03:38:36.483614+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
+          "url": "https://flash.jin10.com/detail/20260313030815962800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
+          "url": "https://wallstreetcn.com/livenews/3069118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -48,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -107,6 +129,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
+          "url": "https://flash.jin10.com/detail/20260313023939495800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
           "url": "https://flash.jin10.com/detail/20260313002352464800",
           "source": "金十数据",
@@ -121,19 +154,31 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
           "ranks": [
             3,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -143,8 +188,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时38分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            22,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时43分]"
+          "time_info": "[00时54分 ~ 03时38分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -171,16 +229,16 @@
           "time_info": "[00时54分 ~ 01时44分]"
         },
         {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
+          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
+          "url": "https://wallstreetcn.com/livenews/3069094",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            22
+            11,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时44分]"
+          "time_info": "[02时43分 ~ 03时38分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -189,7 +247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -200,20 +258,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
         {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
+          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
+          "url": "https://flash.jin10.com/detail/20260313023700863800",
+          "source": "金十数据",
           "ranks": [
-            11
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "03时38分"
         }
       ]
     },
