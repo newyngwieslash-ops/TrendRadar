@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-03-13T06:20:02.021614+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-03-13T07:28:54.174687+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
+        },
+        {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -30,27 +43,16 @@
           "time_info": "[00时54分 ~ 05时27分]"
         },
         {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时20分]"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -145,6 +147,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
           "url": "https://flash.jin10.com/detail/20260313042436372800",
           "source": "金十数据",
@@ -154,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
@@ -257,8 +281,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -272,8 +296,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -289,28 +313,6 @@
           "time_info": "[00时54分 ~ 03时38分]"
         },
         {
-          "title": "Coherent增强面向AI网络的多轨传输平台",
-          "url": "https://wallstreetcn.com/livenews/3069181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
-          "url": "https://wallstreetcn.com/livenews/3069178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3069122",
           "source": "华尔街见闻-快讯",
@@ -321,6 +323,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时27分]"
+        },
+        {
+          "title": "Coherent增强面向AI网络的多轨传输平台",
+          "url": "https://wallstreetcn.com/livenews/3069181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时28分]"
+        },
+        {
+          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
+          "url": "https://wallstreetcn.com/livenews/3069178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时28分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -442,6 +468,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今日重点关注的财经数据与事件：2026年3月13日 周五",
+          "url": "https://flash.jin10.com/detail/20260313065000000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
