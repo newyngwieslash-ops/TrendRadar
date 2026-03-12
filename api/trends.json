@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:32:59.837203+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-03-12T19:28:31.573040+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时21分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[06时21分 ~ 19时28分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 19时28分]"
         },
         {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 07时19分]"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时28分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -120,6 +133,20 @@
           "time_info": "[00时43分 ~ 07时19分]"
         },
         {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
           "url": "https://www.cls.cn/detail/2310196",
           "source": "财联社热门",
@@ -132,32 +159,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时19分 ~ 15时43分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时32分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时32分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 15时43分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -251,17 +263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "美前国安顾问：特朗普对重开霍尔木兹海峡无对策",
@@ -566,7 +567,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -720,7 +721,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -970,7 +971,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -997,6 +998,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时08分 ~ 17时36分]"
+        },
+        {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 19时28分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -1041,8 +1055,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 19时28分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -1069,19 +1083,6 @@
           "time_info": "[00时43分 ~ 09时19分]"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 18时32分]"
-        },
-        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -1091,8 +1092,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时28分]"
         },
         {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
@@ -1104,6 +1105,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时28分]"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
@@ -1128,19 +1142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时32分]"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时32分]"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
@@ -1178,6 +1179,18 @@
           "time_info": "[00时43分 ~ 01时44分]"
         },
         {
+          "title": "美金融巨头为AI基建花上亿培训水电工",
+          "url": "https://www.toutiao.com/trending/7616268055123722303/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时28分]"
+        },
+        {
           "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
           "url": "https://wallstreetcn.com/livenews/3068362",
           "source": "华尔街见闻-快讯",
@@ -1201,15 +1214,15 @@
           "time_info": "[16时34分 ~ 16时35分]"
         },
         {
-          "title": "美金融巨头为AI基建花上亿培训水电工",
-          "url": "https://www.toutiao.com/trending/7616268055123722303/",
-          "source": "今日头条",
+          "title": "市场消息：Palantir和英伟达联手打造主权AI操作系统参考。",
+          "url": "https://flash.jin10.com/detail/20260312191021075800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "19时28分"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
@@ -1223,6 +1236,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "据知情人士透露，奈飞将支付高达6亿美元，来收购Ben Affleck旗下人工智能（AI）公司InterPositive。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3068313",
           "source": "华尔街见闻-快讯",
@@ -1232,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "两名英伟达高管加入AI投资机构Era",
+          "url": "https://flash.jin10.com/detail/20260312190736649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
@@ -1320,12 +1355,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "AI演员都出片场花絮了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E9%83%BD%E5%87%BA%E7%89%87%E5%9C%BA%E8%8A%B1%E7%B5%AE%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股可控核聚变板块短线拉升，融发核电直线涨停，兰石重装、中国核建、常辅股份、中国能建纷纷拉升。",
@@ -1372,6 +1418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "专家：A股投资逻辑将转向寻找新周期",
+          "url": "https://www.toutiao.com/trending/7616255809055424531/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "A股风电设备板块午后短线拉升，德力佳涨超8%，振江股份、海力风电、大金重工、明阳智能纷纷拉升。",
