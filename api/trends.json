@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T12:07:01.822060+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-03-13T13:44:06.179635+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -50,11 +50,12 @@
             6,
             7,
             29,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 12时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时44分]"
         },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -64,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -103,6 +104,30 @@
           "time_info": "[07时28分 ~ 12时07分]"
         },
         {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时44分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 13时44分]"
+        },
+        {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
           "url": "https://wallstreetcn.com/livenews/3069118",
           "source": "华尔街见闻-快讯",
@@ -128,27 +153,15 @@
           "time_info": "[07时28分 ~ 12时07分]"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
+          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时07分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "time_info": "[09时22分 ~ 13时44分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -173,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时20分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -286,17 +310,6 @@
           "time_info": "00时54分"
         },
         {
-          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
           "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
           "url": "https://flash.jin10.com/detail/20260313002535367800",
           "source": "金十数据",
@@ -361,12 +374,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260313124216025800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "特朗普：伊朗的一切都在被摧毁",
+          "url": "https://flash.jin10.com/detail/20260313123158096800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -395,6 +430,18 @@
           "time_info": "[00时54分 ~ 09时22分]"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时44分]"
+        },
+        {
           "title": "揭秘龙虾AI智能体",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E9%BE%99%E8%99%BEAI%E6%99%BA%E8%83%BD%E4%BD%93",
           "source": "bilibili 热搜",
@@ -404,6 +451,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时44分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -417,30 +477,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 03时38分]"
-        },
-        {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时07分]"
-        },
-        {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时07分]"
         },
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -491,6 +527,17 @@
           "time_info": "[00时54分 ~ 01时44分]"
         },
         {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3069051",
           "source": "华尔街见闻-快讯",
@@ -536,6 +583,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时20分]"
+        },
+        {
+          "title": "中腰部演员将被AI替代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
@@ -599,7 +657,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -635,12 +693,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
+          "url": "https://wallstreetcn.com/livenews/3069370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-13）",
@@ -654,6 +723,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "A股核电板块再度拉升，中国核建午后涨停，兰石重装、南方路机此前封板，江苏神通、中核科技涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3069391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年3月13日 周五",
           "url": "https://flash.jin10.com/detail/20260313065000000800",
           "source": "金十数据",
@@ -665,13 +745,46 @@
           "time_info": "07时28分"
         },
         {
+          "title": "A股有色·钨概念持续走弱，中钨高新、章源钨业逼近跌停，翔鹭钨业、厦门钨业、西部材料跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3069387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股电网设备板块局部走低，顺钠股份触及跌停，中电鑫龙跌超8%，明阳电气、汉缆股份、国电南自跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3069383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股银行板块震荡上扬，重庆银行、华夏银行、沪农商行涨超2%，浦发银行、上海银行、中信银行等纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3069381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "瑞银：A股对地缘政治事件体现一定下行保护",
           "url": "https://wallstreetcn.com/livenews/3069324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -682,7 +795,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
