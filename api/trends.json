@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T18:29:42.622259+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-03-13T19:26:12.385103+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 19时26分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -29,6 +29,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时28分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时43分 ~ 19时26分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -62,22 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时29分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时43分 ~ 18时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 19时26分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -110,6 +111,17 @@
           "time_info": "[09时22分 ~ 16时33分]"
         },
         {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
           "url": "https://flash.jin10.com/detail/20260313030815962800",
           "source": "金十数据",
@@ -138,7 +150,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -154,15 +166,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
+          "title": "特朗普称必要时将护航霍尔木兹海峡 威胁加大对伊朗打击",
+          "url": "https://flash.jin10.com/detail/20260313191927288800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时26分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -225,6 +237,29 @@
           "time_info": "[09时22分 ~ 13时44分]"
         },
         {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
           "url": "https://flash.jin10.com/detail/20260313035535843800",
           "source": "金十数据",
@@ -247,6 +282,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3069649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -316,15 +363,15 @@
           "time_info": "14时43分"
         },
         {
-          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3069649",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
+          "url": "https://flash.jin10.com/detail/20260313190732526800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时26分"
         },
         {
           "title": "特朗普称穆杰塔巴或“受伤但活着”",
@@ -336,6 +383,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "美国总统特朗普：（关于霍尔木兹海峡）让我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260313190707304800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "美国总统特朗普：希望一切进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260313190639309800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "当地时间3月12日，美国总统特朗普表示，他认为伊朗最高领袖穆杰塔巴·哈梅内伊可能“受伤但仍然活着”。（央视新闻）",
@@ -371,6 +440,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "美国总统特朗普：（谈美国在霍尔木兹海峡的护航行动）如果我们需要，就会这么做。",
+          "url": "https://flash.jin10.com/detail/20260313190528886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：结束战争可不是发几条推特就能做到的。",
           "url": "https://flash.jin10.com/detail/20260313002551576800",
           "source": "金十数据",
@@ -402,17 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -495,7 +564,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -510,22 +579,6 @@
           "time_info": "[09时22分 ~ 16时33分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            18,
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时22分 ~ 18时29分]"
-        },
-        {
           "title": "未来乡村会比AI生成的还漂亮",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
           "source": "百度热搜",
@@ -537,6 +590,23 @@
           "time_info": "[14时42分 ~ 17时34分]"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18,
+            16,
+            17,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时22分 ~ 19时26分]"
+        },
+        {
           "title": "“乐山大佛是大禹雕像”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -546,6 +616,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 09时22分]"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 19时26分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -561,20 +645,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 09时22分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 18时29分]"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
@@ -799,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
+          "url": "https://wallstreetcn.com/livenews/3069668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
