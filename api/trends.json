@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T21:56:39.631171+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-03-13T22:39:24.519584+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -31,6 +31,17 @@
           "time_info": "[00时54分 ~ 07时28分]"
         },
         {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时39分]"
+        },
+        {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
           "url": "https://wallstreetcn.com/articles/3767380",
           "source": "华尔街见闻",
@@ -40,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时06分 ~ 21时56分]"
+          "appearance_count": 17,
+          "time_info": "[12时06分 ~ 22时39分]"
         },
         {
           "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
@@ -82,17 +93,6 @@
           "time_info": "[00时54分 ~ 05时27分]"
         },
         {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时56分]"
-        },
-        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
@@ -121,6 +121,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时22分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -154,20 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时56分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -205,17 +217,6 @@
           "time_info": "[07时28分 ~ 12时07分]"
         },
         {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 21时56分]"
-        },
-        {
           "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
           "url": "https://flash.jin10.com/detail/20260313171234466800",
           "source": "金十数据",
@@ -233,7 +234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -298,6 +299,17 @@
           "time_info": "[05时27分 ~ 06时20分]"
         },
         {
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3069649",
           "source": "华尔街见闻-快讯",
@@ -333,6 +345,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "以色列总统称特朗普攻击国家主权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2015341795039475528",
           "source": "知乎",
@@ -355,15 +378,26 @@
           "time_info": "09时22分"
         },
         {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
+          "title": "市场消息：美国总统特朗普政府提议让巴西接收在美国被捕的外国人。",
+          "url": "https://flash.jin10.com/detail/20260313222101323800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时39分"
+        },
+        {
+          "title": "特朗普：目前未将重点放在获取伊朗铀的行动上，但迟早可能会这样做。",
+          "url": "https://flash.jin10.com/detail/20260313222035984800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -399,6 +433,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "特朗普：（谈琼斯法案暂停）我们将会关注此事。",
+          "url": "https://flash.jin10.com/detail/20260313221928187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
           "url": "https://flash.jin10.com/detail/20260313190732526800",
           "source": "金十数据",
@@ -408,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "美国总统特朗普谈论“Save America Act”，称：（国会山）领导层必须找到（足够多的支持）票数。",
+          "url": "https://wallstreetcn.com/livenews/3069869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "特朗普称穆杰塔巴或“受伤但活着”",
@@ -454,6 +510,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "特朗普重申美国正在“摧毁”伊朗。",
+          "url": "https://flash.jin10.com/detail/20260313221727144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "当地时间3月12日，美国总统特朗普表示，他认为伊朗最高领袖穆杰塔巴·哈梅内伊可能“受伤但仍然活着”。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3069245",
           "source": "华尔街见闻-快讯",
@@ -474,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普：（谈“拯救美国法案”）领导人必须找到足够的票数。",
+          "url": "https://flash.jin10.com/detail/20260313221712255800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
@@ -564,6 +642,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特朗普：（谈伊朗沉睡特工）可能超过1,700个。",
+          "url": "https://flash.jin10.com/detail/20260313221312265800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
           "url": "https://flash.jin10.com/detail/20260313002352464800",
           "source": "金十数据",
@@ -581,7 +670,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -646,8 +735,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时40分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[15时40分 ~ 22时39分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -684,11 +773,12 @@
             17,
             14,
             30,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时22分 ~ 21时56分]"
+          "appearance_count": 18,
+          "time_info": "[09时22分 ~ 22时39分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -778,17 +868,6 @@
           "time_info": "[00时54分 ~ 03时38分]"
         },
         {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3069122",
           "source": "华尔街见闻-快讯",
@@ -799,6 +878,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时27分]"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时39分]"
         },
         {
           "title": "Coherent增强面向AI网络的多轨传输平台",
@@ -948,7 +1039,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -970,7 +1061,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1080,7 +1171,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -1088,7 +1179,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-13）",
@@ -1137,6 +1228,18 @@
           "time_info": "[13时44分 ~ 14时43分]"
         },
         {
+          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时39分]"
+        },
+        {
           "title": "A股电子气体概念快速拉升，华特气体涨超10%，中船特气、金宏气体、和远气体、凯美特气跟涨。",
           "url": "https://wallstreetcn.com/livenews/3069425",
           "source": "华尔街见闻-快讯",
@@ -1181,17 +1284,6 @@
           "time_info": "13时44分"
         },
         {
-          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3069405",
           "source": "华尔街见闻-快讯",
@@ -1223,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "A股每天4小时交易时间够用吗",
+          "url": "https://www.toutiao.com/trending/7616193103405498387/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
