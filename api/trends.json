@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T22:24:41.593730+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-03-15T23:22:56.113619+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -19,6 +19,19 @@
           "time_info": "[00时23分 ~ 12时27分]"
         },
         {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 23时22分]"
+        },
+        {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
           "url": "https://wallstreetcn.com/articles/3767534",
           "source": "华尔街见闻",
@@ -29,21 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 22时24分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 23时22分]"
         },
         {
           "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
@@ -62,6 +62,32 @@
           "time_info": "[00时23分 ~ 14时02分]"
         },
         {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 23时22分]"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
           "url": "https://wallstreetcn.com/articles/3767499",
           "source": "华尔街见闻",
@@ -74,19 +100,15 @@
           "time_info": "[00时23分 ~ 07时21分]"
         },
         {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
-            4,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 23时22分]"
         },
         {
           "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
@@ -100,17 +122,6 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时24分]"
-        },
-        {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
           "url": "https://www.cls.cn/detail/2313097",
           "source": "财联社热门",
@@ -120,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 23时22分]"
         },
         {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
@@ -145,19 +156,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 22时24分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[14时02分 ~ 23时22分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -229,6 +229,19 @@
           "time_info": "[09时46分 ~ 21时42分]"
         },
         {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普否认5架美军加油机被毁",
           "url": "https://wallstreetcn.com/livenews/3070180",
           "source": "华尔街见闻-快讯",
@@ -261,19 +274,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 16时29分]"
-        },
-        {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
@@ -331,6 +331,19 @@
           "time_info": "[09时46分 ~ 17时28分]"
         },
         {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时22分]"
+        },
+        {
           "title": "美以伊战争丨特朗普拒绝伊朗停火提议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -340,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
@@ -371,19 +395,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时46分 ~ 16时29分]"
-        },
-        {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
@@ -561,6 +572,18 @@
           "time_info": "[16时29分 ~ 17时28分]"
         },
         {
+          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普：条件还不够好 目前并不准备与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260315080849414800",
           "source": "金十数据",
@@ -581,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "美军在霍尔木兹海峡护航？特朗普表态“含糊其辞”",
@@ -619,7 +631,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -673,11 +685,50 @@
             20,
             22,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 22时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 23时22分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时22分]"
+        },
+        {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时22分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "实测AI推荐如何被操控",
@@ -685,17 +736,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时24分]"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -713,29 +753,15 @@
           "time_info": "18时23分"
         },
         {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时24分]"
-        },
-        {
-          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
-          "url": "https://wallstreetcn.com/articles/3767535",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -752,16 +778,29 @@
           "time_info": "[00时23分 ~ 03时22分]"
         },
         {
+          "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时22分]"
+        },
+        {
           "title": "给AI投毒",
           "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时22分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒，给AI投毒已成产业链",
@@ -784,8 +823,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时22分]"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.douyin.com/hot/2431845",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时24分]"
+          "time_info": "[21时42分 ~ 23时22分]"
         },
         {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
@@ -810,17 +860,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时29分]"
-        },
-        {
-          "title": "315晚会曝光“AI投毒产业链”",
-          "url": "https://www.douyin.com/hot/2431845",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时24分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -859,15 +898,15 @@
           "time_info": "[21时42分 ~ 22时24分]"
         },
         {
-          "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313341",
-          "source": "财联社热门",
+          "title": "专家：AI大模型投毒是新型不正当竞争",
+          "url": "https://wallstreetcn.com/livenews/3070365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时22分"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -890,6 +929,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
+          "url": "https://wallstreetcn.com/livenews/3070357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.toutiao.com/trending/7616979498366140452/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -920,8 +981,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 23时22分]"
         },
         {
           "title": "Space X IPO，马斯克要学“马老师”",
