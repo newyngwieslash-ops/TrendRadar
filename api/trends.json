@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T01:03:08.816085+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-17T02:53:05.067407+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
@@ -69,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -103,8 +103,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "[02时52分 ~ 02时53分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -113,7 +124,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -135,7 +146,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -146,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -168,7 +179,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -179,7 +190,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -190,7 +201,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -201,7 +212,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -212,7 +223,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -223,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -234,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -245,7 +256,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -256,7 +267,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -267,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -278,7 +289,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -289,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -300,7 +311,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -308,7 +319,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -318,8 +329,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -328,7 +339,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -337,11 +348,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -351,30 +363,65 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
           "url": "https://www.zhihu.com/question/2016958547372499192",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
+        },
+        {
+          "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
+          "url": "https://www.zhihu.com/question/2015734176020656294",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "[02时52分 ~ 02时53分]"
+        },
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 02时53分]"
+        },
+        {
+          "title": "摩根士丹利：预计人工智能（AI）数据中心将在市政债券市场激发1000亿美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3071100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -383,16 +430,38 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260317020724213800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克：人生不需要晴天朋友",
+          "url": "https://www.toutiao.com/trending/7616405377337278518/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 02时53分]"
+        },
         {
           "title": "马斯克5万美金小屋简陋似仓库",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B5%E4%B8%87%E7%BE%8E%E9%87%91%E5%B0%8F%E5%B1%8B%E7%AE%80%E9%99%8B%E4%BC%BC%E4%BB%93%E5%BA%93%23&t=31&band_rank=28&Refer=top",
@@ -415,11 +484,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时53分]"
         }
       ]
     }
