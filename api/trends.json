@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T09:24:44.745893+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-03-17T12:12:25.067924+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 12时12分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 12时12分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 12时12分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -154,6 +155,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
           "url": "https://wallstreetcn.com/livenews/3071063",
           "source": "华尔街见闻-快讯",
@@ -182,7 +194,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -197,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时12分]"
         },
         {
           "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
@@ -223,6 +247,18 @@
           "time_info": "[05时40分 ~ 06时26分]"
         },
         {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时12分]"
+        },
+        {
           "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
           "url": "https://flash.jin10.com/detail/20260317050036634800",
           "source": "金十数据",
@@ -245,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -271,6 +318,17 @@
           "time_info": "[05时40分 ~ 06时26分]"
         },
         {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时12分]"
+        },
+        {
           "title": "美国总统特朗普：最高法院关于关税的裁决不会改变关税政策。我会以不同的方式重新开始征收关税。",
           "url": "https://flash.jin10.com/detail/20260317045000093800",
           "source": "金十数据",
@@ -295,28 +353,6 @@
           "time_info": "[05时40分 ~ 06时26分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
           "url": "https://wallstreetcn.com/livenews/3071059",
           "source": "华尔街见闻-快讯",
@@ -328,6 +364,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260317003357598800",
           "source": "金十数据",
@@ -337,17 +384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来访。",
@@ -480,17 +516,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "市场消息：美国法官叫停特朗普政府削减儿童常规推荐疫苗数量的举措，并阻止13名成员入选疫苗顾问委员会。",
@@ -705,7 +730,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -718,6 +743,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 09时24分]"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时39分 ~ 12时12分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -775,17 +812,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 09时24分]"
-        },
-        {
-          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
-          "url": "https://www.cls.cn/detail/2314450",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时39分 ~ 09时24分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -893,6 +919,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 09时24分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时12分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -1061,15 +1099,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "12时12分"
         },
         {
           "title": "美国商务部长卢特尼克将于加州圣何塞当地时间周一与英伟达CEO黄仁勋在GTC的间隙讨论AI。（PunchBowl）",
@@ -1083,13 +1121,24 @@
           "time_info": "07时25分"
         },
         {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "百度计划在智能音箱中接入OpenClaw AI智能体。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3071272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1127,6 +1176,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
           "url": "https://flash.jin10.com/detail/20260317020724213800",
           "source": "金十数据",
@@ -1149,13 +1209,24 @@
           "time_info": "06时26分"
         },
         {
+          "title": "如果 AI 存在泡沫，那么你认为泡沫阶段性破灭的标志性事件会是什么？",
+          "url": "https://www.zhihu.com/question/2016830637785440439",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "阿联酋富查伊拉（Fujairah）当局表示，富查伊拉石油工业区在遭到无人机袭击后发生火灾，目前暂无人员伤亡报告。",
           "url": "https://wallstreetcn.com/livenews/3071264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1251,7 +1322,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年3月17日",
@@ -1271,7 +1342,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1296,6 +1367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "财经网站investinglive：此次加息凸显了澳洲联储的决心，即在政策制定者面临地缘政治风险和商品价格波动加剧的复杂全球环境之际，仍要保持通胀预期稳定。",
+          "url": "https://flash.jin10.com/detail/20260317114315199800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "A股医药股震荡拉升，基蛋生物封涨停，荣昌生物涨近7%，股价创历史新高，三生国健、苑东生物、悦康药业、君实生物、必贝特、益方生物跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
