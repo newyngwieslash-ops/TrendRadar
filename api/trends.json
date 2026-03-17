@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:51:21.811620+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-17T18:43:37.566249+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 18时43分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -133,6 +133,20 @@
           "time_info": "[09时24分 ~ 17时51分]"
         },
         {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
           "url": "https://www.cls.cn/detail/2314895",
           "source": "财联社热门",
@@ -159,18 +173,17 @@
           "time_info": "[12时12分 ~ 17时51分]"
         },
         {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            5,
-            4
+            18,
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时43分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -197,19 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时51分 ~ 16时43分]"
-        },
-        {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时51分]"
         },
         {
           "title": "中方回应特朗普称可能推迟访华",
@@ -313,6 +313,30 @@
           "time_info": "09时24分"
         },
         {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
           "url": "https://flash.jin10.com/detail/20260317051712836800",
           "source": "金十数据",
@@ -385,19 +409,6 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时51分]"
-        },
-        {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
@@ -408,6 +419,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 13时54分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时43分]"
+        },
+        {
+          "title": "美方澄清特朗普威胁推迟访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%BE%84%E6%B8%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时43分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -492,17 +527,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260317003357598800",
           "source": "金十数据",
@@ -534,17 +558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "美方澄清特朗普威胁推迟访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%BE%84%E6%B8%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "美国总统特朗普：还有比现在更好的降息时机吗？",
@@ -589,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "英国外交事务特别委员会主席艾米丽·索恩伯里建议，鉴于英国政府与特朗普在伊朗战争问题上的紧张关系，应推迟国王和王后访美行程，以避免“尴尬”。",
+          "url": "https://flash.jin10.com/detail/20260317181738839800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -674,7 +698,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -946,7 +970,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -978,11 +1002,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时43分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -1045,6 +1070,19 @@
           "time_info": "[01时02分 ~ 09时24分]"
         },
         {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 18时43分]"
+        },
+        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -1060,19 +1098,6 @@
           "time_info": "[02时52分 ~ 07时25分]"
         },
         {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时51分]"
-        },
-        {
           "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
           "url": "https://www.zhihu.com/question/1977057445844109122",
           "source": "知乎",
@@ -1080,11 +1105,12 @@
             19,
             15,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时43分]"
         },
         {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
@@ -1459,7 +1485,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -1475,6 +1501,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "微盟公布2025财报：总营收15.9亿，AI收入首次过亿",
+          "url": "https://wallstreetcn.com/livenews/3071596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "美光科技执行副总裁兼首席商务官Sumit Sadana：AI的下一个时代将由通过全生态系统联合工程创新开发的紧密集成平台来定义。我们与英伟达的紧密合作确保了计算与内存从研发第一天起就能同步扩展。 美光的HBM4是这一切的核心，它是AI的引擎，提供了前所未有的带宽、容量和能效。 随着HBM4 36GB 12H，以及业界首款SOCAMM2和Gen6 SSD的量产，美光的内存与存储构成了释放下一代AI全部潜力的核心基石。",
           "url": "https://wallstreetcn.com/livenews/3071192",
           "source": "华尔街见闻-快讯",
@@ -1484,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "Lex锐评千万播放AI作品",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E5%8D%83%E4%B8%87%E6%92%AD%E6%94%BEAI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -1585,6 +1633,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "英伟达(NVDA.O)开始将Dynamo投入生产部署，该系统是一款被广泛采用、面向AI工厂的推理操作系统。",
           "url": "https://flash.jin10.com/detail/20260317043743475800",
           "source": "金十数据",
@@ -1646,7 +1705,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -1679,7 +1738,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -1869,11 +1928,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时43分]"
         },
         {
           "title": "马斯克5万美金小屋简陋似仓库",
@@ -1941,7 +2001,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -1956,11 +2016,12 @@
           "url": "https://www.zhihu.com/question/2016896539008726692",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时43分]"
         }
       ]
     }
