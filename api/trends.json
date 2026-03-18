@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T09:28:19.355937+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-03-18T12:18:34.355510+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 12时18分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -74,11 +74,12 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 12时18分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -89,8 +90,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 12时18分]"
+        },
+        {
+          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
+          "url": "https://www.cls.cn/detail/2316165",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 09时28分]"
+          "time_info": "[09时28分 ~ 12时18分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -187,15 +199,15 @@
           "time_info": "06时26分"
         },
         {
-          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
-          "url": "https://www.cls.cn/detail/2316165",
-          "source": "财联社热门",
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "12时18分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -207,6 +219,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "特朗普：不担心伊朗成为“另一个越南”",
+          "url": "https://wallstreetcn.com/livenews/3072105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -226,9 +260,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -295,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
@@ -454,18 +510,32 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 12时18分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 12时18分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -496,18 +566,6 @@
           "time_info": "[01时11分 ~ 09时28分]"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 09时28分]"
-        },
-        {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
           "url": "https://www.zhihu.com/question/2016981407864414269",
           "source": "知乎",
@@ -523,13 +581,24 @@
           "time_info": "[01时11分 ~ 07时26分]"
         },
         {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
           "url": "https://wallstreetcn.com/livenews/3072012",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -543,6 +612,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
+          "url": "https://www.zhihu.com/question/2016967278948787751",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时18分]"
         },
         {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
@@ -605,6 +697,17 @@
           "time_info": "[03时52分 ~ 04时33分]"
         },
         {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时18分]"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -651,26 +754,26 @@
           "time_info": "01时11分"
         },
         {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "12时18分"
         },
         {
-          "title": "男二以下 AI演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "12时18分"
         },
         {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
@@ -701,7 +804,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -712,7 +815,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -745,7 +848,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -767,7 +870,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -778,7 +881,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -803,6 +906,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十数据全球财经早餐 | 2026年3月18日",
+          "url": "https://flash.jin10.com/detail/20260318070158181800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
+          "url": "https://flash.jin10.com/detail/20260318090551677800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年3月18日 周三",
+          "url": "https://flash.jin10.com/detail/20260318065000001800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "A股午评：创业板指半日涨0.89%，存储芯片板块领涨",
+          "url": "https://flash.jin10.com/detail/20260318113432590800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，油气、化工、农业、白酒等方向跌幅居前，沪深京三市下跌个股近3200只。",
+          "url": "https://wallstreetcn.com/livenews/3072076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
@@ -842,45 +1006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十数据全球财经早餐 | 2026年3月18日",
-          "url": "https://flash.jin10.com/detail/20260318070158181800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
-          "url": "https://flash.jin10.com/detail/20260318090551677800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年3月18日 周三",
-          "url": "https://flash.jin10.com/detail/20260318065000001800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         }
       ]
     },
