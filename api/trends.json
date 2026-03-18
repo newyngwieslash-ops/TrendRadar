@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T05:29:17.117831+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-03-19T06:27:10.317223+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -64,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -75,8 +76,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            13,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 06时27分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -94,31 +120,6 @@
           "time_info": "[00时03分 ~ 05时29分]"
         },
         {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
-        },
-        {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            13,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 05时29分]"
-        },
-        {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
           "url": "https://wallstreetcn.com/livenews/3072659",
           "source": "华尔街见闻-快讯",
@@ -129,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时29分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -160,7 +172,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -174,12 +186,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
+          "url": "https://flash.jin10.com/detail/20260319053348018800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -189,8 +212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -200,8 +223,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -210,11 +233,12 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -225,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -236,8 +260,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -247,8 +271,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -258,8 +282,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -270,8 +294,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -312,22 +336,35 @@
           "url": "https://www.toutiao.com/trending/7618591739103677988/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[05时28分 ~ 06时27分]"
         },
         {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3072688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
+          "url": "https://wallstreetcn.com/livenews/3072708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时27分"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
@@ -336,9 +373,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
+          "url": "https://flash.jin10.com/detail/20260319051642306800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -382,8 +430,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时27分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年3月19日 周四",
