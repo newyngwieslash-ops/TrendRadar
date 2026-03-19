@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:35:28.600868+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-19T17:37:05.875216+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时03分 ~ 16时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 17时37分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -83,11 +83,12 @@
             8,
             26,
             20,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时55分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[01时55分 ~ 17时37分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -131,6 +132,20 @@
           "time_info": "[06时26分 ~ 16时35分]"
         },
         {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 17时37分]"
+        },
+        {
           "title": "网友抵制AI演员",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -146,6 +161,44 @@
           "time_info": "[00时03分 ~ 07时27分]"
         },
         {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 17时37分]"
+        },
+        {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时37分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
+        },
+        {
           "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
           "url": "https://www.zhihu.com/question/2016065149123970133",
           "source": "知乎",
@@ -159,32 +212,28 @@
           "time_info": "[09时28分 ~ 15时43分]"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            13,
-            12,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 16时35分]"
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
           "ranks": [
-            20,
-            18,
-            16,
-            19
+            15,
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时17分 ~ 16时35分]"
+          "time_info": "[14时50分 ~ 17时37分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -198,27 +247,29 @@
           "time_info": "07时27分"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            3
+            20,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
         },
         {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            16,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -231,43 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时29分]"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时35分]"
-        },
-        {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
@@ -454,7 +468,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -517,7 +531,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -542,6 +556,19 @@
           "time_info": "[00时03分 ~ 09时28分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时17分 ~ 17时37分]"
+        },
+        {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
           "url": "https://www.zhihu.com/question/2017526267604385905",
           "source": "知乎",
@@ -554,19 +581,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 07时27分]"
-        },
-        {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 16时35分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -639,6 +653,28 @@
           "time_info": "[12时17分 ~ 15时43分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
           "url": "https://flash.jin10.com/detail/20260319032336369800",
           "source": "金十数据",
@@ -694,6 +730,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
+        },
+        {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
           "url": "https://wallstreetcn.com/livenews/3072608",
           "source": "华尔街见闻-快讯",
@@ -731,17 +778,6 @@
           "time_info": "[09时28分 ~ 13时54分]"
         },
         {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
-        },
-        {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -752,6 +788,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://wallstreetcn.com/livenews/3073117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时37分]"
         },
         {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
@@ -766,15 +814,26 @@
           "time_info": "[05时29分 ~ 06时27分]"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://wallstreetcn.com/livenews/3073117",
-          "source": "华尔街见闻-快讯",
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "美前反恐中心主任辞职后首发声：大量关键意见根本传不到特朗普耳边！",
+          "url": "https://flash.jin10.com/detail/20260319171537924800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "17时37分"
         },
         {
           "title": "油价分裂！阿曼冲到150，WTI还在100下挣扎，真怕了特朗普？",
@@ -816,7 +875,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -860,6 +919,19 @@
           "time_info": "[00时03分 ~ 07时27分]"
         },
         {
+          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
+          "url": "https://www.cls.cn/detail/2317812",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 17时37分]"
+        },
+        {
           "title": "今日重点关注的财经数据与事件：2026年3月19日 周四",
           "url": "https://flash.jin10.com/detail/20260319000000000800",
           "source": "金十数据",
@@ -870,19 +942,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 07时27分]"
-        },
-        {
-          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
-          "url": "https://www.cls.cn/detail/2317812",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时35分]"
         },
         {
           "title": "A股三大指数持续下挫，深成指跌超2%，沪指、创业板指均跌超1%。有色金属、化学化工板块跌幅居前，全市场近5000只个股下跌。",
@@ -1060,8 +1119,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克：Grok Imagine斩获三枚金牌",
+          "url": "https://www.toutiao.com/trending/7618830492535623178/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
         {
           "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3072590",
