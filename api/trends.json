@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:47:18.373613+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-20T14:45:19.893584+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 14时45分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时29分 ~ 13时47分]"
+          "appearance_count": 8,
+          "time_info": "[05时29分 ~ 14时45分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -109,9 +109,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -125,6 +125,18 @@
           "time_info": "00时51分"
         },
         {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时45分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3073529",
           "source": "华尔街见闻-快讯",
@@ -136,18 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
@@ -193,8 +193,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时45分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -218,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -346,17 +357,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "美国总统特朗普：与日本的讨论也涉及阿拉斯加的能源和石油。",
           "url": "https://flash.jin10.com/detail/20260320001609739800",
           "source": "金十数据",
@@ -399,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "高市见特朗普时逞强说英语",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%80%9E%E5%BC%BA%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国总统特朗普：将与日本就能源问题进行大量磋商。",
@@ -517,7 +528,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -551,11 +562,24 @@
             9,
             6,
             7,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 14时45分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时45分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -568,20 +592,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时47分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 14时45分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -595,18 +607,6 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "人民日报：请给AI起个中文名字",
-          "url": "https://www.toutiao.com/trending/7618806460609200137/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时47分]"
-        },
-        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -616,8 +616,35 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时45分]"
+        },
+        {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时45分]"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时47分]"
+          "time_info": "[07时24分 ~ 14时45分]"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -630,19 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时21分]"
-        },
-        {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时08分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -704,6 +718,18 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
+        },
+        {
           "title": "去世演员通过AI重返银幕",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E4%B8%96%E6%BC%94%E5%91%98%E9%80%9A%E8%BF%87AI%E9%87%8D%E8%BF%94%E9%93%B6%E5%B9%95%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -758,17 +784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
@@ -832,7 +847,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -851,7 +866,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
@@ -862,8 +877,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时45分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年3月20日",
@@ -888,17 +903,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3073787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
           "url": "https://wallstreetcn.com/articles/3767885",
           "source": "华尔街见闻",
@@ -907,8 +911,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时45分]"
+        },
+        {
+          "title": "A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3073787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年3月20日 周五",
+          "url": "https://flash.jin10.com/detail/20260320065000001800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 14时45分]"
+        },
+        {
+          "title": "A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3073785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
+        },
+        {
+          "title": "A股太空光伏概念持续走高，钧达股份封涨停，捷佳伟创触及20cm涨停，迈为股份、拉普拉斯、连城数控、晶科能源、奥特维均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3073782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
         },
         {
           "title": "A股第8只千元股",
@@ -923,17 +975,6 @@
           "time_info": "[12时08分 ~ 13时47分]"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年3月20日 周五",
-          "url": "https://flash.jin10.com/detail/20260320065000001800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "年内A股公司涉套期保值公告数量同比大增七成",
           "url": "https://wallstreetcn.com/livenews/3073619",
           "source": "华尔街见闻-快讯",
@@ -943,17 +984,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3073785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "年内公募机构豪掷近115亿元参与A股定增",
@@ -973,18 +1003,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "A股太空光伏概念持续走高，钧达股份封涨停，捷佳伟创触及20cm涨停，迈为股份、拉普拉斯、连城数控、晶科能源、奥特维均涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3073782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -995,7 +1014,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -1028,7 +1047,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -1053,6 +1072,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "A股工业金属板块午后震荡走弱，众源新材触及跌停，东阳光、豪美新材、宁波富邦、银邦股份、丽岛新材、天山铝业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260320134258889800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "A股化工股集体调整，潞化科技触及跌停，金牛化工、中泰化学、江苏索普、中毅达、兴化股份均跌超7%。",
@@ -1117,11 +1158,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E9%87%87%E8%B4%AD200%E4%BA%BF%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时45分]"
         },
         {
           "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
