@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T09:24:03.191320+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-03-20T12:08:46.975672+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -74,19 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
-        },
-        {
-          "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -99,8 +88,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时29分 ~ 09时24分]"
+          "appearance_count": 6,
+          "time_info": "[05时29分 ~ 12时08分]"
+        },
+        {
+          "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -163,6 +163,18 @@
           "time_info": "[00时51分 ~ 01时50分]"
         },
         {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时08分]"
+        },
+        {
           "title": "特朗普见高市早苗提偷袭珍珠港",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8F%90%E5%81%B7%E8%A2%AD%E7%8F%8D%E7%8F%A0%E6%B8%AF%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时29分]"
-        },
-        {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -299,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时30分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -461,7 +473,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -480,7 +492,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -504,11 +516,12 @@
             14,
             12,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -520,19 +533,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 12时08分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时08分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -546,6 +560,17 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3073578",
           "source": "华尔街见闻-快讯",
@@ -556,6 +581,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时21分]"
+        },
+        {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时08分]"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时08分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -571,28 +622,27 @@
           "time_info": "[02时45分 ~ 07时24分]"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
           "ranks": [
-            10,
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时24分]"
+          "time_info": "[09时23分 ~ 12时08分]"
         },
         {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
+          "title": "AI龙抬头赐我新发型",
+          "url": "https://www.douyin.com/hot/2436323",
+          "source": "抖音",
           "ranks": [
-            20,
-            18
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时24分]"
+          "time_info": "[09时23分 ~ 12时08分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -611,28 +661,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
-          "url": "https://www.zhihu.com/question/2017606912024207686",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "AI龙抬头赐我新发型",
-          "url": "https://www.douyin.com/hot/2436323",
-          "source": "抖音",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -756,7 +784,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -764,18 +792,19 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
           "url": "https://www.cls.cn/detail/2318943",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时08分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年3月20日",
@@ -804,11 +833,12 @@
           "url": "https://wallstreetcn.com/articles/3767885",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时08分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年3月20日 周五",
@@ -842,6 +872,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "A股抽水蓄能板块午盘前快速拉升，九洲集团再度触及涨停，广西能源封板涨停，长源电力涨超7%，禾望电气、赣能股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260320112630390800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股固态电池板块异动拉升，鹏辉能源、华宝新能涨超15%，派能科技、海科新源涨超12%，璞泰来、国晟科技封板涨停，海希通讯、亿纬锂能等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260320112346542800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股第8只千元股",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AC%AC8%E5%8F%AA%E5%8D%83%E5%85%83%E8%82%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股创业板指午盘前拉升涨超3%，深证成指涨1.41%，上证指数涨0.14%，BC电池、光刻机、CPO等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260320111800776800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股源杰科技封板涨停，现报1140元/股，成A股市场第二高价股。",
+          "url": "https://wallstreetcn.com/livenews/3073723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "A股化工股集体调整，潞化科技触及跌停，金牛化工、中泰化学、江苏索普、中毅达、兴化股份均跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3073708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
