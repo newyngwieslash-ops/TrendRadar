@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T03:33:59.229670+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-03-21T04:25:03.865395+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 31,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
-        },
-        {
-          "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3074307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时33分"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -48,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -60,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -71,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -82,8 +71,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -93,8 +82,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 04时25分]"
+        },
+        {
+          "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3074307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -109,15 +109,70 @@
           "time_info": "[00时35分 ~ 01时32分]"
         },
         {
+          "title": "美国总统特朗普谈及油价，再次宣称：我原本预计会更糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3074320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：北约应当在霍尔木兹海峡通航问题上帮助美国。",
+          "url": "https://wallstreetcn.com/livenews/3074318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普：我的支持率达到了前所未有的100%",
+          "url": "https://flash.jin10.com/detail/20260321035836986800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3074316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
           "url": "https://flash.jin10.com/detail/20260321031857561800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
+          "url": "https://flash.jin10.com/detail/20260321035243299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
@@ -131,15 +186,147 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
+          "url": "https://flash.jin10.com/detail/20260321035131760800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
+          "url": "https://flash.jin10.com/detail/20260321035102201800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：英国本应行动更快。",
+          "url": "https://flash.jin10.com/detail/20260321034915196800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
+          "url": "https://flash.jin10.com/detail/20260321034854944800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们有无限的弹药，还有很多部队。",
+          "url": "https://flash.jin10.com/detail/20260321034806359800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
+          "url": "https://flash.jin10.com/detail/20260321034743329800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
+          "url": "https://flash.jin10.com/detail/20260321034659408800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "据福克斯新闻：特朗普拒绝就有关哈尔克岛计划的报道发表评论。",
           "url": "https://flash.jin10.com/detail/20260321030452828800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）我目前不想停火。",
+          "url": "https://flash.jin10.com/detail/20260321034612314800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
+          "url": "https://flash.jin10.com/detail/20260321034511161800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
+          "url": "https://flash.jin10.com/detail/20260321034449616800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡在某个时刻会自行开放。",
+          "url": "https://flash.jin10.com/detail/20260321034432997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我觉得我们已经赢了。",
+          "url": "https://flash.jin10.com/detail/20260321034419152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
@@ -151,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及哈尔克岛）我可能有个计划，也可能没有。",
+          "url": "https://flash.jin10.com/detail/20260321034352119800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
@@ -166,8 +364,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -177,8 +375,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -188,8 +386,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -199,23 +397,12 @@
             11,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -225,11 +412,38 @@
             22,
             23,
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时25分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 04时25分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -256,18 +470,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 03时33分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时33分]"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
