@@ -1,233 +1,55 @@
 {
-  "generated_at": "2026-03-21T23:20:21.906511+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-03-22T00:21:38.038450+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时22分 ~ 23时20分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时35分 ~ 18时20分]"
-        },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
           "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时59分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
           "url": "https://wallstreetcn.com/articles/3768030",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            4,
-            2,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时21分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "美日领导人会晤，特朗普只想聊伊朗",
-          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 16时24分]"
-        },
-        {
-          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2320056",
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            6,
-            7,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时35分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
           "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            8,
-            6,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时59分 ~ 23时20分]"
-        },
-        {
-          "title": "向特朗普提问的日本记者，遭疯狂网暴",
-          "url": "https://news.ifeng.com/c/8retvRzJFC1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时31分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时18分]"
-        },
-        {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时59分 ~ 20时33分]"
-        },
-        {
-          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15,
-            10,
-            9,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 16时24分]"
-        },
-        {
-          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 11时59分]"
-        },
-        {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时18分 ~ 23时20分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时21分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -237,179 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 23时20分]"
-        },
-        {
-          "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
-          "url": "https://flash.jin10.com/detail/20260321041434327800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时25分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 23时20分]"
-        },
-        {
-          "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3074307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "伊朗官员誓言要给特朗普“一个教训”",
-          "url": "https://flash.jin10.com/detail/20260321211515397800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 23时20分]"
-        },
-        {
-          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
-          "url": "https://wallstreetcn.com/livenews/3074365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时18分]"
-        },
-        {
-          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
-          "url": "https://flash.jin10.com/detail/20260321211140614800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 23时20分]"
-        },
-        {
-          "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
-          "url": "https://wallstreetcn.com/livenews/3074360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时18分]"
-        },
-        {
-          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
-          "url": "https://flash.jin10.com/detail/20260321115027994800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普：我的支持率达到了前所未有的100%",
-          "url": "https://flash.jin10.com/detail/20260321035836986800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
-          "url": "https://flash.jin10.com/detail/20260321035243299800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
-          "url": "https://flash.jin10.com/detail/20260321035131760800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
-          "url": "https://flash.jin10.com/detail/20260321035102201800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：英国本应行动更快。",
-          "url": "https://flash.jin10.com/detail/20260321034915196800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
-          "url": "https://flash.jin10.com/detail/20260321034854944800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时23分]"
+          "time_info": "00时21分"
         },
         {
           "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
@@ -419,838 +70,147 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
-          "url": "https://wallstreetcn.com/livenews/3074371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 11时59分]"
-        },
-        {
-          "title": "特朗普肖像将登美建国250周年纪念币",
-          "url": "https://www.toutiao.com/trending/7619105580468158510/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "默茨说特朗普对他不太满意",
-          "url": "https://wallstreetcn.com/livenews/3074426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
-        },
-        {
-          "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
-          "url": "https://wallstreetcn.com/livenews/3074342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "默茨说特朗普对他不太满意",
-          "url": "https://flash.jin10.com/detail/20260321154534112800",
+          "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
+          "url": "https://flash.jin10.com/detail/20260321233624665800",
           "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
-          "url": "https://wallstreetcn.com/livenews/3074255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时32分]"
-        },
-        {
-          "title": "美国总统特朗普谈及油价，再次宣称：我原本预计会更糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3074320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时25分]"
-        },
-        {
-          "title": "消息人士称，特朗普政府正制定方案以夺取伊朗核材料储备",
-          "url": "https://flash.jin10.com/detail/20260321102549793800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时08分]"
-        },
-        {
-          "title": "美国总统特朗普：北约应当在霍尔木兹海峡通航问题上帮助美国。",
-          "url": "https://wallstreetcn.com/livenews/3074318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时25分]"
-        },
-        {
-          "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
-          "url": "https://wallstreetcn.com/livenews/3074338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我们不需要霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3074316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时25分]"
-        },
-        {
-          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3074368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时18分]"
-        },
-        {
-          "title": "【特朗普：当美国想结束与伊朗冲突时，以色列也会同步】美国总统特朗普表示，他认为，当美国想结束与伊朗的冲突时，以色列也准备好结束这场冲突。当被问及一旦美国完成军事行动，以色列是否准备结束对伊朗的战争时，特朗普回答说，“我认为是这样”。谈及英国的协助，特朗普称，英国反应迟缓，他们本应行动更快。当地时间20日，英国政府授权美国使用英国境内的军事基地，“对伊朗用于袭击霍尔木兹海峡船只的导弹设施实施打击”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3074333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我们有无限的弹药，还有很多部队。",
-          "url": "https://flash.jin10.com/detail/20260321034806359800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时25分]"
-        },
-        {
-          "title": "“谁是主子，谁是奴才？”特朗普借“珍珠港”给高市早苗上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "00时21分"
         },
         {
-          "title": "消息人士：特朗普的“和平委员会”已向哈马斯发出解除武装方案",
-          "url": "https://flash.jin10.com/detail/20260321175438969800",
-          "source": "金十数据",
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "00时21分"
         },
         {
-          "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
-          "url": "https://flash.jin10.com/detail/20260321031857561800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "特朗普：如果现在停战，伊朗重建将需要10年",
-          "url": "https://wallstreetcn.com/livenews/3074250",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "视频丨美防长声称全世界都应对特朗普说声“谢谢”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800200",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
-          "url": "https://flash.jin10.com/detail/20260321034743329800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
-          "url": "https://flash.jin10.com/detail/20260321060704097800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
-          "url": "https://flash.jin10.com/detail/20260321034659408800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普拒绝就有关哈尔克岛计划的报道发表评论。",
-          "url": "https://flash.jin10.com/detail/20260321030452828800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及伊朗）我目前不想停火。",
-          "url": "https://flash.jin10.com/detail/20260321034612314800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
-          "url": "https://flash.jin10.com/detail/20260321034511161800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
-          "url": "https://flash.jin10.com/detail/20260321034449616800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-21）",
-          "url": "https://flash.jin10.com/detail/20260321181811112800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "美国总统特朗普：霍尔木兹海峡在某个时刻会自行开放。",
-          "url": "https://flash.jin10.com/detail/20260321034432997800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：我觉得我们已经赢了。",
-          "url": "https://flash.jin10.com/detail/20260321034419152800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
-          "url": "https://wallstreetcn.com/livenews/3074231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及哈尔克岛）我可能有个计划，也可能没有。",
-          "url": "https://flash.jin10.com/detail/20260321034352119800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普称没有美国北约是“纸老虎”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E5%8C%97%E7%BA%A6%E6%98%AF%E2%80%9C%E7%BA%B8%E8%80%81%E8%99%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 6,
       "titles": [
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            4,
-            3
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            8,
-            9,
-            10,
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时35分 ~ 23时20分]"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            11,
-            9,
-            10,
-            12,
-            13,
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时34分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            13,
-            14,
-            15,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时35分 ~ 23时20分]"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23,
-            18,
-            14,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时18分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时18分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            25,
-            21,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时38分 ~ 07时23分]"
-        },
-        {
-          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
-          "url": "https://www.zhihu.com/question/2017644548151616976",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时24分]"
-        },
-        {
-          "title": "我用AI盲猜周杰伦新歌",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
-        },
-        {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            13,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时20分]"
-        },
-        {
-          "title": "博主用AI手搓应用1个多月赚近九千",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "抵制没用 AI演员已经杀进影视圈",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 16时24分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9,
-            11,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
-          "url": "https://flash.jin10.com/detail/20260321200202568800",
-          "source": "金十数据",
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            5,
-            20,
-            30
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时21分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
-          "url": "https://flash.jin10.com/detail/20260321155755350800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时26分]"
-        },
-        {
-          "title": "季冠霖发文抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时20分]"
-        },
-        {
-          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
-          "url": "https://www.zhihu.com/question/2017816580403246847",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 16时24分]"
-        },
-        {
-          "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3074276",
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            18,
-            27
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 03时33分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://wallstreetcn.com/livenews/3074461",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            17,
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 23时20分]"
-        },
-        {
-          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3074352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
-          "url": "https://flash.jin10.com/detail/20260321201526714800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
-        },
-        {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://flash.jin10.com/detail/20260321183027923800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "库克称不要惧怕要拥抱AI",
-          "url": "https://flash.jin10.com/detail/20260321192052787800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
-          "url": "https://wallstreetcn.com/livenews/3074229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "“罕见”！马斯克败诉",
           "url": "https://www.cls.cn/detail/2320283",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 23时20分]"
-        },
-        {
-          "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3074385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            20,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 15时29分]"
-        },
-        {
-          "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
-          "url": "https://wallstreetcn.com/livenews/3074361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时18分]"
-        },
-        {
-          "title": "马斯克：企业版Grok Voice现已推出。",
-          "url": "https://flash.jin10.com/detail/20260321191236896800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时33分]"
-        },
-        {
-          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
-          "url": "https://flash.jin10.com/detail/20260321154514979800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时26分]"
-        },
-        {
-          "title": "在美国政府拨款僵局持续期间，埃隆·马斯克提出由他来支付运输安全管理局 (TSA) 人员的工资。",
-          "url": "https://flash.jin10.com/detail/20260321193405686800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2320337",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 23时20分]"
-        },
-        {
-          "title": "本周A股行情分化 下周走势会如何",
-          "url": "https://www.toutiao.com/trending/7619074426105217065/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社评",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新华社评以色列所谓“定点清除”",
-          "url": "https://www.toutiao.com/trending/7619504886610968626/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
