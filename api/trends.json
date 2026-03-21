@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T19:18:09.475198+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-03-21T20:33:44.203864+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 20时33分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 20时33分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时21分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[06时21分 ~ 20时33分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -105,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 20时33分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -116,11 +116,12 @@
             12,
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 20时33分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -154,8 +155,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 20时33分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -202,8 +203,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 20时33分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -362,6 +363,17 @@
           "time_info": "[04时25分 ~ 07时23分]"
         },
         {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时33分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
           "url": "https://wallstreetcn.com/livenews/3074371",
           "source": "华尔街见闻-快讯",
@@ -409,17 +421,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时18分]"
-        },
-        {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
@@ -692,7 +693,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -755,7 +756,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -780,28 +781,12 @@
             9,
             10,
             11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 19时18分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
             13,
-            14,
-            15,
-            16,
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 20时33分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -819,6 +804,24 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时35分 ~ 14时34分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            13,
+            14,
+            15,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 20时33分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -892,17 +895,6 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -928,6 +920,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时34分 ~ 16时24分]"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时33分]"
         },
         {
           "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
@@ -979,15 +1005,37 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://flash.jin10.com/detail/20260321183027923800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "库克称不要惧怕要拥抱AI",
+          "url": "https://flash.jin10.com/detail/20260321192052787800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
@@ -1004,19 +1052,8 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "马斯克：企业版Grok Voice现已推出。",
-          "url": "https://flash.jin10.com/detail/20260321191236896800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
         {
           "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3074385",
@@ -1046,6 +1083,30 @@
           "time_info": "[06时21分 ~ 09时18分]"
         },
         {
+          "title": "马斯克：企业版Grok Voice现已推出。",
+          "url": "https://flash.jin10.com/detail/20260321191236896800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时33分]"
+        },
+        {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时33分]"
+        },
+        {
           "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
           "url": "https://flash.jin10.com/detail/20260321154514979800",
           "source": "金十数据",
@@ -1058,15 +1119,15 @@
           "time_info": "[16时24分 ~ 17时26分]"
         },
         {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
+          "title": "在美国政府拨款僵局持续期间，埃隆·马斯克提出由他来支付运输安全管理局 (TSA) 人员的工资。",
+          "url": "https://flash.jin10.com/detail/20260321193405686800",
+          "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
@@ -1074,6 +1135,19 @@
       "keyword_group": "财经 A股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时33分]"
+        },
         {
           "title": "本周A股行情分化 下周走势会如何",
           "url": "https://www.toutiao.com/trending/7619074426105217065/",
@@ -1085,19 +1159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 13时08分]"
-        },
-        {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 19时18分]"
         }
       ]
     },
