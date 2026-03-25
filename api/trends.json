@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:37:39.256169+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-03-25T20:52:39.127739+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 20时52分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -140,11 +140,12 @@
             7,
             17,
             21,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 20时52分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -155,11 +156,12 @@
             19,
             22,
             20,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 20时52分]"
         },
         {
           "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
@@ -224,6 +226,19 @@
           "time_info": "16时41分"
         },
         {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 20时52分]"
+        },
+        {
           "title": "OpenAI为何关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%B8%BA%E4%BD%95%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -257,16 +272,17 @@
           "time_info": "01时03分"
         },
         {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
           "source": "知乎",
           "ranks": [
-            17,
-            16
+            20,
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时52分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -328,18 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时03分]"
-        },
-        {
-          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
-          "url": "https://www.zhihu.com/question/2010673619001419372",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -829,7 +833,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -841,8 +845,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 20时52分]"
         },
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -971,8 +975,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 20时52分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -984,6 +988,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 01时03分]"
+        },
+        {
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时52分]"
         },
         {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
@@ -1092,17 +1110,28 @@
           "time_info": "[15时52分 ~ 19时37分]"
         },
         {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6,
-            5
+            20,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 20时52分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时52分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -1129,29 +1158,6 @@
           "time_info": "[06时23分 ~ 07时26分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时37分]"
-        },
-        {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
           "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
           "source": "凤凰网",
@@ -1159,8 +1165,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时52分]"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时52分]"
         },
         {
           "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
@@ -1172,18 +1191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
         },
         {
           "title": "特朗普称伊朗同意永不拥有核武器",
@@ -1236,7 +1243,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1261,6 +1268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2020199361380905442",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -1552,7 +1570,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
@@ -1626,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "A股大涨 外资建议高配中国资产",
+          "url": "https://www.toutiao.com/trending/7620340500297793586/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "A股市场反弹，抄底资金增持宽基ETF",
