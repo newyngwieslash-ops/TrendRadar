@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-26T07:28:46.622915+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-03-26T09:46:12.138902+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时28分]"
-        },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
           "url": "https://news.ifeng.com/c/8rn48A91Yd2",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时46分]"
+        },
+        {
+          "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -41,15 +41,17 @@
           "time_info": "[00时03分 ~ 05时32分]"
         },
         {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            14,
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时46分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -58,19 +60,19 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时46分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -86,8 +88,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[05时32分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -102,23 +115,35 @@
           "time_info": "[03时55分 ~ 04时32分]"
         },
         {
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 09时46分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
           "url": "https://flash.jin10.com/detail/20260326060757337800",
           "source": "金十数据",
           "ranks": [
             9,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时28分]"
-        },
-        {
-          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
-          "url": "https://wallstreetcn.com/articles/3768337",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -149,6 +174,17 @@
           "time_info": "[03时55分 ~ 04时32分]"
         },
         {
+          "title": "沙特王储私下拱火建议美军出动地面部队？特朗普：我们在并肩作战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32826880",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "特朗普把48小时最后通牒咽了回去",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A48%E5%B0%8F%E6%97%B6%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E5%92%BD%E4%BA%86%E5%9B%9E%E5%8E%BB%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -177,7 +213,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -237,6 +273,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "美元指数日内基本涨跌持平。据华尔街日报，特朗普近日告诉助手，他认为伊朗战争处于最后阶段。",
+          "url": "https://wallstreetcn.com/livenews/3077000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "伊朗说不允许特朗普决定停战时间",
           "url": "https://wallstreetcn.com/livenews/3076778",
           "source": "华尔街见闻-快讯",
@@ -246,12 +293,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "特朗普坚称在谈判，称伊朗不敢认",
+          "url": "https://wallstreetcn.com/livenews/3076987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -265,8 +323,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时46分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -279,8 +337,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时46分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -291,11 +349,12 @@
             18,
             14,
             20,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时53分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[02时53分 ~ 09时46分]"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -323,6 +382,18 @@
           "time_info": "[01时52分 ~ 02时53分]"
         },
         {
+          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
+          "url": "https://www.zhihu.com/question/2020204147274642238",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 09时46分]"
+        },
+        {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
           "url": "https://flash.jin10.com/detail/20260326044901012800",
           "source": "金十数据",
@@ -333,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时40分]"
+        },
+        {
+          "title": "华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.toutiao.com/trending/7620277693901586442/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
@@ -369,17 +451,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
-          "url": "https://www.zhihu.com/question/2020204147274642238",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
           "title": "OpenAI推出安全漏洞赏金计划。",
           "url": "https://wallstreetcn.com/livenews/3076838",
           "source": "华尔街见闻-快讯",
@@ -408,7 +479,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -422,6 +493,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股化工板块盘初拉升，渤海化学两连板，齐翔腾达、石大胜华、卫星化学、国恩股份、肯特催化跟涨。",
+          "url": "https://flash.jin10.com/detail/20260326093618284800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股石油加工贸易板块盘初上涨回暖，渤海化学涨超8%，润贝航科涨超4%，齐翔腾达、大庆华科、茂化实华等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260326093225254800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年3月26日",
+          "url": "https://flash.jin10.com/detail/20260326071054784800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "券商密集发声：支撑A股中长期向好的核心根基未发生动摇",
+          "url": "https://wallstreetcn.com/livenews/3076947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "A股大飞机板块竞价高开，中超控股、天保基建、再升科技高开涨停，赛象科技、四创电子、派克新材、航天环宇、西测测试跟涨。",
+          "url": "https://flash.jin10.com/detail/20260326092851953800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股体育产业板块延续强势，舒华体育高开涨超7.5%，中体产业、米奥会展等高开超4%，ST联合、比音勒芬、流金科技、三人行等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260326092823045800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年3月26日 周四",
+          "url": "https://flash.jin10.com/detail/20260326065000001800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "A股开盘，上证指数跌0.17%，深证成指跌0.32%，创业板指跌0.54%。",
+          "url": "https://flash.jin10.com/detail/20260326092518582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "范式智能启动A股上市辅导",
+          "url": "https://wallstreetcn.com/livenews/3077010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
@@ -452,6 +628,18 @@
           "time_info": "01时52分"
         },
         {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时46分]"
+        },
+        {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
           "url": "https://flash.jin10.com/detail/20260326022229112800",
           "source": "金十数据",
@@ -474,17 +662,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
           "url": "https://wallstreetcn.com/livenews/3076836",
           "source": "华尔街见闻-快讯",
@@ -505,45 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十数据全球财经早餐 | 2026年3月26日",
-          "url": "https://flash.jin10.com/detail/20260326071054784800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "券商密集发声：支撑A股中长期向好的核心根基未发生动摇",
-          "url": "https://wallstreetcn.com/livenews/3076947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年3月26日 周四",
-          "url": "https://flash.jin10.com/detail/20260326065000001800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         }
       ]
     },
