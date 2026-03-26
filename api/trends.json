@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T02:57:00.838600+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-03-27T03:53:47.121950+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -39,8 +39,46 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
+          "url": "https://www.cls.cn/detail/2325824",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -54,41 +92,39 @@
           "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
+          "url": "https://www.zhihu.com/question/2020434705586102279",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2020523519075710358",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            7,
-            6
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
-        },
-        {
-          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
-          "url": "https://www.cls.cn/detail/2325824",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
-        },
-        {
-          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
-          "url": "https://wallstreetcn.com/articles/3768442",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "美国总统特朗普：正与伊朗进行非常实质性的谈判，我会宣布新的谈判“最后期限”。",
@@ -100,40 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
-          "url": "https://www.zhihu.com/question/2020434705586102279",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
-        },
-        {
-          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2020523519075710358",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
-        },
-        {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
         },
         {
           "title": "美国总统特朗普：法官和最高法院大法官正在伤害我们。最高法院还伤害了我们的国家。",
@@ -214,6 +216,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
           "title": "特朗普回避地面夺铀方案 打趣称“明天三点行动”",
           "url": "https://flash.jin10.com/detail/20260326234040249800",
           "source": "金十数据",
@@ -247,6 +260,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "据华尔街日报：消息人士称，美国参议院共和党人正推动特朗普宣布国家紧急状态，以支付美国运输安全管理局工作人员的薪酬。",
+          "url": "https://flash.jin10.com/detail/20260327031254534800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3077645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
           "title": "美国总统特朗普：正在努力解决乌克兰与俄罗斯的问题。",
           "url": "https://flash.jin10.com/detail/20260326234003767800",
           "source": "金十数据",
@@ -275,7 +310,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -327,7 +362,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -337,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -347,11 +382,12 @@
           "ranks": [
             14,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -359,11 +395,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
+        },
+        {
+          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3077656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
+          "url": "https://flash.jin10.com/detail/20260327032315760800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
@@ -372,7 +431,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -401,8 +460,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -421,11 +480,12 @@
           "url": "https://wallstreetcn.com/livenews/3077637",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时53分]"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -449,11 +509,12 @@
           "url": "https://wallstreetcn.com/livenews/3077640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时53分]"
         },
         {
           "title": "据华尔街日报：埃隆·马斯克旗下X公司在SpaceX上市前进行重组。消息人士称，X公司解雇首席营销官及20多名职责重叠的非技术人员。",
@@ -462,7 +523,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -481,8 +542,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时53分]"
         }
       ]
     }
