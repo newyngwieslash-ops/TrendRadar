@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:37:41.046887+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-03-27T20:46:16.407882+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -42,8 +42,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时46分]"
+        },
+        {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时46分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -58,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时53分 ~ 19时37分]"
+          "appearance_count": 20,
+          "time_info": "[03时53分 ~ 20时46分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -75,21 +90,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时06分 ~ 15时56分]"
-        },
-        {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时37分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -131,6 +131,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时25分 ~ 15时56分]"
+        },
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时46分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -179,19 +192,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时06分 ~ 09时46分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时37分]"
         },
         {
           "title": "美元纸币将印上特朗普签名",
@@ -306,6 +306,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 20时46分]"
         },
         {
           "title": "打破165年传统 美钞将印特朗普签名",
@@ -426,18 +438,6 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时37分]"
-        },
-        {
           "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
           "url": "https://www.cls.cn/detail/2326367",
           "source": "财联社热门",
@@ -513,7 +513,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -560,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "不讲武德！特朗普偏爱“休市”时搞大动作，这周末又要“收割”了？",
+          "url": "https://flash.jin10.com/detail/20260327202039334800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "特朗普：控制伊朗石油是一个选项",
@@ -964,6 +975,32 @@
           "time_info": "[00时06分 ~ 07时26分]"
         },
         {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 20时46分]"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 20时46分]"
+        },
+        {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
           "url": "https://www.cls.cn/detail/2326528",
           "source": "财联社热门",
@@ -1005,32 +1042,6 @@
           "time_info": "[00时06分 ~ 09时46分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时09分 ~ 19时37分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时37分]"
-        },
-        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
@@ -1046,6 +1057,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时29分 ~ 19时37分]"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 20时46分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -1089,21 +1112,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时37分]"
         },
         {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
@@ -1515,6 +1526,39 @@
           "time_info": "[00时06分 ~ 05时26分]"
         },
         {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            2,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时46分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            20,
+            13,
+            17,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时46分]"
+        },
+        {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
@@ -1527,37 +1571,6 @@
           "time_info": "[00时06分 ~ 07时26分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            2,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时37分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            20,
-            13,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时37分]"
-        },
-        {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -1568,8 +1581,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[15时56分 ~ 20时46分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
