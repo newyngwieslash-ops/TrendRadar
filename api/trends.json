@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:31:41.284465+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-03-28T18:25:29.966540+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时25分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -39,11 +39,12 @@
             13,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时25分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[01时44分 ~ 18时25分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -105,8 +106,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时31分]"
+          "time_info": "[13时53分 ~ 18时25分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -120,17 +134,15 @@
           "time_info": "[00时45分 ~ 04时31分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时25分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -146,15 +158,16 @@
           "time_info": "[05时28分 ~ 13时53分]"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 18时25分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -173,18 +186,6 @@
           "time_info": "[12时13分 ~ 17时31分]"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
           "url": "https://wallstreetcn.com/livenews/3078529",
           "source": "华尔街见闻-快讯",
@@ -199,6 +200,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时13分 ~ 17时31分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 18时25分]"
         },
         {
           "title": "特朗普称霍尔木兹为特朗普海峡",
@@ -289,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 17时31分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -751,8 +752,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -767,8 +768,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时25分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -833,11 +834,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 18时25分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 18时25分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -852,18 +866,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 03时38分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 17时31分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -934,11 +936,12 @@
             12,
             17,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -956,8 +959,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -974,8 +977,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时25分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -993,11 +996,12 @@
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时25分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -1075,6 +1079,34 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2327820",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "A股年报分红潮 百亿级派现频出",
+          "url": "https://flash.jin10.com/detail/20260328083924419800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "舆论",
       "match_count": 1,
       "titles": [
@@ -1089,23 +1121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时13分 ~ 15时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股年报分红潮 百亿级派现频出",
-          "url": "https://flash.jin10.com/detail/20260328083924419800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         }
       ]
     }
