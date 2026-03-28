@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:27:02.751602+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-28T23:25:27.762207+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时13分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时25分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时13分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时25分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 22时27分]"
+          "appearance_count": 10,
+          "time_info": "[17时30分 ~ 23时25分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时53分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 23时25分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -97,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时50分 ~ 22时27分]"
+          "appearance_count": 14,
+          "time_info": "[14时50分 ~ 23时25分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -125,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时44分 ~ 22时27分]"
+          "appearance_count": 27,
+          "time_info": "[01时44分 ~ 23时25分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -237,6 +237,20 @@
           "time_info": "[12时13分 ~ 17时31分]"
         },
         {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时25分]"
+        },
+        {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
           "url": "https://flash.jin10.com/detail/20260328032202123800",
           "source": "金十数据",
@@ -309,19 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时27分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -578,6 +579,18 @@
           "time_info": "[00时45分 ~ 01时44分]"
         },
         {
+          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
+          "url": "https://wallstreetcn.com/livenews/3078609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "美国总统特朗普谈伊朗：他们正在（与我们）谈判。",
           "url": "https://flash.jin10.com/detail/20260328054245418800",
           "source": "金十数据",
@@ -656,17 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
-          "url": "https://wallstreetcn.com/livenews/3078609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -782,7 +784,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -810,8 +812,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -829,8 +831,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时25分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -843,8 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时53分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[13时53分 ~ 23时25分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -869,8 +871,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时41分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[15时41分 ~ 23时25分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -933,16 +935,28 @@
           "time_info": "[00时45分 ~ 03时38分]"
         },
         {
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时25分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -1029,8 +1043,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1047,11 +1061,12 @@
             20,
             24,
             27,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1070,8 +1085,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时45分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时45分 ~ 23时25分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -1219,8 +1234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 23时25分]"
         },
         {
           "title": "A股年报分红潮 百亿级派现频出",
