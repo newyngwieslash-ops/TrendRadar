@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T07:25:19.158393+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-03-29T09:48:20.382819+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             4,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -28,11 +29,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -43,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -55,8 +57,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -67,8 +69,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -156,7 +158,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -166,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -175,11 +177,25 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -189,8 +205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -200,18 +216,6 @@
             7,
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -271,8 +275,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 09时48分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
+          "url": "https://www.zhihu.com/question/2021274346899943516",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -288,11 +314,12 @@
             17,
             15,
             18,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -304,11 +331,12 @@
             22,
             26,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -353,11 +381,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时48分]"
         }
       ]
     }
