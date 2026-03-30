@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T21:02:28.576382+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-30T22:58:06.217868+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 22时58分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -57,19 +70,6 @@
           "time_info": "[00时27分 ~ 16时19分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 21时02分]"
-        },
-        {
           "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
           "url": "https://www.cls.cn/detail/2328604",
           "source": "财联社热门",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时40分 ~ 21时02分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 22时58分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -133,17 +144,6 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时02分]"
-        },
-        {
           "title": "特朗普说中东冲突或很快停止，外交部回应",
           "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
           "source": "凤凰网",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
+          "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
@@ -168,6 +179,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时50分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时58分]"
         },
         {
           "title": "美民主党议员抨击特朗普：为打压油价上涨编造谈判谎言",
@@ -218,6 +241,17 @@
           "time_info": "[09时50分 ~ 12时40分]"
         },
         {
+          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
+          "url": "https://wallstreetcn.com/articles/3768769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "美抗议人群组成特朗普须下台巨型标语",
           "url": "https://www.toutiao.com/trending/7622494680384815123/",
           "source": "今日头条",
@@ -241,15 +275,15 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
+          "title": "鲍威尔：美国联邦公开市场委员会（FOMC）将实现2%通胀目标。 并没有迹象表明美联储过去的债券购买行动引发通胀。 （总统特朗普挑起的）关税对通胀造成一次性影响。 美联储的那些工具对供应冲击并没有实质性的影响。 通胀将在一段时期内错过目标。 通胀预期仍然得到很好的锚定。",
+          "url": "https://wallstreetcn.com/livenews/3079473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普：不排除占领伊朗石油枢纽哈尔克岛",
@@ -261,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren谴责劳工部的退休方案。 （特朗普政府的这份）提案让退休账户对“那些具有风险的资产”存在风险敞口。",
+          "url": "https://wallstreetcn.com/livenews/3079467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国即将收网？特朗普为何敢预言古巴垮台？丨Hi，今天怎么看？",
@@ -468,7 +513,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -534,7 +579,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -575,7 +620,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -599,11 +644,12 @@
             9,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 21时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 22时58分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -633,8 +679,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 21时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 22时58分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -762,6 +808,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "Shanghai Foursemi Semiconductor将香港IPO股票发行价定在每股40港元。",
+          "url": "https://wallstreetcn.com/livenews/3079462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "假装上班公司有人靠AI年入四五十万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%E5%85%AC%E5%8F%B8%E6%9C%89%E4%BA%BA%E9%9D%A0AI%E5%B9%B4%E5%85%A5%E5%9B%9B%E4%BA%94%E5%8D%81%E4%B8%87%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -794,11 +851,12 @@
           "url": "https://news.ifeng.com/c/8ruED34F9fY",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 22时58分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",
