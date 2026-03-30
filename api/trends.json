@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T05:36:35.738337+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-31T06:28:42.163489+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -88,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://wallstreetcn.com/livenews/3079584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         },
         {
           "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -135,6 +124,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时52分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://wallstreetcn.com/livenews/3079584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时28分]"
         },
         {
           "title": "美抗议人群组成特朗普须下台巨型标语",
@@ -207,17 +219,6 @@
           "time_info": "[01时47分 ~ 02时52分]"
         },
         {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
           "title": "美国白宫：特朗普将在周三主持复活节午餐活动。",
           "url": "https://flash.jin10.com/detail/20260331012727333800",
           "source": "金十数据",
@@ -238,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国正在主导军事行动以重新开放霍尔木兹海峡；特朗普目前的优先事项是伊朗的浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260331052900277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "美国白宫：总统特朗普希望在4月6日截止日期之前达成协议。",
@@ -301,8 +313,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -313,8 +325,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时28分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -329,6 +341,17 @@
           "time_info": "[02时51分 ~ 04时38分]"
         },
         {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时28分]"
+        },
+        {
           "title": "文科生能吃到什么 ai 红利？",
           "url": "https://www.zhihu.com/question/2016910965501871946",
           "source": "知乎",
@@ -341,15 +364,16 @@
           "time_info": "[03时51分 ~ 05时36分]"
         },
         {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
+          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
+          "url": "https://wallstreetcn.com/livenews/3079576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "time_info": "[05时36分 ~ 06时28分]"
         },
         {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
@@ -358,18 +382,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
-          "url": "https://wallstreetcn.com/livenews/3079576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
@@ -401,6 +414,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
+          "url": "https://wallstreetcn.com/livenews/3079594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     }
