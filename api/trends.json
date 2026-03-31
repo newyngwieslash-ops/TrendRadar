@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T16:05:03.608429+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-31T17:58:48.199573+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 16时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 17时58分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -60,6 +60,18 @@
           "time_info": "[00时03分 ~ 07时29分]"
         },
         {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时58分]"
+        },
+        {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -71,16 +83,16 @@
           "time_info": "[02时51分 ~ 04时38分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            4
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时05分]"
+          "appearance_count": 9,
+          "time_info": "[05时36分 ~ 17时58分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -95,16 +107,17 @@
           "time_info": "[12时44分 ~ 16时05分]"
         },
         {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时36分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时58分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -116,18 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -212,6 +213,19 @@
           "time_info": "14时13分"
         },
         {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时58分]"
+        },
+        {
           "title": "特朗普再就停火威胁伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%B0%B1%E5%81%9C%E7%81%AB%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -223,17 +237,27 @@
           "time_info": "09时47分"
         },
         {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            11,
-            12
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时05分]"
+          "time_info": "[12时44分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时58分]"
         },
         {
           "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
@@ -295,39 +319,17 @@
           "time_info": "[05时36分 ~ 06时28分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
-        },
-        {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 16时05分]"
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 17时58分]"
         },
         {
           "title": "美抗议人群组成特朗普须下台巨型标语",
@@ -409,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 14时13分]"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美国白宫：特朗普将在周三主持复活节午餐活动。",
@@ -524,8 +537,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时58分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
@@ -555,29 +580,18 @@
           "time_info": "[00时03分 ~ 14时13分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
-        },
-        {
           "title": "凌晨3点上班,AI卷疯打工人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             2,
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时58分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -606,6 +620,30 @@
           "time_info": "[09时47分 ~ 16时05分]"
         },
         {
+          "title": "B站AI创作产品“updream”已开启内测",
+          "url": "https://wallstreetcn.com/livenews/3080055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 17时58分]"
+        },
+        {
           "title": "AI 会让年轻人的机会变多还是变少？",
           "url": "https://www.zhihu.com/question/2016930184062789503",
           "source": "知乎",
@@ -628,18 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 12时44分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 16时05分]"
         },
         {
           "title": "AI演员 拼尸块",
@@ -739,7 +765,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -769,7 +795,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股房地产板块走高，三湘印象涨停，世荣兆业、光明地产、中国武夷、信达地产跟涨。",
@@ -781,6 +807,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时58分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年3月31日",
@@ -803,19 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时05分]"
         },
         {
           "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
@@ -850,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年3月31日 周二",
@@ -927,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "A股3月收官 主要指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7622943793746100265/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "A股电力股局部回暖，深南电A午后涨停，闽东电力此前封板，华电能源涨超8%，廊坊发展、华电辽能涨幅居前。",
