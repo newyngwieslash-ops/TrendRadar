@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:45:45.856335+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-04-01T21:02:34.626502+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -54,6 +54,18 @@
           "time_info": "[00时02分 ~ 06时28分]"
         },
         {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://wallstreetcn.com/articles/3768886",
           "source": "华尔街见闻",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时02分 ~ 19时45分]"
-        },
-        {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 19时45分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -179,17 +179,6 @@
           "time_info": "[00时02分 ~ 07时29分]"
         },
         {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时33分]"
-        },
-        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
           "url": "https://wallstreetcn.com/articles/3768931",
           "source": "华尔街见闻",
@@ -200,8 +189,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "特朗普希望4月6日前与伊朗签协议",
@@ -215,6 +215,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时23分 ~ 06时28分]"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时02分]"
         },
         {
           "title": "战争烂尾，特朗普要跑了",
@@ -297,17 +308,6 @@
           "time_info": "[00时02分 ~ 19时45分]"
         },
         {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
           "url": "https://flash.jin10.com/detail/20260401055745078800",
           "source": "金十数据",
@@ -328,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "获美国总统特朗普之子支持的无人机公司正游说阿联酋达成武器交易。",
+          "url": "https://flash.jin10.com/detail/20260401204109725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
@@ -458,6 +469,18 @@
           "time_info": "[12时43分 ~ 14时24分]"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时02分]"
+        },
+        {
           "title": "据路透/益普索民调：美国总统特朗普所属共和党人中，四成认为美国应尽快结束对伊战争，即便目标未达成亦如此。",
           "url": "https://flash.jin10.com/detail/20260401050120968800",
           "source": "金十数据",
@@ -494,16 +517,16 @@
           "time_info": "[03时23分 ~ 03时52分]"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "time_info": "[19时45分 ~ 21时02分]"
         },
         {
           "title": "白宫称特朗普将就伊朗问题发表讲话",
@@ -660,6 +683,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国总统特朗普：认为没有人能够从法律上挑战关于邮寄投票的行政命令。",
           "url": "https://flash.jin10.com/detail/20260401054311574800",
           "source": "金十数据",
@@ -710,9 +744,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
@@ -726,17 +771,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
           "url": "https://flash.jin10.com/detail/20260401062411940800",
           "source": "金十数据",
@@ -746,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普称将出席美最高法院“出生公民权”听证会口头辩论",
+          "url": "https://wallstreetcn.com/livenews/3080901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普称伊朗战争将很快结束 霍尔木兹海峡会“自动开放”",
@@ -809,7 +854,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -962,11 +1007,12 @@
             18,
             20,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 19时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时02分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -1070,6 +1116,18 @@
           "time_info": "[16时12分 ~ 19时45分]"
         },
         {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时02分]"
+        },
+        {
           "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
           "url": "https://www.cls.cn/detail/2331293",
           "source": "财联社热门",
@@ -1082,16 +1140,16 @@
           "time_info": "[12时43分 ~ 14时24分]"
         },
         {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            24
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时45分]"
+          "time_info": "[19时45分 ~ 21时02分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -1155,18 +1213,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1210,7 +1257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1221,7 +1268,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1276,7 +1323,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -1349,11 +1396,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时12分 ~ 19时45分]"
+          "appearance_count": 5,
+          "time_info": "[16时12分 ~ 21时02分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月1日 周三",
@@ -1550,8 +1598,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 21时02分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -1573,11 +1621,24 @@
           "ranks": [
             5,
             4,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时12分 ~ 19时45分]"
+          "appearance_count": 5,
+          "time_info": "[16时12分 ~ 21时02分]"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时02分]"
         },
         {
           "title": "UP主让Claude Code进行自修复",
@@ -1589,17 +1650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         }
       ]
     },
