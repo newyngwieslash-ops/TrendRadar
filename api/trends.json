@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:43:28.075358+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2026-04-03T23:35:34.929979+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 22时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 23时35分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -72,20 +72,6 @@
           "ranks": [
             5,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 09时46分]"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            9
           ],
           "is_new": false,
           "appearance_count": 15,
@@ -103,8 +89,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时58分 ~ 22时43分]"
+          "appearance_count": 10,
+          "time_info": "[15时58分 ~ 23时35分]"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时46分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -133,6 +133,20 @@
           "time_info": "[09时45分 ~ 18时37分]"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普讲话后金银直线跳水",
           "url": "https://www.douyin.com/hot/2452230",
           "source": "抖音",
@@ -157,20 +171,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时58分 ~ 22时43分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时43分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -234,15 +234,15 @@
           "time_info": "[16时53分 ~ 20时45分]"
         },
         {
-          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
-          "url": "https://wallstreetcn.com/livenews/3082255",
-          "source": "华尔街见闻-快讯",
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -267,15 +267,15 @@
           "time_info": "20时45分"
         },
         {
-          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
-          "url": "https://flash.jin10.com/detail/20260403223158627800",
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普：针对欺诈的“突袭”在洛杉矶“已经开始”。 万斯现在也是“反欺诈沙皇”。",
@@ -326,6 +326,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时26分]"
+        },
+        {
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
         },
         {
           "title": "特朗普夸耀的“战绩”被美情报部门“打脸”",
@@ -400,6 +412,18 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
+          "url": "https://flash.jin10.com/detail/20260403223158627800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
+        },
+        {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3081729",
           "source": "华尔街见闻-快讯",
@@ -424,6 +448,29 @@
           "time_info": "[02时45分 ~ 07时29分]"
         },
         {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
+        },
+        {
+          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
+          "url": "https://flash.jin10.com/detail/20260403223119763800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
+        },
+        {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
           "url": "https://flash.jin10.com/detail/20260403035841206800",
           "source": "金十数据",
@@ -436,15 +483,28 @@
           "time_info": "[04时29分 ~ 05时31分]"
         },
         {
-          "title": "特朗普又又又临阵退缩了？",
-          "url": "https://news.ifeng.com/c/8s1rQuxF293",
-          "source": "凤凰网",
+          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
+          "url": "https://flash.jin10.com/detail/20260403223004160800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时43分]"
+          "time_info": "[22时43分 ~ 23时35分]"
+        },
+        {
+          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
+          "url": "https://flash.jin10.com/detail/20260403222420452800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
         },
         {
           "title": "白宫紧急下架特朗普讲话视频",
@@ -459,6 +519,18 @@
           "time_info": "[14时08分 ~ 15时58分]"
         },
         {
+          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
+          "url": "https://flash.jin10.com/detail/20260403222116107800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
+        },
+        {
           "title": "美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计划相同。 特朗普预算申请175亿美元用于“金穹顶”项目资金。",
           "url": "https://wallstreetcn.com/livenews/3082218",
           "source": "华尔街见闻-快讯",
@@ -469,6 +541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时59分 ~ 22时43分]"
+        },
+        {
+          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
+          "url": "https://flash.jin10.com/detail/20260403221809438800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时35分]"
         },
         {
           "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
@@ -517,17 +601,6 @@
           "time_info": "20时45分"
         },
         {
-          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
-          "url": "https://flash.jin10.com/detail/20260403223119763800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-03）",
           "url": "https://flash.jin10.com/detail/20260403181214807800",
           "source": "金十数据",
@@ -550,15 +623,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
-          "url": "https://flash.jin10.com/detail/20260403223004160800",
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元",
@@ -567,7 +640,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -594,15 +667,15 @@
           "time_info": "21时59分"
         },
         {
-          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
-          "url": "https://flash.jin10.com/detail/20260403222420452800",
+          "title": "特朗普预算案预计2027财年实际GDP增长3.1%。",
+          "url": "https://flash.jin10.com/detail/20260403223852087800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时35分"
         },
         {
           "title": "白宫：特朗普2027财年预算案寻求1.5万亿美元国防支出",
@@ -638,6 +711,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "特朗普的预算案拟为美国农业部提供208亿美元的自由裁量预算授权，较2026财年水平减少49亿美元，降幅达19%。",
+          "url": "https://flash.jin10.com/detail/20260403223623930800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "“战至美以后悔”！伊朗军方发言人嘲讽美军毫无斗志、特朗普谎话连篇",
           "url": "https://flash.jin10.com/detail/20260403173224225800",
           "source": "金十数据",
@@ -660,15 +744,15 @@
           "time_info": "12时25分"
         },
         {
-          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
-          "url": "https://flash.jin10.com/detail/20260403222116107800",
-          "source": "金十数据",
+          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
+          "url": "https://wallstreetcn.com/livenews/3082250",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时35分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -702,17 +786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
-        },
-        {
-          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
-          "url": "https://flash.jin10.com/detail/20260403221809438800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
         },
         {
           "title": "特朗普再提打开霍尔木兹海峡“抢石油”",
@@ -776,7 +849,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -867,6 +940,229 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 12时25分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            16,
+            19,
+            20,
+            21,
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时50分 ~ 23时35分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时58分 ~ 19时33分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
+        },
+        {
+          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
+          "url": "https://wallstreetcn.com/livenews/3081838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时44分]"
+        },
+        {
+          "title": "市场消息：OpenAI收购TBPN。",
+          "url": "https://flash.jin10.com/detail/20260403012712890800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时45分]"
+        },
+        {
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时44分]"
+        },
+        {
+          "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
+          "url": "https://wallstreetcn.com/livenews/3081809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "智元将于4月7日开启 “智元AI发布周”",
+          "url": "https://wallstreetcn.com/livenews/3081936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
+          "url": "https://wallstreetcn.com/livenews/3081768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "新AI技术让无人机照样知道自己在哪里",
+          "url": "https://www.toutiao.com/trending/7624502363428323391/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "AI短剧“偷脸” 《桃花簪》全面下架",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%81%B7%E8%84%B8%E2%80%9D+%E3%80%8A%E6%A1%83%E8%8A%B1%E7%B0%AA%E3%80%8B%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "40岁男子AI成瘾无法接受版本更新",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3081922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
@@ -1071,205 +1367,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 12时25分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            16,
-            19,
-            20,
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时50分 ~ 22时43分]"
-        },
-        {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 19时33分]"
-        },
-        {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时43分]"
-        },
-        {
-          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
-          "url": "https://wallstreetcn.com/livenews/3081838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时44分]"
-        },
-        {
-          "title": "市场消息：OpenAI收购TBPN。",
-          "url": "https://flash.jin10.com/detail/20260403012712890800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时45分]"
-        },
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时44分]"
-        },
-        {
-          "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3081740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时44分]"
-        },
-        {
-          "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
-          "url": "https://wallstreetcn.com/livenews/3081809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "智元将于4月7日开启 “智元AI发布周”",
-          "url": "https://wallstreetcn.com/livenews/3081936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-          "url": "https://flash.jin10.com/detail/20260403014329436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
-          "url": "https://wallstreetcn.com/livenews/3081768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "AI短剧“偷脸” 《桃花簪》全面下架",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%81%B7%E8%84%B8%E2%80%9D+%E3%80%8A%E6%A1%83%E8%8A%B1%E7%B0%AA%E3%80%8B%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
-          "url": "https://wallstreetcn.com/livenews/3081922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3081859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -1283,11 +1380,12 @@
             4,
             16,
             19,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时58分 ~ 22时43分]"
+          "appearance_count": 10,
+          "time_info": "[15时58分 ~ 23时35分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
