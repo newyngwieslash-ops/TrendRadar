@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T20:45:47.892692+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-04-03T21:59:35.009971+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 21时59分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -92,6 +92,20 @@
           "time_info": "[00时50分 ~ 09时46分]"
         },
         {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 21时59分]"
+        },
+        {
           "title": "伊朗强硬回应特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -105,20 +119,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时50分 ~ 07时29分]"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 20时45分]"
         },
         {
           "title": "密友出车祸被捕，特朗普紧急出面护短",
@@ -195,6 +195,20 @@
           "time_info": "[15时58分 ~ 20时45分]"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时59分]"
+        },
+        {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
           "url": "https://www.cls.cn/detail/2334086",
           "source": "财联社热门",
@@ -206,20 +220,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 15时58分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 20时45分]"
         },
         {
           "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
@@ -250,7 +250,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -261,7 +261,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -466,7 +466,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -499,9 +499,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：特朗普的预算请求在财政上负责任的。",
+          "url": "https://flash.jin10.com/detail/20260403214119681800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "白宫：特朗普2027财年预算案寻求1.5万亿美元国防支出",
@@ -510,9 +521,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
@@ -570,6 +592,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计划相同。 特朗普预算申请175亿美元用于“金穹顶”项目资金。",
+          "url": "https://wallstreetcn.com/livenews/3082218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "美国白宫：根据总统特朗普修订后的232条款金属关税，某些金属密集型工业和电网设备将征收15%的关税。",
           "url": "https://flash.jin10.com/detail/20260403034839754800",
           "source": "金十数据",
@@ -590,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "特朗普再提打开霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/livenews/3082198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
@@ -642,7 +686,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -691,6 +735,17 @@
           "time_info": "12时25分"
         },
         {
+          "title": "美媒：特朗普对两部长不满 正考虑进一步调整内阁",
+          "url": "https://wallstreetcn.com/livenews/3082199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
           "url": "https://wallstreetcn.com/livenews/3081722",
           "source": "华尔街见闻-快讯",
@@ -708,7 +763,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -916,7 +971,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -946,8 +1001,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时50分 ~ 20时45分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 21时59分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -961,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时58分 ~ 19时33分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -1114,11 +1180,12 @@
             10,
             4,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 21时59分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
