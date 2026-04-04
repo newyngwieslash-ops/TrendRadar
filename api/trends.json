@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T09:27:13.411843+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-04-04T12:11:37.387752+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -15,11 +15,12 @@
             20,
             19,
             11,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时37分 ~ 09时27分]"
+          "appearance_count": 10,
+          "time_info": "[02时37分 ~ 12时11分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -78,8 +79,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时34分 ~ 09时27分]"
+          "appearance_count": 8,
+          "time_info": "[03时34分 ~ 12时11分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -294,6 +295,28 @@
           "time_info": "[00时33分 ~ 01时28分]"
         },
         {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
+          "url": "https://flash.jin10.com/detail/20260404110124771800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -363,11 +386,28 @@
             3,
             4,
             8,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时11分]"
+        },
+        {
+          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            10,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时34分 ~ 12时11分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -392,26 +432,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时27分]"
-        },
-        {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            10,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时34分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时11分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -494,11 +520,12 @@
             18,
             15,
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时11分]"
         }
       ]
     },
@@ -511,11 +538,12 @@
           "url": "https://www.cls.cn/detail/2335221",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 12时11分]"
         }
       ]
     }
