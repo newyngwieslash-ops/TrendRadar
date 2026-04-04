@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T12:11:37.387752+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-04-04T13:53:01.651259+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 12时11分]"
+          "appearance_count": 12,
+          "time_info": "[02时37分 ~ 13时53分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -134,6 +134,17 @@
           "time_info": "[02时38分 ~ 05时26分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -224,6 +235,17 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
           "url": "https://flash.jin10.com/detail/20260404060440038800",
           "source": "金十数据",
@@ -283,6 +305,18 @@
           "time_info": "[04时29分 ~ 05时26分]"
         },
         {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时53分]"
+        },
+        {
           "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
           "url": "https://wallstreetcn.com/livenews/3082267",
           "source": "华尔街见闻-快讯",
@@ -295,26 +329,27 @@
           "time_info": "[00时33分 ~ 01时28分]"
         },
         {
-          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
-          "url": "https://flash.jin10.com/detail/20260404110623924800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
           "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
           "url": "https://flash.jin10.com/detail/20260404110124771800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260404123540502800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "13时53分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -375,7 +410,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -406,8 +441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时34分 ~ 12时11分]"
+          "appearance_count": 10,
+          "time_info": "[03时34分 ~ 13时53分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -433,11 +468,23 @@
           "ranks": [
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时53分]"
+        },
+        {
+          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
+          "url": "https://flash.jin10.com/detail/20260404125453767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -451,6 +498,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 05时26分]"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
@@ -524,8 +582,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时53分]"
         }
       ]
     },
@@ -542,8 +600,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时53分]"
         }
       ]
     }
