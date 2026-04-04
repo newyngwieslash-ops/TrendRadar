@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T14:52:31.536169+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-04-04T15:44:34.929483+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时37分 ~ 14时52分]"
+          "appearance_count": 14,
+          "time_info": "[02时37分 ~ 15时44分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -192,11 +192,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时44分]"
+        },
+        {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时44分]"
         },
         {
           "title": "特朗普：美军机被击落不会影响与伊朗谈判",
@@ -223,17 +235,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时28分]"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时52分]"
         },
         {
           "title": "特朗普称美战机被击落不会影响与伊朗谈判",
@@ -443,8 +444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时34分 ~ 14时52分]"
+          "appearance_count": 12,
+          "time_info": "[03时34分 ~ 15时44分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -471,11 +472,12 @@
             25,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 14时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 15时44分]"
         },
         {
           "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
@@ -488,6 +490,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时52分]"
+        },
+        {
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时44分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -508,22 +522,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时52分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时44分]"
         },
         {
           "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
@@ -581,6 +585,35 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时44分]"
+        },
+        {
+          "title": "本周A股涨幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7624078545644650532/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -598,26 +631,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 14时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2335221",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 15时44分]"
         }
       ]
     }
