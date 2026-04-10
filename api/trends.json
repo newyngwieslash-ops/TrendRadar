@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T05:31:52.335398+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-04-11T06:29:52.376979+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时42分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时31分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -153,9 +153,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
@@ -235,6 +246,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
           "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
           "url": "https://flash.jin10.com/detail/20260411020406517800",
           "source": "金十数据",
@@ -281,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -291,9 +313,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时29分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -302,11 +324,12 @@
           "ranks": [
             17,
             18,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 06时29分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -388,7 +411,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -418,8 +441,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "A股一周20大熊股出炉",
