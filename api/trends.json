@@ -1,136 +1,33 @@
 {
-  "generated_at": "2026-04-11T23:27:33.007102+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-04-12T00:29:01.202081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 11,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时15分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
           "url": "https://www.cls.cn/detail/2341151",
           "source": "财联社热门",
           "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时30分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时46分]"
-        },
-        {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时15分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 09时31分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时35分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时35分 ~ 23时27分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 09时31分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时34分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时42分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -139,132 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
-          "url": "https://flash.jin10.com/detail/20260411013302688800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反口污蔑：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
-          "url": "https://wallstreetcn.com/livenews/3086048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
-          "url": "https://wallstreetcn.com/livenews/3086245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
-          "url": "https://flash.jin10.com/detail/20260411090528957800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
-          "url": "https://flash.jin10.com/detail/20260411003436336800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时42分]"
-        },
-        {
-          "title": "特朗普：伊朗没有底牌",
-          "url": "https://wallstreetcn.com/livenews/3086027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时42分]"
-        },
-        {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
-          "url": "https://flash.jin10.com/detail/20260411003033068800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时42分]"
-        },
-        {
-          "title": "特朗普：美国绝不接受化肥行业的价格欺诈",
-          "url": "https://flash.jin10.com/detail/20260411210841996800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -274,613 +48,113 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时27分]"
-        },
-        {
-          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
-          "url": "https://flash.jin10.com/detail/20260411210744513800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
-          "url": "https://wallstreetcn.com/livenews/3086237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
-          "url": "https://flash.jin10.com/detail/20260411210428309800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 13时56分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
-          "url": "https://flash.jin10.com/detail/20260411210112404800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
-          "url": "https://wallstreetcn.com/livenews/3086234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
-          "url": "https://flash.jin10.com/detail/20260411210041803800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普称美方开始清理霍尔木兹海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E6%96%B9%E5%BC%80%E5%A7%8B%E6%B8%85%E7%90%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时27分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时42分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
-          "url": "https://flash.jin10.com/detail/20260411182741167800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时40分]"
-        },
-        {
-          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
-          "url": "https://flash.jin10.com/detail/20260411214044894800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普向欧洲下了最后通牒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E4%BA%86%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普：大量完全空载的油轮，其中一些是全球最大的，目前正前往美国装载石油（以及天然气！）。",
-          "url": "https://wallstreetcn.com/livenews/3086220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时51分]"
-        },
-        {
-          "title": "特朗普在通话后改口",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%80%9A%E8%AF%9D%E5%90%8E%E6%94%B9%E5%8F%A3%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3086110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
-          "url": "https://wallstreetcn.com/livenews/3086029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时42分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
-          "url": "https://flash.jin10.com/detail/20260411002832276800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
-          "url": "https://flash.jin10.com/detail/20260411193245673800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "美国总统特朗普：美国准备提振匈牙利经济。",
-          "url": "https://wallstreetcn.com/livenews/3086095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：数量庞大的、完全空载的油轮，其中一些是全球最大的油轮正驶往美国，（准备）装载全世界最好的石油（和天然气）！",
-          "url": "https://flash.jin10.com/detail/20260411193219972800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086016",
-          "source": "华尔街见闻-快讯",
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
-          "url": "https://flash.jin10.com/detail/20260410234303682800",
-          "source": "金十数据",
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "报道：特朗普准备在没能与伊朗达成协议的情况下采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3086012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "特朗普：若伊朗在谈判中不配合 我们已做好军事准备",
-          "url": "https://flash.jin10.com/detail/20260410233909999800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "据福克斯新闻：白宫官员表示，特朗普对与伊朗达成协议持乐观态度。",
-          "url": "https://flash.jin10.com/detail/20260410233644908800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
-          "url": "https://flash.jin10.com/detail/20260411004405756800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
-          "url": "https://wallstreetcn.com/livenews/3086031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
-          "url": "https://flash.jin10.com/detail/20260411020406517800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
-          "url": "https://flash.jin10.com/detail/20260410233248888800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%86%8D%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD+%E8%8B%B1%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E5%8F%97%E5%A4%9F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            23
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "特朗普再次发文抨击媒体",
+          "url": "https://flash.jin10.com/detail/20260411232157423800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时27分"
+          "time_info": "00时29分"
         },
         {
-          "title": "美国参议员敦促CFTC调查特朗普发布伊朗新闻前的石油交易",
-          "url": "https://wallstreetcn.com/livenews/3086031",
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://wallstreetcn.com/livenews/3086245",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
+          "url": "https://wallstreetcn.com/livenews/3086237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3086234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时35分]"
-        },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            7,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时56分 ~ 23时27分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22,
-            16,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时45分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
           "url": "https://wallstreetcn.com/articles/3769738",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 23时27分]"
-        },
-        {
-          "title": "夫妻称用AI写公众号年赚200万被封号",
-          "url": "https://www.toutiao.com/trending/7626953352832040996/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18,
-            6,
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 07时35分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 21时51分]"
-        },
-        {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 09时31分]"
-        },
-        {
-          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
-          "url": "https://flash.jin10.com/detail/20260411142532640800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 17时34分]"
-        },
-        {
-          "title": "中国AI芯片格局反转",
-          "url": "https://www.toutiao.com/trending/7627057914037289014/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时38分 ~ 07时35分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时15分]"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时39分]"
-        },
-        {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时28分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时31分]"
-        },
-        {
-          "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
-          "url": "https://wallstreetcn.com/livenews/3086064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时28分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时46分]"
-        },
-        {
-          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
-          "url": "https://flash.jin10.com/detail/20260411141004111800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时35分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -890,216 +164,47 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260411124514356800",
-          "source": "金十数据",
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
           "ranks": [
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时46分]"
-        },
-        {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时40分]"
-        },
-        {
-          "title": "普京：俄须自主研发有竞争力的AI模型",
-          "url": "https://www.toutiao.com/trending/7627072537363677227/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时34分]"
-        },
-        {
-          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
-          "url": "https://flash.jin10.com/detail/20260411094848579800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
-          "url": "https://flash.jin10.com/detail/20260411094803513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
-          "url": "https://flash.jin10.com/detail/20260411094510379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "AI被投毒引发宝妈湿巾焦虑",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A2%AB%E6%8A%95%E6%AF%92%E5%BC%95%E5%8F%91%E5%AE%9D%E5%A6%88%E6%B9%BF%E5%B7%BE%E7%84%A6%E8%99%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "AI短片《雪山救狐狸》爆火背后",
-          "url": "https://www.toutiao.com/trending/7627304476291940362/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
-          "url": "https://wallstreetcn.com/livenews/3086083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260410233017921800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
-          "url": "https://www.cls.cn/detail/2341254",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 23时27分]"
-        },
-        {
-          "title": "A股交易规则为何要进行重大调整",
-          "url": "https://www.toutiao.com/trending/7627093467767770670/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 09时31分]"
-        },
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "A股一周20大熊股出炉",
-          "url": "https://www.toutiao.com/trending/7626182227219005459/",
-          "source": "今日头条",
+          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
+          "url": "https://www.cls.cn/detail/2341254",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时28分]"
-        },
-        {
-          "title": "A股本周收出大阳线",
-          "url": "https://www.toutiao.com/trending/7626521772200263690/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            25
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时25分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     }
