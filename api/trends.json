@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T01:29:26.181931+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-13T02:38:03.886661+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -38,8 +38,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
+          "url": "https://flash.jin10.com/detail/20260413020447925800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
+          "url": "https://flash.jin10.com/detail/20260413020223685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769776",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -50,20 +96,60 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
-          "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769776",
-          "source": "华尔街见闻",
+          "title": "特朗普：不允许伊朗通过出售石油赚钱",
+          "url": "https://wallstreetcn.com/livenews/3086458",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            6,
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
+          "url": "https://wallstreetcn.com/livenews/3086462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
+          "url": "https://wallstreetcn.com/livenews/3086448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普：最高法院在关税问题上对我“并不友好”。",
+          "url": "https://wallstreetcn.com/livenews/3086447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时38分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
@@ -78,60 +164,12 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "特朗普：不允许伊朗通过出售石油赚钱",
-          "url": "https://wallstreetcn.com/livenews/3086458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
-        },
-        {
-          "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
-          "url": "https://wallstreetcn.com/livenews/3086462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
-        },
-        {
-          "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
-          "url": "https://wallstreetcn.com/livenews/3086448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
-        },
-        {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
           "url": "https://flash.jin10.com/detail/20260412231823385800",
           "source": "金十数据",
           "ranks": [
             15,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
-        },
-        {
-          "title": "美国总统特朗普：最高法院在关税问题上对我“并不友好”。",
-          "url": "https://wallstreetcn.com/livenews/3086447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -265,7 +303,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视曝光AI“造黄”产业链",
@@ -275,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -286,19 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -306,11 +333,24 @@
           "source": "微博",
           "ranks": [
             29,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -321,8 +361,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "多款AI应用存在涉黄生成漏洞",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BEAI%E5%BA%94%E7%94%A8%E5%AD%98%E5%9C%A8%E6%B6%89%E9%BB%84%E7%94%9F%E6%88%90%E6%BC%8F%E6%B4%9E",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 02时38分]"
         }
       ]
     },
@@ -338,20 +389,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年4月13日 周一",
-          "url": "https://flash.jin10.com/detail/20260413000000000800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -361,8 +400,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年4月13日 周一",
+          "url": "https://flash.jin10.com/detail/20260413000000000800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "time_info": "[00时32分 ~ 02时38分]"
         }
       ]
     },
@@ -376,11 +428,12 @@
           "source": "微博",
           "ranks": [
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时38分]"
         }
       ]
     }
