@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T12:43:10.947973+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-04-12T14:21:39.129196+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时21分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时21分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -68,6 +68,17 @@
           "time_info": "[00时28分 ~ 09时54分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时21分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -90,15 +101,15 @@
           "time_info": "[00时28分 ~ 05时26分]"
         },
         {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -138,6 +149,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -205,17 +227,6 @@
           "time_info": "[05时26分 ~ 07时27分]"
         },
         {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
           "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
           "url": "https://wallstreetcn.com/articles/3769745",
           "source": "华尔街见闻",
@@ -225,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
+          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时21分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -239,15 +262,37 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
-          "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
-          "url": "https://flash.jin10.com/detail/20260412111803956800",
+          "title": "美伊谈判结束后 特朗普再提欧洲",
+          "url": "https://flash.jin10.com/detail/20260412125636392800",
           "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普转发威胁伊朗的报道链接",
+          "url": "https://flash.jin10.com/detail/20260412123247854800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
+          "url": "https://flash.jin10.com/detail/20260412122206149800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -286,7 +331,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -308,11 +353,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时21分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -361,22 +407,24 @@
           "source": "知乎",
           "ranks": [
             20,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时21分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时21分]"
         },
         {
           "title": "法律角度解析AI炼化真人",
@@ -390,6 +438,17 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
           "url": "https://www.zhihu.com/question/2002055091918697271",
           "source": "知乎",
@@ -399,6 +458,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克的“西方微信”要上线了",
+          "url": "https://flash.jin10.com/detail/20260412134153811800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+          "url": "https://wallstreetcn.com/livenews/3086308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 14时21分]"
         }
       ]
     },
@@ -415,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时21分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -427,26 +516,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
-          "url": "https://wallstreetcn.com/livenews/3086308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时21分]"
         }
       ]
     },
