@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T05:27:59.595614+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-13T06:27:12.760773+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -48,11 +49,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -63,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -73,11 +75,23 @@
           "ranks": [
             4,
             8,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时38分 ~ 06时27分]"
+        },
+        {
+          "title": "谈判破裂后，特朗普考虑对伊朗进行有限打击。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
@@ -335,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -346,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -359,11 +373,12 @@
             10,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -374,8 +389,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -384,11 +399,25 @@
           "ranks": [
             27,
             30,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 06时27分]"
+        },
+        {
+          "title": "AI 会有情绪吗？",
+          "url": "https://www.zhihu.com/question/583568899",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时34分 ~ 06时27分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -402,36 +431,24 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时37分 ~ 04时28分]"
-        },
-        {
-          "title": "AI 会有情绪吗？",
-          "url": "https://www.zhihu.com/question/583568899",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时34分 ~ 05时27分]"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
           "url": "https://www.cls.cn/detail/2341275",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -441,8 +458,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月13日 周一",
@@ -456,6 +473,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2341569",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 06时27分]"
         }
       ]
     },
@@ -472,11 +500,12 @@
             7,
             16,
             20,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时27分]"
         }
       ]
     }
