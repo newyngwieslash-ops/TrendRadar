@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T21:09:44.135894+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-04-14T23:08:50.646618+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 23时08分]"
+        },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[04时45分 ~ 16时24分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 21时09分]"
         },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -160,6 +160,21 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 23时08分]"
+        },
+        {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
@@ -200,19 +215,17 @@
           "time_info": "[00时57分 ~ 06时38分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            11,
-            16,
-            13,
-            17,
-            23
+            14,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时41分 ~ 21时09分]"
+          "time_info": "[14时28分 ~ 23时08分]"
         },
         {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
@@ -252,19 +265,6 @@
           "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 21时09分]"
-        },
-        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -282,7 +282,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -320,6 +320,17 @@
           "time_info": "[09时54分 ~ 16时24分]"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 23时08分]"
+        },
+        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
@@ -342,17 +353,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时28分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 21时09分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -567,6 +567,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "巴西总统卢拉：不担心美国总统特朗普可能试图干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260414224413755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
           "url": "https://wallstreetcn.com/articles/3769807",
           "source": "华尔街见闻",
@@ -600,6 +611,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话，我们讨论了西亚的局势。",
+          "url": "https://flash.jin10.com/detail/20260414224207207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "特朗普再次呼吁英国开放北海石油钻探",
+          "url": "https://flash.jin10.com/detail/20260414224134330800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "一些矿业公司对美国总统特朗普的战略性关键矿产储备计划“金库计划”（Project Vault）表示担忧，警告称这可能会扭曲大宗商品市场，并造成“巨大的过剩”。",
           "url": "https://flash.jin10.com/detail/20260414120850356800",
           "source": "金十数据",
@@ -620,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话。 讨论了西亚局势。",
+          "url": "https://wallstreetcn.com/livenews/3087822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普再次威胁古巴",
@@ -732,6 +776,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "美国总统特朗普谈及英国与北海石油。 再次要求英国开放北海石油的钻探。 “英国拒绝开放北海石油开发。” 继续批评风电场。",
+          "url": "https://wallstreetcn.com/livenews/3087813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -776,6 +831,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "印度总理莫迪与美国总统特朗普通电话。（PTI）",
+          "url": "https://wallstreetcn.com/livenews/3087805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普称或对古巴采取行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%A4%E5%B7%B4%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -801,7 +867,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -829,11 +895,12 @@
             19,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 21时09分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 23时08分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -847,11 +914,27 @@
             20,
             22,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 21时09分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 23时08分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 23时08分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -889,20 +972,6 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 21时09分]"
-        },
-        {
           "title": "AI突袭短剧 “霸总爹”失业",
           "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
           "source": "百度热搜",
@@ -915,6 +984,20 @@
           "time_info": "[16时23分 ~ 18时10分]"
         },
         {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 23时08分]"
+        },
+        {
           "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
           "url": "https://wallstreetcn.com/livenews/3087702",
           "source": "华尔街见闻-快讯",
@@ -925,19 +1008,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 21时09分]"
-        },
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 21时09分]"
         },
         {
           "title": "被央视曝光的涉黄AI软件致歉",
@@ -963,6 +1033,17 @@
           "time_info": "19时54分"
         },
         {
+          "title": "中国经济信息社联合九家AIC机构发起“耐心资本引活水 生态共建育新质”倡议",
+          "url": "https://wallstreetcn.com/livenews/3087833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
           "url": "https://wallstreetcn.com/livenews/3087118",
           "source": "华尔街见闻-快讯",
@@ -983,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
@@ -1007,6 +1099,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "甲骨文处于连续第二个交易日上涨之中，Bloom Energy涨20%，双方此前达成AI数据中心供电协议。",
+          "url": "https://wallstreetcn.com/livenews/3087828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
           "url": "https://wallstreetcn.com/livenews/3087209",
           "source": "华尔街见闻-快讯",
@@ -1027,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "第二届AIC股权投资研讨会聚焦耐心资本",
+          "url": "https://wallstreetcn.com/livenews/3087824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
@@ -1106,6 +1220,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "英国央行货币政策委员会（MPC）成员Greene：AI可能会通过生产力提振潜在增速。",
+          "url": "https://wallstreetcn.com/livenews/3087808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "快看漫画将研发多款AI应用，涉及AI角色互动等",
           "url": "https://wallstreetcn.com/livenews/3087378",
           "source": "华尔街见闻-快讯",
@@ -1120,7 +1245,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
@@ -1281,6 +1406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股尾盘急拉是变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7628583142877564479/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "A股房地产板块午后走高，南山控股、北辰实业涨停，香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
