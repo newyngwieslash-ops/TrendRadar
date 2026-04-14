@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T09:54:21.447130+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-04-14T12:41:44.996764+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -41,8 +41,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时45分 ~ 12时41分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -85,18 +97,6 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时45分 ~ 09时54分]"
-        },
-        {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
           "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
@@ -105,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -188,13 +188,24 @@
           "time_info": "[03时08分 ~ 07时37分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -221,17 +232,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
@@ -251,8 +251,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 12时41分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -327,6 +327,17 @@
           "time_info": "[00时57分 ~ 01时57分]"
         },
         {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -337,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
@@ -386,6 +409,18 @@
           "time_info": "[05时49分 ~ 06时38分]"
         },
         {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
           "url": "https://wallstreetcn.com/livenews/3087099",
           "source": "华尔街见闻-快讯",
@@ -428,18 +463,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -466,17 +490,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "特朗普再次批教皇 拒绝就此前表态道歉",
           "url": "https://flash.jin10.com/detail/20260414011952450800",
           "source": "金十数据",
@@ -499,6 +512,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "一些矿业公司对美国总统特朗普的战略性关键矿产储备计划“金库计划”（Project Vault）表示担忧，警告称这可能会扭曲大宗商品市场，并造成“巨大的过剩”。",
+          "url": "https://flash.jin10.com/detail/20260414120850356800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "特朗普抨击纽约时报是假新闻。",
           "url": "https://flash.jin10.com/detail/20260414045620948800",
           "source": "金十数据",
@@ -508,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "特朗普再次威胁古巴",
@@ -637,7 +661,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -681,172 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
-          "url": "https://www.cls.cn/detail/2342669",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
-        },
-        {
-          "title": "A股拟全面适用盘后固定价交易",
-          "url": "https://www.toutiao.com/trending/7628223480814636586/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414094704341800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
-          "url": "https://wallstreetcn.com/livenews/3087187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3087302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向",
-          "url": "https://wallstreetcn.com/livenews/3087185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年4月14日 周二",
-          "url": "https://flash.jin10.com/detail/20260414000000001800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "宁德时代(03750.HK)H股跌5.5%，现报645港元/股；宁德时代A股跌近3%。",
-          "url": "https://flash.jin10.com/detail/20260414093858458800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股电池产业链反复活跃，石大胜华触及涨停，圣阳股份涨超5%，海科新源、丰元股份、恩捷股份纷纷上扬。",
-          "url": "https://flash.jin10.com/detail/20260414093634485800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "中东地缘冲突反复，“基金买手”增配A股",
-          "url": "https://wallstreetcn.com/livenews/3087181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年4月14日",
-          "url": "https://flash.jin10.com/detail/20260414065337226800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "A股云计算板块盘初拉升，鸿博股份、盈峰环境涨停，协创数据、金山办公、证通电子、滴普科技、宏景科技涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260414093321458800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股有色金属板块高开，腾远钴业开涨近14%，寒锐钴业、中色股份、洛阳钼业、紫金矿业纷纷跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414092754849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股培育钻石板块高开，博云新材涨停，惠丰钻石涨超10%，沃尔德、*ST亚振、黄河旋风纷纷高开。",
-          "url": "https://flash.jin10.com/detail/20260414092613177800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -854,20 +713,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
-        },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
@@ -875,11 +722,25 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时41分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -887,11 +748,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -918,6 +780,17 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
           "url": "https://wallstreetcn.com/livenews/3087118",
           "source": "华尔街见闻-快讯",
@@ -940,6 +813,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
           "url": "https://wallstreetcn.com/livenews/3087209",
           "source": "华尔街见闻-快讯",
@@ -949,6 +833,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
+          "url": "https://www.zhihu.com/question/2024505845799556342",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "OpenAI投资者质疑其8520亿美元估值，称其战略正在转变。一些OpenAI投资者表示，这些变化可能会使OpenAI容易受到Anthropic和谷歌的威胁。",
+          "url": "https://flash.jin10.com/detail/20260414120312885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "Claude：正调查Claude.AI出现的一个问题。",
@@ -993,12 +899,199 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "快看漫画将研发多款AI应用，涉及AI角色互动等",
+          "url": "https://wallstreetcn.com/livenews/3087378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
+          "url": "https://www.cls.cn/detail/2342669",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时54分]"
+        },
+        {
+          "title": "A股拟全面适用盘后固定价交易",
+          "url": "https://www.toutiao.com/trending/7628223480814636586/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时37分]"
+        },
+        {
+          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414094704341800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
+          "url": "https://wallstreetcn.com/livenews/3087187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3087302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "机构研判二季度：A股存在结构性机会，聚焦三大核心投资方向",
+          "url": "https://wallstreetcn.com/livenews/3087185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年4月14日 周二",
+          "url": "https://flash.jin10.com/detail/20260414000000001800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 07时37分]"
+        },
+        {
+          "title": "宁德时代(03750.HK)H股跌5.5%，现报645港元/股；宁德时代A股跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260414093858458800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股电池产业链反复活跃，石大胜华触及涨停，圣阳股份涨超5%，海科新源、丰元股份、恩捷股份纷纷上扬。",
+          "url": "https://flash.jin10.com/detail/20260414093634485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "中东地缘冲突反复，“基金买手”增配A股",
+          "url": "https://wallstreetcn.com/livenews/3087181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年4月14日",
+          "url": "https://flash.jin10.com/detail/20260414065337226800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "A股云计算板块盘初拉升，鸿博股份、盈峰环境涨停，协创数据、金山办公、证通电子、滴普科技、宏景科技涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260414093321458800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股有色金属板块高开，腾远钴业开涨近14%，寒锐钴业、中色股份、洛阳钼业、紫金矿业纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414092754849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股半导体设备股震荡拉升，金海通封涨停，京仪装备、富创精密涨超10%，中科飞测、强一股份、华峰测控涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3087381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "A股培育钻石板块高开，博云新材涨停，惠丰钻石涨超10%，沃尔德、*ST亚振、黄河旋风纷纷高开。",
+          "url": "https://flash.jin10.com/detail/20260414092613177800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
@@ -1023,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "马斯克版微信支持阅后即焚、防截图",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
