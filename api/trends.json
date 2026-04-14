@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:10:17.377183+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-04-14T19:54:29.071159+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -32,6 +32,18 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 19时54分]"
+        },
+        {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
           "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
           "source": "凤凰网",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时57分 ~ 16时24分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 18时10分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -237,6 +237,20 @@
           "time_info": "[18时09分 ~ 18时10分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -259,17 +273,17 @@
           "time_info": "00时57分"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            11,
-            16,
-            13
+            14,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时41分 ~ 18时10分]"
+          "time_info": "[14时28分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：将于（当地时间）4月27日或之前再次提交针对《华尔街日报》的更新版诉讼。",
@@ -303,19 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 18时10分]"
         },
         {
           "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
@@ -410,8 +411,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时54分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -653,6 +654,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260414192650273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
           "url": "https://flash.jin10.com/detail/20260414064137451800",
           "source": "金十数据",
@@ -777,7 +789,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -803,11 +815,12 @@
             14,
             16,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 18时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 19时54分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -819,11 +832,12 @@
             15,
             17,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 18时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 19时54分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -873,27 +887,40 @@
           "time_info": "[16时23分 ~ 18时10分]"
         },
         {
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时10分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时54分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时54分]"
         },
         {
           "title": "被央视曝光的涉黄AI软件致歉",
@@ -906,6 +933,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "市场消息：甲骨文(ORCL.N)将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://flash.jin10.com/detail/20260414194229713800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
@@ -961,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "第二十届深圳金博会定档5月 聚焦AI时代制造业与服务业协同发展",
+          "url": "https://wallstreetcn.com/livenews/3087683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
