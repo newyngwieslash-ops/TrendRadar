@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T21:07:56.770538+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-04-15T23:02:13.219896+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -18,8 +18,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 21时07分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 23时02分]"
         },
         {
           "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
@@ -32,22 +49,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时50分 ~ 16时25分]"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 21时07分]"
         },
         {
           "title": "特朗普：美国对伊朗的战争已经结束",
@@ -96,6 +97,18 @@
           "time_info": "[00时58分 ~ 04时01分]"
         },
         {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时02分]"
+        },
+        {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
           "url": "https://www.cls.cn/detail/2344222",
           "source": "财联社热门",
@@ -131,6 +144,41 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时37分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗",
+          "url": "https://news.ifeng.com/c/8sLjLSMNHZq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普拒向教宗道歉，美国民众：很失望",
+          "url": "https://news.ifeng.com/c/8sLg84i0YpG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
@@ -206,7 +254,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -228,7 +276,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -239,7 +287,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -266,17 +314,6 @@
           "time_info": "19时52分"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "美国总统特朗普表示，在英国国王本月晚些时候访问美国之前，美国与伊朗达成协议“是很有可能的”。",
           "url": "https://flash.jin10.com/detail/20260415142243237800",
           "source": "金十数据",
@@ -286,6 +323,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时02分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -312,19 +362,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时07分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -374,16 +411,16 @@
           "time_info": "[18时11分 ~ 19时52分]"
         },
         {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时07分]"
+          "time_info": "[21时07分 ~ 23时02分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -395,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时04分]"
+        },
+        {
+          "title": "耶伦：美联储今年仍可能降息，掌门候选人未必会“听特朗普的话”！",
+          "url": "https://www.cls.cn/detail/2344775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
@@ -452,15 +500,15 @@
           "time_info": "19时52分"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
+          "title": "特朗普以金斯伯格为例，暗示高龄大法官应考虑提前退休",
+          "url": "https://wallstreetcn.com/livenews/3088614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时07分"
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：Anthropic的威胁并非系统性的。 希望沃什能得到确认成为美联储主席。 不打算放弃对鲍威尔的调查。 如果鲍威尔不按时离职，他将被解雇。",
@@ -579,7 +627,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -645,15 +693,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
+        },
+        {
+          "title": "特朗普暗示对伊朗的打击行动将持续",
+          "url": "https://wallstreetcn.com/livenews/3088593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -666,8 +725,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 21时07分]"
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 23时02分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -698,6 +757,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 14时29分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 23时02分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -735,19 +807,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时39分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时07分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -830,6 +889,19 @@
           "time_info": "[12时41分 ~ 16时25分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时02分]"
+        },
+        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -854,16 +926,26 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
+          "title": "特斯拉AI5芯片流片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 21时07分]"
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "爱奇艺龚宇：用AI生成长片已无技术障碍",
+          "url": "https://wallstreetcn.com/livenews/3088617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "AI初创公司Hilbert完成2800万美元A轮融资",
@@ -872,7 +954,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -894,7 +976,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -965,6 +1047,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "英国政府发布商业公开信，就AI网络风险发出警告。",
+          "url": "https://wallstreetcn.com/livenews/3088609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "Meta与博通就定制款AI芯片签署协议",
           "url": "https://wallstreetcn.com/livenews/3087983",
           "source": "华尔街见闻-快讯",
@@ -982,7 +1075,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
