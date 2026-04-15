@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-15T18:11:39.090183+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-04-15T19:52:19.052298+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 19时52分]"
+        },
         {
           "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
           "url": "https://www.cls.cn/detail/2344264",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时50分 ~ 16时25分]"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 18时11分]"
         },
         {
           "title": "特朗普：美国对伊朗的战争已经结束",
@@ -55,6 +56,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 19时52分]"
         },
         {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
@@ -91,19 +107,17 @@
           "time_info": "[07时37分 ~ 14时29分]"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            7,
-            6,
-            4
+            8,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 19时52分]"
         },
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
@@ -116,19 +130,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普：没有必要延长同伊朗的停火",
-          "url": "https://www.cls.cn/detail/2344586",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 18时11分]"
         },
         {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
@@ -220,15 +221,15 @@
           "time_info": "14时29分"
         },
         {
-          "title": "关税退款将启动 特朗普一年白忙了吗",
-          "url": "https://www.toutiao.com/trending/7628891722524659242/",
-          "source": "今日头条",
+          "title": "特朗普再次威胁袭击伊朗民用基础设施",
+          "url": "https://wallstreetcn.com/livenews/3088480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "19时52分"
         },
         {
           "title": "美国总统特朗普表示，在英国国王本月晚些时候访问美国之前，美国与伊朗达成协议“是很有可能的”。",
@@ -292,6 +293,18 @@
           "time_info": "[12时41分 ~ 16时25分]"
         },
         {
+          "title": "关税退款将启动 特朗普一年白忙了吗",
+          "url": "https://www.toutiao.com/trending/7628891722524659242/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时52分]"
+        },
+        {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://news.ifeng.com/c/8sLS5AcutoB",
           "source": "凤凰网",
@@ -299,8 +312,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时52分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时11分]"
+          "time_info": "[18时11分 ~ 19时52分]"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时52分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -312,17 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时04分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
@@ -369,15 +395,26 @@
           "time_info": "07时37分"
         },
         {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
+          "title": "特朗普再次威胁袭击伊朗民用基础设施",
+          "url": "https://flash.jin10.com/detail/20260415192917646800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美国总统特朗普：Anthropic的威胁并非系统性的。 希望沃什能得到确认成为美联储主席。 不打算放弃对鲍威尔的调查。 如果鲍威尔不按时离职，他将被解雇。",
+          "url": "https://wallstreetcn.com/livenews/3088467",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "19时52分"
         },
         {
           "title": "美国总统特朗普：北约没有支持我们，他们未来也不会支持我们。",
@@ -441,7 +478,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -455,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我认为战争即将结束。",
+          "url": "https://flash.jin10.com/detail/20260415192211948800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "特朗普：谁能告诉教宗Leo，伊朗拥有核弹是绝对不能接受的。",
@@ -479,6 +527,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗）他们将达成协议。",
+          "url": "https://flash.jin10.com/detail/20260415191858774800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
           "url": "https://wallstreetcn.com/livenews/3087855",
           "source": "华尔街见闻-快讯",
@@ -488,12 +547,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "弹劾特朗普？美民主党人联署推新法案",
+          "url": "https://www.toutiao.com/trending/7628469347061612585/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美国总统特朗普：（在被问及银行和人工智能风险时）人工智能可能会使银行系统走向伟大。",
+          "url": "https://flash.jin10.com/detail/20260415191805999800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -532,11 +613,12 @@
           "ranks": [
             1,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 19时52分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -588,6 +670,18 @@
           "time_info": "[00时58分 ~ 07时37分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时52分]"
+        },
+        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -610,13 +704,24 @@
           "time_info": "02时04分"
         },
         {
+          "title": "伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。",
+          "url": "https://wallstreetcn.com/livenews/3088482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "IBM宣布新的网络安全措施，帮助企业识别并衡量前沿AI模型带来的新风险。",
           "url": "https://wallstreetcn.com/livenews/3088406",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -630,17 +735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
@@ -752,7 +846,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -763,7 +857,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -821,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
+          "url": "https://wallstreetcn.com/livenews/3088457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
@@ -936,7 +1041,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股黄金概念走强，宝鼎科技涨停，晓程科技、兴业银锡、洛阳钼业、周大生等个股跟涨。",
@@ -1091,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "今日沪市A股主力资金增仓前十",
+          "url": "https://www.toutiao.com/trending/7628052574885789746/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "A股创新药、化学制药板块午后持续走强，北大医药、双鹭药业、哈药股份、海正药业等股涨停，回盛生物涨超10%，悦康药业、舒泰神纷纷上扬。",
