@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:28:36.739863+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-19T09:58:51.610069+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -58,22 +58,12 @@
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
+            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -85,6 +75,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -114,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时58分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -126,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时58分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -154,6 +158,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "特朗普称以色列是“勇敢的盟友” 批评其他盟友“暴露本性”",
+          "url": "https://flash.jin10.com/detail/20260419091413176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美国总统特朗普：无论人们是否喜欢以色列，他们都证明了自己是美国的伟大盟友。",
+          "url": "https://flash.jin10.com/detail/20260419090827382800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -206,6 +243,17 @@
           "time_info": "[03时37分 ~ 05时28分]"
         },
         {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -242,7 +290,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -250,11 +298,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -264,8 +313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -275,8 +324,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -286,8 +335,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -297,11 +346,12 @@
             13,
             8,
             10,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 09时58分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -313,6 +363,79 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时37分]"
+        },
+        {
+          "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
+          "url": "https://wallstreetcn.com/articles/3770323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
+          "url": "https://www.cls.cn/detail/2348319",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
+        },
+        {
+          "title": "A股新股王诞生了",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            20,
+            25,
+            19,
+            18,
+            23,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
+        },
+        {
+          "title": "A股迎来“长钱长投”新信号",
+          "url": "https://www.toutiao.com/trending/7630111259819511332/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            16,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时28分]"
+        },
+        {
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -359,55 +482,6 @@
       ]
     },
     {
-      "keyword_group": "财经 A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
-          "url": "https://www.cls.cn/detail/2348319",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "A股新股王诞生了",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            20,
-            25,
-            19,
-            18,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "A股迎来“长钱长投”新信号",
-          "url": "https://www.toutiao.com/trending/7630111259819511332/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            16,
-            18,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "舆论",
       "match_count": 1,
       "titles": [
@@ -419,8 +493,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时58分]"
         }
       ]
     }
