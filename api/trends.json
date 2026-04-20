@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:37:31.249004+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-21T07:37:29.406872+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
           "url": "https://wallstreetcn.com/articles/3770404",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -190,6 +191,18 @@
           "time_info": "[02时56分 ~ 04时42分]"
         },
         {
+          "title": "特朗普威胁停火到期将开炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 07时37分]"
+        },
+        {
           "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
           "url": "https://wallstreetcn.com/livenews/3091322",
           "source": "华尔街见闻-快讯",
@@ -226,15 +239,37 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
-          "title": "特朗普威胁停火到期将开炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
+          "url": "https://flash.jin10.com/detail/20260421065026687800",
+          "source": "金十数据",
           "ranks": [
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
+          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
@@ -265,7 +300,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -276,7 +311,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -298,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -339,7 +374,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -351,8 +386,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -365,8 +400,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -376,8 +411,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -390,8 +425,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -401,8 +436,23 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17,
+            13,
+            29,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -417,20 +467,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 05时40分]"
-        },
-        {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时37分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -448,6 +484,29 @@
           "time_info": "[01时56分 ~ 05时40分]"
         },
         {
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时57分 ~ 07时37分]"
+        },
+        {
+          "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
+          "url": "https://flash.jin10.com/detail/20260421065051985800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "华为首款AI眼镜来了",
           "url": "https://www.toutiao.com/trending/7630378679035101225/",
           "source": "今日头条",
@@ -460,17 +519,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时56分 ~ 05时40分]"
-        },
-        {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时57分 ~ 06时37分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -492,11 +540,12 @@
           "ranks": [
             16,
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -506,8 +555,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 07时37分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -520,17 +581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时37分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
@@ -568,6 +618,61 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股突现重大资产重组新模式",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23,
+            22,
+            17,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 07时37分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年4月21日",
+          "url": "https://flash.jin10.com/detail/20260421070424049800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年4月21日 周二",
+          "url": "https://flash.jin10.com/detail/20260421065000001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "年报季透视A股：逾1700家上市公司拟分红",
+          "url": "https://wallstreetcn.com/livenews/3091373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -579,8 +684,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时37分]"
         },
         {
           "title": "法国检方传唤马斯克",
@@ -588,11 +693,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 07时37分]"
         }
       ]
     },
@@ -605,32 +711,12 @@
           "url": "https://flash.jin10.com/detail/20260421060257230800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股突现重大资产重组新模式",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            23,
-            22,
-            17,
-            15
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 06时37分]"
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时37分]"
         }
       ]
     }
