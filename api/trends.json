@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T13:16:05.906167+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-20T15:55:24.014881+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -90,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 15时55分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -101,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 15时55分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -118,6 +119,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普把万斯踢出谈判？曾放话“谈崩了就怪他”",
+          "url": "https://news.ifeng.com/c/8sTZHdV97eY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时55分]"
+        },
+        {
+          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
+          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时55分]"
         },
         {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
@@ -141,28 +164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时37分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普把万斯踢出谈判？曾放话“谈崩了就怪他”",
-          "url": "https://news.ifeng.com/c/8sTZHdV97eY",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
-          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -202,6 +203,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时55分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -265,6 +278,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普称将重启谈判 伊朗否认三连",
+          "url": "https://www.cls.cn/detail/2348737",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时55分]"
         },
         {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
@@ -339,28 +364,6 @@
           "time_info": "[04时29分 ~ 05时29分]"
         },
         {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普称将重启谈判 伊朗否认三连",
-          "url": "https://www.cls.cn/detail/2348737",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
           "url": "https://flash.jin10.com/detail/20260419224124557800",
           "source": "金十数据",
@@ -376,7 +379,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -433,7 +436,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -561,6 +564,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "A股收盘：沪指涨0.76% 商业航天涨停潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.76%25+%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%B6%A8%E5%81%9C%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "A股6G概念开盘走强，沃格光电、泰豪科技涨停；中瓷电子、光迅科技、世嘉科技等跟涨。",
           "url": "https://flash.jin10.com/detail/20260420093621751800",
           "source": "金十数据",
@@ -594,6 +608,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "央视财经对话小米汽车工程师",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E5%AF%B9%E8%AF%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B7%A5%E7%A8%8B%E5%B8%88%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "A股液冷服务器板块盘初活跃，康盛股份7天4板，圣阳股份、科瑞技术、捷邦科技、立讯精密、力源信息等跟涨。",
           "url": "https://flash.jin10.com/detail/20260420093313813800",
           "source": "金十数据",
@@ -622,7 +647,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
@@ -630,7 +655,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "我们要不要向AI说谢谢？",
@@ -639,11 +664,12 @@
           "ranks": [
             20,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时37分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[03时37分 ~ 15时55分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -652,11 +678,12 @@
           "ranks": [
             17,
             18,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -689,11 +716,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时00分 ~ 15时55分]"
         },
         {
           "title": "中石油天然气集团等成立数科科技公司，含AI业务",
@@ -705,6 +733,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%9E%E7%A3%8A%E6%9B%BE%E8%88%9C%E6%99%9E%E5%85%A5%E9%A9%BB%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时55分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -730,17 +770,6 @@
           "time_info": "[00时32分 ~ 02时38分]"
         },
         {
-          "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%9E%E7%A3%8A%E6%9B%BE%E8%88%9C%E6%99%9E%E5%85%A5%E9%A9%BB%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "爱奇艺AI艺人库",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -758,9 +787,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "张若昀工作室 没签过AI授权",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "富瀚微：除了面向商用场景，客户面向大众消费者的AI眼镜产品处于研发中。",
@@ -769,9 +831,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "AI艺人库 自掘坟墓",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%89%BA%E4%BA%BA%E5%BA%93%20%E8%87%AA%E6%8E%98%E5%9D%9F%E5%A2%93&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -783,6 +856,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "未授权AI艺人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "AI观众",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十",
@@ -813,7 +908,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
