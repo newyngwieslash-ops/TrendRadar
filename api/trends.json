@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T06:33:46.655670+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-04-22T07:31:22.994399+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -25,23 +25,12 @@
           "ranks": [
             5,
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
-        },
-        {
-          "title": "5月1日——特朗普“任性打仗”的关键时限",
-          "url": "https://wallstreetcn.com/articles/3770498",
-          "source": "华尔街见闻",
-          "ranks": [
             7,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -53,11 +42,24 @@
             13,
             7,
             14,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -67,8 +69,34 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "time_info": "[02时08分 ~ 07时31分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -82,39 +110,48 @@
           "time_info": "[04时42分 ~ 05时47分]"
         },
         {
-          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
-        },
-        {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时08分 ~ 06时33分]"
-        },
-        {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 07时31分]"
+        },
+        {
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普延长停火期限",
+          "url": "https://www.douyin.com/hot/2474506",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：我们被要求暂停对伊朗的攻击。因此将延长停火，直至他们的提案提交且讨论结束，无论结果如何。",
@@ -128,37 +165,15 @@
           "time_info": "04时43分"
         },
         {
-          "title": "非美货币普跌，投资者紧盯特朗普对伊朗的停火截止日期",
-          "url": "https://wallstreetcn.com/livenews/3092127",
-          "source": "华尔街见闻-快讯",
+          "title": "从“准备轰炸”到“无限期停火”！特朗普极限反转，伊朗不买账",
+          "url": "https://flash.jin10.com/detail/20260422070957307800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "周三亚太盘初，现货白银日内涨幅达0.5%，报77.04美元/盎司；纽约银日内涨幅达0.5%，报77.59美元/盎司。 标普股指期货、道指期货、纳指期货涨约0.4%，罗素2000股指期货涨0.6%。 标普500 E-mini期货恢复交易，目前涨0.4%，特朗普宣布无限期延长与伊朗的停火。",
-          "url": "https://wallstreetcn.com/livenews/3092126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 06时33分]"
+          "time_info": "07时31分"
         },
         {
           "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
@@ -208,6 +223,53 @@
           "time_info": "[04时43分 ~ 05时47分]"
         },
         {
+          "title": "非美货币普跌，投资者紧盯特朗普对伊朗的停火截止日期",
+          "url": "https://wallstreetcn.com/livenews/3092127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "周三亚太盘初，现货白银日内涨幅达0.5%，报77.04美元/盎司；纽约银日内涨幅达0.5%，报77.59美元/盎司。 标普股指期货、道指期货、纳指期货涨约0.4%，罗素2000股指期货涨0.6%。 标普500 E-mini期货恢复交易，目前涨0.4%，特朗普宣布无限期延长与伊朗的停火。",
+          "url": "https://wallstreetcn.com/livenews/3092126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
           "url": "https://flash.jin10.com/detail/20260422052719298800",
           "source": "金十数据",
@@ -218,6 +280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时33分]"
+        },
+        {
+          "title": "美媒：特朗普延长停火原因之一系为等待伊朗最高领袖的回应",
+          "url": "https://flash.jin10.com/detail/20260422055958755800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "伊朗联合军事指挥部最高层发出警告：鉴于特朗普一再发出威胁，伊朗将对预定目标发动“强力攻击”。",
@@ -325,15 +399,15 @@
           "time_info": "04时43分"
         },
         {
-          "title": "美媒：特朗普延长停火原因之一系为等待伊朗最高领袖的回应",
-          "url": "https://flash.jin10.com/detail/20260422055958755800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：（那些）维持运营的煤炭工厂是宾夕法尼亚州的大赢家。 （宾州）州长Shapiro同意让两家煤炭厂继续运作。",
+          "url": "https://wallstreetcn.com/livenews/3092146",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时31分"
         },
         {
           "title": "美媒：特朗普或在停火结束前最后数小时解除海上封锁",
@@ -356,17 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
-        },
-        {
-          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
-          "url": "https://www.cls.cn/detail/2351404",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -460,7 +523,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -470,8 +533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -481,8 +544,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -493,8 +556,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -508,8 +571,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -519,8 +582,21 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时08分 ~ 07时31分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -545,17 +621,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "唐诡导演 真人能演为啥让AI演",
-          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "金十数据整理：每日科技要闻速递（4月22日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic旗下Mythos模型遭未授权用户入侵访问。</span><br/><span class=\"section-news\">2. 我国自主量子计算机“本源悟空”形成搭载人工智能运算能力。</span><br/><span class=\"section-news\">3. 特斯拉车机语音大模型服务完成备案。</span><br/><span class=\"section-news\">4. SpaceX：有权以600亿美元收购人工智能编程助手Cursor。</span><br/><span class=\"section-news\">5. OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。</span><br/>其他：<br/><span class=\"section-news\">1. 一季度工业机器人产量同比增长33.2%。</span><br/><span class=\"section-news\">2. 打击“囤积居奇” 工信部将引导存储器企业加强渠道管理。</span><br/><span class=\"section-news\">3. 亚马逊推出GLP-1减重项目 承诺\"快速、便捷\"获取药物。</span><br/><span class=\"section-news\">4. 工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好。</span><br/><span class=\"section-news\">5. 宁德时代发布第三代神行超充电池，宁德时代钠电池年内将实现大规模量产。 </span>",
+          "url": "https://flash.jin10.com/detail/20260422070939953800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            24,
-            29
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时08分 ~ 06时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -615,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "SpaceX：获得600亿美元收购AI编程公司Cursor的权利",
+          "url": "https://wallstreetcn.com/livenews/3092133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -681,6 +766,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十数据全球财经早餐 | 2026年4月22日",
+          "url": "https://flash.jin10.com/detail/20260422065950717800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年4月22日 周三",
+          "url": "https://flash.jin10.com/detail/20260422065000000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "年内A股市场新增超千起并购重组交易",
+          "url": "https://wallstreetcn.com/livenews/3092147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
+          "url": "https://wallstreetcn.com/livenews/3092137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
