@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T03:02:23.230485+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-04-22T04:43:03.297211+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 04时43分]"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
@@ -38,8 +49,90 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普称美伊停火到期将继续轰炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            12,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我们被要求暂停对伊朗的攻击。因此将延长停火，直至他们的提案提交且讨论结束，无论结果如何。",
+          "url": "https://flash.jin10.com/detail/20260422041149872800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "保险公司对特朗普政府的美国医保减肥药覆盖计划持保留态度",
+          "url": "https://wallstreetcn.com/livenews/3092089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普宣布延长停火期限，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/livenews/3092087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "time_info": "[02时08分 ~ 04时43分]"
         },
         {
           "title": "特朗普“神助攻”？ 加拿大征兵创下三十年新高",
@@ -65,52 +158,15 @@
           "time_info": "[00时52分 ~ 03时02分]"
         },
         {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
-          "title": "特朗普称美伊停火到期将继续轰炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
-          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 04时43分]"
         },
         {
           "title": "沃什：美联储独立性至关重要，绝不会沦为特朗普的“提线木偶”，需要新的通胀框架",
@@ -136,15 +192,37 @@
           "time_info": "[02时08分 ~ 03时02分]"
         },
         {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
+          "title": "SPDR标普500 ETF信托涨0.6%，特朗普称，将延长对伊朗的停火直至谈判结束，“我们被要求在伊方提出统一的方案之前暂停对伊朗的攻击”。",
+          "url": "https://wallstreetcn.com/livenews/3092084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：已经要求美军继续封锁，将延长伊朗停火直至谈判结束",
+          "url": "https://wallstreetcn.com/livenews/3092083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美媒：特朗普或在停火结束前最后数小时解除海上封锁",
+          "url": "https://flash.jin10.com/detail/20260422040013787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -189,12 +267,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美媒：万斯赴巴之行不明 特朗普私下讨论完全取消行程",
+          "url": "https://flash.jin10.com/detail/20260422033033824800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普提名Phelan担任经济顾问委员会主席",
+          "url": "https://wallstreetcn.com/livenews/3092059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -204,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -215,19 +315,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -247,9 +348,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -264,27 +389,16 @@
           "time_info": "[00时53分 ~ 02时08分]"
         },
         {
-          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
-          "url": "https://www.zhihu.com/question/2027797621893244826",
-          "source": "知乎",
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            13
+            28,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "time_info": "[02时08分 ~ 04时43分]"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -293,18 +407,6 @@
           "ranks": [
             6,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 03时02分]"
-        },
-        {
-          "title": "唐诡导演 真人能演为啥让AI演",
-          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -322,6 +424,39 @@
           "time_info": "00时53分"
         },
         {
+          "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
+          "url": "https://flash.jin10.com/detail/20260422032455495800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
+          "url": "https://flash.jin10.com/detail/20260422032424290800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
+          "url": "https://wallstreetcn.com/livenews/3092057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "库克卸任：4万亿市值与AI失落的十年",
           "url": "https://www.toutiao.com/trending/7631204301230050870/",
           "source": "今日头条",
@@ -331,6 +466,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股周二收盘，三大股指集体收跌，道指跌0.59%，纳指跌0.59%，标普500指数跌0.63%，热门科技股多数下跌，苹果跌超2%，英伟达、谷歌、特斯拉跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260422040117439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     }
