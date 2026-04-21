@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T12:45:14.422411+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-04-21T14:55:52.879739+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 14时55分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -50,8 +50,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时55分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -65,17 +77,6 @@
           "time_info": "[00时58分 ~ 02时56分]"
         },
         {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
           "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
           "source": "凤凰网",
@@ -84,8 +85,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 14时55分]"
         },
         {
           "title": "特朗普撇清：以色列可说不动我",
@@ -121,28 +136,16 @@
           "time_info": "09时55分"
         },
         {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            7,
-            6
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 12时45分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -283,6 +286,18 @@
           "time_info": "[02时56分 ~ 04时42分]"
         },
         {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
+        },
+        {
           "title": "特朗普威胁停火到期将开炸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -331,17 +346,6 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
           "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
           "url": "https://flash.jin10.com/detail/20260421065026687800",
           "source": "金十数据",
@@ -370,7 +374,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -452,6 +456,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "伊朗用特朗普方式对付特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
           "url": "https://flash.jin10.com/detail/20260421042232218800",
           "source": "金十数据",
@@ -488,7 +503,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -501,8 +516,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 14时55分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -528,8 +543,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 14时55分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -540,8 +555,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 12时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 14时55分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -637,6 +652,19 @@
           "time_info": "07时37分"
         },
         {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时55分]"
+        },
+        {
           "title": "华为首款AI眼镜来了",
           "url": "https://www.toutiao.com/trending/7630378679035101225/",
           "source": "今日头条",
@@ -662,18 +690,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时56分]"
-        },
-        {
-          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
-          "url": "https://www.zhihu.com/question/2029573487086362973",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时45分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -715,6 +731,17 @@
           "time_info": "[00时58分 ~ 07时37分]"
         },
         {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
+        },
+        {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
           "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
@@ -726,37 +753,28 @@
           "time_info": "[00时58分 ~ 07时37分]"
         },
         {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
           "title": "AI短剧是如何诞生的",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 14时55分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -769,6 +787,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时37分]"
+        },
+        {
+          "title": "AI艺人库为何遭抵制",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "阿里巴巴支持的视频AI初创公司PIXVERSE据悉计划香港IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "上海：实施“AI+制造”和“5G+工业互联网”专项行动 支持研发行业垂类大模型",
+          "url": "https://wallstreetcn.com/livenews/3091582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "贝佐斯的AI实验室在融资交易中估值接近380亿美元",
@@ -824,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "上海：实施“AI+制造”和“5G+工业互联网”专项行动，支持研发行业垂类大模型",
+          "url": "https://flash.jin10.com/detail/20260421140824808800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "国瓷材料：2026年AI服务器及车规用MLCC介质粉体销售有望快速增长",
@@ -931,7 +993,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -953,7 +1015,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
@@ -1026,6 +1088,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "星座",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海：加快千帆星座建设，推动卫星互联网业务商用试点",
+          "url": "https://wallstreetcn.com/livenews/3091583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     }
