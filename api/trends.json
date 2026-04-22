@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:10:21.887769+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-04-22T23:07:59.159382+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时30分 ~ 21时10分]"
+          "appearance_count": 12,
+          "time_info": "[07时30分 ~ 23时07分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时08分 ~ 21时10分]"
+          "appearance_count": 18,
+          "time_info": "[02时08分 ~ 23时07分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -72,6 +72,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时52分 ~ 09时54分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            11,
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 23时07分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -142,6 +159,20 @@
           "time_info": "[00时52分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
           "url": "https://www.cls.cn/detail/2351404",
           "source": "财联社热门",
@@ -156,34 +187,16 @@
           "time_info": "[06时33分 ~ 14时55分]"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            14,
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 21时10分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
             6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 21时10分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 23时07分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -217,18 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 21时10分]"
         },
         {
           "title": "特朗普延长停火期限",
@@ -284,6 +285,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "美媒：特朗普再给伊朗3至5天停火时间",
+          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "民调：特朗普支持率下降 美国朝错误方向发展",
@@ -454,6 +477,17 @@
           "time_info": "[00时52分 ~ 00时53分]"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 23时07分]"
+        },
+        {
           "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
           "url": "https://wallstreetcn.com/livenews/3092025",
           "source": "华尔街见闻-快讯",
@@ -488,6 +522,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时33分]"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 23时07分]"
         },
         {
           "title": "伊朗：特朗普的停火延期毫无意义，失败的一方无权发号施令",
@@ -580,17 +626,6 @@
           "time_info": "18时14分"
         },
         {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
           "title": "美媒：特朗普或在停火结束前最后数小时解除海上封锁",
           "url": "https://flash.jin10.com/detail/20260422040013787800",
           "source": "金十数据",
@@ -668,17 +703,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "据英国金融时报：美国总统特朗普的贸易负责人呼吁美国盟友为关键矿产支付更多费用。",
           "url": "https://flash.jin10.com/detail/20260422120227290800",
           "source": "金十数据",
@@ -734,6 +758,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "贝森特：特朗普很擅长降低能源成本",
+          "url": "https://wallstreetcn.com/livenews/3092691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "标普500 E-mini期货跌幅收窄至0.3%，特朗普称将延长美国与伊朗的停火协议。",
           "url": "https://wallstreetcn.com/livenews/3092093",
           "source": "华尔街见闻-快讯",
@@ -767,6 +802,28 @@
           "time_info": "09时54分"
         },
         {
+          "title": "精神航空（Spirit Aviation）场外交易股价上涨36.7%至0.82美元，此前有报道称特朗普政府接近达成对精神航空的救助。",
+          "url": "https://flash.jin10.com/detail/20260422223809289800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "美国知情人士称：总统特朗普愿意额外给予伊朗3-5天停火时间。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "特朗普：伊朗财政正在崩溃",
           "url": "https://flash.jin10.com/detail/20260422114152804800",
           "source": "金十数据",
@@ -784,7 +841,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -836,7 +893,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -880,11 +937,12 @@
           "ranks": [
             8,
             3,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 21时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 23时07分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -926,6 +984,22 @@
           "time_info": "[09时53分 ~ 16时27分]"
         },
         {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 23时07分]"
+        },
+        {
           "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
           "url": "https://www.zhihu.com/question/1984557341190873580",
           "source": "知乎",
@@ -951,21 +1025,6 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 21时10分]"
-        },
-        {
           "title": "唐诡导演 真人能演为啥让AI演",
           "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -977,6 +1036,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时08分 ~ 07时31分]"
+        },
+        {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 23时07分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 23时07分]"
         },
         {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
@@ -1037,31 +1122,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时10分]"
-        },
-        {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时10分]"
-        },
-        {
           "title": "当今AI音乐发展水平如何",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -1112,9 +1172,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 23时07分]"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -1154,16 +1227,15 @@
           "time_info": "[09时53分 ~ 14时55分]"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时10分]"
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 23时07分]"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -1188,17 +1260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时33分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "抖音生活服务发布多条AIGC创作规范",
@@ -1240,7 +1301,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1278,6 +1339,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "港股AI概念股盘初走低，范式智能(06682.HK)跌10.38%，金山云(03896.HK)跌4.67%，群核科技(00068.HK)跌2.54%。",
           "url": "https://flash.jin10.com/detail/20260422093556176800",
           "source": "金十数据",
@@ -1289,13 +1361,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "谷歌：Google Drive中的AI概览功能现已普遍可用。",
+          "url": "https://flash.jin10.com/detail/20260422224544540800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3092620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1306,9 +1389,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "爱奇艺回应 AI 授权，称真人完成关键表演后将其数字化，未来减少对「顶流」的依赖，对影视行业是好事吗？",
@@ -1361,9 +1455,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "硅谷精神之父谈AI时代",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7%E7%B2%BE%E7%A5%9E%E4%B9%8B%E7%88%B6%E8%B0%88AI%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -1438,7 +1543,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1490,8 +1595,22 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 23时07分]"
+        },
         {
           "title": "A股总市值达117万亿元，创历史新高",
           "url": "https://flash.jin10.com/detail/20260422174445477800",
@@ -1527,19 +1646,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时10分]"
-        },
-        {
           "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3092213",
           "source": "华尔街见闻-快讯",
@@ -1549,6 +1655,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股主要股指强势上扬",
+          "url": "https://www.toutiao.com/trending/7631507170502115366/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 23时07分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月22日 周三",
@@ -1617,6 +1735,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
+          "url": "https://www.cls.cn/detail/2352729",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "A股钠离子电池概念上扬，同兴科技2连板，翔丰华涨超15%，传艺科技涨超8%，振华新材、维科技术、贝特瑞、容百科技高开。",
           "url": "https://flash.jin10.com/detail/20260422093614104800",
           "source": "金十数据",
@@ -1681,17 +1810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "A股主要股指强势上扬",
-          "url": "https://www.toutiao.com/trending/7631507170502115366/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "A股液冷概念股延续调整，英维克、圣阳股份再度跌停，海兰信、华升股份、康盛股份、真视通等纷纷低开。 ​​​",
@@ -1763,7 +1881,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌云与Collibra宣布扩大合作伙伴关系。（彭博）",
@@ -1772,7 +1890,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1783,7 +1901,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1805,9 +1923,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260422224338586800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
@@ -1816,7 +1945,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1827,7 +1956,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1838,7 +1967,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1849,7 +1978,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1860,7 +1989,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1871,7 +2000,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
@@ -1889,11 +2018,12 @@
             7,
             8,
             9,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 21时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 23时07分]"
         }
       ]
     }
