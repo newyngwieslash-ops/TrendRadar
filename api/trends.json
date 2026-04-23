@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:56:43.665723+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-23T21:09:30.199172+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时03分 ~ 19时56分]"
+          "appearance_count": 13,
+          "time_info": "[03时03分 ~ 21时09分]"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时09分]"
         },
         {
           "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 19时56分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 21时09分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -144,6 +144,17 @@
           "time_info": "[00时59分 ~ 07时41分]"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时09分]"
+        },
+        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -175,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时41分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时56分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -234,6 +234,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "特朗普：已下令击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://flash.jin10.com/detail/20260423205130190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
           "url": "https://www.cls.cn/detail/2352936",
           "source": "财联社热门",
@@ -280,6 +291,28 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美、布两油短线走高1美元，特朗普称已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。",
+          "url": "https://flash.jin10.com/detail/20260423204946755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3093320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "特朗普团队搬出“现货溢价”忽悠人，贝森特大拽术语难救中期选举",
           "url": "https://flash.jin10.com/detail/20260423143049284800",
           "source": "金十数据",
@@ -291,6 +324,28 @@
           "time_info": "14时59分"
         },
         {
+          "title": "美国总统特朗普：他们（即伊朗）全部159艘海军舰艇均已沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260423204816969800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "美国总统特朗普：我在此命令将这一行动（清理水雷）继续推进，并将强度提升至三倍。",
+          "url": "https://flash.jin10.com/detail/20260423204735384800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3092793",
           "source": "华尔街见闻-快讯",
@@ -300,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
+          "url": "https://wallstreetcn.com/livenews/3093317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
@@ -362,6 +428,20 @@
           "time_info": "[04时45分 ~ 05时44分]"
         },
         {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
           "source": "澎湃新闻",
@@ -375,6 +455,20 @@
           "time_info": "[09时58分 ~ 14时59分]"
         },
         {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时09分]"
+        },
+        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -385,32 +479,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 03时03分]"
-        },
-        {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时56分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时56分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
@@ -435,6 +503,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时09分]"
+        },
+        {
+          "title": "美国总统特朗普：已命令海军击沉任何在霍尔木兹海峡布置水雷的船只。我们的扫雷舰目前正对该海峡进行清理。",
+          "url": "https://flash.jin10.com/detail/20260423204707770800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -470,15 +561,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "21时09分"
         },
         {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
@@ -600,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "梅洛尼“背叛”特朗普 美意发生什么",
+          "url": "https://www.toutiao.com/trending/7631531609938083859/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -615,8 +717,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 19时56分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 21时09分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -631,20 +733,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 19时56分]"
-        },
-        {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 21时09分]"
         },
         {
           "title": "受AI冲击 短剧霸总回家种地",
@@ -658,8 +748,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时09分]"
+        },
+        {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 07时41分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -684,6 +786,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 09时58分]"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            13,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 21时09分]"
         },
         {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
@@ -722,21 +840,6 @@
           "time_info": "[00时59分 ~ 06时41分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 19时56分]"
-        },
-        {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
           "url": "https://wallstreetcn.com/livenews/3092896",
           "source": "华尔街见闻-快讯",
@@ -757,6 +860,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时09分]"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -783,16 +898,16 @@
           "time_info": "[00时59分 ~ 01时55分]"
         },
         {
-          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
-          "url": "https://www.zhihu.com/question/2027998176116777421",
-          "source": "知乎",
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            4
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时09分]"
         },
         {
           "title": "五角大楼申请540亿美元预算 大举推进AI无人作战体系",
@@ -806,16 +921,16 @@
           "time_info": "[12时50分 ~ 14时59分]"
         },
         {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
+          "title": "Image2 消除AI味儿",
+          "url": "https://s.weibo.com/weibo?q=Image2%20%E6%B6%88%E9%99%A4AI%E5%91%B3%E5%84%BF&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            19,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时56分]"
+          "time_info": "[19时56分 ~ 21时09分]"
         },
         {
           "title": "神仙肉 AI配角",
@@ -890,6 +1005,18 @@
           "time_info": "[16时53分 ~ 18时18分]"
         },
         {
+          "title": "AI演员还算不算演员",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%BF%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%BC%94%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时09分]"
+        },
+        {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
           "url": "https://wallstreetcn.com/livenews/3092846",
           "source": "华尔街见闻-快讯",
@@ -957,17 +1084,6 @@
           "time_info": "12时50分"
         },
         {
-          "title": "AI演员还算不算演员",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%BF%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%BC%94%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
           "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
           "url": "https://wallstreetcn.com/livenews/3092882",
           "source": "华尔街见闻-快讯",
@@ -977,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "Image2 消除AI味儿",
-          "url": "https://s.weibo.com/weibo?q=Image2%20%E6%B6%88%E9%99%A4AI%E5%91%B3%E5%84%BF&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
         },
         {
           "title": "微软承诺投入180亿美元，用于建设澳大利亚的AI能力。",
@@ -1073,7 +1178,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -1106,6 +1211,18 @@
       "match_count": 29,
       "titles": [
         {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 21时09分]"
+        },
+        {
           "title": "马斯克算法撕开日本遮羞布",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
           "source": "贴吧",
@@ -1118,20 +1235,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 19时56分]"
-        },
-        {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 19时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 21时09分]"
         },
         {
           "title": "特斯拉(TSLA.O)美国证交会文件显示，董事会批准实施与马斯克2018年首席执行官绩效奖励行权相关的协议。",
@@ -1725,7 +1830,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
@@ -1763,6 +1868,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "谷歌(GOOG.O)CEO皮查伊：重申公司2026年1750-1850亿美元的资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260423001432154800",
           "source": "金十数据",
@@ -1783,6 +1899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     }
