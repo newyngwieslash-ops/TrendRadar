@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:46:12.864234+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-04-25T23:35:02.226161+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时34分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[07时34分 ~ 23时35分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 22时46分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 23时35分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -185,6 +185,19 @@
           "time_info": "[06时34分 ~ 14时17分]"
         },
         {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普最新不满意率公布",
           "url": "https://www.toutiao.com/trending/7632256719716122665/",
           "source": "今日头条",
@@ -231,18 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时45分]"
-        },
-        {
-          "title": "“淡化”特朗普 美共和党调整中期选举策略",
-          "url": "https://wallstreetcn.com/livenews/3094397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时46分]"
         },
         {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
@@ -583,8 +584,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时45分 ~ 23时35分]"
+        },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
           "url": "https://www.cls.cn/detail/2355054",
@@ -597,17 +609,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时48分 ~ 14时17分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -636,8 +637,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时17分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[14时17分 ~ 23时35分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -653,8 +654,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时48分 ~ 22时46分]"
+          "appearance_count": 23,
+          "time_info": "[00时48分 ~ 23时35分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -694,8 +695,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时17分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[14时17分 ~ 23时35分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -725,8 +726,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时48分 ~ 22时46分]"
+          "appearance_count": 23,
+          "time_info": "[00时48分 ~ 23时35分]"
         },
         {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
@@ -920,6 +921,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时00分 ~ 22时02分]"
+        },
+        {
+          "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33051014",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
         },
         {
           "title": "网警打谣|AI编造泸州楼房倒塌者被罚",
@@ -1155,19 +1167,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
+          "appearance_count": 10,
+          "time_info": "[17时45分 ~ 23时35分]"
         },
         {
           "title": "多只A股拉响警报",
           "url": "https://www.toutiao.com/trending/7632594368024756250/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时35分]"
         },
         {
           "title": "A股缩量下跌 持股还是持币过节",
