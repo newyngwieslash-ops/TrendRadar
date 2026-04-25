@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:38:32.690101+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-04-25T19:34:21.860281+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 18时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 19时34分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -115,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 19时34分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -183,6 +183,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时34分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普最新不满意率公布",
+          "url": "https://www.toutiao.com/trending/7632256719716122665/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -306,6 +318,18 @@
           "time_info": "[00时48分 ~ 01时45分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
           "url": "https://wallstreetcn.com/livenews/3094280",
           "source": "华尔街见闻-快讯",
@@ -398,15 +422,15 @@
           "time_info": "03时47分"
         },
         {
-          "title": "特朗普最新不满意率公布",
-          "url": "https://www.toutiao.com/trending/7632256719716122665/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "19时34分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -530,17 +554,6 @@
           "time_info": "03时47分"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "据CNN：两名政府官员称，特朗普正派遣威特科夫和库什纳前往巴基斯坦，与伊朗外长阿拉格齐进行会谈。",
           "url": "https://flash.jin10.com/detail/20260424234800718800",
           "source": "金十数据",
@@ -595,11 +608,12 @@
             1,
             6,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 18时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 19时34分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -653,11 +667,36 @@
             14,
             18,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 18时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 19时34分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时34分]"
+        },
+        {
+          "title": "第一次对AI感到恐惧",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 19时34分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -676,6 +715,19 @@
           "time_info": "[01时45分 ~ 18时38分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 19时34分]"
+        },
+        {
           "title": "软银准备为AI数据中心制造电池",
           "url": "https://wallstreetcn.com/livenews/3094321",
           "source": "华尔街见闻-快讯",
@@ -692,43 +744,6 @@
           "time_info": "[07时34分 ~ 17时45分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时38分]"
-        },
-        {
-          "title": "第一次对AI感到恐惧",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 18时38分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 18时38分]"
-        },
-        {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
           "url": "https://www.toutiao.com/trending/7632545381678878254/",
           "source": "今日头条",
@@ -736,8 +751,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 19时34分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 19时34分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
@@ -750,6 +776,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 14时17分]"
+        },
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时34分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -778,18 +817,6 @@
           "time_info": "[12时32分 ~ 17时45分]"
         },
         {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时38分]"
-        },
-        {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
           "url": "https://wallstreetcn.com/livenews/3094244",
           "source": "华尔街见闻-快讯",
@@ -812,17 +839,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 06时34分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 18时38分]"
         },
         {
           "title": "中国AI隐形王者股价一年翻10倍",
@@ -1106,8 +1122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时34分]"
         },
         {
           "title": "A股缩量下跌 持股还是持币过节",
