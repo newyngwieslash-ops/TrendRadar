@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T04:31:54.465101+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-04-26T05:31:21.928542+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -17,19 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
-        },
-        {
-          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
-          "url": "https://flash.jin10.com/detail/20260426034614966800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "特朗普，已经压不住油价了",
@@ -39,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
@@ -50,8 +39,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时31分]"
+        },
+        {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "特朗普谈伊朗谈判：我认为巴基斯坦非常棒。",
@@ -79,6 +79,18 @@
           "time_info": "[00时34分 ~ 01时33分]"
         },
         {
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
           "url": "https://flash.jin10.com/detail/20260426002923524800",
           "source": "金十数据",
@@ -89,6 +101,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时33分]"
+        },
+        {
+          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
+          "url": "https://flash.jin10.com/detail/20260426031349509800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时31分]"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -115,16 +140,43 @@
           "time_info": "[00时34分 ~ 01时33分]"
         },
         {
-          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
-          "url": "https://flash.jin10.com/detail/20260426031349509800",
+          "title": "美国总统特朗普：我们不会费劲去巴基斯坦，只为从伊朗拿到一份毫无价值的协议。",
+          "url": "https://flash.jin10.com/detail/20260426025410987800",
           "source": "金十数据",
           "ranks": [
-            5,
-            11
+            10,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时31分]"
+        },
+        {
+          "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
+          "url": "https://flash.jin10.com/detail/20260426025149294800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时31分]"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：在取消巴基斯坦谈判10分钟后收到一份新提议。",
+          "url": "https://flash.jin10.com/detail/20260426025031320800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 05时31分]"
         },
         {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
@@ -137,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时33分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
+          "url": "https://flash.jin10.com/detail/20260426033155583800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时31分]"
         },
         {
           "title": "美国总统特朗普：“我们掌握着所有筹码。他们随时可以给我们打电话。”",
@@ -161,42 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时40分]"
-        },
-        {
-          "title": "美国总统特朗普：我们不会费劲去巴基斯坦，只为从伊朗拿到一份毫无价值的协议。",
-          "url": "https://flash.jin10.com/detail/20260426025410987800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时31分]"
-        },
-        {
-          "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
-          "url": "https://flash.jin10.com/detail/20260426025149294800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时31分]"
-        },
-        {
-          "title": "美国总统特朗普谈伊朗：在取消巴基斯坦谈判10分钟后收到一份新提议。",
-          "url": "https://flash.jin10.com/detail/20260426025031320800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：我从未考虑过放弃停火。",
@@ -283,17 +311,6 @@
           "time_info": "[03时40分 ~ 04时31分]"
         },
         {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
-          "url": "https://flash.jin10.com/detail/20260426033155583800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "特朗普告诉Axios记者：“我们掌握了一切。我们不会去那儿闲聊无事。”",
           "url": "https://flash.jin10.com/detail/20260426000726599800",
           "source": "金十数据",
@@ -353,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -365,8 +382,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -376,8 +393,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -388,8 +405,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -399,8 +416,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -438,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时31分]"
         }
       ]
     }
