@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T09:49:28.728453+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-04-25T12:32:47.562445+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 09时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 12时32分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -81,11 +81,12 @@
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 12时32分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -94,11 +95,12 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 09时49分]"
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时32分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -135,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -196,6 +187,32 @@
           "time_info": "[00时48分 ~ 01时45分]"
         },
         {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时32分]"
+        },
+        {
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时32分]"
+        },
+        {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
           "url": "https://flash.jin10.com/detail/20260425035056520800",
           "source": "金十数据",
@@ -220,19 +237,6 @@
           "time_info": "[04时39分 ~ 07时34分]"
         },
         {
-          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
-          "url": "https://wallstreetcn.com/livenews/3094313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 09时49分]"
-        },
-        {
           "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3094264",
           "source": "华尔街见闻-快讯",
@@ -254,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时40分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时32分]"
         },
         {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
@@ -337,17 +352,6 @@
           "time_info": "03时47分"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
           "url": "https://flash.jin10.com/detail/20260425025154863800",
           "source": "金十数据",
@@ -403,6 +407,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "特朗普在最新披露文件中报告了3月的大量债券购买",
+          "url": "https://flash.jin10.com/detail/20260425110625593800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
           "url": "https://www.zhihu.com/question/2030931346604778681",
           "source": "知乎",
@@ -420,7 +435,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -442,7 +457,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -453,7 +468,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -494,30 +509,47 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 09时49分]"
-        },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
           "url": "https://www.cls.cn/detail/2355054",
           "source": "财联社热门",
           "ranks": [
             3,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 12时32分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 12时32分]"
+        },
+        {
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            14,
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时48分 ~ 09时49分]"
+          "time_info": "[01时45分 ~ 12时32分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -544,8 +576,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 09时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 12时32分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -553,25 +585,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 09时49分]"
-        },
-        {
-          "title": "中方反对美方污蔑抹黑中国AI产业",
-          "url": "https://www.douyin.com/hot/2477525",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
             14,
-            7
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 09时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 12时32分]"
         },
         {
           "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
@@ -580,11 +599,36 @@
           "ranks": [
             20,
             19,
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时32分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260425120157689800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "软银准备为AI数据中心制造电池",
+          "url": "https://wallstreetcn.com/livenews/3094321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时34分 ~ 09时49分]"
+          "time_info": "[07时34分 ~ 12时32分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -597,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时39分]"
-        },
-        {
-          "title": "软银准备为AI数据中心制造电池",
-          "url": "https://wallstreetcn.com/livenews/3094321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 09时49分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -647,26 +679,71 @@
           "time_info": "[02时40分 ~ 06时34分]"
         },
         {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 12时32分]"
+        },
+        {
+          "title": "网警打谣|AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "微软向「工龄与年龄之和达到 70 或以上」员工提供自愿退休方案，裁员能对冲巨头的长期 AI 资本支出问题么？",
+          "url": "https://www.zhihu.com/question/2030945051489083937",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
+          "url": "https://www.zhihu.com/question/2031087393374041169",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
           "url": "https://www.toutiao.com/trending/7632491668544949786/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
         {
-          "title": "戛纳电影宫的中国AI时刻",
-          "url": "https://www.douyin.com/hot/2476611",
-          "source": "抖音",
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
+          "source": "百度热搜",
           "ranks": [
-            16
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "12时32分"
         },
         {
           "title": "市场消息：美国司法部介入xAI就科罗拉多州法律提起的诉讼。",
@@ -697,7 +774,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -830,6 +907,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "超聚变完成A股IPO辅导",
+          "url": "https://flash.jin10.com/detail/20260425095247617800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
