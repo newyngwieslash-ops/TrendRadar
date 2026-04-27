@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T05:50:20.954481+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-04-28T06:43:32.157946+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "避免和特朗普起冲突 北约考虑取消年度峰会",
@@ -74,15 +96,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
+          "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3095255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -93,8 +115,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时43分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
@@ -109,15 +142,28 @@
           "time_info": "[00时46分 ~ 02时02分]"
         },
         {
-          "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3095228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时43分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
+          "url": "https://flash.jin10.com/detail/20260428035839355800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时43分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -140,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "美国总统特朗普：吉米·基梅尔应立即被迪士尼和美国广播公司解雇。",
@@ -175,17 +232,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3095228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "美国白宫：特朗普的红线已经明确。",
           "url": "https://flash.jin10.com/detail/20260428012403221800",
           "source": "金十数据",
@@ -195,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
-          "url": "https://flash.jin10.com/detail/20260428035839355800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
         },
         {
           "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",
@@ -299,7 +334,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -310,8 +345,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
@@ -319,17 +354,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
-          "url": "https://flash.jin10.com/detail/20260428013540130800",
-          "source": "金十数据",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -344,8 +368,71 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
+          "url": "https://flash.jin10.com/detail/20260428013540130800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
@@ -372,66 +459,18 @@
           "time_info": "[00时46分 ~ 02时02分]"
         },
         {
-          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
-          "url": "https://wallstreetcn.com/articles/3770976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
-        },
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
-        },
-        {
-          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
-          "url": "https://www.cls.cn/detail/2357012",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
-        },
-        {
           "title": "美依礼芽回应歌手AI海报",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29,
             7,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
@@ -456,6 +495,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 02时02分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
+          "url": "https://wallstreetcn.com/livenews/3095251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
@@ -538,7 +599,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
@@ -548,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "A股活化石“000004”锁定退市",
@@ -561,19 +622,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "上证报：“市退”首超“面退”，A股多元化出清格局加速成形",
+          "url": "https://wallstreetcn.com/livenews/3095259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "A股“新股王”，一季度业绩抵去年全年",
           "url": "https://www.cls.cn/detail/2357060",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "A股两家行业龙头同遭立案",
@@ -583,22 +656,24 @@
             7,
             17,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "十大券商看后市｜A股有望延续震荡上行格局，警惕因分化带来的市场波动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33059765",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年4月28日 周二",
@@ -677,6 +752,23 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克诉Altman案：美国加州法官确定九人陪审团，开庭陈述将于周二开始",
+          "url": "https://wallstreetcn.com/livenews/3095248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "舆论",
       "match_count": 1,
       "titles": [
@@ -689,8 +781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 05时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 06时43分]"
         }
       ]
     }
