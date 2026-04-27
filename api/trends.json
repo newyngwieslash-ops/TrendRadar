@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:10:07.116523+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-04-27T18:57:02.319109+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -101,6 +101,17 @@
           "time_info": "[00时35分 ~ 13时47分]"
         },
         {
+          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
+          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普否认枪击事件与伊朗战争有关",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
           "source": "bilibili 热搜",
@@ -115,6 +126,22 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时35分 ~ 16时10分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 18时57分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -138,21 +165,6 @@
             13,
             9,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 16时10分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            11,
-            7
           ],
           "is_new": false,
           "appearance_count": 15,
@@ -210,11 +222,12 @@
           "ranks": [
             13,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 16时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 18时57分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -231,6 +244,17 @@
           "time_info": "[00时35分 ~ 10时04分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
           "url": "https://wallstreetcn.com/livenews/3094542",
           "source": "华尔街见闻-快讯",
@@ -244,17 +268,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 07时33分]"
-        },
-        {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 16时10分]"
         },
         {
           "title": "特朗普夫人反应迅速",
@@ -277,17 +290,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时10分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -359,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 13时47分]"
+        },
+        {
+          "title": "普京和泽连斯基彼此憎恶？特朗普否认",
+          "url": "https://news.ifeng.com/c/8sfNd3Sk5GD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
@@ -466,6 +479,18 @@
           "time_info": "[01时34分 ~ 05时32分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时57分]"
+        },
+        {
           "title": "今晨7:00 特朗普采访将播出",
           "url": "https://flash.jin10.com/detail/20260427034708194800",
           "source": "金十数据",
@@ -489,6 +514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
+        },
+        {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时57分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
@@ -530,18 +567,6 @@
           "time_info": "[01时34分 ~ 03时41分]"
         },
         {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时10分]"
-        },
-        {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
           "url": "https://wallstreetcn.com/livenews/3094509",
           "source": "华尔街见闻-快讯",
@@ -552,6 +577,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节",
+          "url": "https://www.cls.cn/detail/2356452",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "特朗普称伊朗可主动联系美国",
@@ -600,17 +636,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时34分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "美国总统特朗普：弗吉尼亚的选区重划糟糕，佛罗里达应该试试。",
@@ -816,7 +841,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "7只A股周末集中宣布：将被实施退市风险警示",
@@ -957,6 +982,28 @@
           "time_info": "[00时35分 ~ 07时33分]"
         },
         {
+          "title": "A股今日85股涨停",
+          "url": "https://www.toutiao.com/trending/7633250754186854409/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "信安世纪：公司股票自2026年4月28日开市起停牌1天，将于2026年4月29日开市起复牌实施其他风险警示，实施后A股简称为ST信安。",
+          "url": "https://wallstreetcn.com/livenews/3094930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "A股科技成长板块高位巨震，机构：高景气赛道趋势不改",
           "url": "https://wallstreetcn.com/livenews/3094566",
           "source": "华尔街见闻-快讯",
@@ -1081,7 +1128,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1174,19 +1221,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时57分]"
         },
         {
           "title": "歌手 AI海报",
           "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时57分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -1204,6 +1263,19 @@
           "time_info": "[01时34分 ~ 05时32分]"
         },
         {
+          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时57分]"
+        },
+        {
           "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
           "url": "https://www.zhihu.com/question/2031001231607296969",
           "source": "知乎",
@@ -1214,6 +1286,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 13时47分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时57分]"
         },
         {
           "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
@@ -1240,27 +1324,15 @@
           "time_info": "[13时47分 ~ 16时10分]"
         },
         {
-          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
-          "source": "澎湃新闻",
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
           "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时10分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
@@ -1291,7 +1363,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -1321,7 +1393,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：如果他们愿意为暗杀而死，想象一下如果他们获得政治权力会做什么。",
@@ -1335,6 +1407,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时41分]"
+        },
+        {
+          "title": "特斯拉：4月21日，马斯克签署实施协议，以行使2018年首席执行官绩效奖励。 提交S-8表格，为马斯克2018年CEO绩效奖励注册3.0396亿股特斯拉普通股。",
+          "url": "https://wallstreetcn.com/livenews/3094921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "马斯克诉奥尔特曼案开庭在即：科技版综合格斗？双方或全面“互伤”！",
+          "url": "https://flash.jin10.com/detail/20260427180811848800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：提交S-8表格，为马斯克2018年首席执行官绩效奖励注册3.0396亿股特斯拉普通股。",
+          "url": "https://flash.jin10.com/detail/20260427180718983800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：4月21日，马斯克签署实施协议，以行使2018年首席执行官绩效奖励。",
+          "url": "https://flash.jin10.com/detail/20260427180636920800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -1348,11 +1464,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时10分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时57分]"
         }
       ]
     }
