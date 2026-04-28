@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:12:09.873427+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-04-28T18:58:12.392444+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -77,6 +77,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 18时58分]"
+        },
+        {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
           "url": "https://flash.jin10.com/detail/20260428014452640800",
           "source": "金十数据",
@@ -144,6 +155,29 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 18时58分]"
+        },
+        {
           "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
           "url": "https://flash.jin10.com/detail/20260428062503291800",
           "source": "金十数据",
@@ -166,40 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时46分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时12分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时12分]"
-        },
-        {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时12分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -272,6 +272,17 @@
           "time_info": "[05时50分 ~ 06时43分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
           "url": "https://flash.jin10.com/detail/20260428035839355800",
           "source": "金十数据",
@@ -337,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
+          "url": "https://wallstreetcn.com/livenews/3095689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
@@ -507,7 +529,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -518,11 +540,12 @@
             4,
             6,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 18时58分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -549,6 +572,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 10时10分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 18时58分]"
         },
         {
           "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
@@ -611,18 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时12分]"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -701,6 +725,28 @@
           "time_info": "[13时52分 ~ 16时12分]"
         },
         {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
@@ -737,6 +783,17 @@
           "time_info": "[06时43分 ~ 07时46分]"
         },
         {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
           "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095139",
           "source": "华尔街见闻-快讯",
@@ -758,6 +815,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "高盛：AI风险正加剧关于股票估值的争论",
@@ -824,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "谷歌与五角大楼签署机密AI协议。（The Information）",
@@ -906,7 +985,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
@@ -1065,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "三房巷：公司股票将于2026年4月30日起被实施退市风险警示及叠加其他风险警示，实施后A股简称为*ST三房。",
+          "url": "https://wallstreetcn.com/livenews/3095694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "A股绿电概念午后再度活跃，华银电力封涨停，九洲集团、中国西电、豫能控股等跟涨。",
