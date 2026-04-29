@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:13:31.856153+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-04-29T23:06:29.431696+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -43,8 +43,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 23时06分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 23时06分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时42分 ~ 13时48分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时13分]"
         },
         {
           "title": "英国国王给特朗普送了一口钟",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 16时05分]"
+        },
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -416,13 +427,24 @@
           "time_info": "01时42分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "查尔斯国王给特朗普送了口钟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -504,6 +526,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
           "url": "https://wallstreetcn.com/livenews/3096087",
           "source": "华尔街见闻-快讯",
@@ -529,7 +562,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -539,8 +572,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时48分 ~ 20时13分]"
+          "appearance_count": 9,
+          "time_info": "[07时48分 ~ 23时06分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -549,11 +582,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时51分 ~ 20时13分]"
+          "appearance_count": 10,
+          "time_info": "[06时51分 ~ 23时06分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -602,6 +636,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 16时05分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 23时06分]"
         },
         {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
@@ -657,19 +705,6 @@
           "time_info": "[06时51分 ~ 13时48分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 20时13分]"
-        },
-        {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
           "url": "https://flash.jin10.com/detail/20260429030025624800",
           "source": "金十数据",
@@ -703,6 +738,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "岗位被AI替代怎么办？杭州发布指引",
           "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
           "source": "百度热搜",
@@ -729,6 +775,18 @@
           "time_info": "[01时42分 ~ 03时24分]"
         },
         {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 23时06分]"
+        },
+        {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
           "url": "https://www.zhihu.com/question/2032163714355263384",
           "source": "知乎",
@@ -740,17 +798,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 07时48分]"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时13分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月28日",
@@ -870,6 +917,18 @@
           "time_info": "[06时51分 ~ 07时48分]"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时06分]"
+        },
+        {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
@@ -880,6 +939,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 03时24分]"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
@@ -937,17 +1007,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
           "title": "国家数研院副院长：将算力与电网规划纳入统一空间体系，适度超前、动态适配AI发展",
           "url": "https://wallstreetcn.com/livenews/3096218",
           "source": "华尔街见闻-快讯",
@@ -998,7 +1057,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1017,7 +1076,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "A股猪肉概念震荡走高，金新农涨停，正邦科技涨超9%，巨星农牧、天邦食品、神农集团、傲农生物、牧原股份等个股跟涨。",
@@ -1153,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "A股放量上涨 全市场超百股涨停",
+          "url": "https://www.toutiao.com/trending/7633785740467683354/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "A股食品等消费股盘初走强，安井食品、天味食品、百润股份、西麦食品涨停，良品铺子、盐津铺子、黑芝麻、万辰集团跟涨。",
@@ -1354,7 +1424,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -1385,7 +1455,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "与火星殖民和太空数据中心挂钩！SpaceX IPO前夕 马斯克天价薪酬方案曝光",
@@ -1409,6 +1479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "报道：马斯克拥有将自己踢出SpaceX董事会的“唯一权限”",
+          "url": "https://wallstreetcn.com/livenews/3096773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     }
