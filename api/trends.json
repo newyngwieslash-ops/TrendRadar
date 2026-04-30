@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T13:52:32.508046+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-04-30T16:08:42.086984+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时52分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时52分 ~ 16时08分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -81,6 +81,17 @@
           "time_info": "[06时52分 ~ 10时12分]"
         },
         {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
+        },
+        {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
           "url": "https://www.cls.cn/detail/2360318",
           "source": "财联社热门",
@@ -105,6 +116,17 @@
           "time_info": "[01时21分 ~ 07时53分]"
         },
         {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
           "url": "https://www.zhihu.com/question/2032422954055776061",
           "source": "知乎",
@@ -117,15 +139,39 @@
           "time_info": "[07时53分 ~ 10时12分]"
         },
         {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -148,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
@@ -195,17 +230,6 @@
           "time_info": "[04时56分 ~ 06时52分]"
         },
         {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "特朗普要求以色列总理内塔尼亚胡行事更加谨慎，不要摧毁建筑物，因为这会损害以色列的形象。",
           "url": "https://flash.jin10.com/detail/20260430011544167800",
           "source": "金十数据",
@@ -215,28 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -288,6 +290,19 @@
           "time_info": "[03时13分 ~ 05时56分]"
         },
         {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
           "url": "https://www.cls.cn/detail/2360339",
           "source": "财联社热门",
@@ -322,18 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 10时12分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时52分]"
         },
         {
           "title": "特朗普称或削减驻德美军",
@@ -402,7 +405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -457,7 +460,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -501,7 +504,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -578,7 +581,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -655,7 +658,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -718,7 +721,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -727,11 +730,12 @@
           "ranks": [
             5,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 13时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 16时08分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -771,6 +775,22 @@
           "time_info": "[01时21分 ~ 10时12分]"
         },
         {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            7,
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时56分 ~ 16时08分]"
+        },
+        {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
           "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
@@ -781,21 +801,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 05时56分]"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 13时52分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -845,6 +850,20 @@
           "time_info": "07时53分"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时52分 ~ 16时08分]"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
           "url": "https://flash.jin10.com/detail/20260430062037400800",
           "source": "金十数据",
@@ -869,17 +888,17 @@
           "time_info": "[06时52分 ~ 07时53分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15,
-            11
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时52分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 16时08分]"
         },
         {
           "title": "在异环中演奏See you again",
@@ -893,16 +912,16 @@
           "time_info": "[04时56分 ~ 07时53分]"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 16时08分]"
         },
         {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
@@ -940,17 +959,6 @@
           "time_info": "[03时13分 ~ 03时14分]"
         },
         {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
           "url": "https://wallstreetcn.com/livenews/3096826",
           "source": "华尔街见闻-快讯",
@@ -962,6 +970,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
+          "url": "https://wallstreetcn.com/articles/3771219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
           "url": "https://flash.jin10.com/detail/20260430010327901800",
           "source": "金十数据",
@@ -971,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "半导体设备Q1业绩扫描：多家龙头净利暴增 AI仍是核心驱动因素",
+          "url": "https://www.cls.cn/detail/2360457",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "燃料电池牛股化身“AI供电新贵” Bloom Energy绩后暴涨再创新高",
@@ -990,9 +1020,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3097306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
@@ -1020,7 +1061,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年4月30日",
@@ -1087,9 +1128,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "一图看懂 | “五一”假期休市日历来了：A股连休5天，港股休3天",
+          "url": "https://www.cls.cn/detail/2359089",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "A股房地产开发板块震荡走高，津投城开、金融街、京投发展等多股涨停，万通发展涨超6%，北辰实业、中洲控股、华联控股等个股跟涨。消息面上，深圳进一步优化调整住房限购政策和住房公积金贷款政策。",
@@ -1109,7 +1161,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1131,7 +1183,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1142,9 +1194,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "A股4月收官！创业板指本月涨超15%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A14%E6%9C%88%E6%94%B6%E5%AE%98%EF%BC%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%9C%AC%E6%9C%88%E6%B6%A8%E8%B6%8515%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "A股保险股集体走强，新华保险、中国人寿双双涨超3%，中国平安、中国太保、中国人保均跟涨。消息面上，新华保险第一季度归母净利润同比增加10.5%。",
@@ -1197,7 +1260,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1227,8 +1290,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股盘前：高通涨约12%，谷歌A涨约7%，Meta跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3097320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
           "url": "https://flash.jin10.com/detail/20260430041652163800",
@@ -1257,11 +1331,12 @@
           "url": "https://wallstreetcn.com/articles/3771319",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时08分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
@@ -1314,7 +1389,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1365,7 +1440,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
