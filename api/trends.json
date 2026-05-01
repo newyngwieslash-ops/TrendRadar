@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T14:10:04.225751+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-01T16:56:10.932782+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -41,11 +41,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时53分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[04时53分 ~ 16时56分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -97,6 +98,17 @@
           "time_info": "[03时09分 ~ 10时25分]"
         },
         {
+          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
+          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 16时56分]"
+        },
+        {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
           "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
-          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
         },
         {
           "title": "特朗普还是没抵住诱惑",
@@ -206,6 +207,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 16时56分]"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -336,15 +349,38 @@
           "time_info": "[01时12分 ~ 03时09分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 16时56分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 14时10分]"
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
@@ -439,17 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普称美国结束对伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
         },
         {
           "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
@@ -626,33 +651,6 @@
           "time_info": "[01时12分 ~ 07时45分]"
         },
         {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 14时10分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 14时10分]"
-        },
-        {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
           "url": "https://www.cls.cn/detail/2361533",
           "source": "财联社热门",
@@ -664,8 +662,46 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时51分 ~ 14时10分]"
+          "appearance_count": 10,
+          "time_info": "[05时51分 ~ 16时56分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 16时56分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 16时56分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 16时56分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -683,20 +719,22 @@
           "time_info": "[01时12分 ~ 06时45分]"
         },
         {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 16时56分]"
+        },
+        {
           "title": "女子被AI误导闯入响尾蛇窝",
           "url": "https://www.toutiao.com/trending/7634484856417468470/",
           "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
           "ranks": [
             4
           ],
@@ -728,18 +766,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 05时52分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 14时10分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -890,8 +916,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时44分 ~ 16时56分]"
+        },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
           "url": "https://wallstreetcn.com/articles/3771319",
@@ -906,17 +945,17 @@
           "time_info": "[01时12分 ~ 07时45分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            1
+            11,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 14时10分]"
+          "appearance_count": 8,
+          "time_info": "[06时44分 ~ 16时56分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -931,28 +970,16 @@
           "time_info": "[01时12分 ~ 10时25分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 14时10分]"
-        },
-        {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 16时56分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -965,6 +992,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 10时25分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -1113,11 +1151,12 @@
             15,
             13,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 14时10分]"
+          "appearance_count": 13,
+          "time_info": "[03时09分 ~ 16时56分]"
         }
       ]
     },
