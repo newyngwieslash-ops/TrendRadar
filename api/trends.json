@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:18:51.075511+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-05-01T19:54:29.330600+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时53分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[04时53分 ~ 19时54分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -121,6 +121,18 @@
           "time_info": "[01时12分 ~ 07时45分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 19时54分]"
+        },
+        {
           "title": "特朗普还是没抵住诱惑",
           "url": "https://news.ifeng.com/c/8slQvquk7wK",
           "source": "凤凰网",
@@ -130,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -302,6 +302,17 @@
           "time_info": "[05时52分 ~ 07时45分]"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时54分]"
+        },
+        {
           "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
           "url": "https://wallstreetcn.com/livenews/3097712",
           "source": "华尔街见闻-快讯",
@@ -367,17 +378,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -466,6 +466,18 @@
           "time_info": "[14时09分 ~ 14时10分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时54分]"
+        },
+        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -522,6 +534,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
           "url": "https://flash.jin10.com/detail/20260501023140297800",
           "source": "金十数据",
@@ -555,15 +578,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时54分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -646,7 +669,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "假如AI能模拟去世亲人",
@@ -674,8 +697,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时51分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[05时51分 ~ 19时54分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -698,11 +721,12 @@
           "ranks": [
             20,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 19时54分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -714,6 +738,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时09分 ~ 18时18分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6,
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 19时54分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -729,20 +768,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 06时45分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 18时18分]"
         },
         {
           "title": "女子被AI误导闯入响尾蛇窝",
@@ -781,6 +806,17 @@
           "time_info": "[01时12分 ~ 05时52分]"
         },
         {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
           "url": "https://flash.jin10.com/detail/20260501054951579800",
           "source": "金十数据",
@@ -791,6 +827,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时45分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时54分]"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -827,15 +875,15 @@
           "time_info": "10时25分"
         },
         {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
+          "title": "美国五角大楼将扩大英伟达(NVDA.O)和微软(MSFT.O)人工智能在秘密网络中的使用。国防部还与亚马逊云服务(AWS)和Reflection AI公司达成了协议。",
+          "url": "https://flash.jin10.com/detail/20260501190310668800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时54分"
         },
         {
           "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
@@ -952,8 +1000,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时44分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[06时44分 ~ 19时54分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时44分 ~ 19时54分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -967,19 +1028,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时45分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时44分 ~ 18时18分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1011,11 +1059,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时54分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -1066,7 +1115,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克庭审交叉询问环节多次失控",
@@ -1106,6 +1155,17 @@
           "time_info": "[07时45分 ~ 10时25分]"
         },
         {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "马斯克：将于5月5日发布经过重建的平台。",
           "url": "https://wallstreetcn.com/livenews/3097654",
           "source": "华尔街见闻-快讯",
@@ -1120,7 +1180,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年5月1日",
@@ -1144,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 14时10分]"
+        },
+        {
+          "title": "科创板连续七年保持近13%的研发投入强度，稳居A股各板块研发投入强度首位",
+          "url": "https://wallstreetcn.com/livenews/3097871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
@@ -1181,8 +1252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时09分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[03时09分 ~ 19时54分]"
         }
       ]
     },
