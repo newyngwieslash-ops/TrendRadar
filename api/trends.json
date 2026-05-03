@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T01:41:37.426106+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-04T02:48:57.386923+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -37,8 +37,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普称伊朗的“新提议”不可接受",
+          "url": "https://flash.jin10.com/detail/20260504014300450800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普在接受采访时表示，告诉你们的总统赦免比比（指内塔尼亚胡），他是一位战时总理。",
+          "url": "https://flash.jin10.com/detail/20260504013838627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -46,11 +68,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
@@ -60,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -72,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -83,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -94,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -105,8 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -116,19 +139,55 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
           "url": "https://www.zhihu.com/question/2033940567420319293",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
+          "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
+          "url": "https://flash.jin10.com/detail/20260504005128327800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
+          "title": "美国代理司法部长：特朗普关于在伊朗的军事行动不是战争的言论是正确的，认为此举违法的说法无效。",
+          "url": "https://flash.jin10.com/detail/20260504004138467800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普在接受采访时表示，（伊朗的）提议我不接受。我们考虑了伊朗的提议，但这对我们不利。",
+          "url": "https://flash.jin10.com/detail/20260504013508239800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时48分"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -140,28 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        },
-        {
-          "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
-          "url": "https://flash.jin10.com/detail/20260504005128327800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国代理司法部长：特朗普关于在伊朗的军事行动不是战争的言论是正确的，认为此举违法的说法无效。",
-          "url": "https://flash.jin10.com/detail/20260504004138467800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
         },
         {
           "title": "伊朗最高领袖外事顾问：特朗普近期言行难掩“白宫幻想破灭”",
@@ -189,18 +226,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
           "url": "https://www.zhihu.com/question/2034241896516510290",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -210,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -222,8 +260,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -231,11 +269,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
@@ -245,8 +284,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -256,8 +295,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -267,8 +306,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -279,8 +318,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -290,30 +329,43 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
           "url": "https://www.toutiao.com/trending/7635183364001234963/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
+          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "02时48分"
         }
       ]
     },
@@ -329,8 +381,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年5月4日 周一",
@@ -356,11 +408,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         }
       ]
     },
@@ -373,11 +426,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 02时48分]"
         }
       ]
     }
