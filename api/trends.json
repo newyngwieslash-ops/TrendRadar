@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T13:52:41.489762+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-05-03T15:52:00.040687+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时51分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时51分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -91,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时51分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -195,9 +195,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "特朗普：美国有可能重启对伊朗空袭",
@@ -208,8 +208,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 15时51分]"
+        },
+        {
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时08分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -260,6 +272,42 @@
           "time_info": "[00时39分 ~ 01时39分]"
         },
         {
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
+        },
+        {
           "title": "伊朗战争丨伊方公布最新谈判方案，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -271,17 +319,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "特朗普说有可能重启对伊朗空袭",
           "url": "https://flash.jin10.com/detail/20260503081040091800",
           "source": "金十数据",
@@ -291,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普说从德国撤军人数将远超5000",
+          "url": "https://flash.jin10.com/detail/20260503133536402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -315,17 +363,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "特朗普称美国有可能重启对伊朗空袭",
           "url": "https://wallstreetcn.com/livenews/3098199",
           "source": "华尔街见闻-快讯",
@@ -335,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "特朗普威胁称伊朗“尚未付出足够大代价”",
@@ -359,24 +385,13 @@
           "time_info": "10时08分"
         },
         {
-          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
-          "url": "https://wallstreetcn.com/livenews/3098221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "德副总理说德国不需要特朗普指点",
           "url": "https://www.toutiao.com/trending/7634517566077075475/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -387,7 +402,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -395,7 +410,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -407,8 +422,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时51分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -443,11 +458,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时51分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -507,6 +523,19 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 15时51分]"
+        },
+        {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
           "url": "https://flash.jin10.com/detail/20260503042107626800",
           "source": "金十数据",
@@ -535,18 +564,6 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 13时52分]"
-        },
-        {
           "title": "误导女子闯入毒蛇窝AI道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -565,22 +582,24 @@
           "url": "https://flash.jin10.com/detail/20260503120603824800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260503120602300800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
@@ -593,6 +612,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时36分 ~ 10时08分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -619,15 +650,37 @@
           "time_info": "[00时39分 ~ 01时39分]"
         },
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "15时51分"
+        },
+        {
+          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
+          "url": "https://www.cls.cn/detail/2362207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
@@ -639,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "公司用AI后35岁主管被裁 法院判了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%90%8E35%E5%B2%81%E4%B8%BB%E7%AE%A1%E8%A2%AB%E8%A3%81+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
@@ -688,7 +752,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -741,11 +805,23 @@
           "url": "https://flash.jin10.com/detail/20260503115208564800",
           "source": "金十数据",
           "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时51分]"
+        },
+        {
+          "title": "马斯克去年薪酬实发金额为0",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
+          "source": "bilibili 热搜",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "15时51分"
         }
       ]
     }
