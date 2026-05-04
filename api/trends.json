@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:38:07.931938+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-04T10:08:10.636308+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -64,11 +64,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -93,19 +94,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -146,6 +148,17 @@
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
           "url": "https://wallstreetcn.com/livenews/3098301",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -165,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -385,6 +398,17 @@
           "time_info": "[05时36分 ~ 06时34分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
           "url": "https://flash.jin10.com/detail/20260504053755382800",
           "source": "金十数据",
@@ -415,7 +439,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -437,7 +461,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -467,7 +491,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -481,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
@@ -495,21 +519,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -524,6 +535,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 05时36分]"
+        },
+        {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -547,26 +572,12 @@
             9,
             8,
             7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
             6,
-            9,
-            8,
-            18,
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时41分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
@@ -577,11 +588,41 @@
             7,
             11,
             9,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时48分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[02时48分 ~ 10时08分]"
+        },
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时50分 ~ 10时08分]"
+        },
+        {
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            8,
+            18,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时41分 ~ 10时08分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -589,11 +630,12 @@
           "source": "微博",
           "ranks": [
             10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -603,8 +645,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -621,19 +663,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时50分 ~ 07时38分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -660,6 +689,83 @@
           "time_info": "[06时34分 ~ 07时38分]"
         },
         {
+          "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
+          "url": "https://wallstreetcn.com/articles/3771508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "公司引进AI后将员工降薪裁员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "马桶巨头进军AI芯片行业",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%A1%B6%E5%B7%A8%E5%A4%B4%E8%BF%9B%E5%86%9BAI%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
+          "url": "https://flash.jin10.com/detail/20260504094831597800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
+          "url": "https://flash.jin10.com/detail/20260504094810391800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：就霍尔木兹海峡冲击模型而言，没有任何信息暗示存在反射性的紧缩倾向。",
+          "url": "https://flash.jin10.com/detail/20260504094755879800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
           "url": "https://www.zhihu.com/question/2030620331904333198",
           "source": "知乎",
@@ -683,11 +789,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年5月4日",
@@ -696,7 +803,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -730,11 +837,12 @@
             16,
             23,
             25,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 10时08分]"
         }
       ]
     },
