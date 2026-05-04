@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T20:22:33.896058+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-05-04T23:07:20.068837+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -112,6 +112,43 @@
           "time_info": "[00时40分 ~ 10时08分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 23时07分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
           "url": "https://www.zhihu.com/question/2034052667509621790",
           "source": "知乎",
@@ -138,40 +175,18 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 20时22分]"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 20时22分]"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
           "source": "财联社热门",
           "ranks": [
-            13
+            12,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时36分]"
+          "time_info": "[10时07分 ~ 23时07分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -186,29 +201,40 @@
           "time_info": "[10时07分 ~ 19时02分]"
         },
         {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 20时22分]"
-        },
-        {
           "title": "美财长保证特朗普访华不会再推迟",
           "url": "https://news.ifeng.com/c/8sqceV545op",
           "source": "凤凰网",
           "ranks": [
             1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 23时07分]"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 23时07分]"
         },
         {
           "title": "特朗普启动\"引导行动\"后，伊朗发射两枚导弹逼退美军，油价应声大涨，美股期货跳水",
@@ -222,17 +248,6 @@
           "time_info": "[19时01分 ~ 19时02分]"
         },
         {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
           "url": "https://wallstreetcn.com/livenews/3098402",
           "source": "华尔街见闻-快讯",
@@ -242,17 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -581,7 +585,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -608,6 +612,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "巴西总统卢拉将在未来几天前往美国，与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260504223900179800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "四道难关近在眼前 特朗普怎么过",
           "url": "https://www.toutiao.com/trending/7634889469027581971/",
           "source": "今日头条",
@@ -625,7 +640,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -666,7 +681,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -833,11 +848,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 23时07分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -845,11 +861,24 @@
           "source": "贴吧",
           "ranks": [
             5,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 23时07分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时34分 ~ 23时07分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -866,17 +895,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时34分 ~ 20时22分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -936,8 +954,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 23时07分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -948,8 +966,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 23时07分]"
         },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -957,11 +975,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 23时07分]"
         },
         {
           "title": "公司引进AI后将员工降薪裁员",
@@ -1010,6 +1029,17 @@
           "time_info": "[10时07分 ~ 10时08分]"
         },
         {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
           "url": "https://flash.jin10.com/detail/20260504094831597800",
           "source": "金十数据",
@@ -1054,6 +1084,28 @@
           "time_info": "10时08分"
         },
         {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
+          "title": "暗访起底AI换脸制黄3000人大群",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%97%E8%AE%BF%E8%B5%B7%E5%BA%95AI%E6%8D%A2%E8%84%B8%E5%88%B6%E9%BB%843000%E4%BA%BA%E5%A4%A7%E7%BE%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
           "url": "https://www.zhihu.com/question/2030620331904333198",
           "source": "知乎",
@@ -1089,11 +1141,12 @@
             8,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 20时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 23时07分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年5月4日",
@@ -1123,25 +1176,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国政府正在寻求方法，以帮助加快对谷歌TPU的类似审批流程。",
-          "url": "https://flash.jin10.com/detail/20260504200225855800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克去年薪酬实发金额为0",
@@ -1160,6 +1196,34 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 10时08分]"
+        },
+        {
+          "title": "特斯拉达到马斯克设定的“安全无人驾驶”标准。",
+          "url": "https://flash.jin10.com/detail/20260504223128884800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国政府正在寻求方法，以帮助加快对谷歌TPU的类似审批流程。",
+          "url": "https://flash.jin10.com/detail/20260504200225855800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
