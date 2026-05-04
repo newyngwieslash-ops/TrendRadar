@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T05:01:47.060041+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-05T06:09:22.455708+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -37,19 +37,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
-          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
-          "url": "https://flash.jin10.com/detail/20260505042903484800",
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://flash.jin10.com/detail/20260505060622689800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "美国总统特朗普：我讨厌不得不返还关税。",
-          "url": "https://flash.jin10.com/detail/20260505042844950800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
@@ -93,8 +93,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
+          "url": "https://flash.jin10.com/detail/20260505042903484800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时09分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -104,8 +116,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我讨厌不得不返还关税。",
+          "url": "https://flash.jin10.com/detail/20260505042844950800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时09分]"
         },
         {
           "title": "特朗普又有新绰号：NACHO",
@@ -115,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -127,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
@@ -148,7 +172,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -170,9 +194,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+          "url": "https://flash.jin10.com/detail/20260505050012247800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：重申伊朗不能拥有核武器。",
@@ -181,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -192,9 +227,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "学者：特朗普2.0经济政策逻辑与趋势",
@@ -214,7 +260,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -236,7 +282,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -258,17 +304,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
-          "url": "https://wallstreetcn.com/livenews/3098642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
@@ -277,8 +312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -289,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -300,8 +335,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
+        },
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时09分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -311,8 +358,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -322,8 +369,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -335,8 +382,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -347,8 +394,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
@@ -358,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 06时09分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -401,7 +448,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -412,7 +459,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -427,11 +474,12 @@
           "url": "https://wallstreetcn.com/livenews/3098637",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时09分]"
         },
         {
           "title": "法庭纪录显示，该和解协议不包含任何承认过错的内容，将撤销埃隆·马斯克作为个人被告的身份，并将“彻底解决本案”。",
@@ -440,7 +488,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -451,7 +499,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -462,7 +510,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -480,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时09分]"
         }
       ]
     }
