@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T01:32:05.310892+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-07T03:27:10.782694+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 30,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,8 +15,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
+          "url": "https://flash.jin10.com/detail/20260507031148642800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
+          "url": "https://flash.jin10.com/detail/20260507030743676800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：美伊“很有可能”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -25,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -36,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -48,19 +81,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "time_info": "[03时26分 ~ 03时27分]"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
+          "url": "https://flash.jin10.com/detail/20260507030535215800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -69,9 +125,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已同意不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260507030426078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：即使石油价格涨到200美元，也值得",
+          "url": "https://wallstreetcn.com/livenews/3099535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们希望所有伊朗人都能活着。",
+          "url": "https://flash.jin10.com/detail/20260507030406347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
+          "url": "https://flash.jin10.com/detail/20260507030331856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -80,9 +180,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚与埃克森美孚董事长会面。",
+          "url": "https://flash.jin10.com/detail/20260507030326615800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们无法从伊朗那里得到我们想要的，我们就不得不采取进一步行动。",
+          "url": "https://flash.jin10.com/detail/20260507030316370800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：过去24小时与伊朗的谈判非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260507030114049800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
@@ -91,7 +224,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -102,9 +235,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普在白宫预告UFC赛事，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260507025912909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）正在与真心想达成协议的人打交道。",
@@ -113,7 +257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -124,7 +268,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -135,9 +279,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3099521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们想达成协议。",
@@ -146,15 +301,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "报道称，巴西总统卢拉将在周四会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507024458637800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
+          "url": "https://wallstreetcn.com/livenews/3099515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
+          "url": "https://wallstreetcn.com/livenews/3099511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -164,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -175,41 +363,66 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
+        },
+        {
+          "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
+          "url": "https://wallstreetcn.com/livenews/3099540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
+          "url": "https://flash.jin10.com/detail/20260507030831224800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -219,8 +432,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
+        },
+        {
+          "title": "10后小孩哥用AI帮妈妈管店",
+          "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "time_info": "[03时26分 ~ 03时27分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -232,6 +456,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 01时32分]"
+        },
+        {
+          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
+          "url": "https://wallstreetcn.com/livenews/3099536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
+          "url": "https://wallstreetcn.com/livenews/3099520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     },
@@ -246,7 +492,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -257,7 +503,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -272,11 +518,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         }
       ]
     },
@@ -292,8 +539,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时27分]"
         }
       ]
     }
