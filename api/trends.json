@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T05:05:49.929554+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-07T06:42:53.676652+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,8 +15,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -30,15 +53,17 @@
           "time_info": "03时27分"
         },
         {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://news.ifeng.com/c/8sugghRWW2t",
-          "source": "凤凰网",
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            11,
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
@@ -85,28 +110,17 @@
           "time_info": "01时32分"
         },
         {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
-        },
-        {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -140,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普：即使石油价格涨到200美元，也值得",
@@ -335,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -357,7 +382,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         }
@@ -365,7 +390,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -376,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -387,8 +412,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
+        },
+        {
+          "title": "有AI真好 放以前没十几亿下不来",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
         },
         {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
@@ -400,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
-          "url": "https://wallstreetcn.com/livenews/3099573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
         },
         {
           "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
@@ -430,7 +469,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -441,21 +480,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "有AI真好 放以前没十几亿下不来",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -483,16 +510,16 @@
           "time_info": "[01时31分 ~ 05时05分]"
         },
         {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
+          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
+          "url": "https://wallstreetcn.com/livenews/3099573",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            18
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 06时42分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -500,11 +527,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 06时42分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -519,6 +547,18 @@
           "time_info": "[01时31分 ~ 05时05分]"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 06时42分]"
+        },
+        {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
           "url": "https://wallstreetcn.com/livenews/3099536",
           "source": "华尔街见闻-快讯",
@@ -530,24 +570,13 @@
           "time_info": "03时27分"
         },
         {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
           "title": "苹果研发投入占营收比重突破10%，AI竞赛引发“紧迫感”",
           "url": "https://wallstreetcn.com/livenews/3099557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -561,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "Scale AI获美国防部价值5亿美元的合同",
+          "url": "https://flash.jin10.com/detail/20260507050033181800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -593,6 +633,51 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
+        },
+        {
+          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
+          "url": "https://wallstreetcn.com/livenews/3099599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌向欧盟提交整改方案，寻求避免新闻搜索案罚款",
+          "url": "https://wallstreetcn.com/livenews/3099585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude Code openai",
       "match_count": 1,
       "titles": [
@@ -603,28 +688,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
-          "url": "https://wallstreetcn.com/articles/3771617",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 06时42分]"
         }
       ]
     }
