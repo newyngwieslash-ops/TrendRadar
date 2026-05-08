@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-08T07:47:06.130923+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-05-08T10:26:05.884064+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
           "url": "https://news.ifeng.com/c/8swPaRUXu6L",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时26分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时26分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -57,11 +58,12 @@
           "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 10时26分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -74,6 +76,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 02时27分]"
+        },
+        {
+          "title": "美国前副总统哈里斯：美国人民不想要这场伊朗战争，特朗普所有的话都是胡说八道。",
+          "url": "https://flash.jin10.com/detail/20260508101449928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -192,6 +205,17 @@
           "time_info": "[06时55分 ~ 07时47分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
           "url": "https://wallstreetcn.com/livenews/3100233",
           "source": "华尔街见闻-快讯",
@@ -226,6 +250,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美东时间周五中午（北京时间周六凌晨）在玫瑰园发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260508100502102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "美国总统特朗普：（与欧盟委员会主席冯德莱恩）讨论了多个议题，包括我们完全一致认为伊朗绝不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260508031010140800",
           "source": "金十数据",
@@ -243,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -276,7 +311,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -298,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -309,7 +344,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -364,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -408,7 +443,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -416,7 +451,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -425,22 +460,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时26分 ~ 07时47分]"
+          "appearance_count": 9,
+          "time_info": "[02时26分 ~ 10时26分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 10时26分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -452,8 +489,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时47分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 10时26分]"
         },
         {
           "title": "加码科技金融，中小银行盼AIC试点扩容",
@@ -479,13 +516,57 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
+          "url": "https://wallstreetcn.com/articles/3771763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
           "url": "https://flash.jin10.com/detail/20260508065544953800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -496,7 +577,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -554,12 +635,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "港股AI应用股盘初拉升，迈富时(02556.HK)涨超11.5%，阜博集团(03738.HK)涨超5%，金山软件(03888.HK)、金蝶国际(00268.HK)、明源云(00909.HK)、微盟集团(02013.HK)均涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260508095355656800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
+          "url": "https://flash.jin10.com/detail/20260508095017331800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "传奇投资者：沃什“绝无可能”降息，AI牛市还能持续1-2年",
+          "url": "https://flash.jin10.com/detail/20260508094554022800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
@@ -574,6 +688,28 @@
           "time_info": "[00时02分 ~ 07时47分]"
         },
         {
+          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
+          "url": "https://www.cls.cn/detail/2365550",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，五洲新春触及涨停，巨轮智能此前封板，乔锋智能涨超10%，祥鑫科技、绿的谐波、飞龙股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3100339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
           "url": "https://wallstreetcn.com/livenews/3100244",
           "source": "华尔街见闻-快讯",
@@ -586,15 +722,48 @@
           "time_info": "[06时55分 ~ 07时47分]"
         },
         {
+          "title": "今年4月A股新开户数249.13万户",
+          "url": "https://www.toutiao.com/trending/7637175168725876762/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "A股商业航天板块震荡上涨，电科蓝天、戈碧迦涨超13%，航天长峰涨超6%，烽火通信、凌云股份、春晖智控等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508101303027800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年5月8日",
           "url": "https://flash.jin10.com/detail/20260508070328434800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "高盛将沪深300指数12个月目标位设于5300点，较周三收盘有约9%的涨幅空间，并指出投资A股颇具吸引力。",
+          "url": "https://flash.jin10.com/detail/20260508101056476800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年5月8日 周五",
@@ -603,9 +772,86 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "A股软件开发板块盘中震荡走强，荣联科技、中国软件封板涨停，博睿数据、卫宁健康、榕基软件、新大陆跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508100318957800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股小金属板块短线拉升，云南锗业封板涨停，中稀有色、盛龙股份、宝武镁业、金钼股份、安宁股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508095654788800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股三大指数低开，创业板跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3100305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股流感疫苗板块震荡走高，众生药业两连板，达安基因封板涨停，华兰疫苗、东方生物、奥泰生物、联环药业、之江生物跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508095120119800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股CPO概念板块低开高走水下拉起，迅捷兴20CM涨停，铭普光磁、红板科技、晶泰科技均封板涨停，光大同创、胜宏科技等多股涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260508095029413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股辅导备案引关注，昆仑芯港股上市进程正常推进",
+          "url": "https://wallstreetcn.com/livenews/3100296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "A股创业板指拉升翻红，开盘一度跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260508094438891800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
