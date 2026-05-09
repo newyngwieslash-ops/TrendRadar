@@ -1,1157 +1,221 @@
 {
-  "generated_at": "2026-05-09T23:44:23.483875+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-05-10T00:44:52.141471+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 50,
-      "titles": [
-        {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时10分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时50分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时10分 ~ 22时18分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 15时48分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            8,
-            16,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时10分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时10分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时11分 ~ 23时44分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 21时01分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时48分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普：俄乌9日起停火三天并交换战俘",
-          "url": "https://wallstreetcn.com/livenews/3100879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据国际文传电讯社：克里姆林宫称，俄罗斯同意特朗普提出的5月9日至11日的停火计划；俄罗斯也同意进行战俘交换。",
-          "url": "https://flash.jin10.com/detail/20260509024857435800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时48分 ~ 19时43分]"
-        },
-        {
-          "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时49分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 21时01分]"
-        },
-        {
-          "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
-          "url": "https://wallstreetcn.com/livenews/3100958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
-          "url": "https://wallstreetcn.com/livenews/3100955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "美国总统特朗普：与巴西总统卢拉讨论了所有事，包括关税。",
-          "url": "https://wallstreetcn.com/livenews/3100954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
-          "url": "https://flash.jin10.com/detail/20260509182305293800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
-        },
-        {
-          "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3100952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "中情局报告泄了特朗普的底",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%83%85%E5%B1%80%E6%8A%A5%E5%91%8A%E6%B3%84%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%BA%95%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260509175807708800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
-        },
-        {
-          "title": "特朗普说或把部分驻德美军转移至波兰",
-          "url": "https://wallstreetcn.com/livenews/3100978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "特朗普称俄乌9日起停火三天并交换战俘",
-          "url": "https://flash.jin10.com/detail/20260509024102423800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3100873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“加强版的自由计划”（project freedom plus）。 如果伊朗不签署协议，美方可能重启“自由计划”。",
-          "url": "https://wallstreetcn.com/livenews/3100956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "特朗普说或把部分驻德美军转移至波兰",
-          "url": "https://flash.jin10.com/detail/20260509093335038800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯与乌克兰之间将停火三天（5月9-11日）。",
-          "url": "https://wallstreetcn.com/livenews/3100872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：去买台戴尔电脑吧。",
-          "url": "https://flash.jin10.com/detail/20260509005443735800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国总统特朗普：关于结束这个重大冲突的磋商继续进行。",
-          "url": "https://wallstreetcn.com/livenews/3100871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
-          "url": "https://wallstreetcn.com/livenews/3100953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
-          "url": "https://flash.jin10.com/detail/20260509155826291800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
-          "url": "https://flash.jin10.com/detail/20260509155657238800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美国总统特朗普：与波兰关系非常好。",
-          "url": "https://wallstreetcn.com/livenews/3100951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯与乌克兰的停火协议可能会超过三天。",
-          "url": "https://wallstreetcn.com/livenews/3100950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国总统特朗普：经海路流入美国的毒品数量下降了97%。",
-          "url": "https://flash.jin10.com/detail/20260509004818943800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "特朗普称希望俄乌停火能持续下去",
-          "url": "https://wallstreetcn.com/livenews/3100968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：确认美国总统特朗普宣布的为期三天的停火；乌克兰和俄罗斯将各自交换1000名囚犯。",
-          "url": "https://flash.jin10.com/detail/20260509022835875800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3100860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
-          "url": "https://wallstreetcn.com/livenews/3100857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普：俄乌达成为期三天停火协议，双方各交换1000名囚犯",
-          "url": "https://flash.jin10.com/detail/20260509020635806800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：这一停火请求是由我直接提出的，我非常感谢俄罗斯总统普京和乌克兰总统泽连斯基对此的同意。",
-          "url": "https://flash.jin10.com/detail/20260509020624945800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：谈判仍在继续，结束这一重大冲突的目标越来越近。",
-          "url": "https://flash.jin10.com/detail/20260509020223253800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
-          "url": "https://flash.jin10.com/detail/20260509020204572800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普祝贺母亲节快乐 称美国的就业人数比以往任何时候都要多",
-          "url": "https://flash.jin10.com/detail/20260509083220034800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯与乌克兰之间的战争将于5月9日、10日和11日停火三天。",
-          "url": "https://flash.jin10.com/detail/20260509020138509800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称可能恢复“自由计划”行动",
-          "url": "https://wallstreetcn.com/livenews/3100956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "特朗普也嫌世界杯票价贵",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%9F%E5%AB%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E4%BB%B7%E8%B4%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "特朗普称可能恢复“自由计划”行动",
-          "url": "https://flash.jin10.com/detail/20260509082122589800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能达到（美方的要求）。",
-          "url": "https://wallstreetcn.com/livenews/3100953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国总统特朗普：我们有一个问题，因为墨西哥由毒贩们经营。",
-          "url": "https://wallstreetcn.com/livenews/3100846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时43分 ~ 23时44分]"
-        },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            11,
-            9,
-            6,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 23时44分]"
-        },
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 23时44分]"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时49分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
           "url": "https://wallstreetcn.com/articles/3771900",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时51分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            5,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 21时01分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            13,
-            9,
-            8,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时43分 ~ 23时44分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 23时44分]"
-        },
-        {
-          "title": "私募和AI合体意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            10,
-            29,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时10分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时43分 ~ 21时01分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15,
-            14,
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时51分 ~ 23时44分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 05时54分]"
-        },
-        {
-          "title": "GAI新歌星梦MV",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            30,
-            21,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 15时48分]"
-        },
-        {
-          "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
-          "url": "https://wallstreetcn.com/livenews/3100934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 07时50分]"
-        },
-        {
-          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
-          "url": "https://wallstreetcn.com/livenews/3100961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
-          "url": "https://wallstreetcn.com/livenews/3100960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时10分]"
-        },
-        {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时43分]"
-        },
-        {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 23时44分]"
-        },
-        {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时44分]"
-        },
-        {
-          "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3100906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时54分]"
-        },
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时44分]"
-        },
-        {
-          "title": "Akamai收涨27%，创2004年以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3100905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时54分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
           "url": "https://www.zhihu.com/question/2034624017219499142",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时44分]"
-        },
-        {
-          "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
-          "url": "https://wallstreetcn.com/livenews/3100904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时54分]"
-        },
-        {
-          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://flash.jin10.com/detail/20260509162004695800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "00时44分"
         },
         {
-          "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
-          "url": "https://www.zhihu.com/question/2036476955948799322",
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            7
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时44分"
         },
         {
-          "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
-          "url": "https://wallstreetcn.com/livenews/3100869",
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
-          "url": "https://wallstreetcn.com/livenews/3100864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "中信建投：AI算力与商业航天迎来产业加速期",
-          "url": "https://flash.jin10.com/detail/20260509122338306800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
-          "url": "https://flash.jin10.com/detail/20260509015729389800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3100814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras将上调IPO价格区间，因需求太踊跃",
-          "url": "https://wallstreetcn.com/livenews/3100890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "小鹏否认被约谈立案 称相关信息系通过AI恶意炒作",
-          "url": "https://flash.jin10.com/detail/20260509114530626800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "00时44分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
           "url": "https://www.cls.cn/detail/2366667",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
-          "url": "https://www.cls.cn/detail/2366511",
-          "source": "财联社热门",
+          "title": "A股新主线终于浮出水面",
+          "url": "https://www.toutiao.com/trending/7637893630325165622/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时06分 ~ 18时51分]"
-        },
-        {
-          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
-          "url": "https://www.cls.cn/detail/2366454",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 15时48分]"
-        },
-        {
-          "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
-          "url": "https://wallstreetcn.com/articles/3771813",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时10分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "卫健委回应精神病院成A股公司股东",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%88%90A%E8%82%A1%E5%85%AC%E5%8F%B8%E8%82%A1%E4%B8%9C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "下周A股追还是撤",
+          "url": "https://www.toutiao.com/trending/7637841347948318249/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            20
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 17时12分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "A股光通信突然暴涨背后",
-          "url": "https://www.toutiao.com/trending/7637532533155974692/",
+          "title": "谁是A股核心主线",
+          "url": "https://www.toutiao.com/trending/7637892314240650790/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
           "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
-          "url": "https://flash.jin10.com/detail/20260509030041580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
-          "url": "https://flash.jin10.com/detail/20260509024606066800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3100943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时50分]"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3100893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "00时44分"
         }
       ]
     }
