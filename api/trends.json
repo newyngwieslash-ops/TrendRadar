@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:44:21.039248+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-05-10T21:02:34.397160+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 19时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 21时02分]"
         },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -58,6 +58,19 @@
           "time_info": "[01时43分 ~ 13时59分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 21时02分]"
+        },
+        {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
@@ -74,17 +87,18 @@
           "time_info": "[00时44分 ~ 16时06分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            6,
             3,
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时02分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -98,20 +112,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 16时06分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时44分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -142,6 +142,20 @@
           "time_info": "[00时44分 ~ 07时40分]"
         },
         {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时02分]"
+        },
+        {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -167,19 +181,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 07时40分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时44分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -230,6 +231,19 @@
           "time_info": "[03时53分 ~ 10时11分]"
         },
         {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 21时02分]"
+        },
+        {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
@@ -257,16 +271,15 @@
           "time_info": "[00时44分 ~ 04时37分]"
         },
         {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时02分]"
         },
         {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
@@ -320,17 +333,6 @@
           "time_info": "[13时58分 ~ 19时44分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时44分]"
-        },
-        {
           "title": "AI修复美国公布UFO照片",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
           "source": "bilibili 热搜",
@@ -342,13 +344,24 @@
           "time_info": "07时40分"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -381,6 +394,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 21时02分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -416,29 +441,6 @@
           "time_info": "[04时37分 ~ 16时06分]"
         },
         {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 19时44分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
-          "url": "https://flash.jin10.com/detail/20260510184554353800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
           "url": "https://flash.jin10.com/detail/20260510011547572800",
           "source": "金十数据",
@@ -450,6 +452,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时53分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时02分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -489,6 +503,18 @@
           "time_info": "[00时44分 ~ 02时50分]"
         },
         {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时02分]"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -525,17 +551,6 @@
           "time_info": "[02时50分 ~ 03时53分]"
         },
         {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "媒体：特朗普还有一场“硬仗”",
           "url": "https://www.toutiao.com/trending/7637911197945315370/",
           "source": "今日头条",
@@ -561,7 +576,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -613,6 +628,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时43分]"
+        },
+        {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
