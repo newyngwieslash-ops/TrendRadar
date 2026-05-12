@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T01:28:13.714147+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-13T03:31:46.331033+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普访华",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -26,30 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "美国上诉法庭暂时叫停贸易法庭对总统特朗普10%关税的判决。",
@@ -58,7 +60,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -70,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -81,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
@@ -92,8 +94,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -107,26 +121,70 @@
           "time_info": "[01时27分 ~ 01时28分]"
         },
         {
-          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
           "title": "市场消息：美国上诉法院暂时阻止贸易法院对特朗普根据第122条征收10%关税的裁决。",
           "url": "https://flash.jin10.com/detail/20260513011601571800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
+          "url": "https://wallstreetcn.com/livenews/3102454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：食品药品管理局（FDA）局长Makary正在离开。",
+          "url": "https://wallstreetcn.com/livenews/3102453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：你们将会看到石油喷涌而出。",
+          "url": "https://wallstreetcn.com/livenews/3102451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判时，我并不考虑美国民众的财务状况，我不考虑任何人。",
+          "url": "https://flash.jin10.com/detail/20260513022020411800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，宣称：只会达成一份好的协议。 封锁已经取得成效。",
+          "url": "https://wallstreetcn.com/livenews/3102449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
@@ -135,15 +193,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "特朗普：美国人民理解股市波动",
+          "url": "https://flash.jin10.com/detail/20260513021415317800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国上诉法院暂停针对特朗普10%全球关税的反对判决",
+          "url": "https://wallstreetcn.com/livenews/3102441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -153,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -164,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -175,36 +255,104 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "AI原创短片国产爱死机",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
+        },
+        {
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
+          "url": "https://www.zhihu.com/question/2031495233876251385",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
+          "url": "https://flash.jin10.com/detail/20260513021716741800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "全国首例AI代写“种草笔记”案宣判",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E4%BB%A3%E5%86%99%E2%80%9C%E7%A7%8D%E8%8D%89%E7%AC%94%E8%AE%B0%E2%80%9D%E6%A1%88%E5%AE%A3%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "“AI水果”“酱板鸭”火到台湾",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%B0%B4%E6%9E%9C%E2%80%9D%E2%80%9C%E9%85%B1%E6%9D%BF%E9%B8%AD%E2%80%9D%E7%81%AB%E5%88%B0%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：正与宏碁、华硕、戴尔、惠普和联想等合作伙伴共同开发首款谷歌书籍。",
@@ -213,7 +361,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -224,9 +372,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260513022035588800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "SpaceX与谷歌谈判火箭发射协议，双方可能在太空计算领域形成既合作又竞争的复杂关系",
@@ -235,7 +394,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         }
@@ -253,8 +412,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         }
       ]
     },
@@ -270,8 +429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时31分]"
         }
       ]
     }
