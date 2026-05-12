@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:02:23.737856+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-05-12T16:45:37.174120+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -101,11 +101,24 @@
           "ranks": [
             5,
             7,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 14时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 16时45分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 16时45分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -135,27 +148,29 @@
           "time_info": "[00时27分 ~ 07时55分]"
         },
         {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 14时02分]"
-        },
-        {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
           "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 16时45分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 16时45分]"
         },
         {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
@@ -174,11 +189,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 16时45分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -226,19 +242,6 @@
           "time_info": "[07时54分 ~ 14时02分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 14时02分]"
-        },
-        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
           "url": "https://flash.jin10.com/detail/20260512054116878800",
           "source": "金十数据",
@@ -263,22 +266,47 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
+        },
+        {
           "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
           "url": "https://www.zhihu.com/question/2037474314413238203",
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -296,33 +324,11 @@
           "time_info": "[14时01分 ~ 14时02分]"
         },
         {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
           "title": "特朗普发文称非常期待中国之行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -416,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国总统特朗普：伊朗谈判代表不断改变看法，他们真的完全缺乏诚信。",
@@ -633,7 +650,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -823,12 +840,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国CPI前瞻：强劲数据将提高特朗普中选举前的政治风险",
+          "url": "https://flash.jin10.com/detail/20260512162502154800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -838,11 +866,12 @@
             5,
             7,
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 14时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 16时45分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -854,11 +883,12 @@
             16,
             24,
             15,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 10时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 16时45分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -873,8 +903,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 16时45分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -887,11 +917,12 @@
             17,
             19,
             24,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 16时45分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -899,11 +930,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 16时45分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -943,22 +975,36 @@
           "url": "https://www.cls.cn/detail/2368705",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
+        },
+        {
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -985,17 +1031,6 @@
           "time_info": "[00时27分 ~ 04时28分]"
         },
         {
-          "title": "国产AI爱死机到底怎么做出来的",
-          "url": "https://www.douyin.com/hot/2495617",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
           "title": "差点死掉的玻璃厂凭什么成AI的神经",
           "url": "https://www.toutiao.com/trending/7638646924790205990/",
           "source": "今日头条",
@@ -1013,9 +1048,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "用AI编程Vibe Coding赚钱真的靠谱吗",
+          "url": "https://www.toutiao.com/trending/7638854892710268426/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -1090,7 +1136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -1115,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "理想汽车CTO谢炎：想成为头部公司，AI芯片是必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3102127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "英国银行监管机构预计最新AI模型将带来“相当显著的冲击”",
@@ -1142,7 +1199,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
@@ -1172,17 +1229,6 @@
           "time_info": "[00时27分 ~ 07时55分]"
         },
         {
-          "title": "A股重回4200点 国家队买了谁",
-          "url": "https://www.toutiao.com/trending/7638837837990743606/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
           "title": "A股房地产板块部分活跃，深振业A涨超9%，深深房A涨超8%，滨江集团、合肥城建、万通发展、陆家嘴跟涨。",
           "url": "https://flash.jin10.com/detail/20260512100438436800",
           "source": "金十数据",
@@ -1203,6 +1249,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://www.toutiao.com/trending/7638837837990743606/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时45分]"
         },
         {
           "title": "学者：A股涨说明经济真的在复苏",
@@ -1258,9 +1316,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%87%8D%E5%9B%9E4200%E7%82%B9+%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B9%B0%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
@@ -1280,7 +1349,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -1324,9 +1393,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "A股收盘：沪指跌0.25%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E8%B7%8C0.25%25",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "A股航空发动机板块午后走低，飞沃科技、神剑股份跌超8%，航亚科技、隆达股份跌超7%，博云新材、广联航空跟跌。",
@@ -1335,7 +1415,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -1346,9 +1426,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E9%87%8D%E5%9B%9E4200%E7%82%B9%20%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B9%B0%E4%BA%86%E8%B0%81&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "A股三大指数集体翻绿，全市场下跌个股超3800只。",
