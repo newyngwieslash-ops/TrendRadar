@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T07:54:29.149960+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-05-13T10:32:12.226809+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普访华",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -57,6 +57,61 @@
           "time_info": "[01时27分 ~ 06时54分]"
         },
         {
+          "title": "特朗普启程访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "鲁比奥赫格塞思随特朗普访华",
+          "url": "https://www.toutiao.com/trending/7638913910263644223/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普启程访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普访华,黄仁勋被踢出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354222&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B8%A2%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "伊朗设谈判门槛，特朗普称“不着急”",
+          "url": "https://news.ifeng.com/c/8t5HGdbHooZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
           "url": "https://news.ifeng.com/c/8t4CJqYob72",
           "source": "凤凰网",
@@ -93,13 +148,25 @@
           "time_info": "[01时27分 ~ 07时54分]"
         },
         {
+          "title": "特朗普访华在即，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时32分]"
+        },
+        {
           "title": "特朗普启程赴华",
           "url": "https://www.toutiao.com/trending/7638727600944287268/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -126,6 +193,29 @@
           "time_info": "[01时27分 ~ 03时31分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时32分]"
+        },
+        {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
           "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
@@ -135,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时28分]"
+        },
+        {
+          "title": "特朗普启程",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
@@ -154,7 +256,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -165,7 +267,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -179,17 +281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "特朗普访华在即，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "美国总统特朗普批评媒体有关伊朗“形势良好”的报道。",
@@ -220,7 +311,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -245,6 +336,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "英伟达股价美股夜盘涨超2%。此前白宫证实英伟达CEO黄仁勋将随同特朗普访华。",
+          "url": "https://wallstreetcn.com/livenews/3102620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "白宫证实英伟达CEO黄仁勋将随同特朗普访华。 黄仁勋在阿拉斯加登上空军一号前往中国。",
+          "url": "https://wallstreetcn.com/livenews/3102616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
@@ -313,17 +426,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
           "url": "https://wallstreetcn.com/livenews/3102420",
           "source": "华尔街见闻-快讯",
@@ -382,18 +484,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -403,11 +506,44 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            15,
+            16,
+            14,
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            21,
+            15,
+            17,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -422,34 +558,38 @@
           "time_info": "[01时27分 ~ 07时54分]"
         },
         {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            21,
-            15,
-            17,
-            30
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时32分]"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
           "ranks": [
-            26,
-            15,
-            16,
-            14,
-            27
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时32分]"
+        },
+        {
+          "title": "Create2026百度AI开发者大会",
+          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
@@ -462,6 +602,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "AI会员有必要充吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
@@ -523,26 +674,26 @@
           "time_info": "[03时31分 ~ 05时12分]"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
+          "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
+          "url": "https://wallstreetcn.com/livenews/3102632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时32分"
         },
         {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
+          "title": "百度李彦宏：AI时代的度量衡是日活智能体数",
+          "url": "https://flash.jin10.com/detail/20260513100228613800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时32分"
         },
         {
           "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
@@ -562,7 +713,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -603,7 +754,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
@@ -624,9 +775,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "A股燃气轮机概念早盘拉升，潍柴重机涨停，东方电气、万泽股份、上海电气涨超6%，博盈特焊、中国动力跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "境外收入逾12万亿元，A股上市公司出海迈入提质增效新阶段",
@@ -647,9 +809,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "A股有色板块震荡走强，华达新材、罗平锌电双双涨停，北方铜业涨超6%，翔鹭钨业、盛屯矿业、金钼股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "A股输变电设备板块走高，顺钠股份涨停，宝光股份、万控智造此前封板，金盘科技、亿能电力涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260513100107126800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "MSCI：将长飞光纤光缆股份有限公司A股纳入MSCI新兴市场指数",
@@ -666,8 +850,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
         {
           "title": "谷歌：正与宏碁、华硕、戴尔、惠普和联想等合作伙伴共同开发首款谷歌书籍。",
           "url": "https://flash.jin10.com/detail/20260513010618472800",
@@ -716,7 +911,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克库克随特朗普访华",
@@ -724,22 +919,24 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 10时32分]"
         },
         {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
           "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时32分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
@@ -753,6 +950,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时54分]"
+        },
+        {
+          "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
+          "url": "https://www.zhihu.com/question/2037484197183321093",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     }
