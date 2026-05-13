@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T01:13:32.430562+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-14T03:56:36.852624+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普抵达北京开始访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普抵达北京",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普乘专机抵达中国",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普抵京",
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
@@ -103,30 +103,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
           "url": "https://wallstreetcn.com/articles/3772194",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：特朗普已经将至少290亿美元的美国纳税人资金投入到一场完全不必要的战争中，这场战争没有结束的前景或战略目标。",
-          "url": "https://flash.jin10.com/detail/20260514004630650800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "央视现场报道特朗普抵京",
@@ -136,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
@@ -145,6 +135,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普已经将至少290亿美元的美国纳税人资金投入到一场完全不必要的战争中，这场战争没有结束的前景或战略目标。",
+          "url": "https://flash.jin10.com/detail/20260514004630650800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -169,30 +170,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
           "url": "https://wallstreetcn.com/articles/3772146",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵达北京开始访华",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普抵京 韩正前往机场迎接",
@@ -202,19 +205,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普将抵达北京",
           "url": "https://www.cls.cn/detail/2370400",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普团队抵达下榻酒店",
@@ -224,8 +228,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -235,96 +239,104 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普访问中国现场画面",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
           "url": "https://www.toutiao.com/trending/7639365631187537434/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普走出机舱",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "十余位商界代表随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BD%8D%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "外交部：欢迎特朗普访问中国",
           "url": "https://www.toutiao.com/trending/7638540672749125641/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "十余位商界代表随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BD%8D%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "美国总统特朗普抵京，韩正前往机场迎接",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173795",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普访华随行人员名单",
           "url": "https://www.douyin.com/hot/2496992",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "随特朗普访华的商界代表有谁",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%9A%84%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E6%9C%89%E8%B0%81%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "特朗普公布访华团高管名单",
@@ -334,8 +346,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -345,15 +357,83 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "美国副总统万斯：目前谈判的根本问题在于我们能否取得足够进展以满足特朗普设定的红线。这条红线非常简单。他需要确信我们已经制定了足够的保护措施，以确保伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260514031813482800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国参议院民主党领导人Schumer谴责总统特朗普，称：任命新的美联储主席将破坏央行独立性。",
+          "url": "https://wallstreetcn.com/livenews/3103179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普走出机舱",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "马化腾回应AI掉队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
+          "url": "https://flash.jin10.com/detail/20260514034444194800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
         {
           "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260514005028285800",
@@ -366,37 +446,16 @@
           "time_info": "01时13分"
         },
         {
-          "title": "马化腾回应AI掉队",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
-          "url": "https://wallstreetcn.com/articles/3772197",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772187",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -406,19 +465,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
           "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        },
+        {
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
+          "source": "财联社热门",
+          "ranks": [
+            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -428,30 +500,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
-          "url": "https://www.cls.cn/detail/2370586",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "AI续写轻音少女第三季",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -467,6 +529,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3103173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude Code openai",
       "match_count": 1,
       "titles": [
@@ -475,11 +554,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国负责马斯克与证券交易委员会（SEC）关于推特（Twitter）和解案的联邦法官表示，该案中表现出的“暗道沟通”（back channel communications）是一个“危险信号”。",
+          "url": "https://wallstreetcn.com/livenews/3103195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时56分"
         }
       ]
     }
