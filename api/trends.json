@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T00:51:03.029901+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-17T01:51:31.314580+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,19 +37,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
           "url": "https://flash.jin10.com/detail/20260517002136992800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时51分]"
+        },
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -59,19 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
-        },
-        {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -81,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -92,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -103,8 +105,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -114,8 +116,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
+        },
+        {
+          "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
+          "url": "https://flash.jin10.com/detail/20260517010131045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -124,7 +137,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
         },
@@ -135,7 +148,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
         }
@@ -153,19 +166,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
           "url": "https://wallstreetcn.com/articles/3772409",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -175,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -186,8 +200,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
+        },
+        {
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -212,37 +248,15 @@
           "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
-        },
-        {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时51分]"
         },
         {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
@@ -251,7 +265,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
         }
@@ -269,19 +283,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
           "url": "https://www.toutiao.com/trending/7640493318278745643/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -290,9 +305,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时51分]"
         }
       ]
     },
@@ -305,11 +320,12 @@
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时51分]"
         }
       ]
     }
