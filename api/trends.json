@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T17:01:02.278952+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-05-17T18:24:23.586848+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -58,17 +59,6 @@
           "time_info": "[00时50分 ~ 10时28分]"
         },
         {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
-        },
-        {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
           "source": "知乎",
@@ -77,8 +67,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 18时24分]"
+        },
+        {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -117,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -198,6 +199,18 @@
           "time_info": "[10时28分 ~ 17时01分]"
         },
         {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 18时24分]"
+        },
+        {
           "title": "台舆论称特朗普不许台独视美为靠山",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -208,6 +221,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时16分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -221,29 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 03时59分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 17时01分]"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时01分]"
         },
         {
           "title": "特朗普警告“台独”",
@@ -316,8 +318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -338,11 +340,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -379,8 +382,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -397,6 +400,19 @@
           "time_info": "[00时51分 ~ 10时28分]"
         },
         {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 18时24分]"
+        },
+        {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
           "url": "https://wallstreetcn.com/articles/3772426",
           "source": "华尔街见闻",
@@ -410,16 +426,16 @@
           "time_info": "[00时50分 ~ 14时16分]"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时16分 ~ 17时01分]"
+          "time_info": "[16时59分 ~ 18时24分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -433,24 +449,13 @@
           "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时01分]"
-        },
-        {
           "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
           "url": "https://flash.jin10.com/detail/20260517152451542800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -481,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
