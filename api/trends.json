@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T10:39:57.260875+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-05-22T14:43:29.945434+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 10时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "中方回应特朗普称将与赖清德对话",
@@ -73,11 +73,35 @@
           "ranks": [
             14,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 10时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 14时43分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 14时43分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -135,15 +159,15 @@
           "time_info": "00时39分"
         },
         {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "14时43分"
         },
         {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
@@ -155,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
@@ -191,6 +204,18 @@
           "time_info": "[04时50分 ~ 06时15分]"
         },
         {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
           "url": "https://wallstreetcn.com/livenews/3107623",
           "source": "华尔街见闻-快讯",
@@ -204,16 +229,15 @@
           "time_info": "[04时50分 ~ 07时55分]"
         },
         {
-          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
-          "url": "https://www.cls.cn/detail/2378520",
-          "source": "财联社热门",
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时39分]"
+          "time_info": "[10时39分 ~ 14时43分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
@@ -240,6 +264,18 @@
           "time_info": "[06时15分 ~ 07时55分]"
         },
         {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
@@ -260,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
@@ -312,18 +337,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普儿媳再忆中国行直呼震撼",
-          "url": "https://www.toutiao.com/trending/7641561881347309611/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -372,6 +386,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "北约秘书长吕特对特朗普宣布美军在波兰部署兵力表示欢迎。",
+          "url": "https://wallstreetcn.com/livenews/3107834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "美国总统特朗普：今天在能源和商务委员会就一项包括《阳光保护法案》在内的法案进行了重大投票（48票赞成，1票反对）！该法案将使夏令时永久化！",
           "url": "https://flash.jin10.com/detail/20260522065515179800",
           "source": "金十数据",
@@ -411,7 +436,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -419,7 +444,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -492,6 +517,22 @@
           "time_info": "[00时39分 ~ 07时55分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19,
+            17,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 14时43分]"
+        },
+        {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
           "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
@@ -506,21 +547,6 @@
           "time_info": "[00时39分 ~ 07时55分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 10时39分]"
-        },
-        {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
           "url": "https://wallstreetcn.com/livenews/3107589",
           "source": "华尔街见闻-快讯",
@@ -532,17 +558,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "为何AI总会一本正经地胡说八道",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
@@ -552,6 +567,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 14时43分]"
         },
         {
           "title": "逆转裁判但网文AI对决",
@@ -576,17 +615,6 @@
           "time_info": "[04时49分 ~ 04时50分]"
         },
         {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时39分]"
-        },
-        {
           "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
           "url": "https://flash.jin10.com/detail/20260522022849271800",
           "source": "金十数据",
@@ -609,6 +637,28 @@
           "time_info": "00时39分"
         },
         {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
           "url": "https://wallstreetcn.com/livenews/3107583",
           "source": "华尔街见闻-快讯",
@@ -618,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -648,7 +709,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -722,7 +783,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -736,27 +797,28 @@
           "time_info": "[00时39分 ~ 10时39分]"
         },
         {
+          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
+          "url": "https://wallstreetcn.com/articles/3772781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时49分 ~ 14时43分]"
+        },
+        {
           "title": "A股光学光电子板块短线走低，纬达光电跌超14%，联建光电、戈碧迦、龙腾光电、华灿光电等跟跌。",
           "url": "https://flash.jin10.com/detail/20260522101643766800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 10时39分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年5月22日 周五",
@@ -800,9 +862,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "借机A股回调，这些ETF被韩国资金逆势扫货",
+          "url": "https://www.cls.cn/detail/2378767",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "A股兆易创新再创历史新高，日内涨超9%，成交额超250亿元，本月累涨50%。",
+          "url": "https://flash.jin10.com/detail/20260522142808429800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
@@ -811,7 +895,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -827,15 +911,37 @@
           "time_info": "07时55分"
         },
         {
+          "title": "A股稀土永磁板块震荡走强，龙磁科技涨超16%，三祥新材涨超8%，方邦股份此前20CM涨停，金力永磁、焦作万方等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522142348220800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "A股PCB板块持续走高，沪电股份触及涨停，胜宏科技涨超10%，方邦股份、天承科技20cm涨停，科强股份、国际复材涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260522100651806800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "A股大普微短线异动拉升，涨超10%，早盘一度跌逾12%。",
+          "url": "https://flash.jin10.com/detail/20260522142012907800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年5月22日",
@@ -855,9 +961,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "A股通信设备板块持续走强，慧智微冲击涨停，杰普特、天孚通信、国盾量子等股大涨。",
+          "url": "https://flash.jin10.com/detail/20260522140917199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "A股大反转原因",
@@ -877,7 +994,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
