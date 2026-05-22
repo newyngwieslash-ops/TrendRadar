@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T02:50:17.765373+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-23T04:29:43.171482+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -104,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常渴望达成和解。",
+          "url": "https://wallstreetcn.com/livenews/3108228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国总统特朗普：沃什对美联储怀有崇高敬意。",
@@ -158,7 +169,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -180,7 +191,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国总统特朗普夸耀股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3108220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -213,9 +235,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -224,7 +257,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -242,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -265,8 +298,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -276,8 +309,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -285,11 +318,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -297,11 +331,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "time_info": "[02时50分 ~ 04时29分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -313,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
         }
       ]
     },
@@ -339,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         },
         {
           "title": "A股反弹是不是牛市信号",
@@ -378,8 +414,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时29分]"
         }
       ]
     }
