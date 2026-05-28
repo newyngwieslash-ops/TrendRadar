@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T10:33:15.046530+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-05-28T14:47:37.673466+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时47分]"
         },
         {
           "title": "伊朗将浓缩铀运往中俄？特朗普回应",
@@ -38,19 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
         },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
           "url": "https://www.cls.cn/detail/2383563",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
         },
         {
           "title": "美军对伊朗军事基地发动新打击！特朗普放话：不在乎中期选举，不会为了选票对伊让步",
@@ -73,6 +74,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普对华尔街日报再次提起索赔100亿美元的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3110519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
         },
         {
           "title": "金十提示：美国总统特朗普结束白宫内阁会议讲话。",
@@ -120,17 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
@@ -554,7 +567,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -562,11 +575,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 10时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 14时47分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -585,11 +599,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 10时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 14时47分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -597,11 +612,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 10时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 14时47分]"
         },
         {
           "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
@@ -648,6 +664,19 @@
           "time_info": "[01时54分 ~ 06时28分]"
         },
         {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时47分]"
+        },
+        {
           "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3110280",
           "source": "华尔街见闻-快讯",
@@ -660,18 +689,6 @@
           "time_info": "[06时28分 ~ 07时56分]"
         },
         {
-          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
-          "url": "https://www.cls.cn/detail/2383460",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时33分]"
-        },
-        {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
           "url": "https://www.cls.cn/detail/2383558",
           "source": "财联社热门",
@@ -679,30 +696,54 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时47分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "AI让周报月报像津巴布韦币",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E5%91%A8%E6%8A%A5%E6%9C%88%E6%8A%A5%E5%83%8F%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6%E5%B8%81&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
@@ -714,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
@@ -763,7 +815,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
@@ -784,7 +836,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -800,13 +852,36 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
+          "title": "今日重点关注的财经数据与事件：2026年5月28日 周四",
+          "url": "https://flash.jin10.com/detail/20260528065000000800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 14时47分]"
+        },
+        {
+          "title": "证监会副主席刘浩凌：各类境外投资者持有A股流通市值超过4万亿元",
+          "url": "https://www.cls.cn/detail/2383764",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "A股半导体产业链快速回暖，华虹公司涨超10%，股价续创历史新高，西安奕材、宇晶股份、中船特气、中芯国际、北京君正跟涨。",
           "url": "https://wallstreetcn.com/livenews/3110370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -817,9 +892,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "A股电池板块走高，安孚科技、铜冠铜箔、德福科技盘中创新高，德新科技2连板，诺德股份、杭可科技涨停，壹石通涨超10%，瑞泰新材、正业科技、金银河、新宙邦、嘉元科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年5月28日",
@@ -833,13 +919,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "A股电池板块走高，安孚科技、铜冠铜箔、德福科技盘中创新高，德新科技2连板，诺德股份、杭可科技涨停，壹石通涨超10%，瑞泰新材、正业科技、金银河、新宙邦、嘉元科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260528140434003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "A股超级电容概念延续强势，江海股份2连板，风华高科、北京科锐、火炬电子、宏明电子、元力股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3110362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -850,20 +947,108 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年5月28日 周四",
-          "url": "https://flash.jin10.com/detail/20260528065000000800",
+          "title": "A股通信设备板块持续拉升，中兴通讯涨超8%，鼎通科技、长盈通盘中创新高，光库科技、联特科技涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3110495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股机器人板块短线拉升，江苏北人涨超10%，巨能股份、机科股份、雷赛智能、拓斯达、凯尔达等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260528134907880800",
           "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "14时47分"
+        },
+        {
+          "title": "中兴通讯A股涨停，中兴通讯(00763.HK)H股涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260528134621122800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股三大指数午后集体翻红，沪指上涨0.01%，深证成指上涨0.45%，创业板指上涨1.4%。沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3110489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股通信设备板块持续拉升，中兴通讯涨超8%，鼎通科技、长盈通盘中创新高，光库科技、联特科技涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260528134302482800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "上证指数转涨，A股三大指数集体翻红。",
+          "url": "https://flash.jin10.com/detail/20260528133928342800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股PET铜箔板块震荡走高，铜冠铜箔涨超15%，诺德股份涨停，阿石创涨超10%，大东南、杭电股份、海亮股份、欧莱新材、裕兴股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股白酒股持续调整，金种子酒跌近8%，皇台酒业、金徽酒跌逾5%，迎驾贡酒、老白干酒、舍得酒业跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3110475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股唯一韬股价3天涨了21.8%",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%94%AF%E4%B8%80%E9%9F%AC%E8%82%A1%E4%BB%B73%E5%A4%A9%E6%B6%A8%E4%BA%8621.8%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -892,6 +1077,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：SpaceX尚未承诺长期租赁Colossus，尽管这种情况确实有可能发生。这是一份为期180天的租赁协议，此后双方均可提前90天通知终止合同。",
+          "url": "https://flash.jin10.com/detail/20260528141718469800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
