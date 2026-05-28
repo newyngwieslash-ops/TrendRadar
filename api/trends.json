@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:48:08.012567+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-05-28T22:32:26.959582+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 18时48分]"
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 22时32分]"
         },
         {
           "title": "伊朗将浓缩铀运往中俄？特朗普回应",
@@ -132,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 22时32分]"
         },
         {
           "title": "特朗普称伊朗“表现得当”后才能拿回资金",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
@@ -279,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国官员：美伊就谅解备忘录达成一致，但仍需特朗普最终批准",
+          "url": "https://flash.jin10.com/detail/20260528221738265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
@@ -424,6 +447,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "据AXIOS网站：两名美国官员表示，美国和伊朗谈判代表已就一项为期60天的谅解备忘录达成一致，以延长停火并启动关于伊朗核计划的谈判，但特朗普总统尚未给予最终批准。",
+          "url": "https://flash.jin10.com/detail/20260528221435055800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国总统特朗普：我们可以很快结束与伊朗的战争，可能还必须这样做。不过我认为我们不需要这样做。",
           "url": "https://flash.jin10.com/detail/20260528010825402800",
           "source": "金十数据",
@@ -455,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普制定新规则以解决意外医疗账单的仲裁问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）他们表现好时，我们会让他们拿回资金。",
@@ -581,7 +626,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -591,11 +636,12 @@
             3,
             4,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 22时32分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -605,11 +651,12 @@
             13,
             14,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 22时32分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -637,6 +684,20 @@
           "time_info": "[01时54分 ~ 06时28分]"
         },
         {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 22时32分]"
+        },
+        {
           "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
           "url": "https://flash.jin10.com/detail/20260528073830727800",
           "source": "金十数据",
@@ -648,6 +709,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美联储穆萨莱姆：不能指望AI繁荣来解决通胀问题",
+          "url": "https://flash.jin10.com/detail/20260528223158427800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "Meta Platforms旗下新部门将侧重于大型企业客户。 该部门将推动企业应用其AI工具。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3110284",
           "source": "华尔街见闻-快讯",
@@ -657,6 +729,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 22时32分]"
         },
         {
           "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
@@ -679,32 +765,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 06时28分]"
-        },
-        {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 18时48分]"
-        },
-        {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 18时48分]"
         },
         {
           "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
@@ -732,6 +792,19 @@
           "time_info": "[06时28分 ~ 07时56分]"
         },
         {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 22时32分]"
+        },
+        {
           "title": "AI改写黑袍纠察队结局",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
@@ -742,6 +815,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时47分 ~ 18时48分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 22时32分]"
+        },
+        {
+          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
+          "url": "https://news.ifeng.com/c/8tUekOdGeku",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 22时32分]"
         },
         {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
@@ -755,38 +851,26 @@
           "time_info": "[10时32分 ~ 14时47分]"
         },
         {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 18时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
-          "url": "https://www.cls.cn/detail/2384259",
-          "source": "财联社热门",
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
-          "url": "https://news.ifeng.com/c/8tUekOdGeku",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "AI让周报月报像津巴布韦币",
@@ -817,9 +901,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "清宵立绘被嘲像AI生图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354664&amp;topic_name=%E6%B8%85%E5%AE%B5%E7%AB%8B%E7%BB%98%E8%A2%AB%E5%98%B2%E5%83%8FAI%E7%94%9F%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
@@ -831,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2042897105346368773",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -866,13 +972,35 @@
           "time_info": "06时28分"
         },
         {
+          "title": "AI会带来怎样的社会变革",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "UP主实测AIGC检测工具",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BAIGC%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "英伟达服务器制造商纬颖预计AI领域的供应瓶颈将不止于内存",
           "url": "https://wallstreetcn.com/livenews/3110628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -880,7 +1008,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
@@ -1084,6 +1212,17 @@
           "time_info": "14时47分"
         },
         {
+          "title": "A股集体大涨原因",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "上证指数转涨，A股三大指数集体翻红。",
           "url": "https://flash.jin10.com/detail/20260528133928342800",
           "source": "金十数据",
@@ -1130,6 +1269,45 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：SpaceX尚未承诺长期租赁Colossus，尽管这种情况确实有可能发生。这是一份为期180天的租赁协议，此后双方均可提前90天通知终止合同。",
+          "url": "https://flash.jin10.com/detail/20260528141718469800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "美无人机用星链太多，马斯克要多收钱",
+          "url": "https://news.ifeng.com/c/8tUyr3DnDjj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "SpaceX 若以 2 万亿美金成功上市，马斯克会成为人类历史上首位「万亿美金富翁」吗？这意味着什么？",
+          "url": "https://www.zhihu.com/question/2040788860502635015",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1154,23 +1332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：SpaceX尚未承诺长期租赁Colossus，尽管这种情况确实有可能发生。这是一份为期180天的租赁协议，此后双方均可提前90天通知终止合同。",
-          "url": "https://flash.jin10.com/detail/20260528141718469800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         }
       ]
     }
