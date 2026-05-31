@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-01T04:02:40.684548+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-06-01T05:53:55.348208+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 9,
       "titles": [
-        {
-          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
-          "url": "https://wallstreetcn.com/articles/3773499",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
           "url": "https://www.cls.cn/detail/2386314",
@@ -26,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
+        },
+        {
+          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -48,8 +49,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
+        },
+        {
+          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
+          "url": "https://www.zhihu.com/question/2044397085965955829",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -60,21 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
-          "url": "https://www.zhihu.com/question/2044397085965955829",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
@@ -85,47 +87,50 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
           "url": "https://www.zhihu.com/question/2044518201330073873",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时53分]"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时53分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
           "url": "https://wallstreetcn.com/articles/3773514",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -135,19 +140,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
-          "url": "https://flash.jin10.com/detail/20260601025902421800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -160,8 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -173,8 +167,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
+        },
+        {
+          "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
+          "url": "https://flash.jin10.com/detail/20260601025902421800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时53分]"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -187,6 +193,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 04时02分]"
+        },
+        {
+          "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
+          "url": "https://flash.jin10.com/detail/20260601044554841800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
+          "url": "https://flash.jin10.com/detail/20260601042418213800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "美国总统特朗普：白宫舞厅屋顶的无人机港口可能将成为世界上最先进的设施！它将长期保障我国首都华盛顿特区的安全。",
@@ -213,19 +241,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
