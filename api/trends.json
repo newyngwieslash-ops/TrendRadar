@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T04:52:34.916695+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-02T06:58:34.956951+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：以黎将立即停火",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
+          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美国总统特朗普向NBC新闻记者表示，我们将继续在霍尔木兹海峡维持封锁。",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普用F开头词汇怒斥内塔尼亚胡",
+          "url": "https://flash.jin10.com/detail/20260602062637245800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美国总统特朗普表示，他尚未收到伊朗关于暂停谈判的消息。（NBC）",
@@ -74,15 +96,103 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国财经媒体Semafor：联合太平洋公司高管私下否认曾就15%股权与特朗普进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260602061754781800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 06时58分]"
+        },
+        {
           "title": "据半岛电视台：一位卡塔尔外交消息人士透露，美国已告知卡塔尔，在特朗普与内塔尼亚胡通电话后，以色列此前扬言要对贝鲁特南郊发动的袭击已取消。",
           "url": "https://flash.jin10.com/detail/20260602041109428800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美国总统特朗普：今天我与内塔尼亚胡进行了交谈，要求他不要对黎巴嫩首都贝鲁特发动大规模突袭。他随即下令部队撤回。谢谢你，内塔尼亚胡！我还与真主党领导人的代表进行了对话，他们同意停止向以色列及其士兵开火。同样，以色列也同意停止向他们开火。让我们拭目以待，看看这种停火能持续多久，但愿它能持续到永远！",
+          "url": "https://flash.jin10.com/detail/20260602054949735800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
+          "url": "https://flash.jin10.com/detail/20260602054717157800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "据ABC新闻：美国总统特朗普称，他认为在“未来一周内”，他将与伊朗达成一项协议，以延长停火期限并重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260602054006093800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3112663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
+          "url": "https://flash.jin10.com/detail/20260602053325030800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "黎巴嫩议会议长告诉特朗普政府，真主党已准备好与以色列全面停火，并承诺保证停火协议的执行。（Axios）",
@@ -96,24 +206,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3112661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
           "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
           "url": "https://wallstreetcn.com/livenews/3112638",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -124,7 +234,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -135,7 +245,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -146,7 +256,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -154,7 +264,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -164,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -175,30 +285,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普八连涨再新高，英伟达大涨",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -208,8 +319,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
+        },
+        {
+          "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
+          "url": "https://wallstreetcn.com/livenews/3112670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "据美国财经媒体Semafor：Luma AI正在筹建一个机器人实验室，将允许任何人利用其软件来训练机器人。",
@@ -218,9 +352,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
@@ -229,9 +385,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
@@ -240,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -251,7 +418,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -262,9 +429,70 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伯克希尔将对谷歌母公司投资100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
+          "url": "https://flash.jin10.com/detail/20260602050830269800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260602044727050800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         }
       ]
     },
@@ -280,8 +508,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
         },
         {
           "title": "4家A股公司，撤销风险警示",
@@ -289,11 +517,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 06时58分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年6月2日 周二",
@@ -305,23 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔将对谷歌母公司投资100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3112644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         }
       ]
     },
