@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T06:58:07.700142+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-06-08T08:05:02.006691+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 08时05分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -160,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -171,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -193,7 +193,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -215,7 +215,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -226,7 +226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -248,7 +248,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -402,7 +402,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -413,7 +413,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -454,7 +454,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -467,19 +467,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -487,11 +476,24 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -503,8 +505,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -522,11 +524,24 @@
           "url": "https://www.zhihu.com/question/1969653840065332479",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 08时05分]"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -538,6 +553,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
+          "url": "https://wallstreetcn.com/livenews/3115671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
+          "url": "https://wallstreetcn.com/livenews/3115669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3115668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
+          "url": "https://wallstreetcn.com/livenews/3115665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "AI炒完芯片后，下一轮被抢的会是谁？",
@@ -560,23 +619,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
@@ -587,8 +635,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
@@ -599,8 +647,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
@@ -610,11 +658,12 @@
             18,
             13,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -622,11 +671,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -634,22 +684,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 06时58分]"
-        },
-        {
-          "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
-          "url": "https://wallstreetcn.com/livenews/3115658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 08时05分]"
         },
         {
           "title": "全球资本重构中国核心资产定价逻辑，硬科技H股对A股溢价频现",
@@ -658,7 +698,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -675,15 +715,39 @@
           "time_info": "[02时02分 ~ 06时58分]"
         },
         {
+          "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
+          "url": "https://wallstreetcn.com/livenews/3115658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时05分]"
+        },
+        {
           "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
           "url": "https://www.cls.cn/detail/2392822",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 08时05分]"
+        },
+        {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
+          "time_info": "[08时04分 ~ 08时05分]"
         }
       ]
     },
@@ -700,8 +764,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时05分]"
         }
       ]
     }
