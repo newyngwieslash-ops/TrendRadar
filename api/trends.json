@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T11:37:09.100287+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-06-09T15:40:35.925109+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -75,19 +75,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
         },
         {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 15时40分]"
         },
         {
           "title": "当我把今年高考语文作文题喂给AI",
@@ -115,18 +129,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 07时59分]"
-        },
-        {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时37分]"
         },
         {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
@@ -166,6 +168,65 @@
           "time_info": "[06时21分 ~ 07时59分]"
         },
         {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -175,39 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时05分 ~ 06时21分]"
-        },
-        {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
@@ -220,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时59分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "大摩点评英伟达“存储减半”传闻：这是真实的短缺，供应约束已成AI最大拦路虎",
@@ -255,15 +272,15 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
-          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
-          "url": "https://www.cls.cn/detail/2394424",
-          "source": "财联社热门",
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
@@ -310,6 +327,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
           "url": "https://flash.jin10.com/detail/20260609051515095800",
           "source": "金十数据",
@@ -330,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "诺基亚推出首个专为AI时代打造的安全套件。",
+          "url": "https://wallstreetcn.com/livenews/3116613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "OpenAI已提交IPO申请",
@@ -360,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -445,7 +484,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -481,19 +520,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 15时40分]"
         },
         {
           "title": "特朗普：内塔尼亚胡，你最好小心点！",
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -540,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "特朗普“体面送别”：会想念她",
+          "url": "https://news.ifeng.com/c/8toXpSpAK0f",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -621,6 +672,19 @@
           "time_info": "[06时21分 ~ 07时59分]"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 15时40分]"
+        },
+        {
           "title": "特朗普提名托德·布兰奇出任美司法部长",
           "url": "https://wallstreetcn.com/livenews/3116329",
           "source": "华尔街见闻-快讯",
@@ -633,18 +697,6 @@
           "time_info": "[04时05分 ~ 06时21分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时37分]"
-        },
-        {
           "title": "特朗普提名前私人律师，任司法部长",
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
@@ -652,8 +704,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率为35%，与5月中旬持平，仅略高于其本届任期内34%的最低水平。",
@@ -722,6 +774,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "特朗普现身尼克斯主场观战",
+          "url": "https://www.douyin.com/hot/2528078",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3116317",
           "source": "华尔街见闻-快讯",
@@ -750,7 +813,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -764,6 +827,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "外围股市拖累A股大跌，公募一线解读：急跌如何应对？",
+          "url": "https://www.cls.cn/detail/2393946",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时59分]"
+        },
+        {
+          "title": "A股收盘：创业板指大涨近4%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%BF%914%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "A股光伏设备板块异动拉升，TCL中环直线涨停，清源股份、国晟科技、欧晶科技、金博股份、帝科股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3116488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年6月9日",
+          "url": "https://flash.jin10.com/detail/20260609070039744800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年6月9日 周二",
+          "url": "https://flash.jin10.com/detail/20260609065000001800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "A股锂矿概念震荡反弹，盛新锂能午后涨停，天华新能、国城矿业、永杉锂业、融捷股份、赣锋锂业、永兴材料跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3116597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-06-09）",
+          "url": "https://flash.jin10.com/detail/20260609151546760800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -819,58 +967,6 @@
       ]
     },
     {
-      "keyword_group": "财经 A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "外围股市拖累A股大跌，公募一线解读：急跌如何应对？",
-          "url": "https://www.cls.cn/detail/2393946",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时59分]"
-        },
-        {
-          "title": "A股光伏设备板块异动拉升，TCL中环直线涨停，清源股份、国晟科技、欧晶科技、金博股份、帝科股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3116488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年6月9日",
-          "url": "https://flash.jin10.com/detail/20260609070039744800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年6月9日 周二",
-          "url": "https://flash.jin10.com/detail/20260609065000001800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 3,
       "titles": [
@@ -884,8 +980,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 15时40分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -907,8 +1003,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
         }
       ]
     },
@@ -921,11 +1017,12 @@
           "url": "https://www.toutiao.com/trending/7648865673208365107/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 15时40分]"
         }
       ]
     }
