@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:42:43.841510+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-13T07:10:19.006380+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时10分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时10分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -49,8 +49,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时10分]"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
+          "url": "https://wallstreetcn.com/livenews/3119074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 07时10分]"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 07时10分]"
         },
         {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
@@ -62,28 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
-          "url": "https://wallstreetcn.com/livenews/3119074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
         }
       ]
     },
@@ -111,8 +112,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时10分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 07时10分]"
         },
         {
           "title": "作家自曝用AI写作",
@@ -126,24 +139,13 @@
           "time_info": "[01时33分 ~ 01时34分]"
         },
         {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
           "title": "用AI打开七时吉祥原著",
           "url": "https://www.douyin.com/hot/2532352",
           "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -154,7 +156,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
@@ -162,7 +164,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -173,8 +175,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 05时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时10分]"
+        },
+        {
+          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
+          "url": "https://wallstreetcn.com/livenews/3119089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "马斯克成全球首位万亿富翁",
+          "url": "https://www.douyin.com/hot/2532626",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
