@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T21:44:05.058607+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-06-13T23:28:09.555705+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 23时28分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -44,16 +56,15 @@
           "time_info": "[01时33分 ~ 14时53分]"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时28分]"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -80,17 +91,6 @@
           "time_info": "[10时41分 ~ 17时54分]"
         },
         {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时44分]"
-        },
-        {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
           "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
           "source": "凤凰网",
@@ -101,6 +101,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 17时54分]"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时28分]"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时28分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -126,6 +150,17 @@
           "time_info": "[05时42分 ~ 07时10分]"
         },
         {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
           "url": "https://flash.jin10.com/detail/20260613092918763800",
           "source": "金十数据",
@@ -148,17 +183,6 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
           "url": "https://flash.jin10.com/detail/20260613135132785800",
           "source": "金十数据",
@@ -170,24 +194,13 @@
           "time_info": "14时53分"
         },
         {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
           "url": "https://flash.jin10.com/detail/20260613203149483800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -201,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613223904277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
@@ -225,6 +249,28 @@
           "time_info": "10时41分"
         },
         {
+          "title": "特朗普转发巴总理有关美伊签署协议可能性的推文",
+          "url": "https://flash.jin10.com/detail/20260613223548832800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普还计划与法国、埃及和印度领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222721867800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
           "url": "https://flash.jin10.com/detail/20260613104207547800",
           "source": "金十数据",
@@ -245,12 +291,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将于下周三在凡尔赛与法国总统马克龙共进晚餐。",
+          "url": "https://flash.jin10.com/detail/20260613222707086800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将在七国集团峰会上与阿联酋、卡塔尔及其他中东领导人会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222620601800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -261,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 23时28分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -286,6 +354,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 07时10分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时28分]"
         },
         {
           "title": "世界杯AI视频绿茵恩仇录火了",
@@ -323,17 +402,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时50分 ~ 21时44分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -384,6 +452,17 @@
           "time_info": "[10时41分 ~ 14时53分]"
         },
         {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
+        {
           "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
           "url": "https://www.zhihu.com/question/2048803279166088696",
           "source": "知乎",
@@ -393,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
+          "title": "这才是AI发展真正的意义",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "作家自曝用AI写作",
@@ -485,8 +575,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 21时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 23时28分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            12,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 23时28分]"
         },
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -504,21 +610,6 @@
           "time_info": "[01时33分 ~ 17时54分]"
         },
         {
-          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 21时44分]"
-        },
-        {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
           "url": "https://wallstreetcn.com/articles/3774553",
           "source": "华尔街见闻",
@@ -529,8 +620,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 23时28分]"
+        },
+        {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 23时28分]"
         },
         {
           "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
@@ -547,19 +651,6 @@
           "time_info": "[10时41分 ~ 21时44分]"
         },
         {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时44分]"
-        },
-        {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
           "url": "https://wallstreetcn.com/articles/3774560",
           "source": "华尔街见闻",
@@ -568,8 +659,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时28分]"
+        },
+        {
+          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时28分]"
         },
         {
           "title": "SpaceX上市首日即成2万亿巨头 马斯克财富迈入万亿时代",
@@ -605,17 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 10时41分]"
-        },
-        {
-          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
@@ -684,11 +776,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时28分]"
         },
         {
           "title": "A股投资者已超2.5亿",
