@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T21:45:36.935285+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-06-14T23:45:16.143517+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -15,11 +15,12 @@
             11,
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时02分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 23时45分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -31,8 +32,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 23时45分]"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 23时45分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -59,6 +74,17 @@
           "time_info": "[01时15分 ~ 17时22分]"
         },
         {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 23时45分]"
+        },
+        {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
           "url": "https://flash.jin10.com/detail/20260614051019663800",
           "source": "金十数据",
@@ -68,19 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时03分]"
-        },
-        {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 21时45分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -132,15 +145,15 @@
           "time_info": "[03时13分 ~ 08时03分]"
         },
         {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
+          "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
+          "url": "https://wallstreetcn.com/livenews/3119258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 21时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -190,6 +203,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时26分 ~ 19时51分]"
+        },
+        {
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时45分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -264,6 +289,17 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
+          "title": "过完生日后特朗普将赴法参加G7峰会",
+          "url": "https://www.toutiao.com/trending/7651222304948731914/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
           "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
@@ -273,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普称美伊协议计划14日签署",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
@@ -297,6 +322,17 @@
           "time_info": "19时51分"
         },
         {
+          "title": "伊媒：伊朗不会在特朗普宣布的时间签署任何协议",
+          "url": "https://flash.jin10.com/detail/20260614230702538800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260613234554532800",
           "source": "金十数据",
@@ -306,6 +342,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260614225718900800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平",
+          "url": "https://flash.jin10.com/detail/20260614225441637800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -322,23 +380,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时15分 ~ 21时45分]"
-        },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
@@ -348,8 +391,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 23时45分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 23时45分]"
+        },
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时15分 ~ 23时45分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -377,8 +448,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时15分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时15分 ~ 23时45分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -406,20 +477,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时15分 ~ 21时45分]"
-        },
-        {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时15分 ~ 23时45分]"
         },
         {
           "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
@@ -456,6 +515,19 @@
           "time_info": "17时22分"
         },
         {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时45分]"
+        },
+        {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
           "url": "https://wallstreetcn.com/articles/3774579",
           "source": "华尔街见闻",
@@ -480,16 +552,15 @@
           "time_info": "[19时51分 ~ 21时45分]"
         },
         {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时45分]"
+          "time_info": "[21时45分 ~ 23时45分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -505,6 +576,17 @@
           "time_info": "[03时13分 ~ 06时57分]"
         },
         {
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
+        {
           "title": "蚂蚁集团正秘密测试AI版支付宝",
           "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
           "source": "百度热搜",
@@ -516,6 +598,17 @@
           "time_info": "[19时50分 ~ 19时51分]"
         },
         {
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
+        {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
           "url": "https://wallstreetcn.com/articles/3774574",
           "source": "华尔街见闻",
@@ -525,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -574,7 +656,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
@@ -649,13 +731,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时57分]"
+        },
+        {
+          "title": "马斯克“锁死”SpaceX背后",
+          "url": "https://www.toutiao.com/trending/7651237008341208595/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "7家A股公司，下周“摘帽”",
+          "url": "https://www.cls.cn/detail/2399262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时45分]"
+        },
         {
           "title": "A股又一4倍大牛股诞生",
           "url": "https://www.toutiao.com/trending/7650145858994094107/",
@@ -671,38 +777,39 @@
           "time_info": "[01时15分 ~ 08时03分]"
         },
         {
-          "title": "7家A股公司，下周“摘帽”",
-          "url": "https://www.cls.cn/detail/2399262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时45分]"
-        },
-        {
           "title": "10家A股公司退市 超25万股民踩雷",
           "url": "https://www.baidu.com/s?wd=10%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E9%80%80%E5%B8%82+%E8%B6%8525%E4%B8%87%E8%82%A1%E6%B0%91%E8%B8%A9%E9%9B%B7",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时45分]"
         },
         {
           "title": "10家A股公司退市 超25万股民踩雷",
           "url": "https://s.weibo.com/weibo?q=10%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E9%80%80%E5%B8%82%20%E8%B6%8525%E4%B8%87%E8%82%A1%E6%B0%91%E8%B8%A9%E9%9B%B7&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时45分]"
+        },
+        {
+          "title": "10家A股公司退市",
+          "url": "https://www.douyin.com/hot/2533845",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         }
       ]
     }
