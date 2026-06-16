@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-16T08:25:19.233873+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-16T14:27:47.201150+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 14时27分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -25,17 +37,6 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 08时25分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
             5
           ],
           "is_new": false,
@@ -71,9 +72,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
@@ -93,7 +105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -104,7 +116,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -131,13 +143,24 @@
           "time_info": "03时39分"
         },
         {
+          "title": "美加州州长喊话特朗普：别牵扯我家人",
+          "url": "https://www.toutiao.com/trending/7651735383461396516/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "CIA局长当面对特朗普说：伊朗的意图不可信",
           "url": "https://flash.jin10.com/detail/20260616072804528800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -148,9 +171,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国加州州长Newsom：总统特朗普命令司法部调查我和我的妻子，但他们并没有找到犯罪（证据）。 特朗普针对我，是因为我考虑竞选总统。",
@@ -186,6 +220,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "曝特朗普预计获准打破世界杯颁奖惯例",
+          "url": "https://www.toutiao.com/trending/7651429943464820763/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美国加州州长纽森：美国总统特朗普已指示司法部对我进行调查。",
           "url": "https://flash.jin10.com/detail/20260616022018165800",
           "source": "金十数据",
@@ -203,7 +248,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -225,7 +270,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -244,7 +289,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI为何成为能源之战",
@@ -308,6 +353,28 @@
           "time_info": "[03时39分 ~ 08时25分]"
         },
         {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "机构全面看好AI赋能的锡稀土钨钼 稀土板块有望演绎估值业绩双升",
+          "url": "https://www.cls.cn/detail/2400646",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
           "url": "https://www.zhihu.com/question/2049845138457719674",
           "source": "知乎",
@@ -325,7 +392,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -347,7 +414,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -366,8 +433,30 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股百货零售板块午后震荡上升，供销大集封板涨停，大连友谊此前涨停，永辉超市、三江购物、百大集团、赫美集团、国芳集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616141757648800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "A股算力租赁概念震荡拉升，莲花控股午后涨停，贵广网络、南威软件、南兴股份、中贝通信跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
         {
           "title": "金十数据全球财经早餐 | 2026年6月16日",
           "url": "https://flash.jin10.com/detail/20260616070101481800",
@@ -375,7 +464,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -386,7 +475,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -397,26 +486,60 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "A股航运港口板块午后再度走低，中远海能跌近9%，招商轮船跌超6%，南京港、宁波远洋、招商南油等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260616140203895800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "A股104股涨停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1104%E8%82%A1%E6%B6%A8%E5%81%9C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
           "url": "https://www.cls.cn/detail/2400615",
           "source": "财联社热门",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 14时27分]"
+        },
+        {
+          "title": "史诗级造富盛宴持续！SpaceX股价再飙20% 马斯克身家升破1.3万亿美元",
+          "url": "https://www.cls.cn/detail/2400667",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时25分"
+          "time_info": "14时27分"
         },
         {
           "title": "纳指涨近800点 马斯克日赚巴菲特身家",
@@ -425,7 +548,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
