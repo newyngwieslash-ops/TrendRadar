@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-17T06:50:40.010719+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-06-17T08:12:28.780750+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/articles/3774806",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
+        },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
@@ -19,53 +31,18 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
-        },
-        {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
           "url": "https://www.zhihu.com/question/2050239948306092201",
           "source": "知乎",
           "ranks": [
             16,
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
         },
         {
           "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
@@ -74,11 +51,51 @@
           "ranks": [
             13,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
+        },
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            16,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
+        },
+        {
+          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
+          "url": "https://www.cls.cn/detail/2401317",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
@@ -93,16 +110,15 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
-          "source": "财联社热门",
+          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
+          "url": "https://wallstreetcn.com/livenews/3120560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
@@ -144,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -155,7 +171,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -169,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617072915805800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
@@ -196,7 +223,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -208,6 +235,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -223,6 +263,17 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
+        },
+        {
           "title": "特朗普称美伊协议已签署",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
@@ -235,27 +286,15 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
+          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
           "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -269,15 +308,48 @@
           "time_info": "01时58分"
         },
         {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://wallstreetcn.com/livenews/3120550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "特朗普称没有美国以色列早不存在了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "特朗普：美方或恢复对俄石油制裁",
+          "url": "https://www.toutiao.com/trending/7652117439001477139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -297,7 +369,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -326,6 +398,57 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国5月零售销售数据将公布，次日凌晨两点美联储公布利率决议",
+          "url": "https://flash.jin10.com/detail/20260617075521201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "价值蓝筹暗流涌动，私募激辩A股风格轮动",
+          "url": "https://wallstreetcn.com/livenews/3120534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 08时12分]"
+        },
+        {
+          "title": "机构：投资者可关注A股半年报绩优方向",
+          "url": "https://wallstreetcn.com/livenews/3120527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "证券行业佣金率下行势头仍在延续，沪上A股平均佣金率低至1.73‱",
+          "url": "https://wallstreetcn.com/livenews/3120557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 3,
       "titles": [
@@ -335,11 +458,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 08时12分]"
         },
         {
           "title": "马斯克称「SpaceX 到 2030 年可能实现 1 万亿美元收入」，实现的概率高吗？",
@@ -348,7 +472,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -359,35 +483,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "价值蓝筹暗流涌动，私募激辩A股风格轮动",
-          "url": "https://wallstreetcn.com/livenews/3120534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "机构：投资者可关注A股半年报绩优方向",
-          "url": "https://wallstreetcn.com/livenews/3120527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         }
@@ -395,8 +491,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3120568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
         {
           "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
           "url": "https://wallstreetcn.com/livenews/3120501",
@@ -404,7 +511,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         }
