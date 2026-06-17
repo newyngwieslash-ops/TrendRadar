@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:12:28.780750+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-06-17T14:04:17.801886+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 08时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 14时04分]"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -73,6 +73,28 @@
           "time_info": "[01时57分 ~ 08时12分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "韩国央行警告：受益于AI热潮的科技巨头发放巨额奖金 可能推高通胀压力",
+          "url": "https://wallstreetcn.com/livenews/3120762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
           "url": "https://www.cls.cn/detail/2401228",
           "source": "财联社热门",
@@ -110,13 +132,24 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
           "url": "https://wallstreetcn.com/livenews/3120560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -187,13 +220,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "AI 会羡慕人类具有对死亡的恐惧吗？",
+          "url": "https://www.zhihu.com/question/1927197154759381914",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
           "url": "https://flash.jin10.com/detail/20260617072915805800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -207,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "国台办谈台当局拟严管AI芯片输入大陆",
+          "url": "https://www.toutiao.com/trending/7651367640611012671/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
@@ -223,7 +278,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -263,6 +318,17 @@
           "time_info": "[01时57分 ~ 06时50分]"
         },
         {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -292,9 +358,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 14时04分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时12分"
+          "time_info": "14时04分"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -314,7 +391,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -336,7 +413,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -347,7 +424,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -399,7 +476,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国5月零售销售数据将公布，次日凌晨两点美联储公布利率决议",
@@ -408,9 +485,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "吴清：新“国九条”以来 社保、保险等净买入A股1.3万亿元",
+          "url": "https://www.cls.cn/detail/2402011",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "价值蓝筹暗流涌动，私募激辩A股风格轮动",
@@ -425,6 +513,28 @@
           "time_info": "[06时50分 ~ 08时12分]"
         },
         {
+          "title": "A股科创50指数午后涨超3%，盛美上海涨超19%，拓荆科技涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260617133054019800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股创新药概念震荡下挫，常山药业跌超12%，珍宝岛、亚泰集团、济民健康、博瑞医药、振东制药跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3120758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "机构：投资者可关注A股半年报绩优方向",
           "url": "https://wallstreetcn.com/livenews/3120527",
           "source": "华尔街见闻-快讯",
@@ -436,15 +546,87 @@
           "time_info": "06时50分"
         },
         {
+          "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股预制菜板块大幅调整，双枪科技盘中触及跌停，天地在线、步步高、益客食品、双塔食品、天马科技、海欣食品等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260617133002118800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "证券行业佣金率下行势头仍在延续，沪上A股平均佣金率低至1.73‱",
           "url": "https://wallstreetcn.com/livenews/3120557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "A股存储芯片板块午后持续活跃，香农芯创涨超15%，盛美上海、普冉股份、澜起科技、德明利、紫光国微、兆易创新等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617130732246800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3120568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
+          "url": "https://wallstreetcn.com/livenews/3120501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     },
@@ -482,34 +664,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3120568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
-          "url": "https://wallstreetcn.com/livenews/3120501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
