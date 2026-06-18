@@ -1,260 +1,77 @@
 {
-  "generated_at": "2026-06-18T21:59:13.114411+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-06-19T01:04:19.527540+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 14,
       "titles": [
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 21时59分]"
-        },
-        {
-          "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
-          "url": "https://flash.jin10.com/detail/20260618061907048800",
+          "title": "美国总统特朗普：美国没有向伊朗支付3000亿美元。这是假新闻！美国只有成功、低油价和胜利。看看股市。民主党宣传在作祟！！！",
+          "url": "https://flash.jin10.com/detail/20260619005025619800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时42分"
+          "time_info": "01时04分"
         },
         {
-          "title": "特朗普：我喜欢“伊朗协议不奏效就怪罪万斯”这个想法",
-          "url": "https://wallstreetcn.com/livenews/3121174",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普迟到自称是老大各国领导发笑",
-          "url": "https://www.toutiao.com/trending/7652349345233567771/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
-          "url": "https://www.cls.cn/detail/2403312",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
-          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
-          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普：不反对伊朗拥有常规弹道导弹",
-          "url": "https://news.ifeng.com/c/8u3VmI5M1Ll",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
-          "url": "https://wallstreetcn.com/livenews/3121170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
-          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普：感谢中俄“完全中立”，让情况好转了很多",
-          "url": "https://news.ifeng.com/c/8u3EpDjUAsS",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
-          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时10分]"
+          "time_info": "01时04分"
         },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
           "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 21时59分]"
-        },
-        {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 21时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "美学者：特朗普凡尔赛签约离谱至极",
           "url": "https://news.ifeng.com/c/8u3ct1grAdS",
           "source": "凤凰网",
           "ranks": [
-            7,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
-          "url": "https://www.cls.cn/detail/2402714",
-          "source": "财联社热门",
+          "title": "美国副总统万斯：现在，总统特朗普是唯一同情以色列的全球领导人。",
+          "url": "https://wallstreetcn.com/livenews/3121823",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时04分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            14
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时59分]"
-        },
-        {
-          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
-          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
@@ -264,461 +81,92 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
           "url": "https://www.cls.cn/detail/2403606",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
-          "title": "特朗普G7峰会迟到后宣告我是老大",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普G7答UP主提问点赞中国",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AEG7%E7%AD%94UP%E4%B8%BB%E6%8F%90%E9%97%AE%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "伊朗小学被炸，特朗普首次公开松口：难免出错，没人是故意的",
-          "url": "https://news.ifeng.com/c/8u3TOe8B66X",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3121274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "图片：美国总统特朗普在法国凡尔赛宫签署了美伊谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260618073737880800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普：我已经签署美伊谅解备忘录，我们在凡尔赛宫签署的。",
-          "url": "https://wallstreetcn.com/livenews/3121299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普大赞凡尔赛宫是纯金的",
-          "url": "https://www.toutiao.com/trending/7652302791067828270/",
-          "source": "今日头条",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "01时04分"
         },
         {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了…”",
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
           "url": "https://news.ifeng.com/c/8u33RqAGLKg",
           "source": "凤凰网",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国官员：如果我们无法达成协议，美国总统特朗普并不害怕使用手中的工具。",
-          "url": "https://flash.jin10.com/detail/20260618012132387800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府内部正在推行一种新的饮食计划，其核心内容就是大量食用酸菜。",
-          "url": "https://flash.jin10.com/detail/20260618173248764800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国总统特朗普：正在调查“美国袭击伊朗学校”一事。",
-          "url": "https://wallstreetcn.com/livenews/3121161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "【万斯称美伊60天谈判期已开始】美国副总统万斯今天（6月18日）在白宫记者会上对媒体表示，由美国总统特朗普和伊朗总统佩泽希齐扬签署的谅解备忘录中规定的 60天谈判窗口期已正式启动。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3121812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "特朗普在G7记者会说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
-          "url": "https://www.cls.cn/detail/2403030",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "美国总统特朗普：我在想，我们或许无法围绕美国墨西哥加拿大贸易协议（USMCA）达成共识。",
-          "url": "https://wallstreetcn.com/livenews/3121230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美伊谅解备忘录正式签署生效，60天谈判期开启！特朗普押上第二任期最大赌注",
-          "url": "https://flash.jin10.com/detail/20260618072748622800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
-          "url": "https://wallstreetcn.com/livenews/3121158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
-          "url": "https://wallstreetcn.com/livenews/3121156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗协议不顺利，我会归咎于万斯。",
-          "url": "https://flash.jin10.com/detail/20260618011949358800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "沃什未透露是否与特朗普进行过沟通",
-          "url": "https://flash.jin10.com/detail/20260618032756315800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "特朗普称不反对伊朗拥有常规弹道导弹",
-          "url": "https://wallstreetcn.com/livenews/3121437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
-          "url": "https://wallstreetcn.com/livenews/3121152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
         },
         {
-          "title": "特朗普离开凡尔赛宫时说签署了伊朗备忘录",
-          "url": "https://flash.jin10.com/detail/20260618071620986800",
+          "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
+          "url": "https://flash.jin10.com/detail/20260619001546386800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国总统特朗普：希望获得扩大版“亚伯拉罕协议”。",
-          "url": "https://wallstreetcn.com/livenews/3121151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：将不得不为黎巴嫩付出努力。",
-          "url": "https://wallstreetcn.com/livenews/3121150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普：美联储按兵不动也是OK的，可能会加息",
-          "url": "https://wallstreetcn.com/livenews/3121222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "美国总统特朗普：试图让哈马斯解除武装。",
-          "url": "https://wallstreetcn.com/livenews/3121149",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
         },
         {
-          "title": "美国总统特朗普：签署了伊朗谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260618070556543800",
+          "title": "美国副总统万斯：（谈批评特朗普达成的协议的以色列人士）或许不应攻击盟友。",
+          "url": "https://flash.jin10.com/detail/20260619001318728800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260618054900264800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
-          "url": "https://wallstreetcn.com/livenews/3121146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：不会给伊朗钱。",
-          "url": "https://wallstreetcn.com/livenews/3121145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：可能会在周四、或周五与伊朗签署协议。 将发布与伊朗相关的谅解备忘录（MoU），从而让你们可以了解情况。 如果没能在60天内搞定伊朗协议，美军将重新轰炸。 不想再轰炸伊朗，但可能不得不那样做。 向以色列发送了一份伊朗协议的副本。",
-          "url": "https://wallstreetcn.com/livenews/3121143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡有时候激动了一点。 他没必要每次都炸掉（对方的）建筑物。 我们俩在黎巴嫩问题上存在意见分歧。 但我俩关系很好。",
-          "url": "https://wallstreetcn.com/livenews/3121142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
-          "url": "https://www.toutiao.com/trending/7652352370063445558/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普称不反对伊朗拥有弹道导弹",
-          "url": "https://wallstreetcn.com/livenews/3121420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "美国总统特朗普：波音757是一款不错的飞机。",
-          "url": "https://wallstreetcn.com/livenews/3121140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时03分 ~ 18时10分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
         {
           "title": "让AI走进千家万户",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
@@ -727,81 +175,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
-          "source": "知乎",
+          "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
+          "url": "https://wallstreetcn.com/livenews/3121827",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2402436",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时04分]"
-        },
-        {
-          "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
-          "url": "https://www.zhihu.com/question/2050269478747889665",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时04分]"
-        },
-        {
-          "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
-          "url": "https://www.zhihu.com/question/2046913494243435264",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 06时42分]"
-        },
-        {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -811,400 +197,91 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
-          "title": "AI贡献最大的一道题出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时10分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3121165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
         },
         {
-          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
-          "url": "https://wallstreetcn.com/livenews/3121595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "AI Agent 的核心技术是什么？",
-          "url": "https://www.zhihu.com/question/1906023807417811104",
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
           "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
-          "url": "https://www.cls.cn/detail/2403255",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "01时04分"
         },
         {
-          "title": "AI教父痛批马斯克xAI是“失败之作”，称各大实验室正面临“巨大泡沫破裂”风险",
-          "url": "https://wallstreetcn.com/livenews/3121734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "黄仁勋呼吁全民拥抱AI：社会需重塑规则体系 能源短缺成美国AI发展最大短板",
-          "url": "https://www.cls.cn/detail/2402612",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "吴倩 我是全中国最会使AI的女演员",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E6%88%91%E6%98%AF%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BC%9A%E4%BD%BFAI%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/XgYgJjxF2NJebvw060RQ-.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260618012020945800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "00后股民全仓AI股2个月赚30万",
-          "url": "https://www.toutiao.com/trending/7651658373838274602/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
-          "url": "https://wallstreetcn.com/livenews/3121153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2050636227766964582",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
-          "url": "https://wallstreetcn.com/livenews/3121289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "谷歌在Google Ad Manager中推出“Ask Ad Manager”AI 智能体。",
-          "url": "https://wallstreetcn.com/livenews/3121725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98%23&t=31&band_rank=20&Refer=top",
+          "title": "因AI翻译意外爆红的帖子",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%A0AI%E7%BF%BB%E8%AF%91%E6%84%8F%E5%A4%96%E7%88%86%E7%BA%A2%E7%9A%84%E5%B8%96%E5%AD%90&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时04分"
         },
         {
-          "title": "00后股民全仓AI股2个月赚30万",
-          "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "00后股民全仓AI股2个月赚30万",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
-          "url": "https://flash.jin10.com/detail/20260618172120453800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
-          "url": "https://wallstreetcn.com/livenews/3121214",
+          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3121801",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "01时04分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股中际旭创午后涨超6%，股价再创历史新高，总市值突破1.5万亿元，超越贵州茅台。",
-          "url": "https://flash.jin10.com/detail/20260618141117388800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "博主：A股正在发生三大结构性逆转",
-          "url": "https://www.toutiao.com/trending/7652346288553332230/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时04分]"
-        },
-        {
-          "title": "多家A股公司提示风险",
-          "url": "https://www.toutiao.com/trending/7652205334456025130/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时04分]"
-        },
-        {
-          "title": "A股电力板块持续下挫，豫能控股跌停，深南电A、粤电力A、西昌电力均跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3121449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "6月18日投资避雷针：昨日晚间逾70家A股公司提示风险",
-          "url": "https://www.cls.cn/detail/2403062",
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
           "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
+          "url": "https://www.cls.cn/detail/2404026",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "博主：A股正在发生一场流动性重构",
+          "url": "https://www.toutiao.com/trending/7652733853051653651/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "01时04分"
         },
         {
-          "title": "A股CPO板块持续走高，麦捷科技、兴森科技等股涨停，奕东电子、博敏电子、优迅股份涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3121445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "A股芯片电感概念异动拉升，麦捷科技20cm涨停，创历史新高，铂科新材、龙磁科技、顺络电子、悦安新材、美信科技涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3121436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年6月18日",
-          "url": "https://flash.jin10.com/detail/20260618070914938800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "A股算力租赁板块念午后拉升，东方国信20cm涨停，此前中嘉博创、智微智能涨停，科创信息、利通电子、恒为科技、宏景科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3121429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "全球资本正在回流美国 A股会失血吗",
-          "url": "https://www.toutiao.com/trending/7652596192932531722/",
+          "title": "业内：A股风格或迎阶段性均衡",
+          "url": "https://www.toutiao.com/trending/7652708413402516998/",
           "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "72家A股公司提示风险",
-          "url": "https://s.weibo.com/weibo?q=%2372%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8F%90%E7%A4%BA%E9%A3%8E%E9%99%A9%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
-          "url": "https://www.cls.cn/detail/2402553",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 06时42分]"
+          "time_info": "01时04分"
         }
       ]
     }
