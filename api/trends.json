@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T08:10:33.401951+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-06-18T14:40:42.187614+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "特朗普：感谢中俄“完全中立”，让情况好转了很多",
+          "url": "https://news.ifeng.com/c/8u3EpDjUAsS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
         {
           "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
           "url": "https://flash.jin10.com/detail/20260618061907048800",
@@ -30,13 +41,27 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普迟到自称是老大各国领导发笑",
           "url": "https://www.toutiao.com/trending/7652349345233567771/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -52,6 +77,17 @@
           "time_info": "[01时47分 ~ 08时10分]"
         },
         {
+          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
+          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
           "source": "凤凰网",
@@ -61,6 +97,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普：不反对伊朗拥有常规弹道导弹",
+          "url": "https://news.ifeng.com/c/8u3VmI5M1Ll",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
@@ -79,19 +126,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -123,6 +157,18 @@
           "time_info": "[01时47分 ~ 04时04分]"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普G7峰会迟到后宣告我是老大",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -146,6 +192,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "伊朗小学被炸，特朗普首次公开松口：难免出错，没人是故意的",
+          "url": "https://news.ifeng.com/c/8u3TOe8B66X",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3121274",
           "source": "华尔街见闻-快讯",
@@ -157,15 +214,37 @@
           "time_info": "06时42分"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
+          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
+          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "14时40分"
+        },
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "图片：美国总统特朗普在法国凡尔赛宫签署了美伊谅解备忘录。",
@@ -174,7 +253,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -185,9 +264,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "特朗普大赞凡尔赛宫是纯金的",
+          "url": "https://www.toutiao.com/trending/7652302791067828270/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国官员：如果我们无法达成协议，美国总统特朗普并不害怕使用手中的工具。",
@@ -212,6 +302,28 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
+          "url": "https://www.cls.cn/detail/2403030",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国总统特朗普：我在想，我们或许无法围绕美国墨西哥加拿大贸易协议（USMCA）达成共识。",
           "url": "https://wallstreetcn.com/livenews/3121230",
           "source": "华尔街见闻-快讯",
@@ -229,7 +341,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -256,6 +368,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗协议不顺利，我会归咎于万斯。",
           "url": "https://flash.jin10.com/detail/20260618011949358800",
           "source": "金十数据",
@@ -278,6 +401,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "特朗普称不反对伊朗拥有常规弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3121437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
           "url": "https://wallstreetcn.com/livenews/3121152",
           "source": "华尔街见闻-快讯",
@@ -295,7 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -350,7 +484,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -421,6 +555,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普称不反对伊朗拥有弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3121420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国总统特朗普：波音757是一款不错的飞机。",
           "url": "https://wallstreetcn.com/livenews/3121140",
           "source": "华尔街见闻-快讯",
@@ -435,7 +580,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -448,6 +593,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 08时10分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时03分 ~ 14时40分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -473,19 +632,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 08时10分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 08时10分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -524,6 +670,17 @@
           "time_info": "[04时03分 ~ 06时42分]"
         },
         {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
@@ -557,6 +714,28 @@
           "time_info": "01时47分"
         },
         {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "吴倩 我是全中国最会使AI的女演员",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E6%88%91%E6%98%AF%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BC%9A%E4%BD%BFAI%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850552&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/XgYgJjxF2NJebvw060RQ-.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260618012020945800",
           "source": "金十数据",
@@ -566,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://www.toutiao.com/trending/7651658373838274602/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
@@ -579,13 +769,24 @@
           "time_info": "01时47分"
         },
         {
+          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2050636227766964582",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
           "url": "https://wallstreetcn.com/livenews/3121289",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -601,6 +802,28 @@
           "time_info": "01时47分"
         },
         {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "00后股民全仓AI股2个月赚30万",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%82%A1%E6%B0%91%E5%85%A8%E4%BB%93AI%E8%82%A12%E4%B8%AA%E6%9C%88%E8%B5%9A30%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
           "url": "https://wallstreetcn.com/livenews/3121214",
           "source": "华尔街见闻-快讯",
@@ -610,13 +833,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "A股中际旭创午后涨超6%，股价再创历史新高，总市值突破1.5万亿元，超越贵州茅台。",
+          "url": "https://flash.jin10.com/detail/20260618141117388800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
         {
           "title": "博主：A股正在发生三大结构性逆转",
           "url": "https://www.toutiao.com/trending/7652346288553332230/",
@@ -642,15 +887,70 @@
           "time_info": "[01时47分 ~ 04时04分]"
         },
         {
+          "title": "A股电力板块持续下挫，豫能控股跌停，深南电A、粤电力A、西昌电力均跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3121449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "6月18日投资避雷针：昨日晚间逾70家A股公司提示风险",
+          "url": "https://www.cls.cn/detail/2403062",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股CPO板块持续走高，麦捷科技、兴森科技等股涨停，奕东电子、博敏电子、优迅股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3121445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股芯片电感概念异动拉升，麦捷科技20cm涨停，创历史新高，铂科新材、龙磁科技、顺络电子、悦安新材、美信科技涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3121436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年6月18日",
           "url": "https://flash.jin10.com/detail/20260618070914938800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "A股算力租赁板块念午后拉升，东方国信20cm涨停，此前中嘉博创、智微智能涨停，科创信息、利通电子、恒为科技、宏景科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3121429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "72家A股公司提示风险",
@@ -659,7 +959,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
