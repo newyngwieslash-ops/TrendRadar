@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T08:03:54.848346+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-06-20T13:06:53.270660+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -28,19 +28,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
           "url": "https://news.ifeng.com/c/8u5ipgperKS",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -121,30 +122,6 @@
           "time_info": "[01时54分 ~ 06时47分]"
         },
         {
-          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
-          "url": "https://wallstreetcn.com/livenews/3122195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 08时03分]"
-        },
-        {
-          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
-          "url": "https://wallstreetcn.com/livenews/3122194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 08时03分]"
-        },
-        {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
           "url": "https://flash.jin10.com/detail/20260620030507766800",
           "source": "金十数据",
@@ -155,18 +132,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时29分 ~ 08时03分]"
-        },
-        {
-          "title": "特朗普：Anthropic曾构成国家安全威胁",
-          "url": "https://wallstreetcn.com/livenews/3122193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 08时03分]"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -191,6 +156,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时29分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 13时06分]"
+        },
+        {
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 13时06分]"
+        },
+        {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 13时06分]"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -438,6 +453,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
           "url": "https://flash.jin10.com/detail/20260620021254404800",
           "source": "金十数据",
@@ -482,6 +508,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "多国领导人劝和特朗普与高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
           "url": "https://flash.jin10.com/detail/20260619235405420800",
           "source": "金十数据",
@@ -507,7 +544,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -531,8 +568,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时03分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[05时03分 ~ 13时06分]"
+        },
+        {
+          "title": "第一次见心眼这么多的AI",
+          "url": "https://www.douyin.com/hot/2541043",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 13时06分]"
         },
         {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
@@ -559,16 +620,48 @@
           "time_info": "[01时54分 ~ 03时29分]"
         },
         {
-          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122191",
+          "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
+          "url": "https://www.zhihu.com/question/2050584252303893056",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 08时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "当AI开始自己造AI",
+          "url": "https://www.toutiao.com/trending/7653272712957136393/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "男子称挂专家号医生竟悄悄问AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         }
       ]
     },
@@ -582,11 +675,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -651,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -664,19 +758,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
           "url": "https://www.cls.cn/detail/2404026",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 13时06分]"
         }
       ]
     },
