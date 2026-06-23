@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T07:15:24.444414+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-23T10:34:31.190641+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -46,11 +46,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 10时34分]"
         },
         {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
@@ -158,7 +170,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -287,7 +299,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -299,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         },
         {
           "title": "高通接近达成一份协议，将收购AI芯片初创公司Modular。（彭博）",
@@ -335,6 +336,18 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 10时34分]"
+        },
+        {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
           "url": "https://wallstreetcn.com/articles/3775200",
           "source": "华尔街见闻",
@@ -342,8 +355,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 10时34分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
@@ -355,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
+          "url": "https://wallstreetcn.com/livenews/3123106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
@@ -374,7 +431,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -385,7 +442,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -407,7 +464,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -418,9 +475,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "物理AI第一股上市首日高开302%",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -435,7 +503,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -446,7 +514,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -457,7 +525,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -477,6 +545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克五倍薪资挖角台积电工程师",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BA%94%E5%80%8D%E8%96%AA%E8%B5%84%E6%8C%96%E8%A7%92%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%B8%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     }
