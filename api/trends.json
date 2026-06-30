@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T02:52:05.939649+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-07-01T04:54:05.941309+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
+        },
+        {
+          "title": "美国总统特朗普的年度财务信息被披露。",
+          "url": "https://wallstreetcn.com/livenews/3126986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -30,15 +52,15 @@
           "time_info": "[00时18分 ~ 02时52分]"
         },
         {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
+          "title": "市场消息：美国一名法官裁定，阻止特朗普政府出台的一项限制联邦学生贷款减免的政策规则生效。",
+          "url": "https://flash.jin10.com/detail/20260701042824758800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "市场消息：美国共和党强硬派阻挠众议院推进国防政策法案的举措，以抗议特朗普关于选民身份验证的立法主张。",
@@ -47,7 +69,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -91,7 +113,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -132,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -143,8 +165,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -194,8 +216,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "A股上半年股王涨超770%",
@@ -203,11 +225,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "京东方成交额超400亿元位居A股第一",
@@ -257,8 +280,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -267,7 +290,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -295,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -311,11 +334,12 @@
           "source": "微博",
           "ranks": [
             5,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时54分]"
         }
       ]
     }
