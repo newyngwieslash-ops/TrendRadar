@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T05:21:26.969739+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-02T07:06:01.745728+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -30,17 +30,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
-          "url": "https://flash.jin10.com/detail/20260702044234084800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
           "url": "https://flash.jin10.com/detail/20260702035327823800",
           "source": "金十数据",
@@ -51,6 +40,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时21分]"
+        },
+        {
+          "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
+          "url": "https://flash.jin10.com/detail/20260702044234084800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
+          "url": "https://wallstreetcn.com/livenews/3127615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3127614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时06分]"
         },
         {
           "title": "美国总统特朗普：假新闻最近对我还算不错。当你表现得像我们现在这样好时，他们大概不得不变得客气一些。",
@@ -81,7 +106,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -92,7 +117,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -103,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -114,7 +139,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -130,17 +155,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "美国总统特朗普：美光科技(MU.O)正在直接投资美国工人和家庭。",
           "url": "https://flash.jin10.com/detail/20260702002937500800",
           "source": "金十数据",
@@ -150,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3127614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         },
         {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
@@ -191,7 +194,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -202,7 +205,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -213,7 +216,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -235,7 +238,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -257,7 +260,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -268,7 +271,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -276,7 +279,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -286,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -297,8 +300,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -309,8 +312,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -320,8 +323,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -330,11 +333,24 @@
           "ranks": [
             22,
             15,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时06分]"
         },
         {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
@@ -360,6 +376,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "在SpaceX获巨额回报，报道称马斯克盟友Gracias瞄准AI与能源领域投资",
+          "url": "https://wallstreetcn.com/livenews/3127640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "华尔街分析师丹·艾夫斯离开韦德布什 创办AI投资银行",
           "url": "https://flash.jin10.com/detail/20260702033153805800",
           "source": "金十数据",
@@ -377,7 +404,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -388,7 +415,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -402,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         },
         {
           "title": "Guggenheim称AI并非该行业的“丧钟”",
@@ -440,7 +456,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -450,8 +466,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "A股交易新规下周一正式施行",
@@ -461,19 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
-        },
-        {
-          "title": "A股交易规则下周一起重大调整",
-          "url": "https://www.toutiao.com/trending/7657522598550716422/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
@@ -483,8 +488,43 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年7月2日 周四",
+          "url": "https://flash.jin10.com/detail/20260702065000002800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "A股交易规则下周一起重大调整",
+          "url": "https://www.toutiao.com/trending/7657522598550716422/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "A股将取消5%涨跌停板",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "time_info": "[01时08分 ~ 07时06分]"
         },
         {
           "title": "A股科技股真的过热了吗",
@@ -498,15 +538,15 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
-          "title": "A股将取消5%涨跌停板",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "A股IPO保荐半年盘点：三大券商领跑，中小投行借北交所突围",
+          "url": "https://wallstreetcn.com/livenews/3127635",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -567,8 +607,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时06分]"
         }
       ]
     }
