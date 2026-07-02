@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:55:51.090854+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-07-02T20:05:20.675411+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 20时05分]"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            17,
+            22,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 20时05分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -29,21 +45,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 07时06分]"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            17,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 17时55分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -87,11 +88,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时05分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -99,11 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时05分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -113,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 20时05分]"
         },
         {
           "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
@@ -122,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 20时05分]"
         },
         {
           "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
@@ -139,6 +143,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时05分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -165,6 +181,18 @@
           "time_info": "[10时35分 ~ 14时34分]"
         },
         {
+          "title": "AI已出现欺骗行为 联合国发出警告",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时05分]"
+        },
+        {
           "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
           "url": "https://wallstreetcn.com/articles/3775976",
           "source": "华尔街见闻",
@@ -186,6 +214,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 14时34分]"
+        },
+        {
+          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
+          "url": "https://www.cls.cn/detail/2415001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时05分]"
         },
         {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
@@ -217,7 +257,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -233,17 +273,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "昆仑万维：天工AI业务ARR突破8亿美元",
           "url": "https://flash.jin10.com/detail/20260702140314728800",
           "source": "金十数据",
@@ -253,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "AI行情促使投资再平衡 外资从亚洲股市撤回创纪录的1370亿美元",
@@ -277,17 +317,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
-          "url": "https://www.cls.cn/detail/2415001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
           "url": "https://flash.jin10.com/detail/20260702041739954800",
           "source": "金十数据",
@@ -310,24 +339,13 @@
           "time_info": "05时21分"
         },
         {
-          "title": "AI已出现欺骗行为 联合国发出警告",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "AI演员已经能演出情绪变化了",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -354,6 +372,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "Guggenheim称AI并非该行业的“丧钟”",
           "url": "https://wallstreetcn.com/livenews/3127515",
           "source": "华尔街见闻-快讯",
@@ -363,6 +392,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "市场大跌AI行情要结束了吗",
+          "url": "https://www.toutiao.com/trending/7657850303982603827/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "Uber震动AI数据标注业务，解雇两位高层主管",
@@ -379,7 +430,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -524,7 +575,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -571,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
@@ -667,7 +729,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -700,7 +762,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -711,7 +773,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -722,7 +784,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -730,7 +792,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -755,6 +817,18 @@
           "time_info": "[01时08分 ~ 07时06分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2555608",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时05分]"
+        },
+        {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
           "url": "https://www.cls.cn/detail/2414312",
           "source": "财联社热门",
@@ -775,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2555608",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "A股交易规则下周一起重大调整",
@@ -835,6 +898,17 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "A股多氟多成交额达100亿元，现跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260702100402353800",
           "source": "金十数据",
@@ -844,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户",
+          "url": "https://wallstreetcn.com/livenews/3128001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "A股创新药板块午后回暖，科伦药业、泽璟制药盘中创新高，海南海药4连板，石药景峰、联化科技涨停，热景生物涨超15%，石药创新、万邦医药、津药药业、康芝药业、双鹭药业跟涨。",
@@ -901,6 +986,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "博主：A股七月变盘散户别再只看指数",
+          "url": "https://www.toutiao.com/trending/7657859836637351487/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "A股化纤概念异动拉升，尤夫股份、优彩资源双双涨停，ST海龙、宝丽迪、新乡化纤、同益中、蒙泰高新、恒逸石化等跟涨。",
           "url": "https://flash.jin10.com/detail/20260702094837869800",
           "source": "金十数据",
@@ -929,7 +1025,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1014,8 +1110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时05分]"
         },
         {
           "title": "马斯克回应华尔街日报关于原型设备的报道，称：完全是虚假的。",
