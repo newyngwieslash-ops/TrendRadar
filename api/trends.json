@@ -1,392 +1,11 @@
 {
-  "generated_at": "2026-07-03T07:58:50.381323+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-07-03T10:50:53.557948+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
-          "url": "https://flash.jin10.com/detail/20260703053547693800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（关于住房法案）没问题。",
-          "url": "https://flash.jin10.com/detail/20260703053454150800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
-          "url": "https://wallstreetcn.com/livenews/3128242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
-          "url": "https://wallstreetcn.com/livenews/3128241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
-          "url": "https://flash.jin10.com/detail/20260703053345539800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
-          "url": "https://wallstreetcn.com/livenews/3128240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 06时04分]"
-        },
-        {
-          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
-          "url": "https://flash.jin10.com/detail/20260703053041502800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
-          "url": "https://flash.jin10.com/detail/20260703070405676800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
-          "url": "https://flash.jin10.com/detail/20260703053013791800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
-          "url": "https://flash.jin10.com/detail/20260703052841893800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
-          "url": "https://flash.jin10.com/detail/20260703052743163800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
-          "url": "https://flash.jin10.com/detail/20260703065821847800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
-          "url": "https://wallstreetcn.com/livenews/3128235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
-          "url": "https://flash.jin10.com/detail/20260703052511433800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普回应获得巨额收益：不知情",
-          "url": "https://flash.jin10.com/detail/20260703065333579800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/3128234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：我根本不参与我的生意。",
-          "url": "https://flash.jin10.com/detail/20260703052510223800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普：美联储主席沃什必须做他必须做的事",
-          "url": "https://wallstreetcn.com/livenews/3128233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及财务状况时）盛赞股市。",
-          "url": "https://flash.jin10.com/detail/20260703052505649800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3128232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
-          "url": "https://flash.jin10.com/detail/20260703004136398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "美国总统特朗普：将开始启动将美联储理事库克从美联储“移除”的程序。",
-          "url": "https://flash.jin10.com/detail/20260703052127745800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
-          "url": "https://flash.jin10.com/detail/20260703052048384800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国总统特朗普：美国GDP（增速）应在12%至13%之间。",
-          "url": "https://flash.jin10.com/detail/20260703052019481800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
-          "url": "https://wallstreetcn.com/livenews/3128266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
-          "url": "https://flash.jin10.com/detail/20260703051818744800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
-          "url": "https://wallstreetcn.com/livenews/3128200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普重申：伊朗将从美国购买食品",
-          "url": "https://flash.jin10.com/detail/20260703060408656800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
-          "url": "https://flash.jin10.com/detail/20260703055739392800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
-          "url": "https://flash.jin10.com/detail/20260703055727803800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
-          "url": "https://flash.jin10.com/detail/20260703055641484800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
-          "url": "https://flash.jin10.com/detail/20260703055024068800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -396,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时50分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -421,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时50分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -442,9 +61,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
@@ -565,6 +206,28 @@
           "time_info": "06时04分"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3128155",
           "source": "华尔街见闻-快讯",
@@ -587,6 +250,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
           "url": "https://flash.jin10.com/detail/20260703051247176800",
           "source": "金十数据",
@@ -604,7 +278,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -659,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -697,6 +371,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "特朗普发AI视频变身医生开可乐药方",
+          "url": "https://www.toutiao.com/trending/7657679186635030554/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
           "url": "https://wallstreetcn.com/livenews/3128134",
           "source": "华尔街见闻-快讯",
@@ -725,7 +410,400 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
+          "url": "https://flash.jin10.com/detail/20260703053547693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时50分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于住房法案）没问题。",
+          "url": "https://flash.jin10.com/detail/20260703053454150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
+          "url": "https://wallstreetcn.com/livenews/3128242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
+          "url": "https://wallstreetcn.com/livenews/3128241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
+          "url": "https://flash.jin10.com/detail/20260703053345539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
+          "url": "https://wallstreetcn.com/livenews/3128240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 06时04分]"
+        },
+        {
+          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
+          "url": "https://flash.jin10.com/detail/20260703053041502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
+          "url": "https://flash.jin10.com/detail/20260703070405676800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
+          "url": "https://flash.jin10.com/detail/20260703053013791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
+          "url": "https://flash.jin10.com/detail/20260703052841893800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
+          "url": "https://flash.jin10.com/detail/20260703052743163800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
+          "url": "https://flash.jin10.com/detail/20260703065821847800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
+          "url": "https://wallstreetcn.com/livenews/3128235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
+          "url": "https://flash.jin10.com/detail/20260703052511433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普回应获得巨额收益：不知情",
+          "url": "https://flash.jin10.com/detail/20260703065333579800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
+          "url": "https://wallstreetcn.com/livenews/3128234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：我根本不参与我的生意。",
+          "url": "https://flash.jin10.com/detail/20260703052510223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普：美联储主席沃什必须做他必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3128233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及财务状况时）盛赞股市。",
+          "url": "https://flash.jin10.com/detail/20260703052505649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3128232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
+          "url": "https://flash.jin10.com/detail/20260703004136398800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：将开始启动将美联储理事库克从美联储“移除”的程序。",
+          "url": "https://flash.jin10.com/detail/20260703052127745800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
+          "url": "https://flash.jin10.com/detail/20260703052048384800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：美国GDP（增速）应在12%至13%之间。",
+          "url": "https://flash.jin10.com/detail/20260703052019481800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
+          "url": "https://wallstreetcn.com/livenews/3128266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
+          "url": "https://flash.jin10.com/detail/20260703051818744800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
+          "url": "https://wallstreetcn.com/livenews/3128200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "特朗普重申：伊朗将从美国购买食品",
+          "url": "https://flash.jin10.com/detail/20260703060408656800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
+          "url": "https://flash.jin10.com/detail/20260703055739392800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
+          "url": "https://flash.jin10.com/detail/20260703055727803800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
+          "url": "https://flash.jin10.com/detail/20260703055641484800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
+          "url": "https://flash.jin10.com/detail/20260703055024068800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -733,7 +811,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 17,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -751,11 +829,12 @@
           "url": "https://www.cls.cn/detail/2415963",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年7月3日",
@@ -764,9 +843,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股创新药概念早盘冲高回落，通化金马跌停，新赣江、益诺思、双鹭药业、海思科、泽璟制药、三生国健等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703103310017800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股电网设备板块震荡走强，华明装备涨停，金智科技、金冠电气、明阳电气、神马电力、思源电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703102626704800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月3日 周五",
@@ -775,9 +876,64 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股小金属板块震荡走弱，翔鹭钨业跌停，中钨高新、厦门钨业、东方钽业、章源钨业、金钼股份、贵研铂业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703102321607800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股环保板块持续走强，惠城环保涨停，清研环境、劲旅环境、侨银股份、ST京蓝、华骐环保、玉禾田等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703101836861800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股液冷服务器概念震荡拉升，飞龙股份涨停，申菱环境涨超10%，腾龙股份、强瑞技术、川环科技、南方泵业、英维克跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703101239152800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股燃气轮机概念表现活跃，图南股份、隆达股份均涨超10%，万泽股份、杰瑞股份、常宝股份、东方电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703100908300800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股军工板块震荡走强，航发科技、甘化科工、铖昌科技、航天发展涨停，爱乐达、超捷股份涨超10%，理工导航、隆达股份、航天环宇、立航科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -786,15 +942,70 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股创业板指涨逾1%，人形机器人、军工、黄金等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260703100647967800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股创新药概念持续反弹，石药景峰2连板，苑东生物、申联生物涨超10%，维康药业、石药创新、益方生物涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3128343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股贵金属板块再度拉升，赤峰黄金、招金黄金2连板，山金国际涨停，晓程科技涨超10%，四川黄金、西部黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股人形机器人板块持续走强，凯龙高科20CM涨停，埃斯顿、卧龙电驱等多股涨停，拓斯达、绿的谐波、长盛轴承、上纬新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703100554853800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "A股机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
+          "url": "https://wallstreetcn.com/livenews/3128339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克晒Optimus量产团队合照，承认生产初期“极其缓慢”：这不像造车",
@@ -803,9 +1014,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -814,7 +1025,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -825,7 +1036,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -836,9 +1047,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普公开“劝捐”：看好马斯克捐赠SpaceX股权",
+          "url": "https://flash.jin10.com/detail/20260703100626191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
