@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:55:32.784087+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-07-06T06:56:16.456870+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -37,30 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
-        },
-        {
-          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
-          "url": "https://flash.jin10.com/detail/20260706050829580800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
-          "url": "https://flash.jin10.com/detail/20260706042147057800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -68,11 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -87,6 +66,19 @@
           "time_info": "[01时00分 ~ 02时05分]"
         },
         {
+          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
+          "url": "https://flash.jin10.com/detail/20260706033046611800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 06时56分]"
+        },
+        {
           "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
           "url": "https://flash.jin10.com/detail/20260706012858730800",
           "source": "金十数据",
@@ -97,6 +89,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 04时08分]"
+        },
+        {
+          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
+          "url": "https://flash.jin10.com/detail/20260706050829580800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时56分]"
         },
         {
           "title": "美国高级官员：特朗普认为必须尽快结束俄乌冲突，俄乌前线战局已僵持数月。美方有望在结束乌克兰战事方面取得进展。",
@@ -111,16 +115,16 @@
           "time_info": "[02时05分 ~ 04时08分]"
         },
         {
-          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
-          "url": "https://flash.jin10.com/detail/20260706033046611800",
+          "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
+          "url": "https://flash.jin10.com/detail/20260706042147057800",
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时55分]"
+          "time_info": "[05时55分 ~ 06时56分]"
         },
         {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
@@ -132,6 +136,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时00分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
+          "url": "https://flash.jin10.com/detail/20260706024451820800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 06时56分]"
         },
         {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
@@ -156,18 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
-          "url": "https://flash.jin10.com/detail/20260706024451820800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时55分]"
         },
         {
           "title": "特朗普再次呼吁废除“冗长辩论”机制",
@@ -296,8 +301,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -308,19 +313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
-        },
-        {
-          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
-          "url": "https://flash.jin10.com/detail/20260706053240940800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -331,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -344,8 +338,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "time_info": "[01时00分 ~ 06时56分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -361,15 +367,16 @@
           "time_info": "[00时59分 ~ 05时55分]"
         },
         {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
+          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
+          "url": "https://flash.jin10.com/detail/20260706053240940800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 05时55分]"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时56分]"
         },
         {
           "title": "谁在提前退出AI盛宴",
@@ -386,7 +393,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -396,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "多家A股公司，业绩大增",
@@ -407,8 +414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -418,8 +425,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -429,8 +436,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时56分]"
+        },
+        {
+          "title": "A股交易新规今起施行，券商配套更新风险揭示书",
+          "url": "https://wallstreetcn.com/livenews/3129031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月6日 周一",
