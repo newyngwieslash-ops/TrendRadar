@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:15:11.085638+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-07-05T23:08:11.251420+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 23时08分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 23时08分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -65,8 +65,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 23时08分]"
+        },
+        {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时34分 ~ 21时15分]"
+          "time_info": "[19时25分 ~ 23时08分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -91,16 +103,30 @@
           "time_info": "[00时06分 ~ 06时51分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
-          "source": "凤凰网",
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            3
+            17,
+            16,
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 23时08分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时08分]"
         },
         {
           "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
@@ -123,31 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 07时56分]"
-        },
-        {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时15分]"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时15分]"
         },
         {
           "title": "克里姆林宫：在普京与特朗普的通话中，双方谈及乌克兰问题。",
@@ -273,6 +274,20 @@
           "time_info": "[10时24分 ~ 19时25分]"
         },
         {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 23时08分]"
+        },
+        {
           "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
           "url": "https://flash.jin10.com/detail/20260705051451738800",
           "source": "金十数据",
@@ -355,19 +370,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时51分 ~ 10时24分]"
-        },
-        {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 21时15分]"
         },
         {
           "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
@@ -586,7 +588,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -693,7 +695,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -743,22 +745,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 21时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时08分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时08分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -766,22 +770,23 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 21时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时08分]"
         },
         {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
+          "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
+          "url": "https://flash.jin10.com/detail/20260705225805600800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "23时08分"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -807,6 +812,32 @@
           "time_info": "[07时56分 ~ 19时25分]"
         },
         {
+          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            27,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时08分]"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时08分]"
+        },
+        {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
           "url": "https://flash.jin10.com/detail/20260705041238253800",
           "source": "金十数据",
@@ -819,17 +850,15 @@
           "time_info": "[04时47分 ~ 05时52分]"
         },
         {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "短视频最火声音被AI偷走了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E8%A7%86%E9%A2%91%E6%9C%80%E7%81%AB%E5%A3%B0%E9%9F%B3%E8%A2%ABAI%E5%81%B7%E8%B5%B0%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            27,
-            19
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时15分]"
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -841,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
+          "url": "https://flash.jin10.com/detail/20260705221127542800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
@@ -915,11 +955,12 @@
             8,
             4,
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 21时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 23时08分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -932,8 +973,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 21时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 23时08分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -942,11 +983,38 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 23时08分]"
+        },
+        {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时08分]"
+        },
+        {
+          "title": "多家A股公司，业绩大增",
+          "url": "https://www.cls.cn/detail/2417346",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 23时08分]"
         },
         {
           "title": "下周A股反弹能走多远",
@@ -963,19 +1031,6 @@
           "time_info": "[00时06分 ~ 06时51分]"
         },
         {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 21时15分]"
-        },
-        {
           "title": "A股超520亿资金撤离9只科技股",
           "url": "https://www.toutiao.com/trending/7658142757459165220/",
           "source": "今日头条",
@@ -985,17 +1040,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时25分 ~ 21时15分]"
-        },
-        {
-          "title": "多家A股公司，业绩大增",
-          "url": "https://www.cls.cn/detail/2417346",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "A股再融资新规来了",
