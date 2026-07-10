@@ -1,8 +1,129 @@
 {
-  "generated_at": "2026-07-11T04:17:09.029754+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-07-11T05:54:52.473885+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+          "url": "https://wallstreetcn.com/articles/3776629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
+        },
+        {
+          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
+          "url": "https://wallstreetcn.com/livenews/3132205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 04时17分]"
+        },
+        {
+          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
+          "url": "https://wallstreetcn.com/livenews/3132249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+          "url": "https://flash.jin10.com/detail/20260711044802586800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3132157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
+          "url": "https://flash.jin10.com/detail/20260711042558788800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
+          "url": "https://flash.jin10.com/detail/20260710231132564800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 9,
@@ -15,8 +136,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -26,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -37,8 +158,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 05时54分]"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -109,92 +230,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
-          "url": "https://wallstreetcn.com/livenews/3132205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 04时17分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
-        },
-        {
-          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
-          "url": "https://wallstreetcn.com/livenews/3132157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
-          "url": "https://flash.jin10.com/detail/20260710231132564800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经 A股",
       "match_count": 3,
       "titles": [
@@ -206,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -217,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
         },
         {
           "title": "A股商业航天板块午后“满屏涨停”",
@@ -259,11 +294,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356058&amp;topic_name=%E5%9B%9E%E5%BA%94%E8%88%86%E8%AE%BA%2C%E6%B3%B0%E5%B1%B1%E6%8B%86%E6%94%B9%E5%88%80%E7%89%87%E9%93%81%E4%B8%9D%E7%BD%91",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时54分]"
         }
       ]
     }
