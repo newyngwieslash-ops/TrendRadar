@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:46:12.345398+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-07-12T06:40:37.367498+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -63,8 +63,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时40分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -78,34 +91,23 @@
           "time_info": "[04时01分 ~ 05时46分]"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时46分]"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时40分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -116,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -127,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -138,11 +140,12 @@
             27,
             24,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -165,11 +168,23 @@
           "url": "https://flash.jin10.com/detail/20260712053423358800",
           "source": "金十数据",
           "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时40分]"
+        },
+        {
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
+          "source": "金十数据",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "06时40分"
         },
         {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
@@ -179,8 +194,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时40分]"
         }
       ]
     },
@@ -197,8 +212,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -209,8 +224,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时40分]"
         },
         {
           "title": "A股下周怎么走",
@@ -248,11 +263,12 @@
             7,
             9,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 06时40分]"
         }
       ]
     }
