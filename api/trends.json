@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:20:38.484266+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-07-11T18:57:49.475306+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时57分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -57,6 +57,18 @@
           "time_info": "[02时19分 ~ 07时53分]"
         },
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时57分]"
+        },
+        {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
@@ -69,27 +81,16 @@
           "time_info": "[06时54分 ~ 09时56分]"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时20分]"
-        },
-        {
           "title": "特朗普改口：美加跨国大桥将于27日通车",
           "url": "https://wallstreetcn.com/livenews/3132331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时57分]"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -116,6 +117,19 @@
           "time_info": "[12时58分 ~ 15时11分]"
         },
         {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://wallstreetcn.com/livenews/3132310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
           "url": "https://flash.jin10.com/detail/20260711120244661800",
           "source": "金十数据",
@@ -140,6 +154,18 @@
           "time_info": "[12时58分 ~ 15时11分]"
         },
         {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://flash.jin10.com/detail/20260711162225573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普再次发出警告：若伊朗企图暗杀我 数千枚导弹将向伊朗发射",
           "url": "https://flash.jin10.com/detail/20260711112133723800",
           "source": "金十数据",
@@ -152,16 +178,15 @@
           "time_info": "[12时58分 ~ 15时11分]"
         },
         {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
@@ -173,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://flash.jin10.com/detail/20260711162225573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -285,6 +299,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "特朗普：美方已同意继续和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3132146",
           "source": "华尔街见闻-快讯",
@@ -299,7 +324,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -319,6 +344,21 @@
           "time_info": "[00时17分 ~ 17时20分]"
         },
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 18时57分]"
+        },
+        {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
@@ -335,20 +375,6 @@
           "time_info": "[00时17分 ~ 15时11分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时54分 ~ 17时20分]"
-        },
-        {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
           "url": "https://www.cls.cn/detail/2422921",
           "source": "财联社热门",
@@ -361,6 +387,19 @@
           "time_info": "[00时17分 ~ 07时53分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时57分]"
+        },
+        {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
           "url": "https://wallstreetcn.com/articles/3776606",
           "source": "华尔街见闻",
@@ -370,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 18时57分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -404,30 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 17时20分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 17时20分]"
         },
         {
           "title": "据悉OpenAI安全系统负责人将离职",
@@ -526,6 +553,18 @@
           "time_info": "[09时56分 ~ 17时20分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时57分]"
+        },
+        {
           "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
           "url": "https://wallstreetcn.com/livenews/3132277",
           "source": "华尔街见闻-快讯",
@@ -538,15 +577,15 @@
           "time_info": "[09时56分 ~ 12时58分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时57分"
         },
         {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
@@ -596,7 +635,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
@@ -606,8 +645,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 18时57分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -632,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "A股一周熊股出炉：最熊股跌超84%",
+          "url": "https://www.toutiao.com/trending/7660657298100764698/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -669,8 +719,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 18时57分]"
         }
       ]
     }
