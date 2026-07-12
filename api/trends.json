@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:53:23.958576+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-07-12T21:02:46.273759+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 19时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 21时02分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 19时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 21时02分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -82,6 +83,18 @@
           "time_info": "[09时59分 ~ 18时20分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时02分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -106,17 +119,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时58分 ~ 07时47分]"
-        },
-        {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -155,6 +157,19 @@
           "time_info": "[13时32分 ~ 19时53分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时02分]"
+        },
+        {
           "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
           "url": "https://www.zhihu.com/question/2054980630543442226",
           "source": "知乎",
@@ -165,18 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时31分 ~ 19时53分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -321,6 +324,18 @@
           "time_info": "[06时40分 ~ 07时47分]"
         },
         {
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时02分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
           "url": "https://flash.jin10.com/detail/20260712174734590800",
           "source": "金十数据",
@@ -343,17 +358,6 @@
           "time_info": "16时04分"
         },
         {
-          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
-          "url": "https://news.ifeng.com/c/8uheASr3DB8",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -362,8 +366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时02分]"
         },
         {
           "title": "美国总统特朗普：参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了！他总是勤勉工作，是一位真正的美国爱国者。林赛将被深深怀念！！！后续将公布更多细节和安排。太令人悲痛了！",
@@ -424,7 +428,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -437,8 +441,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 19时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 21时02分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -462,6 +466,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
+          "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
+          "url": "https://www.cls.cn/detail/2423847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "下周A股机会来了吗",
+          "url": "https://www.toutiao.com/trending/7660731729879220266/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "A股下周怎么走",
