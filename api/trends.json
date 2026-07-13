@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T05:49:20.304374+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-07-14T06:49:33.164864+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 38,
       "titles": [
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -41,17 +41,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3133102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
@@ -60,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -71,19 +60,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
           "source": "澎湃新闻",
           "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
+        },
+        {
+          "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3133102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时49分]"
         },
         {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
@@ -119,15 +121,70 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
+          "url": "https://wallstreetcn.com/livenews/3133113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260714060823307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "特朗普：认为可能会与伊朗达成协议，将从得到美方帮助的国家获得补偿",
+          "url": "https://wallstreetcn.com/livenews/3133110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
           "url": "https://flash.jin10.com/detail/20260714045313095800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
+          "url": "https://wallstreetcn.com/livenews/3133109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3133108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -139,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国总统特朗普：认为伊朗局势推进得非常迅速。 将消除伊朗与霍尔木兹海峡相关的影响力。 预计我们将彻底控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3133107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -158,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -174,6 +242,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "美国总统特朗普：希望我们在霍尔木兹海峡提供帮助的国家向我们偿付保护费用。",
+          "url": "https://flash.jin10.com/detail/20260714060535317800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "特朗普已通知国会伊朗战事重新爆发",
           "url": "https://wallstreetcn.com/livenews/3133047",
           "source": "华尔街见闻-快讯",
@@ -185,15 +264,37 @@
           "time_info": "04时07分"
         },
         {
+          "title": "美国总统特朗普：我们将与伊朗斗争一段时间。",
+          "url": "https://flash.jin10.com/detail/20260714060337943800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
           "url": "https://flash.jin10.com/detail/20260714041841055800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普认为与伊朗达成协议是可能的",
+          "url": "https://flash.jin10.com/detail/20260714060129158800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -213,9 +314,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）削弱伊朗的进攻能力。",
+          "url": "https://flash.jin10.com/detail/20260714060022197800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
@@ -224,7 +336,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -235,9 +347,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国总统特朗普：我认为，最终我们将控制整个局面。",
+          "url": "https://flash.jin10.com/detail/20260714055755920800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "特朗普称美国今晚和明天将“重击”伊朗",
@@ -246,7 +369,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -257,7 +380,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -268,9 +391,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在打击伊朗涉及霍尔木兹海峡的相关能力。",
+          "url": "https://flash.jin10.com/detail/20260714055526773800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
@@ -308,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -319,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -334,17 +468,6 @@
           "time_info": "[00时23分 ~ 04时07分]"
         },
         {
-          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
-          "url": "https://wallstreetcn.com/livenews/3133099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
           "url": "https://wallstreetcn.com/articles/3776779",
           "source": "华尔街见闻",
@@ -353,8 +476,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
+        },
+        {
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时49分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -363,7 +498,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -374,7 +509,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -385,7 +520,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -447,8 +582,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时49分]"
         },
         {
           "title": "A股今日大跌原因",
@@ -484,11 +619,12 @@
           "url": "https://wallstreetcn.com/livenews/3133103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时49分]"
         }
       ]
     }
