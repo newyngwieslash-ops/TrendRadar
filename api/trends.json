@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:55:10.109654+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:19:08.619552+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -64,11 +64,12 @@
             15,
             14,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 12时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 15时19分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -78,11 +79,12 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时59分 ~ 12时55分]"
+          "appearance_count": 11,
+          "time_info": "[02时59分 ~ 15时19分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -118,6 +120,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -186,6 +199,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普敦促国防企业增加武器产量",
           "url": "https://flash.jin10.com/detail/20260716054732872800",
           "source": "金十数据",
@@ -220,17 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时59分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时55分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
@@ -606,7 +619,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -768,7 +781,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -805,11 +818,12 @@
             15,
             16,
             17,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 12时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 15时19分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -820,8 +834,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 15时19分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 15时19分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -838,17 +866,18 @@
           "time_info": "[01时08分 ~ 06时52分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            5
+            18,
+            17,
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时52分 ~ 12时55分]"
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 15时19分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -868,22 +897,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            17,
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时52分 ~ 12时55分]"
+          "time_info": "[09时54分 ~ 15时19分]"
+        },
+        {
+          "title": "金山办公连发两款AI智能体，AI办公向“结果交付”演进",
+          "url": "https://wallstreetcn.com/livenews/3134884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -899,15 +937,28 @@
           "time_info": "[05时52分 ~ 07时53分]"
         },
         {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
-          "source": "凤凰网",
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
           "ranks": [
-            8
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时19分]"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时19分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -931,17 +982,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时09分]"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -968,6 +1008,17 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
+          "title": "AI手机概念爆发",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%89%8B%E6%9C%BA%E6%A6%82%E5%BF%B5%E7%88%86%E5%8F%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33584221",
           "source": "澎湃新闻",
@@ -990,15 +1041,15 @@
           "time_info": "[12时54分 ~ 12时55分]"
         },
         {
-          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2060770809543758786",
-          "source": "知乎",
+          "title": "台积电上调销售和支出展望 再添AI需求持续迹象",
+          "url": "https://wallstreetcn.com/livenews/3134882",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
@@ -1018,7 +1069,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1051,7 +1102,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1095,7 +1146,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1106,7 +1157,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -1158,7 +1209,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -1190,11 +1241,23 @@
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时19分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
@@ -1206,6 +1269,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股中际旭创成交额达300亿元，现跌5.58%。",
+          "url": "https://wallstreetcn.com/livenews/3134879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股收评：创业板指回落收跌2.95% 半导体、CPO等算力硬件股领跌",
+          "url": "https://flash.jin10.com/detail/20260716150426340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股证券板块午后震荡走弱，华安证券触及跌停，中金公司、招商证券、长江证券、中信建投均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3134876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "A股光纤概念板块低开，长飞光纤跌超8%，正帆科技、长光华芯、长江通信、天孚通信跟跌。",
@@ -1228,6 +1324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "A股存储芯片板块持续回落，兆易创新、太极实业、华天科技、长电科技、德明利等多股封跌停板，澜起科技跌超18%，江丰电子、恒烁股份、国科微等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "A股氟化工概念低开，ST天际竞价跌停，金宏气体跌近8%，华特气体、中船特气、多氟多等跟跌。",
@@ -1272,6 +1379,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "A股兆易创新午后跌停，日内成交额超270亿元。",
+          "url": "https://wallstreetcn.com/livenews/3134856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股锂金属板块拉升，天齐锂业涨超7%，融捷股份、赣锋锂业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3134852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -1279,6 +1408,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 15时19分]"
+        },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3134592",
@@ -1297,21 +1439,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
         {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
           "ranks": [
             10,
-            4
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时55分]"
+          "time_info": "[09时54分 ~ 15时19分]"
         },
         {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
@@ -1324,17 +1466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时52分]"
-        },
-        {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
