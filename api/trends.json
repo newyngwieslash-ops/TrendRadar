@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:00:33.046712+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-17T04:04:05.857503+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -72,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -84,19 +84,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "披着AI外衣的现实短片",
           "url": "https://www.douyin.com/hot/2573340",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 04时04分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -116,7 +117,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -160,7 +161,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         }
@@ -168,7 +169,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -178,30 +179,65 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3135254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3135230",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时04分]"
         },
         {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
           "url": "https://flash.jin10.com/detail/20260717022948795800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时04分]"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时00分"
+          "time_info": "04时04分"
+        },
+        {
+          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
+          "url": "https://wallstreetcn.com/livenews/3135246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
@@ -210,7 +246,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -221,7 +257,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -273,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -283,8 +319,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -302,11 +338,12 @@
           "url": "https://flash.jin10.com/detail/20260717024018004800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时04分]"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -315,9 +352,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
@@ -337,7 +385,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -348,7 +396,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         }
@@ -364,11 +412,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时04分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月17日 周五",
