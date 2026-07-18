@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:45:24.205440+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-18T09:48:44.070965+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -35,27 +35,16 @@
           "time_info": "[01时04分 ~ 06时43分]"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
-        },
-        {
           "title": "中国拉群搞AI,28国兄弟入伙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -67,8 +56,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
+        },
+        {
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -79,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -88,11 +90,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -119,6 +122,17 @@
           "time_info": "[01时04分 ~ 06时43分]"
         },
         {
+          "title": "AI能终结癌症吗",
+          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
           "url": "https://flash.jin10.com/detail/20260718045807451800",
           "source": "金十数据",
@@ -132,6 +146,19 @@
           "time_info": "[05时57分 ~ 07时45分]"
         },
         {
+          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
+          "url": "https://wallstreetcn.com/livenews/3135917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时57分 ~ 09时48分]"
+        },
+        {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
           "url": "https://www.zhihu.com/question/2059240244864611894",
           "source": "知乎",
@@ -142,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 04时02分]"
-        },
-        {
-          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
-          "url": "https://wallstreetcn.com/livenews/3135917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时45分]"
         },
         {
           "title": "法国博主在上海被AI震撼",
@@ -179,6 +194,40 @@
           "time_info": "[02时56分 ~ 04时02分]"
         },
         {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
+          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+          "url": "https://www.zhihu.com/question/2061411962487924266",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2061099332632416849",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
           "url": "https://flash.jin10.com/detail/20260717235319263800",
           "source": "金十数据",
@@ -188,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
@@ -212,15 +272,15 @@
           "time_info": "04时02分"
         },
         {
-          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "09时48分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
@@ -281,7 +341,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -292,8 +352,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时48分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -328,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
@@ -416,6 +487,18 @@
           "time_info": "[05时57分 ~ 07时45分]"
         },
         {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -493,17 +576,6 @@
           "time_info": "04时02分"
         },
         {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
           "url": "https://flash.jin10.com/detail/20260718014652994800",
           "source": "金十数据",
@@ -529,7 +601,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股年内最强无差别杀跌",
@@ -552,9 +624,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.toutiao.com/trending/7663501189166841875/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "09时48分"
         },
         {
           "title": "A股杀跌是中期调整还是牛市结束",
@@ -588,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663493429787102762/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -622,7 +716,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
@@ -635,6 +729,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时57分]"
+        },
+        {
+          "title": "据《华尔街日报》：马斯克的SpaceX正在与美国国防部洽谈提供计算能力。",
+          "url": "https://flash.jin10.com/detail/20260718075844818800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
