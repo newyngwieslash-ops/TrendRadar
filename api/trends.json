@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:47:56.113343+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-07-18T20:57:58.021368+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 19时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时04分 ~ 20时57分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -60,11 +60,12 @@
             8,
             14,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 19时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时04分 ~ 20时57分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -88,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 20时57分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 06时43分]"
+        },
+        {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 20时57分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -128,17 +140,6 @@
           "time_info": "[16时45分 ~ 19时47分]"
         },
         {
-          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
-          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时47分]"
-        },
-        {
           "title": "美企抄袭中国AI玩双标被点名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
           "source": "贴吧",
@@ -146,11 +147,12 @@
             8,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 20时57分]"
         },
         {
           "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
@@ -164,8 +166,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 20时57分]"
+        },
+        {
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 20时57分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -180,20 +197,6 @@
           "time_info": "[01时04分 ~ 06时43分]"
         },
         {
-          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
-          "url": "https://wallstreetcn.com/articles/3777275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 19时47分]"
-        },
-        {
           "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
           "source": "澎湃新闻",
@@ -202,19 +205,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 19时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 20时57分]"
         },
         {
-          "title": "网易有道WAIC首展AI耳机OpenPods",
-          "url": "https://flash.jin10.com/detail/20260718193241116800",
-          "source": "金十数据",
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 20时57分]"
+        },
+        {
+          "title": "阿里云发布灵骏真武M890超节点实例，AI Native基础设施全栈革新",
+          "url": "https://wallstreetcn.com/livenews/3136031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "20时57分"
         },
         {
           "title": "AI能终结癌症吗",
@@ -226,18 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 19时47分]"
         },
         {
           "title": "智汇上海 共赴AI新未来",
@@ -262,6 +265,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时48分 ~ 18时13分]"
+        },
+        {
+          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 20时57分]"
         },
         {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
@@ -299,6 +315,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 16时45分]"
+        },
+        {
+          "title": "网易有道WAIC首展AI耳机OpenPods",
+          "url": "https://flash.jin10.com/detail/20260718193241116800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 20时57分]"
         },
         {
           "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
@@ -386,19 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 19时47分]"
-        },
-        {
-          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时47分]"
         },
         {
           "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
@@ -512,6 +527,30 @@
           "time_info": "[02时56分 ~ 04时02分]"
         },
         {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://flash.jin10.com/detail/20260718185833199800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 20时57分]"
+        },
+        {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://wallstreetcn.com/livenews/3136002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 20时57分]"
+        },
+        {
           "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
           "url": "https://wallstreetcn.com/livenews/3135952",
           "source": "华尔街见闻-快讯",
@@ -535,6 +574,17 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
+          "title": "AI牛市结束了吗？市场充满疑虑",
+          "url": "https://wallstreetcn.com/articles/3777289",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
           "url": "https://flash.jin10.com/detail/20260717235319263800",
           "source": "金十数据",
@@ -546,26 +596,37 @@
           "time_info": "01时04分"
         },
         {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://flash.jin10.com/detail/20260718185833199800",
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://flash.jin10.com/detail/20260718202648250800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "20时57分"
         },
         {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://wallstreetcn.com/livenews/3136002",
-          "source": "华尔街见闻-快讯",
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "20时57分"
+        },
+        {
+          "title": "国务院国资委：国资央企要持续攻关基础算法、物理AI、智算芯片、量子通信等原创性技术",
+          "url": "https://flash.jin10.com/detail/20260718201459495800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
@@ -692,7 +753,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -727,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时47分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 20时57分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -750,8 +811,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 20时57分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 20时57分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -799,19 +873,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 07时45分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 19时47分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -898,6 +959,17 @@
           "time_info": "[14时56分 ~ 16时45分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 20时57分]"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -965,6 +1037,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
           "url": "https://flash.jin10.com/detail/20260718032553853800",
           "source": "金十数据",
@@ -987,15 +1070,15 @@
           "time_info": "04时02分"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "20时57分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
@@ -1004,7 +1087,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1046,8 +1129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 20时57分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -1075,6 +1158,18 @@
           "time_info": "[07时45分 ~ 12时43分]"
         },
         {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 20时57分]"
+        },
+        {
           "title": "A股一周熊股出炉：最熊股跌超41%",
           "url": "https://www.toutiao.com/trending/7663260734738710564/",
           "source": "今日头条",
@@ -1084,17 +1179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         },
         {
           "title": "A股再现天价离婚案",
