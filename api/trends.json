@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T02:05:06.654567+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:09:52.697348+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -38,20 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -62,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -74,8 +62,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -85,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -97,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -109,20 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -132,8 +134,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -158,6 +160,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
           "url": "https://flash.jin10.com/detail/20260722233432620800",
           "source": "金十数据",
@@ -172,7 +185,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -182,8 +195,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -204,8 +228,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -215,19 +239,53 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -243,49 +301,31 @@
       ]
     },
     {
-      "keyword_group": "财经 A股",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
-          "url": "https://www.cls.cn/detail/2434298",
-          "source": "财联社热门",
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
-          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
-          "url": "https://www.cls.cn/detail/2433968",
-          "source": "财联社热门",
+          "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
+          "url": "https://wallstreetcn.com/livenews/3138391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年7月23日 周四",
-          "url": "https://flash.jin10.com/detail/20260723000000001800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
+          "time_info": "04时09分"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -294,8 +334,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
@@ -312,8 +352,48 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年7月23日 周四",
+          "url": "https://flash.jin10.com/detail/20260723000000001800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -323,8 +403,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX跌超6.1%，刷新日低，此前一度涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3138383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     }
