@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T07:52:06.818723+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-07-22T09:55:36.604826+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -43,13 +43,25 @@
           "time_info": "[00时22分 ~ 06时56分]"
         },
         {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时58分 ~ 09时55分]"
+        },
+        {
           "title": "据华尔街日报：白宫官员称，顶级公用事业公司及数据中心开发商加入特朗普旨在保护缴费用户的承诺。公用事业公司与数据中心开发商承诺为数据中心用电支付更高费用。",
           "url": "https://flash.jin10.com/detail/20260722071735772800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -60,9 +72,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "因特朗普威胁征收关税，加美大桥通车庆祝仪式取消",
@@ -71,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -86,18 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时58分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
@@ -150,6 +161,18 @@
           "time_info": "[06时56分 ~ 07时52分]"
         },
         {
+          "title": "特朗普称将打击伊朗核设施",
+          "url": "https://www.toutiao.com/trending/7665119295965236786/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
           "url": "https://flash.jin10.com/detail/20260722063924180800",
           "source": "金十数据",
@@ -198,26 +221,26 @@
           "time_info": "[06时56分 ~ 07时52分]"
         },
         {
-          "title": "特朗普称将打击伊朗核设施",
-          "url": "https://www.toutiao.com/trending/7665119295965236786/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
           "title": "特朗普淡化美伊谈判可能，威胁打击地下核设施！",
           "url": "https://flash.jin10.com/detail/20260722070823679800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普宣布与约旦达成贸易协议。",
@@ -237,7 +260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -253,13 +276,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普：两年后，（仿制药）关税将先上调至100%，为期一年，随后升至200%。",
           "url": "https://flash.jin10.com/detail/20260722065614730800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -281,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -314,7 +348,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -396,6 +430,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普宣布2年后对仿制药征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%832%E5%B9%B4%E5%90%8E%E5%AF%B9%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
           "url": "https://flash.jin10.com/detail/20260721234059763800",
           "source": "金十数据",
@@ -416,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗武装部队回应特朗普袭击核设施言论",
+          "url": "https://wallstreetcn.com/livenews/3137835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普：我们将很快打击镐山地区。",
@@ -451,6 +507,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
           "url": "https://flash.jin10.com/detail/20260722013554217800",
           "source": "金十数据",
@@ -462,6 +529,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "A股创新药板块走强，药康生物涨超13%，莱美药业涨超8%，益诺思、哈三联、博瑞医药、华兰股份、众生药业等个股跟涨。消息面上，美国总统特朗普当地时间7月21日在社交媒体发文表示，自2026年8月1日起，所有进口到美国的仿制药将在未来两年内继续适用零关税。两年期满后，相关产品将被征收100%的关税，期限为一年；此后，关税将进一步提高至200%。",
+          "url": "https://flash.jin10.com/detail/20260722093524095800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
           "url": "https://wallstreetcn.com/livenews/3137656",
           "source": "华尔街见闻-快讯",
@@ -471,12 +549,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普想让FIFA主席当联合国秘书长",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%AE%A9FIFA%E4%B8%BB%E5%B8%AD%E5%BD%93%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -497,11 +586,12 @@
             14,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时55分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -512,8 +602,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时55分]"
         },
         {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
@@ -533,11 +623,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时55分]"
+        },
+        {
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时58分 ~ 09时55分]"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -573,15 +676,16 @@
           "time_info": "04时17分"
         },
         {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
+          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
+          "url": "https://www.zhihu.com/question/2062587249968129781",
+          "source": "知乎",
           "ranks": [
-            8
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时58分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -679,17 +783,6 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
-          "url": "https://www.zhihu.com/question/2062587249968129781",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
           "title": "王祖贤脸的AI使用权授权游戏公司",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -745,6 +838,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "王祖贤AI人脸授权代言游戏IP",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8FIP",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "《这一秒过火》更换原AI片头",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E6%9B%B4%E6%8D%A2%E5%8E%9FAI%E7%89%87%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -816,7 +942,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -824,11 +950,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时55分]"
         },
         {
           "title": "A股六大重磅信号落地",
@@ -861,9 +988,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
+        },
+        {
+          "title": "A股贵金属概念延续强势，兴业银锡2连板，赤峰黄金、晓程科技、山金国际、招金黄金、四川黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3137864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股存储芯片板块低开高走，托伦斯、大为股份2连板，臻宝科技涨超10%，深科达、通富微电、富满微、北方华创涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3137859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月22日 周三",
@@ -886,19 +1047,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
         },
         {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
+          "title": "A股算力概念股持续活跃，美利云3连板，利通电子2连板，群兴玩具涨停，铜牛信息涨超10%，华勤技术、紫光股份、宏景科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3137855",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "分析人士：ETF资金大举加仓叠加上市公司积极回购，A股上行行情支撑坚实",
@@ -907,9 +1068,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "A股腾讯云概念低开高走，锐捷网络涨超11%，华勤技术涨超8%，宏景科技、神州数码、世纪华通等个股跟涨。消息面上，腾讯云高管日前出席世界人工智能大会分论坛时表示，为了将推理成本降低到极致，公司会大规模部署国产化算力。",
+          "url": "https://flash.jin10.com/detail/20260722094553739800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年7月22日",
@@ -918,15 +1090,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "A股贵金属板块持续走高，兴业银锡触达涨停，晓程科技涨超8%，赤峰黄金、山金国际、盛达资源、中金黄金、四川黄金、招金黄金等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260722094241749800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股IPv6概念震荡走高，紫光股份涨超7%，星网锐捷涨超5%，中兴通讯、网宿科技、烽火通信等个股跟涨。消息面上，中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》，其中提出，到2027年，IPv6端到端贯通水平全面提升，技术创新和融合应用取得重要阶段性成果。",
+          "url": "https://flash.jin10.com/detail/20260722093830324800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -961,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 06时56分]"
+        },
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
