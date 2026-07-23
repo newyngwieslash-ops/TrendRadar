@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T07:06:51.372922+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-07-23T10:03:12.896737+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
         },
         {
           "title": "马斯克：特斯拉仍然在谋划“重大资本开支年”。",
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -148,7 +159,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -170,7 +181,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -203,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -225,7 +236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -258,7 +269,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -269,7 +280,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -280,7 +291,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -291,7 +302,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -302,7 +313,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -313,7 +324,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -324,7 +335,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -332,7 +343,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -340,11 +351,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -352,11 +364,26 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -370,29 +397,17 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
           "title": "用AI通关高难度跑步游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -401,11 +416,25 @@
           "ranks": [
             15,
             11,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -423,16 +452,62 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时03分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时09分 ~ 10时03分]"
+        },
+        {
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -472,28 +547,48 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时06分]"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
+          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "rain淘汰猎鹰高光集锦",
+          "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -524,7 +619,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -579,7 +674,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -598,7 +693,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -612,6 +707,53 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 10时03分]"
+        },
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时00分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
+          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
           "url": "https://flash.jin10.com/detail/20260723034521965800",
           "source": "金十数据",
@@ -623,18 +765,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时00分 ~ 07时06分]"
-        },
-        {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260723000745259800",
           "source": "金十数据",
@@ -644,18 +774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 06时01分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -680,13 +798,24 @@
           "time_info": "[00时21分 ~ 04时09分]"
         },
         {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -724,6 +853,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
+          "url": "https://flash.jin10.com/detail/20260723093244752800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://wallstreetcn.com/livenews/3138407",
           "source": "华尔街见闻-快讯",
@@ -748,8 +888,193 @@
       ]
     },
     {
+      "keyword_group": "财经 A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
+        },
+        {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "A股CRO板块低开高走，昭衍新药、成都先导双双涨超6%，百奥赛图涨超5%，昊帆生物、阳光诺和、美迪西、凯莱英等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723094703422800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股光纤概念股早盘拉升，杭电股份直线涨停，三旺通信涨超15%，长光华芯、通鼎互联、光韵达、长盈通涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3138541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股算力租赁概念反复活跃，证通电子3连板，鸿博股份涨停，利通电子、浪潮信息、铜牛信息、行云科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3138537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股MLCC概念大幅走强，昀冢科技、风华高科、火炬电子、博迁新材涨停，利和兴涨超10%，三环集团、艾华集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股燃气板块短线拉升，水发燃气涨停，凯添燃气、升达林业、洪通燃气、蓝天燃气、佛燃能源等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723094231803800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股油气板块再度走强，中曼石油4天3板，科力股份、潜能恒信、通源石油、蓝焰控股、凯添燃气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "A股钙钛矿电池板块盘初走强，拓日新能涨停，国晟科技涨超3%，英诺激光、西子洁能、隆华科技、中来股份、聚石化学等个股跟涨。可再生能源发展十五五规划提出：加速钙钛矿叠层电池等高效光伏电池制备及产业化生产技术研究，研究面向太空的太阳能发电技术，推进关键技术验证。",
+          "url": "https://flash.jin10.com/detail/20260723094204055800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年7月23日 周四",
+          "url": "https://flash.jin10.com/detail/20260723000000001800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "A股算力概念盘初拉升，证通电子、鸿博股份双双涨停，锐捷网络涨超9%，利通电子、东易日盛、金刚光伏、群兴玩具、奥瑞德等个股跟涨。可再生能源发展十五五规划提出：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力。",
+          "url": "https://flash.jin10.com/detail/20260723093829849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "多家外资机构发声看好A股市场看多中国股票",
+          "url": "https://wallstreetcn.com/livenews/3138445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "A股电力板块盘初走强，拓日新能、新中港、立新能源等多股涨停，世茂能源涨超8%，华电辽能、华电能源、山高环能、川能动力、国电电力等个股跟涨。可再生能源发展十五五规划提出：2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%。",
+          "url": "https://flash.jin10.com/detail/20260723093441408800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股体育概念活跃，交运股份涨超5%，中体产业涨超4%，力盛体育涨超3%。消息面上，《体育强国建设“十五五”规划》提出：到2030年，体育产业总规模突破7万亿元。",
+          "url": "https://flash.jin10.com/detail/20260723093109622800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美国财经媒体Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK海力士正在考虑与英特尔合作。",
+          "url": "https://flash.jin10.com/detail/20260723051057743800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -757,11 +1082,34 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 10时03分]"
+        },
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -810,6 +1158,17 @@
           "time_info": "[00时21分 ~ 02时05分]"
         },
         {
+          "title": "谷歌自由现金流数十年来首次转负",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%87%AA%E7%94%B1%E7%8E%B0%E9%87%91%E6%B5%81%E6%95%B0%E5%8D%81%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E8%B4%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "【谷歌母公司上调全年资本开支预期】谷歌母公司Alphabet：预计全年资本开支1950亿-2050亿美元，原来预计1800亿-1900亿美元。仍然预计2027财年资本开支将“大幅”增长。",
           "url": "https://wallstreetcn.com/livenews/3138414",
           "source": "华尔街见闻-快讯",
@@ -827,7 +1186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -837,69 +1196,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经 A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
-          "url": "https://www.cls.cn/detail/2434298",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
-          "url": "https://www.cls.cn/detail/2433968",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年7月23日 周四",
-          "url": "https://flash.jin10.com/detail/20260723000000001800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "多家外资机构发声看好A股市场看多中国股票",
-          "url": "https://wallstreetcn.com/livenews/3138445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国财经媒体Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK海力士正在考虑与英特尔合作。",
-          "url": "https://flash.jin10.com/detail/20260723051057743800",
-          "source": "金十数据",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
