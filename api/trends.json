@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T18:57:11.930242+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-07-24T20:17:10.355659+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时00分 ~ 18时57分]"
+          "appearance_count": 11,
+          "time_info": "[06时00分 ~ 20时17分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时14分 ~ 16时12分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时12分 ~ 20时17分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -83,16 +96,30 @@
           "time_info": "[01时14分 ~ 04时54分]"
         },
         {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 20时17分]"
+        },
+        {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 20时17分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -167,19 +194,6 @@
           "time_info": "13时43分"
         },
         {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 18时57分]"
-        },
-        {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计AI加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。",
           "url": "https://wallstreetcn.com/livenews/3138999",
           "source": "华尔街见闻-快讯",
@@ -202,17 +216,29 @@
           "time_info": "03时03分"
         },
         {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            8,
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时12分 ~ 20时17分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时34分 ~ 18时57分]"
+          "time_info": "[16时12分 ~ 20时17分]"
         },
         {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
@@ -240,28 +266,16 @@
           "time_info": "[13时43分 ~ 16时12分]"
         },
         {
-          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
-          "url": "https://www.cls.cn/detail/2435979",
-          "source": "财联社热门",
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            6
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 18时57分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 20时17分]"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -309,17 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 06时59分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "为什么不见程序员害怕失业抵制AI",
@@ -375,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3139454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "科技记者、新书《人工智能帝国》作者Karen Hao认为，当前AI发展模式高度集中于少数大型科技公司，这些企业在追求技术突破的同时，也可能带来数据、能源、环境和劳动力等方面的问题，并进一步扩大经济不平等。她呼吁外界关注AI产业背后的权力结构，而不仅仅是技术进步本身。",
@@ -482,7 +496,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -548,7 +562,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -578,7 +592,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -593,8 +607,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时03分 ~ 18时57分]"
+          "appearance_count": 13,
+          "time_info": "[03时03分 ~ 20时17分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 20时17分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -623,15 +648,29 @@
           "time_info": "[01时14分 ~ 16时12分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 20时17分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 20时17分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -643,19 +682,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 18时57分]"
         },
         {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
@@ -679,18 +705,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 06时59分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 18时57分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -804,6 +818,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "黎巴嫩总统奥恩：我与特朗普总统的会晤富有成效，结束战争的时刻已经到来。",
+          "url": "https://flash.jin10.com/detail/20260724194909354800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
           "url": "https://wallstreetcn.com/livenews/3138980",
           "source": "华尔街见闻-快讯",
@@ -895,7 +920,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "A股",
@@ -940,11 +965,45 @@
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B6%854900%E5%8F%AA%E4%B8%AA%E8%82%A1%E9%A3%98%E7%BB%BF&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 20时17分]"
+        },
+        {
+          "title": "A股这轮反弹为何又变脸了",
+          "url": "https://www.toutiao.com/trending/7666043154117692970/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时56分 ~ 18时57分]"
+          "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "A股下周会二次探底吗",
+          "url": "https://www.toutiao.com/trending/7665883266716663827/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
+        },
+        {
+          "title": "如何看待A股半导体板块逆势上涨",
+          "url": "https://www.toutiao.com/trending/7665548704539459647/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
         },
         {
           "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。",
@@ -1011,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "上交所举办在港机构座谈会 近40家外资机构表示将持续布局A股硬科技",
+          "url": "https://flash.jin10.com/detail/20260724195015416800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "A股收盘：沪指跌1.61%逼近3800点，全市场成交不足2万亿",
