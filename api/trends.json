@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T02:02:02.820178+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-26T03:15:58.385707+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -37,11 +37,12 @@
           "ranks": [
             3,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -52,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -63,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -75,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -84,11 +85,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
@@ -99,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -108,11 +110,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -122,8 +125,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -133,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时15分]"
         }
       ]
     },
@@ -143,6 +146,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
+        },
+        {
           "title": "特朗普称准备第四次竞选总统",
           "url": "https://news.ifeng.com/c/8v378W8XMdI",
           "source": "凤凰网",
@@ -150,31 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://flash.jin10.com/detail/20260726013259150800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
-          "url": "https://wallstreetcn.com/articles/3777927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -184,8 +177,44 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://flash.jin10.com/detail/20260726013259150800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时15分]"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "time_info": "[02时01分 ~ 03时15分]"
+        },
+        {
+          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260726010043722800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时15分]"
         },
         {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
@@ -198,34 +227,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 01时02分]"
-        },
-        {
-          "title": "专家：特朗普一刀切关税得罪全部盟友",
-          "url": "https://www.toutiao.com/trending/7666410407686311467/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260726010043722800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股下周会迎来更猛烈的震荡吗",
@@ -235,8 +242,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -246,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -257,8 +264,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -268,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
@@ -279,8 +286,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 03时15分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
@@ -290,8 +297,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 03时15分]"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -308,8 +326,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 03时15分]"
         }
       ]
     }
