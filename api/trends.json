@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T16:13:08.235579+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-07-26T18:38:48.816724+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -87,11 +87,12 @@
           "ranks": [
             12,
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -207,22 +208,34 @@
           "time_info": "[04时42分 ~ 07时54分]"
         },
         {
-          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
-          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时13分]"
-        },
-        {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
           "url": "https://www.cls.cn/detail/2437061",
           "source": "财联社热门",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 18时38分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时38分]"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -242,6 +255,18 @@
           "time_info": "[05时46分 ~ 13时53分]"
         },
         {
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时38分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -254,26 +279,16 @@
           "time_info": "[07时54分 ~ 13时53分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
-        },
-        {
-          "title": "严浩翔对AI写rap词的反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "AI坑惨手机圈",
@@ -320,6 +335,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "如何看美国审查中国AI模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "马斯克说未来中国极可能成为AI领导者",
           "url": "https://flash.jin10.com/detail/20260726131248112800",
           "source": "金十数据",
@@ -329,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
-          "url": "https://flash.jin10.com/detail/20260726154611236800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "英伟达与首尔大学在韩国设立联合AI研究中心",
@@ -362,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
@@ -397,6 +423,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
           "url": "https://flash.jin10.com/detail/20260726120623343800",
           "source": "金十数据",
@@ -406,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "游戏CG导演自制三角洲AI电影",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8FCG%E5%AF%BC%E6%BC%94%E8%87%AA%E5%88%B6%E4%B8%89%E8%A7%92%E6%B4%B2AI%E7%94%B5%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "黄仁勋：中国注定会产出卓越的AI技术",
@@ -433,7 +481,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -474,11 +522,12 @@
             9,
             14,
             23,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -486,11 +535,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 18时38分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -501,11 +551,12 @@
             2,
             7,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 18时38分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -516,11 +567,12 @@
             3,
             8,
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 18时38分]"
         },
         {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
@@ -544,8 +596,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 18时38分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -555,11 +620,60 @@
             1,
             6,
             15,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 18时38分]"
+        },
+        {
+          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
+          "url": "https://wallstreetcn.com/livenews/3139824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
+          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 18时38分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -576,6 +690,18 @@
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
           "url": "https://flash.jin10.com/detail/20260726013259150800",
           "source": "金十数据",
           "ranks": [
@@ -586,43 +712,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时42分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时13分]"
-        },
-        {
-          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
-          "url": "https://wallstreetcn.com/articles/3777933",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时13分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时13分]"
         },
         {
           "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
@@ -664,16 +753,16 @@
           "time_info": "[04时42分 ~ 07时54分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
+          "url": "https://wallstreetcn.com/livenews/3139812",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            30
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时13分]"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "美国加税，澳总理要找特朗普“理论”",
@@ -711,17 +800,6 @@
           "time_info": "[00时00分 ~ 01时02分]"
         },
         {
-          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
-          "url": "https://wallstreetcn.com/livenews/3139812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
           "url": "https://news.ifeng.com/c/8v3M9RFFAJ3",
           "source": "凤凰网",
@@ -731,6 +809,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "英首相回应是否愿公开批评特朗普",
+          "url": "https://flash.jin10.com/detail/20260726163049734800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "美媒曝特朗普暂停打击伊朗内幕",
@@ -750,7 +850,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -791,7 +891,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -802,8 +902,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -815,8 +915,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -874,6 +974,17 @@
           "time_info": "[00时00分 ~ 10时03分]"
         },
         {
+          "title": "永杉锂业7月26日公告，公司向特定对象发行A股股票申请获得上交所受理。",
+          "url": "https://flash.jin10.com/detail/20260726174836526800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "A股重磅新规明起实施",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%87%8D%E7%A3%85%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -881,8 +992,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时38分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
@@ -944,8 +1055,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 18时38分]"
         },
         {
           "title": "马斯克身价暴跌，调侃自己是“前万亿富翁”",
@@ -962,8 +1073,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
         {
           "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
           "url": "https://flash.jin10.com/detail/20260726111836175800",
