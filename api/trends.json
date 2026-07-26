@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T06:54:23.271184+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-27T07:54:59.512636+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "AI还要跌多久",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -55,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -66,11 +67,12 @@
             19,
             23,
             25,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -82,8 +84,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -107,11 +109,45 @@
             25,
             26,
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时54分]"
+        },
+        {
+          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
+          "url": "https://flash.jin10.com/detail/20260727072716929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260727072121648800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -185,6 +221,28 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "假如莫奈遇上AI机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "观众为何不能容忍长剧片头用AI",
           "url": "https://www.toutiao.com/trending/7666471179586650166/",
           "source": "今日头条",
@@ -210,7 +268,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -220,8 +278,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -232,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -243,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -252,11 +310,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -283,6 +342,19 @@
           "time_info": "[00时02分 ~ 06时54分]"
         },
         {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时54分]"
+        },
+        {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
           "url": "https://wallstreetcn.com/livenews/3139844",
           "source": "华尔街见闻-快讯",
@@ -293,19 +365,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 05时54分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时54分]"
         },
         {
           "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
@@ -393,6 +452,17 @@
           "time_info": "[03时01分 ~ 04时12分]"
         },
         {
+          "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
+          "url": "https://flash.jin10.com/detail/20260727065319315800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
           "url": "https://flash.jin10.com/detail/20260726222401916800",
           "source": "金十数据",
@@ -407,7 +477,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -415,11 +485,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -437,22 +508,46 @@
           "url": "https://www.cls.cn/detail/2437150",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年7月27日 周一",
           "url": "https://flash.jin10.com/detail/20260727000000001800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 07时54分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年7月27日",
+          "url": "https://flash.jin10.com/detail/20260727070316724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "07时54分"
+        },
+        {
+          "title": "媒体：A股交易新规更好满足投资者",
+          "url": "https://www.toutiao.com/trending/7666957100584697898/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
@@ -467,11 +562,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "黄仁勋、马斯克，最新涉华表态",
@@ -481,8 +577,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "日本大妈网恋“马斯克”被骗70万日元",
