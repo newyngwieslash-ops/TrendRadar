@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-28T18:28:32.199715+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-28T23:14:18.598845+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 60,
+      "match_count": 70,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 23时14分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -87,6 +88,28 @@
           "time_info": "[09时50分 ~ 15时36分]"
         },
         {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 23时14分]"
+        },
+        {
+          "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
+          "url": "https://www.cls.cn/detail/2439291",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "AI应用端逆势走强，南天信息直线涨停，科蓝软件涨超15%，高伟达、格尔软件、麦迪科技、思特奇跟涨。",
           "url": "https://wallstreetcn.com/livenews/3140631",
           "source": "华尔街见闻-快讯",
@@ -115,7 +138,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -152,18 +175,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -213,6 +225,20 @@
           "time_info": "[00时10分 ~ 07时02分]"
         },
         {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 23时14分]"
+        },
+        {
           "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
           "url": "https://www.zhihu.com/question/2058547288499119870",
           "source": "知乎",
@@ -241,19 +267,6 @@
           "time_info": "[02时20分 ~ 07时02分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 05时59分]"
-        },
-        {
           "title": "全球AI竞争将如何发展",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
@@ -275,6 +288,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 02时20分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 23时14分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -336,6 +373,28 @@
           "time_info": "12时58分"
         },
         {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "Microsoft AI：推出MAI-Cyber-1-Flash，这是我们自主研发的新型网络安全模型。",
           "url": "https://flash.jin10.com/detail/20260728014141537800",
           "source": "金十数据",
@@ -345,28 +404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "港股午评：恒指收跌0.11% AI硬件股大幅回调",
@@ -386,7 +423,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -397,7 +434,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -422,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "上海深入整治AI应用乱象 严防技术滥用侵害未成年人",
+          "url": "https://wallstreetcn.com/livenews/3141085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "IDC：2025年中国AI游戏云市场规模已达18.6亿人民币",
@@ -512,6 +560,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "据Politico：OpenAI创始人奥尔特曼预计将与美国网络主管克拉齐奥斯会面。",
+          "url": "https://flash.jin10.com/detail/20260728221012090800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "AI、关税与战争同时来袭，市场为何依然如此平静？",
           "url": "https://flash.jin10.com/detail/20260728092724343800",
           "source": "金十数据",
@@ -551,7 +610,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -576,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将会见美国政府网络主管Kratsios。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3141075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "AI漫剧就是一场巨大的侵权事件",
@@ -611,13 +681,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "Anthropic与OpenAI推动审查竞争对手的模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3141072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "当AI试图驯服AI",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E8%AF%95%E5%9B%BE%E9%A9%AF%E6%9C%8DAI&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -639,7 +720,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -650,9 +731,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "据The Information：OpenAI和Anthropic呼吁美国对更多模型进行审查。",
+          "url": "https://flash.jin10.com/detail/20260728220555338800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
@@ -688,6 +780,28 @@
           "time_info": "12时58分"
         },
         {
+          "title": "AI率先“终结”程序员",
+          "url": "https://www.baidu.com/s?wd=AI%E7%8E%87%E5%85%88%E2%80%9C%E7%BB%88%E7%BB%93%E2%80%9D%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "苹果拟大举发力智能家居 以Siri AI为核心推出新品",
+          "url": "https://wallstreetcn.com/livenews/3141064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "佛得角门将签约“泪洒现场”图是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%AD%BE%E7%BA%A6%E2%80%9C%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%E2%80%9D%E5%9B%BE%E6%98%AFAI",
           "source": "百度热搜",
@@ -702,7 +816,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普向伊朗发出最后通牒",
@@ -738,6 +852,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时50分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 23时14分]"
         },
         {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
@@ -795,19 +923,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 18时28分]"
-        },
-        {
           "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
           "url": "https://flash.jin10.com/detail/20260728053007305800",
           "source": "金十数据",
@@ -855,6 +970,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
           "url": "https://wallstreetcn.com/livenews/3140491",
           "source": "华尔街见闻-快讯",
@@ -886,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普告知通用汽车CEO：你们做得不错。 我想要祝贺通用汽车，对该公司非常骄傲。",
@@ -1059,7 +1196,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1117,12 +1254,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：美伊谈判“进展良好”，但摧毁“镐山”易如反掌",
+          "url": "https://flash.jin10.com/detail/20260728220527830800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
@@ -1166,6 +1314,19 @@
           "time_info": "[00时10分 ~ 12时58分]"
         },
         {
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 23时14分]"
+        },
+        {
           "title": "A股C长鑫成交额超110亿元，现跌1.9%，报47.74元。",
           "url": "https://flash.jin10.com/detail/20260728094004953800",
           "source": "金十数据",
@@ -1175,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：沙特阿拉伯正在游说争取在2030年主办G20峰会。",
+          "url": "https://flash.jin10.com/detail/20260728224536055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "A股兵装重组板块震荡下挫，湖南天雁跌超6%，华强科技、中光学、建设工业、东安动力等跟跌。",
@@ -1230,18 +1402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 18时28分]"
         },
         {
           "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
@@ -1497,7 +1657,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
