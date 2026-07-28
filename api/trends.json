@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T15:36:30.373768+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-07-28T18:28:32.199715+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时28分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -27,11 +27,12 @@
             15,
             16,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 15时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 18时28分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -108,6 +109,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "亚马逊财报前夕重构AI战略，放弃“多模型并进”",
+          "url": "https://flash.jin10.com/detail/20260728182340612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
           "url": "https://www.zhihu.com/question/2052464126996353859",
           "source": "知乎",
@@ -134,6 +146,28 @@
           "time_info": "05时59分"
         },
         {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
           "url": "https://flash.jin10.com/detail/20260728014458796800",
           "source": "金十数据",
@@ -154,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时28分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -180,17 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 07时02分]"
-        },
-        {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 15时36分]"
         },
         {
           "title": "真有人把AI的照片当成自己",
@@ -313,6 +347,28 @@
           "time_info": "02时20分"
         },
         {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "港股午评：恒指收跌0.11% AI硬件股大幅回调",
           "url": "https://flash.jin10.com/detail/20260728120430398800",
           "source": "金十数据",
@@ -322,6 +378,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
+          "url": "https://www.cls.cn/detail/2438626",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
@@ -467,13 +545,24 @@
           "time_info": "04时16分"
         },
         {
+          "title": "智元 WITA-Omni Preview登顶 DailyOmni 全模态理解榜单",
+          "url": "https://wallstreetcn.com/livenews/3140916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "英伟达微软反对禁止中国开源AI",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BE%AE%E8%BD%AF%E5%8F%8D%E5%AF%B9%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -522,6 +611,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "当AI试图驯服AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E8%AF%95%E5%9B%BE%E9%A9%AF%E6%9C%8DAI&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "Kimi AI发布 Kimi K3的模型权重和技术报告",
           "url": "https://flash.jin10.com/detail/20260727231719610800",
           "source": "金十数据",
@@ -531,6 +631,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "科技投资者的情绪很难改善，核心压力集中在AI支出的三大恶化 | 每日市场观察07.28",
+          "url": "https://flash.jin10.com/detail/20260728180745407800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "亚马逊正全面改革AI战略并重组团队，正在逐步淘汰许多内部AI模型。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3140907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
@@ -580,8 +702,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时28分]"
+        },
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
           "url": "https://news.ifeng.com/c/8v6of60c6nV",
@@ -599,18 +734,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 15时36分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -639,6 +762,17 @@
           "time_info": "[00时10分 ~ 07时02分]"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时28分]"
+        },
+        {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
           "url": "https://flash.jin10.com/detail/20260728034315449800",
           "source": "金十数据",
@@ -661,15 +795,17 @@
           "time_info": "07时02分"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            13,
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时28分]"
         },
         {
           "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
@@ -682,18 +818,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 15时36分]"
         },
         {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
@@ -929,6 +1053,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728180440714800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
           "url": "https://wallstreetcn.com/livenews/3140436",
           "source": "华尔街见闻-快讯",
@@ -946,7 +1081,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -996,11 +1131,12 @@
           "ranks": [
             18,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 12时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 18时28分]"
         },
         {
           "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
@@ -1096,6 +1232,18 @@
           "time_info": "09时51分"
         },
         {
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时28分]"
+        },
+        {
           "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
           "url": "https://www.cls.cn/detail/2438405",
           "source": "财联社热门",
@@ -1129,17 +1277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "A股DRG概念板块直线拉升，ST荣科涨近10%，塞力医疗触及涨停，麦迪科技、ST易联众、华平股份等跟涨。",
@@ -1247,7 +1384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1258,7 +1395,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1269,7 +1406,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -1299,7 +1436,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1310,7 +1447,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1321,7 +1458,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1340,7 +1477,7 @@
     },
     {
       "keyword_group": "舆论",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高市早苗言论引爆日本舆论",
@@ -1352,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "詹姆斯杜兰特相似决定舆论截然不同",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9D%9C%E5%85%B0%E7%89%B9%E7%9B%B8%E4%BC%BC%E5%86%B3%E5%AE%9A%E8%88%86%E8%AE%BA%E6%88%AA%E7%84%B6%E4%B8%8D%E5%90%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     }
