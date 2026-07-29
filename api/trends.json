@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T07:54:54.205227+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-07-29T09:54:01.601473+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
           "url": "https://www.cls.cn/detail/2439291",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时54分]"
         },
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -25,11 +26,39 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时54分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时54分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时54分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -57,29 +86,58 @@
           "time_info": "[05时01分 ~ 07时54分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "AI公司 原版书籍销毁",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            5
+            7,
+            11,
+            18,
+            27,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 09时54分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 09时54分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 09时54分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            13,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "time_info": "[01时21分 ~ 09时54分]"
         },
         {
           "title": "支持科创，加码AI，多家险企绘就下半年工作路线图",
@@ -99,7 +157,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -115,43 +173,16 @@
           "time_info": "01时21分"
         },
         {
-          "title": "AI公司 原版书籍销毁",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            11,
-            18,
-            27
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 07时54分]"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 07时54分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 09时54分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -167,28 +198,27 @@
           "time_info": "[03时12分 ~ 06时53分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
           "ranks": [
-            23,
-            13
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 09时54分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时54分]"
+          "time_info": "[09时53分 ~ 09时54分]"
         },
         {
           "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
@@ -208,7 +238,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -263,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -274,7 +304,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -285,7 +315,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -318,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -367,22 +397,44 @@
           "time_info": "05时02分"
         },
         {
-          "title": "抖火杯AI番外大电影",
-          "url": "https://www.douyin.com/hot/2588435",
-          "source": "抖音",
+          "title": "在Hugging Face安全事件期间访问了第三方系统的OpenAI Agent，触及了与CyberGym相关的基础设施；而CyberGym正是该Agent当时被指定解答的ExploitGym基准测试背后的项目。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3141298",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "09时54分"
+        },
+        {
+          "title": "SK海力士：将积极应对AI存储领域不断演进的需求。 受监管流程影响，ADR转换可能会受到限制。 SK海力士正在评估各种股东回报方案。",
+          "url": "https://wallstreetcn.com/livenews/3141297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.toutiao.com/trending/7667353223787282473/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
           "url": "https://flash.jin10.com/detail/20260729011422656800",
@@ -393,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我和特朗普都致力于实现目标。 对与伊朗的协议持怀疑态度。 如果遭到攻击将强力回击。",
+          "url": "https://wallstreetcn.com/livenews/3141337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "以色列发言人：以色列支持美国总统特朗普选择的任何道路。",
@@ -426,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "特朗普称与内塔尼亚胡和泽连斯基分别讨论多项重要议题",
+          "url": "https://wallstreetcn.com/livenews/3141331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -463,13 +537,24 @@
           "time_info": "[01时21分 ~ 03时12分]"
         },
         {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
           "url": "https://news.ifeng.com/c/8v8T4vNZVWL",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -491,7 +576,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -535,7 +620,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -579,7 +664,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -587,7 +672,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
@@ -599,6 +684,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时53分]"
+        },
+        {
+          "title": "A股民爆概念板块盘初异动，高争明爆、保利联合均封板涨停，力芯微、广东宏大、壶化股份、雪峰科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260729093831047800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股创业板指、科创50指数盘初均涨超1%，深证成指涨0.6%，上证指数涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20260729093713852800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股水泥板块异动拉升，西藏天路触及涨停，冀衡医药、天山股份、青松建化、ST金顶、四川双马、塔牌集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260729093608750800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "长鑫科技登顶A股意味着什么",
@@ -614,13 +732,68 @@
           "time_info": "[01时21分 ~ 06时53分]"
         },
         {
+          "title": "A股三大指数开盘涨跌不一",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "A股印制电路板板块低开下挫，东山精密跌超7%，景旺电子、广合科技、深南电路、红板科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260729093441030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股影视院线板块盘初上涨，欢瑞世纪封板涨停，百纳千成涨超10%，博纳影业、华智数媒、北京文化、慈文传媒、横店影视等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260729093326220800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股零售板块盘初拉升，东百集团封板涨停，南宁百货、中央商场、华致酒行、茂业商业、上海九百等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260729093258047800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股乳业板块盘初延续强势，一鸣食品封板涨停，欢乐家涨超11%，品渥食品、骑士乳业、均瑶健康、熊猫乳品等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260729093216877800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年7月29日",
           "url": "https://flash.jin10.com/detail/20260729070535939800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -660,6 +833,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马斯克的“微信梦”迈出关键一步 世界首富撒钱推广电子钱包业务",
+          "url": "https://www.cls.cn/detail/2439484",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 09时54分]"
+        },
+        {
           "title": "烤肉师傅回应长相酷似马斯克走红",
           "url": "https://www.toutiao.com/trending/7666765320216166441/",
           "source": "今日头条",
@@ -670,17 +855,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时54分]"
-        },
-        {
-          "title": "马斯克的“微信梦”迈出关键一步 世界首富撒钱推广电子钱包业务",
-          "url": "https://www.cls.cn/detail/2439484",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         }
       ]
     }
