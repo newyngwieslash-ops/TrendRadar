@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:22:22.482626+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-08-04T06:01:45.862362+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "特朗普：美伊“正在”谈判 这是伊朗达成协议的“最后机会”",
@@ -302,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -379,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -423,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -445,7 +445,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -486,7 +486,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -497,8 +497,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
+        },
+        {
+          "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
+          "url": "https://flash.jin10.com/detail/20260804051558715800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "AI在数学领域发展如何",
@@ -527,11 +538,12 @@
           "url": "https://www.cls.cn/detail/2444244",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -542,8 +554,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -553,8 +565,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -562,22 +574,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 06时01分]"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -589,6 +603,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 04时22分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
+          "url": "https://wallstreetcn.com/livenews/3144359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -630,7 +655,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         }
@@ -638,7 +663,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
@@ -648,8 +673,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -661,6 +686,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时45分]"
+        },
+        {
+          "title": "长鑫科技为何能问鼎A股市值第一",
+          "url": "https://www.toutiao.com/trending/7669800779284221476/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3144352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     }
