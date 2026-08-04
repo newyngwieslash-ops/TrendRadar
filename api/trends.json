@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T05:04:41.295028+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-08-05T06:55:55.049707+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -27,8 +27,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
+        },
+        {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -38,20 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -61,8 +62,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -73,8 +74,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 06时55分]"
         },
         {
           "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
@@ -83,9 +84,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
+          "url": "https://wallstreetcn.com/livenews/3144979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "SpaceX在AI领域亏损超预期",
@@ -94,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -116,7 +128,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -127,7 +139,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -149,9 +161,64 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "白宫悄悄划界 开源模型无缘先进AI测试框架",
+          "url": "https://flash.jin10.com/detail/20260805052501788800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "AMD：AI计算市场年化增速为40%。",
+          "url": "https://wallstreetcn.com/livenews/3144971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "据AXIOS：白宫将开源模型排除在先进AI能力测试框架之外。",
+          "url": "https://flash.jin10.com/detail/20260805051558907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
@@ -160,9 +227,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
+          "url": "https://wallstreetcn.com/livenews/3144966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -182,9 +260,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
@@ -193,7 +282,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -204,7 +293,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -212,7 +301,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克：公司将在下一次星舰飞行中发射首批V3版星链卫星入轨。",
@@ -221,7 +310,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -232,7 +321,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -243,7 +332,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -254,7 +343,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -265,11 +354,67 @@
           "ranks": [
             22,
             6,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
+        },
+        {
+          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
+          "url": "https://wallstreetcn.com/livenews/3144976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
+          "url": "https://flash.jin10.com/detail/20260805053156645800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "马斯克：星舰预计到2027年底可安全载人。",
+          "url": "https://flash.jin10.com/detail/20260805053022430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
+          "url": "https://wallstreetcn.com/livenews/3144973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
+          "url": "https://wallstreetcn.com/livenews/3144965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -281,12 +426,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
+          "url": "https://flash.jin10.com/detail/20260805051012522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
+          "url": "https://wallstreetcn.com/livenews/3144961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -297,8 +464,74 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
+          "url": "https://wallstreetcn.com/articles/3778616",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "特朗普：我的真实民调正处于最好水平",
+          "url": "https://flash.jin10.com/detail/20260805054537400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "特朗普政府关税退税达1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260805053320970800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3144974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
+          "url": "https://flash.jin10.com/detail/20260805052751847800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
+          "url": "https://wallstreetcn.com/livenews/3144972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
@@ -318,7 +551,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -340,9 +573,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经 A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "部分基金逆势加仓，A股硬科技板块迎修复契机",
+          "url": "https://wallstreetcn.com/livenews/3144987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "8月公募调查出炉：A股港股获力挺，投资布局趋向均衡",
+          "url": "https://wallstreetcn.com/livenews/3144985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
@@ -358,8 +619,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时55分]"
         }
       ]
     }
