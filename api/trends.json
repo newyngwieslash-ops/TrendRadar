@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T03:21:32.506319+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-05T05:04:41.295028+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
@@ -16,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -27,19 +38,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
           "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -54,15 +77,26 @@
           "time_info": "[01时40分 ~ 03时21分]"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
+          "url": "https://flash.jin10.com/detail/20260805042229616800",
+          "source": "金十数据",
           "ranks": [
-            25
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "SpaceX在AI领域亏损超预期",
+          "url": "https://wallstreetcn.com/livenews/3144935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美媒：白宫不计划公开先进AI模型评估框架细节",
@@ -71,9 +105,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)2026年第二季度AI收入25.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805041049500800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
+          "url": "https://www.zhihu.com/question/2067720724765045518",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "印度航运部长：印度籍MSV Faize Noore Oliya号船在也门水域附近遭到射弹击中，船只倾覆并沉没。",
@@ -87,6 +143,28 @@
           "time_info": "01时40分"
         },
         {
+          "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
+          "url": "https://wallstreetcn.com/livenews/3144926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
+          "url": "https://wallstreetcn.com/livenews/3144920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
           "url": "https://wallstreetcn.com/livenews/3144861",
           "source": "华尔街见闻-快讯",
@@ -96,12 +174,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "黄仁勋：马斯克是AI竞赛的赢家，基于基础设施的“算力数学”使然",
+          "url": "https://wallstreetcn.com/livenews/3144917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
+          "url": "https://flash.jin10.com/detail/20260805033433216800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克：公司将在下一次星舰飞行中发射首批V3版星链卫星入轨。",
+          "url": "https://flash.jin10.com/detail/20260805043604154800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。",
+          "url": "https://wallstreetcn.com/livenews/3144948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。",
+          "url": "https://flash.jin10.com/detail/20260805043535302800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克：今年对SpaceX来说又是一个里程碑年。",
+          "url": "https://flash.jin10.com/detail/20260805043440075800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "马斯克又悄悄做出一个独角兽",
+          "url": "https://www.toutiao.com/trending/7670012720964239402/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
+        },
+        {
+          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
+          "url": "https://flash.jin10.com/detail/20260805015406320800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -112,8 +297,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
         },
         {
           "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
@@ -122,9 +307,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普称，美国移民与海关执法局（ICE）7月逮捕约51000名非法外籍人员，打破历史最高纪录，日均逮捕1645人。 此前6月逮捕人数约43000人，创下当时的历史峰值，这意味着移民与海关执法局已连续两个月执法力度达到历史高位。",
+          "url": "https://wallstreetcn.com/livenews/3144922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "卡塔尔埃米尔：卡塔尔埃米尔接到美国总统特朗普的电话。",
@@ -133,38 +329,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克又悄悄做出一个独角兽",
-          "url": "https://www.toutiao.com/trending/7670012720964239402/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
         },
         {
-          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
-          "url": "https://flash.jin10.com/detail/20260805015406320800",
-          "source": "金十数据",
+          "title": "美官员：霍尔木兹海峡临时航线免许可免收费，特朗普对伊朗谈判大门仍敞开",
+          "url": "https://wallstreetcn.com/livenews/3144918",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "05时04分"
         }
       ]
     },
@@ -180,8 +358,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时04分]"
         }
       ]
     }
