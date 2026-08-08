@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T11:19:02.570568+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-08T12:48:56.701256+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -26,11 +26,12 @@
             20,
             16,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时46分 ~ 11时19分]"
+          "appearance_count": 11,
+          "time_info": "[03时46分 ~ 12时48分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -41,19 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时19分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时48分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -139,6 +129,18 @@
           "time_info": "[05时32分 ~ 09时02分]"
         },
         {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时48分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
           "url": "https://flash.jin10.com/detail/20260808035911250800",
           "source": "金十数据",
@@ -175,6 +177,18 @@
           "time_info": "[00时45分 ~ 01时42分]"
         },
         {
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
           "url": "https://wallstreetcn.com/livenews/3146895",
           "source": "华尔街见闻-快讯",
@@ -186,18 +200,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时47分 ~ 05时32分]"
-        },
-        {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时19分]"
         },
         {
           "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
@@ -220,8 +222,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时48分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -281,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -440,7 +453,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -452,11 +465,12 @@
             5,
             6,
             19,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 12时48分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -465,11 +479,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 12时48分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -514,11 +529,12 @@
           "ranks": [
             19,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时46分 ~ 11时19分]"
+          "appearance_count": 11,
+          "time_info": "[03时46分 ~ 12时48分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -540,11 +556,12 @@
           "ranks": [
             1,
             5,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时48分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -565,8 +582,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时48分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -579,6 +596,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时02分]"
+        },
+        {
+          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
+          "url": "https://flash.jin10.com/detail/20260808100104329800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时48分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -627,15 +656,26 @@
           "time_info": "03时47分"
         },
         {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
-          "source": "金十数据",
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时48分"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -647,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -695,11 +746,12 @@
             18,
             19,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 12时48分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -711,6 +763,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://wallstreetcn.com/livenews/3146964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://flash.jin10.com/detail/20260808121316604800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
