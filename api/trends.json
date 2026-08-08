@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:32:06.460494+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-08-08T17:31:32.125753+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -56,22 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时46分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[03时46分 ~ 17时31分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -205,6 +206,17 @@
           "time_info": "[00时45分 ~ 01时42分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时31分]"
+        },
+        {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
           "url": "https://wallstreetcn.com/livenews/3146895",
           "source": "华尔街见闻-快讯",
@@ -242,15 +254,15 @@
           "time_info": "[11时18分 ~ 12时48分]"
         },
         {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
+          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -469,7 +481,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -500,11 +512,12 @@
             18,
             15,
             20,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 16时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 17时31分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -544,8 +557,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时44分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 17时31分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -570,8 +583,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时46分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[03时46分 ~ 17时31分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -585,6 +598,47 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时44分 ~ 06时27分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 17时31分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 17时31分]"
+        },
+        {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -615,44 +669,6 @@
           "time_info": "[07时27分 ~ 14时39分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时32分]"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时32分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 16时32分]"
-        },
-        {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -662,6 +678,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "戚薇谈把脸交给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时31分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -677,6 +705,19 @@
           "time_info": "[11时19分 ~ 13时37分]"
         },
         {
+          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+          "url": "https://wallstreetcn.com/livenews/3146973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时31分]"
+        },
+        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -687,17 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时02分]"
-        },
-        {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -712,16 +742,15 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
-          "url": "https://wallstreetcn.com/livenews/3146973",
-          "source": "华尔街见闻-快讯",
+          "title": "我用AI造了奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E9%80%A0%E4%BA%86%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时32分]"
+          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -821,8 +850,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 16时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 17时31分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -849,11 +878,12 @@
             3,
             5,
             11,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -882,11 +912,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 17时31分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
