@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:25:18.097921+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-08-08T23:23:05.920866+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -32,8 +32,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时48分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[12时48分 ~ 23时23分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时30分 ~ 23时23分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -76,19 +89,6 @@
           "time_info": "[03时46分 ~ 21时40分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时30分 ~ 22时25分]"
-        },
-        {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
           "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
@@ -96,19 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时25分]"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时23分]"
         },
         {
           "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
@@ -120,6 +109,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时38分 ~ 19时22分]"
+        },
+        {
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -177,6 +177,18 @@
           "time_info": "03时47分"
         },
         {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时23分]"
+        },
+        {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146913",
           "source": "华尔街见闻-快讯",
@@ -217,6 +229,19 @@
           "time_info": "[09时02分 ~ 13时37分]"
         },
         {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时23分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
           "url": "https://flash.jin10.com/detail/20260808035911250800",
           "source": "金十数据",
@@ -227,6 +252,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时33分 ~ 09时02分]"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时23分]"
+        },
+        {
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时23分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -241,18 +291,6 @@
           "time_info": "[02时43分 ~ 03时47分]"
         },
         {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时25分]"
-        },
-        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -263,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时42分]"
-        },
-        {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -312,18 +338,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 12时48分]"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
@@ -372,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
@@ -554,7 +579,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -568,8 +593,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时38分 ~ 22时25分]"
+          "appearance_count": 15,
+          "time_info": "[14时38分 ~ 23时23分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时23分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时48分 ~ 23时23分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -608,21 +662,6 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时44分 ~ 19时22分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时48分 ~ 22时25分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -734,18 +773,6 @@
           "time_info": "[12时48分 ~ 16时32分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时25分]"
-        },
-        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -772,6 +799,19 @@
           "time_info": "00时45分"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时23分]"
+        },
+        {
           "title": "戚薇谈把脸交给AI",
           "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
           "source": "百度热搜",
@@ -784,17 +824,16 @@
           "time_info": "[16时31分 ~ 18时24分]"
         },
         {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时23分]"
         },
         {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -824,16 +863,41 @@
           "time_info": "[11时19分 ~ 13时37分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            9,
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时25分]"
+          "time_info": "[21时40分 ~ 23时23分]"
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时23分]"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时23分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -872,18 +936,6 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时25分]"
-        },
-        {
           "title": "我用AI造了奥德赛",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E9%80%A0%E4%BA%86%E5%A5%A5%E5%BE%B7%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -893,6 +945,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -952,17 +1015,6 @@
           "time_info": "03时47分"
         },
         {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
           "source": "金十数据",
@@ -983,17 +1035,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -1035,8 +1076,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时43分 ~ 22时25分]"
+          "appearance_count": 13,
+          "time_info": "[15时43分 ~ 23时23分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -1048,8 +1089,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时25分]"
+          "appearance_count": 6,
+          "time_info": "[20时32分 ~ 23时23分]"
         },
         {
           "title": "A股存储巨头定增大幅溢价",
@@ -1060,8 +1101,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时23分]"
         },
         {
           "title": "伊拉克石油出口骤降75%将如何影响A股",
@@ -1100,7 +1141,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -1128,11 +1169,23 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时23分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
