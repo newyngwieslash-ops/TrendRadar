@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:44:18.791287+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-08-09T14:42:29.153814+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -89,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -113,11 +113,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时42分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -145,6 +146,30 @@
           "time_info": "[09时06分 ~ 12时58分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时42分]"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时42分]"
+        },
+        {
           "title": "AI帮你开发以前要花钱的功能",
           "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -156,17 +181,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时21分 ~ 11时27分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时44分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -191,18 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 11时27分]"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时44分]"
         },
         {
           "title": "“热管理”已成AI相关核心技术了吗",
@@ -266,7 +268,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -285,7 +287,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -295,8 +297,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -319,11 +321,12 @@
             4,
             7,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -346,11 +349,12 @@
             9,
             12,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -361,8 +365,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时06分 ~ 14时42分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -376,17 +380,40 @@
           "time_info": "[00时24分 ~ 04时20分]"
         },
         {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
           "url": "https://flash.jin10.com/detail/20260809110518488800",
           "source": "金十数据",
           "ranks": [
             1,
             7,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时42分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时42分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -399,17 +426,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 06时21分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时44分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -448,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -509,11 +525,12 @@
             6,
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时42分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -536,6 +553,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时42分]"
+        },
+        {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
           "url": "https://flash.jin10.com/detail/20260809045524710800",
           "source": "金十数据",
@@ -547,18 +577,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时21分 ~ 09时06分]"
-        },
-        {
-          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时44分]"
         }
       ]
     },
