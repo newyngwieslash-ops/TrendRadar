@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T02:53:17.253103+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-12T05:39:04.620462+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -37,15 +26,39 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
           "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -63,28 +76,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
-          "url": "https://wallstreetcn.com/livenews/3148201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
-        },
-        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -92,8 +83,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
+          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3148254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -104,8 +106,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
+          "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
+          "url": "https://wallstreetcn.com/livenews/3148201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -116,8 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -127,20 +153,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
-        },
-        {
-          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-          "url": "https://www.zhihu.com/question/2068955233896640772",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
@@ -150,8 +164,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -176,13 +190,24 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
           "url": "https://wallstreetcn.com/livenews/3148181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -190,18 +215,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -211,8 +237,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://flash.jin10.com/detail/20260812053053264800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
+          "url": "https://flash.jin10.com/detail/20260812052220258800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
+          "url": "https://flash.jin10.com/detail/20260812050519717800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -287,6 +346,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3148172",
           "source": "华尔街见闻-快讯",
@@ -296,18 +368,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 02时53分]"
-        },
-        {
-          "title": "马斯克：强烈推荐大家去中国看看",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时51分 ~ 02时53分]"
         },
         {
@@ -328,7 +388,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -345,7 +405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -356,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -367,7 +427,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -386,8 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 05时39分]"
         },
         {
           "title": "今日重点关注的财经数据与事件：2026年8月12日 周三",
