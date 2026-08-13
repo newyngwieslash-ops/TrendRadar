@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T02:53:17.483468+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-08-14T03:53:45.303556+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
           "url": "https://wallstreetcn.com/livenews/3149278",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时53分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -48,19 +49,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
           "url": "https://www.douyin.com/hot/2608882",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -68,11 +70,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -80,11 +83,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -95,8 +99,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -105,7 +109,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -171,9 +175,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         },
         {
           "title": "OpenAI任命达利·拉季奇为首席营收官。",
@@ -193,7 +208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -212,7 +227,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -222,8 +237,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -233,8 +248,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -248,15 +263,38 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
+          "url": "https://wallstreetcn.com/livenews/3149298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
+        },
+        {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149281",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时53分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -271,17 +309,6 @@
           "time_info": "[00时48分 ~ 02时53分]"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
-        },
-        {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
@@ -290,8 +317,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -329,7 +356,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -340,7 +367,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -351,7 +378,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -362,7 +389,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -380,8 +407,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "A股直线跳水原因",
@@ -419,8 +446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -431,8 +458,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 03时53分]"
         }
       ]
     }
