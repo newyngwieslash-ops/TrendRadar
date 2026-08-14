@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:00:51.844875+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-08-14T13:39:09.621272+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -59,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -70,11 +70,12 @@
             23,
             22,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -83,11 +84,23 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时39分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -102,15 +115,16 @@
           "time_info": "[00时48分 ~ 09时16分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
           "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时39分]"
         },
         {
           "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
@@ -119,7 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -134,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时53分]"
-        },
-        {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
         },
         {
           "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
@@ -211,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
@@ -329,7 +343,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -340,7 +354,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         }
@@ -348,7 +362,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -420,6 +434,18 @@
           "time_info": "03时53分"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时39分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -457,18 +483,6 @@
           "time_info": "[00时48分 ~ 02时53分]"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时00分]"
-        },
-        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -476,8 +490,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时39分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "发警报迫使特朗普换机 中情局质疑以色列用意",
@@ -497,7 +522,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -563,7 +588,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -659,7 +684,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -669,8 +694,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时39分]"
+        },
+        {
+          "title": "A股京投发展盘中跌停，上演天地板，成交额近10亿元。",
+          "url": "https://flash.jin10.com/detail/20260814131945322800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "A股温度计",
@@ -684,13 +720,24 @@
           "time_info": "09时16分"
         },
         {
+          "title": "A股午后半导体产业链震荡回落，华虹宏力跌近10%，中科飞测、华峰测控、芯海科技、金海通、太极实业、海光信息、寒武纪等纷纷跟跌。",
+          "url": "https://flash.jin10.com/detail/20260814131159335800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "A股午评：创业板指水上震荡收涨0.65% CPO、光纤概念领涨大盘",
           "url": "https://flash.jin10.com/detail/20260814113431435800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -723,7 +770,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -734,9 +781,73 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克一句“中国太棒了”刷屏海外",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%AA%E6%A3%92%E4%BA%86%E2%80%9D%E5%88%B7%E5%B1%8F%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 09时16分]"
+        },
+        {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 12时00分]"
+        },
+        {
+          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
+          "url": "https://flash.jin10.com/detail/20260814114351665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时00分"
+        },
+        {
+          "title": "马斯克：试试Grok 4.6的图像和视频理解功能，这是一次重大升级。",
+          "url": "https://flash.jin10.com/detail/20260814125846480800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
+          "url": "https://wallstreetcn.com/livenews/3149314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -787,59 +898,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克一句“中国太棒了”刷屏海外",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%8F%A5%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%AA%E6%A3%92%E4%BA%86%E2%80%9D%E5%88%B7%E5%B1%8F%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 09时16分]"
-        },
-        {
-          "title": "马斯克安利中国,外网闹麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 12时00分]"
-        },
-        {
-          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
-          "url": "https://flash.jin10.com/detail/20260814114351665800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时00分"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
-          "url": "https://wallstreetcn.com/livenews/3149314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         }
       ]
     }
