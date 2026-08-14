@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T13:39:09.621272+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-08-14T15:13:59.131353+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -44,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -56,11 +57,12 @@
             24,
             21,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -71,11 +73,12 @@
             22,
             19,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -88,19 +91,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -120,11 +124,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
@@ -205,6 +210,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "高盛经济学家：印度不太可能因AI出现大规模失业",
+          "url": "https://flash.jin10.com/detail/20260814144019435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "据悉OpenAI年化营收突破400亿美元",
           "url": "https://flash.jin10.com/detail/20260814055506381800",
           "source": "金十数据",
@@ -216,15 +232,37 @@
           "time_info": "06时34分"
         },
         {
+          "title": "百度文库网盘GenFlow官宣中文名“库库AI”",
+          "url": "https://wallstreetcn.com/livenews/3149529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
           "url": "https://wallstreetcn.com/livenews/3149477",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "AI前沿日报-8月14日",
+          "url": "https://flash.jin10.com/detail/20260814143631651800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
@@ -315,6 +353,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
           "url": "https://flash.jin10.com/detail/20260814053819730800",
           "source": "金十数据",
@@ -348,6 +397,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "百度文库网盘GenFlow官宣中文名“库库AI”",
+          "url": "https://flash.jin10.com/detail/20260814142704236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
           "url": "https://wallstreetcn.com/livenews/3149415",
           "source": "华尔街见闻-快讯",
@@ -362,7 +422,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -412,6 +472,19 @@
           "time_info": "[00时48分 ~ 06时34分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 15时13分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
           "url": "https://flash.jin10.com/detail/20260814004157850800",
           "source": "金十数据",
@@ -421,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
@@ -434,18 +518,6 @@
           "time_info": "03时53分"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时39分]"
-        },
-        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -457,6 +529,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 06时34分]"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
@@ -483,17 +566,6 @@
           "time_info": "[00时48分 ~ 02时53分]"
         },
         {
-          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
-          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时39分]"
-        },
-        {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
           "url": "https://www.zhihu.com/question/2070813507499643585",
           "source": "知乎",
@@ -501,8 +573,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时13分]"
         },
         {
           "title": "发警报迫使特朗普换机 中情局质疑以色列用意",
@@ -514,6 +586,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -684,7 +778,7 @@
     },
     {
       "keyword_group": "财经 A股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -694,8 +788,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时13分]"
         },
         {
           "title": "A股京投发展盘中跌停，上演天地板，成交额近10亿元。",
@@ -704,7 +798,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -726,7 +820,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -740,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3149531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "A股直线跳水原因",
@@ -764,6 +869,28 @@
           "time_info": "00时48分"
         },
         {
+          "title": "A股电子化学品板块持续走高，海星股份涨停，中石科技此前封板, 思泉新材、龙辰科技涨超10%，方邦股份、国瓷材料、同宇新材、天承科技、金宏气体等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814142845425800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
           "url": "https://wallstreetcn.com/livenews/3149423",
           "source": "华尔街见闻-快讯",
@@ -775,6 +902,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
           "url": "https://wallstreetcn.com/livenews/3149410",
           "source": "华尔街见闻-快讯",
@@ -784,6 +922,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
+          "url": "https://flash.jin10.com/detail/20260814012101785800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260814011003598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010933087800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
+          "url": "https://flash.jin10.com/detail/20260814010716822800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -834,7 +1033,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -848,56 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
-          "url": "https://flash.jin10.com/detail/20260814012101785800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
         }
       ]
     }
